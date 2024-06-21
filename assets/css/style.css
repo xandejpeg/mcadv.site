@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #5a5af3;
 }
 
 a {
@@ -267,7 +267,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(48, 47, 84, 0.9);
+  background: #5a5af3;
   transition: 0.3s;
 }
 
@@ -362,7 +362,7 @@ h6 {
   font-size: 48px;
   font-weight: 400;
   line-height: 56px;
-  color: #434175;
+  color: #5a5af3;
   font-family: "Poppins", sans-serif;
 }
 
@@ -803,6 +803,9 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -955,6 +958,16 @@ section {
   right: 15px;
 }
 
+/* Novo estilo para a caixa de texto */
+.portfolio .portfolio-wrap .portfolio-info input[type="text"] {
+  margin-top: 10px;
+  padding: 5px;
+  width: 80%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -1019,6 +1032,7 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Team
@@ -1622,3 +1636,43 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+/* CSS para o efeito de fade */
+.carousel-fade .carousel-item {
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}
+.carousel-fade .carousel-item.active,
+.carousel-fade .carousel-item-next.carousel-item-start,
+.carousel-fade .carousel-item-prev.carousel-item-end {
+  opacity: 1;
+}
+.carousel-fade .active.carousel-item-start,
+.carousel-fade .active.carousel-item-end {
+  opacity: 0;
+}
+
+/* CSS para ajustar o tamanho das imagens e centralizá-las */
+.carousel-item img {
+  width: 20%; /* Define a largura das imagens para 20% do contêiner */
+  height: auto; /* Mantém a proporção da imagem */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* CSS para os textos abaixo das imagens */
+.carousel-text {
+  text-align: center;
+  margin-top: 20px; /* Espaço entre o carrossel e os textos */
+}
+
+.carousel-text h5 {
+  margin-bottom: 10px; /* Espaço entre o título e o parágrafo */
+}
+
+.carousel-text p {
+  font-size: 1.2em; /* Aumenta o tamanho do texto */
+  line-height: 1.5em; /* Aumenta o espaço entre linhas para melhor legibilidade */
+}
+
