@@ -739,19 +739,11 @@ img {
 # Clients Carousel Section
 --------------------------------------------------------------*/
 .clients-section {
-  background: linear-gradient(180deg, #122640 0%, #0d1f35 30%, var(--navy-dark) 70%, #05101a 100%);
+  background: var(--navy-dark);
   padding: 50px 0;
-  padding-bottom: 0;
   border-top: none;
   position: relative;
-  overflow: visible;
-}
-
-.clients-section::after {
-  content: '';
-  display: block;
-  height: 150px;
-  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 30%, #4a6a85 50%, #8aa5b8 70%, #c5d5e0 85%, var(--white) 100%);
+  overflow: hidden;
 }
 
 .clients-section::before {
@@ -864,16 +856,7 @@ img {
 --------------------------------------------------------------*/
 .about {
   background: var(--white);
-  padding-top: 80px;
-  position: relative;
-}
-
-.about::after {
-  content: '';
-  display: block;
-  height: 150px;
-  background: linear-gradient(180deg, var(--white) 0%, #c5d5e0 15%, #8aa5b8 30%, #4a6a85 50%, #1a3045 70%, var(--navy-dark) 100%);
-  margin-top: 80px;
+  padding-top: 100px;
 }
 
 .about-image-wrapper {
@@ -1099,26 +1082,7 @@ img {
 .services {
   background: var(--gray-100);
   position: relative;
-  overflow: visible;
-}
-
-.services::before {
-  content: '';
-  position: absolute;
-  top: -150px;
-  left: 0;
-  right: 0;
-  height: 150px;
-  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 30%, #4a6a85 50%, #8aa5b8 70%, #c5d5e0 85%, var(--gray-100) 100%);
-  pointer-events: none;
-}
-
-.services::after {
-  content: '';
-  display: block;
-  height: 150px;
-  background: linear-gradient(180deg, var(--gray-100) 0%, #c5d5e0 15%, #8aa5b8 30%, #4a6a85 50%, #1a3045 70%, var(--navy-dark) 100%);
-  margin-top: 80px;
+  overflow: hidden;
 }
 
 .service-card {
@@ -1314,26 +1278,6 @@ img {
 --------------------------------------------------------------*/
 .contact {
   background: var(--white);
-  position: relative;
-}
-
-.contact::before {
-  content: '';
-  position: absolute;
-  top: -150px;
-  left: 0;
-  right: 0;
-  height: 150px;
-  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 30%, #4a6a85 50%, #8aa5b8 70%, #c5d5e0 85%, var(--white) 100%);
-  pointer-events: none;
-}
-
-.contact::after {
-  content: '';
-  display: block;
-  height: 150px;
-  background: linear-gradient(180deg, var(--white) 0%, #c5d5e0 15%, #8aa5b8 30%, #4a6a85 50%, #1a3045 70%, var(--navy-dark) 100%);
-  margin-top: 80px;
 }
 
 .contact-info-list {
