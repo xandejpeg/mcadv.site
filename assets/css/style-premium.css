@@ -741,9 +741,17 @@ img {
 .clients-section {
   background: linear-gradient(180deg, #122640 0%, #0d1f35 30%, var(--navy-dark) 70%, #05101a 100%);
   padding: 50px 0;
+  padding-bottom: 0;
   border-top: none;
   position: relative;
-  overflow: hidden;
+  overflow: visible;
+}
+
+.clients-section::after {
+  content: '';
+  display: block;
+  height: 150px;
+  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 30%, #4a6a85 50%, #8aa5b8 70%, #c5d5e0 85%, var(--white) 100%);
 }
 
 .clients-section::before {
@@ -855,16 +863,16 @@ img {
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background: linear-gradient(180deg, #05101a 0%, #0a1a2a 5%, #1a3045 15%, #4a6a85 30%, #8aa5b8 45%, #c5d5e0 60%, #e8eff4 75%, var(--white) 85%, var(--white) 90%, #e8eff4 95%, #c5d5e0 100%);
-  padding-top: 100px;
-  padding-bottom: 0;
+  background: var(--white);
+  padding-top: 80px;
+  position: relative;
 }
 
 .about::after {
   content: '';
   display: block;
   height: 150px;
-  background: linear-gradient(180deg, var(--white) 0%, #c5d5e0 20%, #8aa5b8 40%, #4a6a85 60%, #1a3045 80%, var(--navy-dark) 100%);
+  background: linear-gradient(180deg, var(--white) 0%, #c5d5e0 15%, #8aa5b8 30%, #4a6a85 50%, #1a3045 70%, var(--navy-dark) 100%);
   margin-top: 80px;
 }
 
@@ -1089,23 +1097,28 @@ img {
 # Services Section
 --------------------------------------------------------------*/
 .services {
-  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 8%, #4a6a85 16%, #8aa5b8 24%, #c5d5e0 35%, var(--gray-100) 50%, var(--gray-100) 65%, #c5d5e0 80%, #8aa5b8 88%, #4a6a85 93%, #1a3045 97%, var(--navy-dark) 100%);
+  background: var(--gray-100);
   position: relative;
-  overflow: hidden;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  overflow: visible;
 }
 
 .services::before {
   content: '';
   position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
-  background: radial-gradient(circle, rgba(201, 169, 110, 0.05) 0%, transparent 50%);
-  animation: float 20s ease-in-out infinite;
+  top: -150px;
+  left: 0;
+  right: 0;
+  height: 150px;
+  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 30%, #4a6a85 50%, #8aa5b8 70%, #c5d5e0 85%, var(--gray-100) 100%);
   pointer-events: none;
+}
+
+.services::after {
+  content: '';
+  display: block;
+  height: 150px;
+  background: linear-gradient(180deg, var(--gray-100) 0%, #c5d5e0 15%, #8aa5b8 30%, #4a6a85 50%, #1a3045 70%, var(--navy-dark) 100%);
+  margin-top: 80px;
 }
 
 .service-card {
@@ -1300,9 +1313,27 @@ img {
 # Contact Section
 --------------------------------------------------------------*/
 .contact {
-  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 8%, #4a6a85 16%, #8aa5b8 24%, #c5d5e0 35%, var(--white) 50%, var(--white) 65%, #c5d5e0 80%, #8aa5b8 88%, #4a6a85 93%, #1a3045 97%, var(--navy-dark) 100%);
-  padding-top: 120px;
-  padding-bottom: 120px;
+  background: var(--white);
+  position: relative;
+}
+
+.contact::before {
+  content: '';
+  position: absolute;
+  top: -150px;
+  left: 0;
+  right: 0;
+  height: 150px;
+  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 30%, #4a6a85 50%, #8aa5b8 70%, #c5d5e0 85%, var(--white) 100%);
+  pointer-events: none;
+}
+
+.contact::after {
+  content: '';
+  display: block;
+  height: 150px;
+  background: linear-gradient(180deg, var(--white) 0%, #c5d5e0 15%, #8aa5b8 30%, #4a6a85 50%, #1a3045 70%, var(--navy-dark) 100%);
+  margin-top: 80px;
 }
 
 .contact-info-list {
