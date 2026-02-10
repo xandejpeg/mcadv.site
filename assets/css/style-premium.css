@@ -17,6 +17,7 @@
   
   /* Neutros */
   --white: #ffffff;
+  --cream: #f7f1e6;  /* Dourado claro - tom suave */
   --gray-100: #f8f9fa;
   --gray-200: #f1f3f5;
   --gray-300: #e9ecef;
@@ -739,8 +740,8 @@ img {
 # Clients Carousel Section
 --------------------------------------------------------------*/
 .clients-section {
-  background: linear-gradient(180deg, #122640 0%, var(--navy-dark) 30%, var(--navy-dark) 70%, #0a1628 100%);
-  padding: 50px 0;
+  background: var(--navy-dark);
+  padding: 60px 0 80px;
   border-top: none;
   position: relative;
   overflow: hidden;
@@ -855,8 +856,10 @@ img {
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background: var(--white);
+  background: var(--cream);
   padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
 }
 
 .about-image-wrapper {
@@ -1080,7 +1083,7 @@ img {
 # Services Section
 --------------------------------------------------------------*/
 .services {
-  background: var(--gray-100);
+  background: var(--cream);
   position: relative;
   overflow: hidden;
 }
@@ -1277,7 +1280,8 @@ img {
 # Contact Section
 --------------------------------------------------------------*/
 .contact {
-  background: var(--white);
+  background: var(--cream);
+  position: relative;
 }
 
 .contact-info-list {
@@ -2499,5 +2503,48 @@ img {
   
   .map-frame iframe {
     height: 250px !important;
+  }
+}
+
+/*--------------------------------------------------------------
+# Section Dividers - Transições Suaves
+--------------------------------------------------------------*/
+.section-divider {
+  height: 120px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* Dark to Light (clients → about, faq → contact) */
+.section-divider.dark-to-light {
+  background: linear-gradient(to bottom, var(--navy-dark) 0%, var(--cream) 100%);
+}
+
+/* Light to Dark (about → why-us, contact → location) */
+.section-divider.light-to-dark {
+  background: linear-gradient(to bottom, var(--cream) 0%, var(--navy-dark) 100%);
+}
+
+/* Dark to Gray (why-us → services) */
+.section-divider.dark-to-gray {
+  background: linear-gradient(to bottom, var(--navy-dark) 0%, var(--cream) 100%);
+}
+
+/* Gray to Dark (services → faq) */
+.section-divider.gray-to-dark {
+  background: linear-gradient(to bottom, var(--cream) 0%, var(--navy-dark) 100%);
+}
+
+@media (max-width: 768px) {
+  .section-divider {
+    height: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  .section-divider {
+    height: 60px;
   }
 }
