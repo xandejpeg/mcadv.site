@@ -739,7 +739,7 @@ img {
 # Clients Carousel Section
 --------------------------------------------------------------*/
 .clients-section {
-  background: var(--navy-dark);
+  background: linear-gradient(180deg, #122640 0%, var(--navy-dark) 30%, var(--navy-dark) 70%, #0a1628 100%);
   padding: 50px 0;
   border-top: none;
   position: relative;
