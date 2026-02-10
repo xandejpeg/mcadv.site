@@ -213,6 +213,34 @@
   });
 
   /**
+   * Clients carousel
+   */
+  new Swiper('.clients-carousel', {
+    speed: 600,
+    loop: true,
+    autoplay: {
+      delay: 2500,
+      disableOnInteraction: false
+    },
+    slidesPerView: 3,
+    spaceBetween: 40,
+    breakpoints: {
+      320: {
+        slidesPerView: 2,
+        spaceBetween: 20
+      },
+      768: {
+        slidesPerView: 3,
+        spaceBetween: 30
+      },
+      1024: {
+        slidesPerView: 4,
+        spaceBetween: 40
+      }
+    }
+  });
+
+  /**
    * Initiate Pure Counter 
    */
   new PureCounter();

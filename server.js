@@ -3,8 +3,8 @@ const path = require('path');
 const app = express();
 const PORT = 5000;
 
-// Servir arquivos estáticos
-app.use(express.static(path.join(__dirname, 'assets')));
+// Servir arquivos estáticos do diretório raiz
+app.use(express.static(__dirname));
 
 // Rota para o index.html
 app.get('/', (req, res) => {
