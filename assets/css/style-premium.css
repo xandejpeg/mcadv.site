@@ -855,8 +855,17 @@ img {
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background: linear-gradient(180deg, #05101a 0%, #0a1a2a 5%, #1a3045 15%, #4a6a85 30%, #8aa5b8 45%, #c5d5e0 60%, #e8eff4 80%, var(--white) 100%);
+  background: linear-gradient(180deg, #05101a 0%, #0a1a2a 5%, #1a3045 15%, #4a6a85 30%, #8aa5b8 45%, #c5d5e0 60%, #e8eff4 75%, var(--white) 85%, var(--white) 90%, #e8eff4 95%, #c5d5e0 100%);
   padding-top: 100px;
+  padding-bottom: 0;
+}
+
+.about::after {
+  content: '';
+  display: block;
+  height: 150px;
+  background: linear-gradient(180deg, var(--white) 0%, #c5d5e0 20%, #8aa5b8 40%, #4a6a85 60%, #1a3045 80%, var(--navy-dark) 100%);
+  margin-top: 80px;
 }
 
 .about-image-wrapper {
@@ -1080,9 +1089,11 @@ img {
 # Services Section
 --------------------------------------------------------------*/
 .services {
-  background: var(--gray-100);
+  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 8%, #4a6a85 16%, #8aa5b8 24%, #c5d5e0 35%, var(--gray-100) 50%, var(--gray-100) 65%, #c5d5e0 80%, #8aa5b8 88%, #4a6a85 93%, #1a3045 97%, var(--navy-dark) 100%);
   position: relative;
   overflow: hidden;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .services::before {
@@ -1289,7 +1300,9 @@ img {
 # Contact Section
 --------------------------------------------------------------*/
 .contact {
-  background: var(--white);
+  background: linear-gradient(180deg, var(--navy-dark) 0%, #1a3045 8%, #4a6a85 16%, #8aa5b8 24%, #c5d5e0 35%, var(--white) 50%, var(--white) 65%, #c5d5e0 80%, #8aa5b8 88%, #4a6a85 93%, #1a3045 97%, var(--navy-dark) 100%);
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .contact-info-list {
