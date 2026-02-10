@@ -588,7 +588,7 @@ img {
   letter-spacing: 2px;
   color: var(--gold);
   margin-bottom: 30px;
-  animation: fadeInDown 0.8s ease, floatSlow 4s ease-in-out infinite 1s;
+  animation: fadeInDown 0.8s ease;
   position: relative;
   overflow: hidden;
 }
@@ -634,6 +634,7 @@ img {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
+  justify-content: center;
   animation: fadeInUp 0.8s ease 0.3s both;
 }
 
