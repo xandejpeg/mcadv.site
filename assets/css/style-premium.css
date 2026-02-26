@@ -625,10 +625,11 @@ img {
 .hero-subtitle {
   font-size: 20px;
   color: rgba(255, 255, 255, 0.8);
-  max-width: 500px;
-  margin-bottom: 40px;
+  max-width: 600px;
+  margin: 0 auto 40px auto;
   line-height: 1.8;
   animation: fadeInUp 0.8s ease 0.2s both;
+  text-align: center;
 }
 
 .hero-buttons {
