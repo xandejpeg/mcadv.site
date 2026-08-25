@@ -36,8 +36,8 @@
     .brand p{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:3px;text-transform:uppercase;color:#c9a96e;margin:0}
     .field{margin-bottom:18px}
     .field label{display:block;font-size:12px;font-weight:500;letter-spacing:.5px;text-transform:uppercase;color:rgba(255,255,255,0.55);margin-bottom:8px}
-    .input-wrap{position:relative;display:flex;align-items:center}
-    .input-wrap i{position:absolute;left:14px;color:#c9a96e;font-size:16px}
+    .input-wrap{position:relative}
+    .input-wrap > i{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:#c9a96e;font-size:16px;pointer-events:none}
     .input-wrap input{
       width:100%;padding:13px 14px 13px 42px;
       background:rgba(255,255,255,0.05);
@@ -45,8 +45,9 @@
       border-radius:10px;color:#fff;font-size:15px;outline:none;
       transition:border-color .2s ease,background .2s ease;
     }
+    .input-wrap input.has-eye{padding-right:46px}
     .input-wrap input:focus{border-color:#c9a96e;background:rgba(255,255,255,0.08)}
-    .toggle-pass{position:absolute;right:12px;background:none;border:none;color:rgba(255,255,255,0.45);cursor:pointer;font-size:16px;padding:4px}
+    .toggle-pass{position:absolute;right:10px;top:50%;transform:translateY(-50%);display:flex;align-items:center;justify-content:center;background:none;border:none;color:rgba(255,255,255,0.45);cursor:pointer;font-size:16px;padding:6px;line-height:1}
     .toggle-pass:hover{color:#c9a96e}
     .btn{
       width:100%;margin-top:8px;padding:14px;
@@ -94,7 +95,7 @@
         <label for="pass">Senha</label>
         <div class="input-wrap">
           <i class="bi bi-lock"></i>
-          <input type="password" id="pass" name="pass" placeholder="Sua senha" required>
+          <input type="password" id="pass" name="pass" class="has-eye" placeholder="Sua senha" required>
           <button type="button" class="toggle-pass" id="togglePass" aria-label="Mostrar senha"><i class="bi bi-eye"></i></button>
         </div>
       </div>
