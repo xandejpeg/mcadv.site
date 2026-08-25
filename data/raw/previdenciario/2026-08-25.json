@@ -1,6 +1,6 @@
 {
   "area": "previdenciario",
-  "gerado_em": "2026-08-25T12:36:32-03:00",
+  "gerado_em": "2026-08-25T12:50:17-03:00",
   "periodo_de": "2026-08-18",
   "periodo_ate": "2026-08-25",
   "dias": 7,
@@ -9,19 +9,7 @@
       "id": "google-news:previdenciario:5",
       "url": "https://news.google.com/rss/search?q=contribui%C3%A7%C3%A3o%20previdenci%C3%A1ria%20patronal%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "status": "ok",
-      "itens": 4
-    },
-    {
-      "id": "google-news:previdenciario:4",
-      "url": "https://news.google.com/rss/search?q=previd%C3%AAncia%20complementar%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "status": "ok",
-      "itens": 45
-    },
-    {
-      "id": "google-news:previdenciario:3",
-      "url": "https://news.google.com/rss/search?q=per%C3%ADcia%20m%C3%A9dica%20INSS%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "status": "ok",
-      "itens": 40
+      "itens": 3
     },
     {
       "id": "google-news:previdenciario:2",
@@ -30,32 +18,110 @@
       "itens": 10
     },
     {
+      "id": "google-news:previdenciario:3",
+      "url": "https://news.google.com/rss/search?q=per%C3%ADcia%20m%C3%A9dica%20INSS%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "status": "ok",
+      "itens": 40
+    },
+    {
       "id": "google-news:previdenciario:1",
       "url": "https://news.google.com/rss/search?q=reforma%20da%20previd%C3%AAncia%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "status": "ok",
-      "itens": 57
+      "itens": 45
+    },
+    {
+      "id": "google-news:previdenciario:4",
+      "url": "https://news.google.com/rss/search?q=previd%C3%AAncia%20complementar%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "status": "ok",
+      "itens": 44
     },
     {
       "id": "google-news:previdenciario:0",
       "url": "https://news.google.com/rss/search?q=INSS%20benef%C3%ADcio%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "status": "ok",
       "itens": 100
+    },
+    {
+      "id": "jota",
+      "url": "https://www.jota.info/feed",
+      "status": "ok",
+      "itens": 25
     }
   ],
-  "total_coletado": 256,
-  "total_unico": 221,
+  "total_coletado": 267,
+  "total_unico": 234,
   "itens": [
+    {
+      "id": "148601a5902b16d377712b187c9799130637160a",
+      "titulo": "Câmara de Campinas aprova parcelamento de dívidas e mudanças na previdência",
+      "resumo": "Câmara de Campinas aprova parcelamento de dívidas e mudanças na previdência Correio do Povo Penedo",
+      "fonte": "Correio do Povo Penedo",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T15:35:05.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHpUcnBGMGdDNWJEX010dFh5Rkx0T0xDZ2RiNHJzTGNZNEVtQlpJT3ljWHduUDdNaHBfUmlEVHZiVHZ3UXhlV1hmZWtPdkllZzJ2UlNJVDkxTnlaVVliRTJHYk9IQ0JlVU5SSEp6T3NqM1BtOUpSRmJiSTBaWTFXYmExdmFJQWlyRFJvUUVRZG5pd0V6cUZHSnMxb25Sa0FPRDR1bS1MLTVKRy1Pa25oQ2FpUzBLek1hOTZteHN1UU45a1k?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHpUcnBGMGdDNWJEX010dFh5Rkx0T0xDZ2RiNHJzTGNZNEVtQlpJT3ljWHduUDdNaHBfUmlEVHZiVHZ3UXhlV1hmZWtPdkllZzJ2UlNJVDkxTnlaVVliRTJHYk9IQ0JlVU5SSEp6T3NqM1BtOUpSRmJiSTBaWTFXYmExdmFJQWlyRFJvUUVRZG5pd0V6cUZHSnMxb25Sa0FPRDR1bS1MLTVKRy1Pa25oQ2FpUzBLek1hOTZteHN1UU45a1k?oc=5",
+      "query": "reforma da previdência"
+    },
+    {
+      "id": "1ca08837b48165f44f7b274c383c31e76e23f9e3",
+      "titulo": "Benefícios de agosto começam a ser pagos pelo INSS hoje; confira o calendário",
+      "resumo": "Benefícios de agosto começam a ser pagos pelo INSS hoje; confira o calendário meutudo",
+      "fonte": "meutudo",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T15:28:11.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmRCSzZPNGtGbWdzXy1HUUZMODVkbkJpdjE0bFlNVThFQ1NDTl9RSlFWYUdMVTJ6bWhPV3JESXFRdHl1VnBTN2h0dTQ5emp3R0JGalNSZF9CQnJET0I0QWs3Zy1DZGFIXzhha2lhVmR3bHgzbG43ckxiU0ZQa201a25HMGVWdFQ5bkhfUEk4MlpxV1drZFZWUTBMV0hhVk1SYnpOb1h2VzRSOVZva3dhbDN6YWU1V0FIVVhMNngzRTB5Wlk3dktfRXZqTmRpeFhCWnc?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmRCSzZPNGtGbWdzXy1HUUZMODVkbkJpdjE0bFlNVThFQ1NDTl9RSlFWYUdMVTJ6bWhPV3JESXFRdHl1VnBTN2h0dTQ5emp3R0JGalNSZF9CQnJET0I0QWs3Zy1DZGFIXzhha2lhVmR3bHgzbG43ckxiU0ZQa201a25HMGVWdFQ5bkhfUEk4MlpxV1drZFZWUTBMV0hhVk1SYnpOb1h2VzRSOVZva3dhbDN6YWU1V0FIVVhMNngzRTB5Wlk3dktfRXZqTmRpeFhCWnc?oc=5",
+      "query": "INSS benefício"
+    },
+    {
+      "id": "88eac920bcdc72a8a13f85b38bb453cdd995105a",
+      "titulo": "‘Efeito Michelle’ impulsiona a centro-direita na busca pelo voto feminino",
+      "resumo": "Partidos como PL e Republicanos encampam, com viés conservador, a agenda das mulheres na disputa por um eleitorado que pode decidir a eleição",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T14:52:14.000Z",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/efeito-michelle-impulsiona-a-centro-direita-na-busca-pelo-voto-feminino",
+      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/efeito-michelle-impulsiona-a-centro-direita-na-busca-pelo-voto-feminino",
+      "query": null
+    },
+    {
+      "id": "3da77ba9fc32c47c5f29b99645ba0ca8eb8bcce1",
+      "titulo": "Feed sem cadastro e falhas na verificação de idade levam ANPD a multar TikTok em R$ 153,7 mi",
+      "resumo": "Reguladora apontou que empresa não adotou medidas eficazes para impedir acesso de crianças e adolescentes a conteúdos inadequados",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T14:45:42.000Z",
+      "url": "https://www.jota.info/executivo/feed-sem-cadastro-e-falhas-na-verificacao-de-idade-levam-anpd-a-multar-tiktok-em-r-1537-mi",
+      "url_canonica": "https://www.jota.info/executivo/feed-sem-cadastro-e-falhas-na-verificacao-de-idade-levam-anpd-a-multar-tiktok-em-r-1537-mi",
+      "query": null
+    },
     {
       "id": "fc0f5140173bd9fa467817c1983395a5961f0c1c",
       "titulo": "Saiba como acessar — Instituto Nacional do Seguro Social - INSS",
       "resumo": "Saiba como acessar — Instituto Nacional do Seguro Social - INSS www.gov.br",
       "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-25T14:44:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTnhLVU5aTkotYW83em4wem1WWEx5ZkkwTm11OFNSbE8tXzhRbDFPakdLRDdhN1ZONlo0MTUxS0wzelhJTTBNTmxSWGw3UkIxSHFaaTE4WGJDTjJlUDdPX0JBMDYxTlpWYUpRcDAxMEVEaDh3VnN2UUR4ZU9nYTJEYzZIaTh5Nkk3aklMZGpzSzRqTXhtay1fLWZvLWt1RWprN0Z6aTJ3dG81YmVVNmFaanRiN0dqVUFCMWpHNi1iOVcwSW14dlp4VFgyRWR4TGFsYXFLb0s3RGRBRmNSRTI2UGdlbWY5SWxwUlQtbmpfVndNdld6dTdWOGZXN2V3MlNZQ1h2eUVPbHZlNzRScDBR?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOTnhLVU5aTkotYW83em4wem1WWEx5ZkkwTm11OFNSbE8tXzhRbDFPakdLRDdhN1ZONlo0MTUxS0wzelhJTTBNTmxSWGw3UkIxSHFaaTE4WGJDTjJlUDdPX0JBMDYxTlpWYUpRcDAxMEVEaDh3VnN2UUR4ZU9nYTJEYzZIaTh5Nkk3aklMZGpzSzRqTXhtay1fLWZvLWt1RWprN0Z6aTJ3dG81YmVVNmFaanRiN0dqVUFCMWpHNi1iOVcwSW14dlp4VFgyRWR4TGFsYXFLb0s3RGRBRmNSRTI2UGdlbWY5SWxwUlQtbmpfVndNdld6dTdWOGZXN2V3MlNZQ1h2eUVPbHZlNzRScDBR?oc=5",
       "query": "INSS benefício"
+    },
+    {
+      "id": "6d8abacaad4040a8fe750263aa4f6c45269b5c92",
+      "titulo": "A reforma tributária vai acabar com o contencioso?",
+      "resumo": "O erro de prever o fim dos processos tributários sem olhar para os incentivos de Fisco e contribuintes",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T14:30:30.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/direito-economia-mercado/a-reforma-tributaria-vai-acabar-com-o-contencioso",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/direito-economia-mercado/a-reforma-tributaria-vai-acabar-com-o-contencioso",
+      "query": null
     },
     {
       "id": "6cfb8d205bd3609d549a165248f3328c3a83d0a6",
@@ -70,6 +136,18 @@
       "query": "perícia médica INSS"
     },
     {
+      "id": "c28704be84d6b42564a2c2349b27512a9672a9d4",
+      "titulo": "Stablecoins nas finanças globais: seu papel na liquidação de operações",
+      "resumo": "Como reguladores no Reino Unido, nos EUA e em organismos internacionais tratam os riscos sistêmicos da tokenização",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T14:00:51.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/mulheres-na-regulacao/stablecoins-nas-financas-globais-seu-papel-na-liquidacao-de-operacoes",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/mulheres-na-regulacao/stablecoins-nas-financas-globais-seu-papel-na-liquidacao-de-operacoes",
+      "query": null
+    },
+    {
       "id": "5c92968a9fb6457c599d2cc53b9089bdfe56af08",
       "titulo": "Estudo alerta que mais de 100 milhões podem se aposentar sem dinheiro para parar de trabalhar",
       "resumo": "Estudo alerta que mais de 100 milhões podem se aposentar sem dinheiro para parar de trabalhar Seu Crédito Digital",
@@ -80,6 +158,18 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLUE0dzA2MXR6bzEwczZEWWdmcXhQbnlYSTJSUFQtT1VIQ1FGdy1IWXFCUXVUT2ZVMU5HcHZmaU9XcnJ6T05fUENyNTZJbm1wRk81SHM0UVVkZ2FtRGdtendpUnVMVGRXRkxTdjN1azRVRzJJdUoyM3hR?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLUE0dzA2MXR6bzEwczZEWWdmcXhQbnlYSTJSUFQtT1VIQ1FGdy1IWXFCUXVUT2ZVMU5HcHZmaU9XcnJ6T05fUENyNTZJbm1wRk81SHM0UVVkZ2FtRGdtendpUnVMVGRXRkxTdjN1azRVRzJJdUoyM3hR?oc=5",
       "query": "previdência complementar"
+    },
+    {
+      "id": "e92031b2eeb1773ca1d40e58c9516e907007c170",
+      "titulo": "Governo estuda editar decreto para barrar patrocínio de bets via Lei Rouanet, diz secretário",
+      "resumo": "Discussão é conduzida pelas áreas jurídicas do Executivo e deve envolver diferentes ministérios",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T13:59:47.000Z",
+      "url": "https://www.jota.info/executivo/governo-estuda-editar-decreto-para-barrar-patrocinio-de-bets-via-lei-rouanet-diz-secretario",
+      "url_canonica": "https://www.jota.info/executivo/governo-estuda-editar-decreto-para-barrar-patrocinio-de-bets-via-lei-rouanet-diz-secretario",
+      "query": null
     },
     {
       "id": "ef83ca24742328b758cbb31cced6af1491a462f7",
@@ -110,8 +200,8 @@
       "titulo": "Como conseguir uma renda mensal para o filho com deficiência, mesmo sem nunca ter contribuído ao INSS",
       "resumo": "Como conseguir uma renda mensal para o filho com deficiência, mesmo sem nunca ter contribuído ao INSS O GLOBO",
       "fonte": "O GLOBO",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-25T13:35:22.000Z",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMjRQVElVX2t6M0tOeHl6V0F4andKbmFTYjNKeEtPMEZ2U180SzFfZW5HbWo0V2xNTU9BWFdiM1NBOHZwNDZfTVZSb2JmTWtuNFFEZjFsVnZLbFI2UVVqU2g3SFJyYXBmeEVoRkNEb1pDUW5ld25HOUN2TmU0ckMxSW9mNWJyWjRoWVBidDhBUmN0N1NRT3N3RkNsaGluZUtuWGJZRmllQjY4UTZWUVpQX1JfTVF3NnBnQkZIWnpzM2MxazNvWFk1SzBadTdBalpIQ3pnTENDTjZBYjBScmc2aWlFQVVZM2hYNko5amF0U1dpbFVwOU5XQklDYUY0MUlhUEhhNk8wMTFLdUNyczJvd3VYSVhrZ9IBlgJBVV95cUxNMjRQVElVX2t6M0tOeHl6V0F4andKbmFTYjNKeEtPMEZ2U180SzFfZW5HbWo0V2xNTU9BWFdiM1NBOHZwNDZfTVZSb2JmTWtuNFFEZjFsVnZLbFI2UVVqU2g3SFJyYXBmeEVoRkNEb1pDUW5ld25HOUN2TmU0ckMxSW9mNWJyWjRoWVBidDhBUmN0N1NRT3N3RkNsaGluZUtuWGJZRmllQjY4UTZWUVpQX1JfTVF3NnBnQkZIWnpzM2MxazNvWFk1SzBadTdBalpIQ3pnTENDTjZBYjBScmc2aWlFQVVZM2hYNko5amF0U1dpbFVwOU5XQklDYUY0MUlhUEhhNk8wMTFLdUNyczJvd3VYSVhrZw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMjRQVElVX2t6M0tOeHl6V0F4andKbmFTYjNKeEtPMEZ2U180SzFfZW5HbWo0V2xNTU9BWFdiM1NBOHZwNDZfTVZSb2JmTWtuNFFEZjFsVnZLbFI2UVVqU2g3SFJyYXBmeEVoRkNEb1pDUW5ld25HOUN2TmU0ckMxSW9mNWJyWjRoWVBidDhBUmN0N1NRT3N3RkNsaGluZUtuWGJZRmllQjY4UTZWUVpQX1JfTVF3NnBnQkZIWnpzM2MxazNvWFk1SzBadTdBalpIQ3pnTENDTjZBYjBScmc2aWlFQVVZM2hYNko5amF0U1dpbFVwOU5XQklDYUY0MUlhUEhhNk8wMTFLdUNyczJvd3VYSVhrZ9IBlgJBVV95cUxNMjRQVElVX2t6M0tOeHl6V0F4andKbmFTYjNKeEtPMEZ2U180SzFfZW5HbWo0V2xNTU9BWFdiM1NBOHZwNDZfTVZSb2JmTWtuNFFEZjFsVnZLbFI2UVVqU2g3SFJyYXBmeEVoRkNEb1pDUW5ld25HOUN2TmU0ckMxSW9mNWJyWjRoWVBidDhBUmN0N1NRT3N3RkNsaGluZUtuWGJZRmllQjY4UTZWUVpQX1JfTVF3NnBnQkZIWnpzM2MxazNvWFk1SzBadTdBalpIQ3pnTENDTjZBYjBScmc2aWlFQVVZM2hYNko5amF0U1dpbFVwOU5XQklDYUY0MUlhUEhhNk8wMTFLdUNyczJvd3VYSVhrZw?oc=5",
@@ -140,6 +230,30 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYW1HYTlRWGZHZi1zckRZSkFLS1FzZ0tDY25EOXNsOC1qRkpReTYtRF9aT2lVeDVKdTBOZ3RiMElXTEtOMEpMWVdFZUtGMmdHbEtRU2VLUVNRTlNvR1V0LXVwUFpLWnppODBfSW9waVVKR2wwc2x2U3F4WjdualRzamNTelJ1aVdEYVNpenFELUxraXBuSU9LZ09lT2J2dEtOYndNNlVR?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYW1HYTlRWGZHZi1zckRZSkFLS1FzZ0tDY25EOXNsOC1qRkpReTYtRF9aT2lVeDVKdTBOZ3RiMElXTEtOMEpMWVdFZUtGMmdHbEtRU2VLUVNRTlNvR1V0LXVwUFpLWnppODBfSW9waVVKR2wwc2x2U3F4WjdualRzamNTelJ1aVdEYVNpenFELUxraXBuSU9LZ09lT2J2dEtOYndNNlVR?oc=5",
       "query": "previdência complementar"
+    },
+    {
+      "id": "ef03541c2208575d7aa2352d7cefb21baf9caf05",
+      "titulo": "Senado pede para rejeitar súmula de pautas-bomba no STF e União sugere ampliação",
+      "resumo": "Começa o prazo para manifestação da PGR e ministros. Entidades municipais listam 186 PLs de pisos salariais",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T13:04:36.000Z",
+      "url": "https://www.jota.info/stf/do-supremo/senado-pede-para-rejeitar-sumula-de-pautas-bomba-no-stf-e-uniao-sugere-ampliacao",
+      "url_canonica": "https://www.jota.info/stf/do-supremo/senado-pede-para-rejeitar-sumula-de-pautas-bomba-no-stf-e-uniao-sugere-ampliacao",
+      "query": null
+    },
+    {
+      "id": "cfacfdf6840c6a6dd54442684633564ab6cd298f",
+      "titulo": "JOTA Principal &#124; Lula busca manter contato com Trump para mitigar risco de interferência eleitoral",
+      "resumo": "Acesso direto no mais alto nível, em tom “cordial e amistoso”, cria custo adicional para interferência dos EUA",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T13:01:10.000Z",
+      "url": "https://www.jota.info/newsletters/jota-principal/jota-principal-lula-busca-manter-contato-com-trump-para-mitigar-risco-de-interferencia-eleitoral",
+      "url_canonica": "https://www.jota.info/newsletters/jota-principal/jota-principal-lula-busca-manter-contato-com-trump-para-mitigar-risco-de-interferencia-eleitoral",
+      "query": null
     },
     {
       "id": "26bb3fad5635db1fc71da6c2a8da970d4455ca82",
@@ -176,6 +290,18 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFhUWlhmOWNNX3hKRWVaRWliTWNJVGtBcXNYTjhuLTBpYkd3Q2ZBamhmVTY1eU5mbGxVLS01YTYzbjhZeEU3YmFUTmdUR3UyUHpSX1Qta2c1VndpSHBuWWVQakJsb004OTZ0TzlkTDd4ZGFuQXFvTGVVRGNlMW42R2phMzE4WjQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUFhUWlhmOWNNX3hKRWVaRWliTWNJVGtBcXNYTjhuLTBpYkd3Q2ZBamhmVTY1eU5mbGxVLS01YTYzbjhZeEU3YmFUTmdUR3UyUHpSX1Qta2c1VndpSHBuWWVQakJsb004OTZ0TzlkTDd4ZGFuQXFvTGVVRGNlMW42R2phMzE4WjQ?oc=5",
       "query": "reforma da previdência"
+    },
+    {
+      "id": "762857de8a28a5ff42c886c44b0a9ed715b5bde5",
+      "titulo": "Durigan diz que desvincular Previdência é ideia de Guedes e que &#8216;aqui é outro papo&#8217;",
+      "resumo": "Ministro confirmou que o salário mínimo em 2027 será de R$ 1.741 e que o reajuste seguirá atrelado a benefícios previdenciários e assistenciais",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T12:44:49.000Z",
+      "url": "https://www.jota.info/executivo/durigan-diz-que-desvincular-previdencia-e-ideia-de-guedes-e-que-aqui-e-outro-papo",
+      "url_canonica": "https://www.jota.info/executivo/durigan-diz-que-desvincular-previdencia-e-ideia-de-guedes-e-que-aqui-e-outro-papo",
+      "query": null
     },
     {
       "id": "f0c84d2b2e55ab9a6fb4e7e7a8871a76a8b8c65f",
@@ -218,8 +344,8 @@
       "titulo": "Força-Tarefa Previdenciária deflagra operação contra fraudes em Minas Gerais — Ministério da Previdência Social",
       "resumo": "Força-Tarefa Previdenciária deflagra operação contra fraudes em Minas Gerais — Ministério da Previdência Social www.gov.br",
       "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-25T11:18:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjd0RzlRSmY2WlY0RlFWZThid3pRTDJrWEg4MmloUFhaQ29xMFhyb1prNVhzZEdQRmFSMEN4ZnhwVWpXSzVqb3hTcHNHUkxhbVpiZG55RHRyUmxqNVhMeVNoemd2bS15TlRaaGU2S3F0VUMxVTRjQnRxa1JaX2VfRF9GM0p2djJVM21yeWZuWXpQdDNDWk8xRDZnSWQwTGdQT21yTXIxLXFmY1hZTktBYVFVcVdWQ3FVYnZlNUFIR2pGYnR6UjFoUlRGZGJWd19qMjVCekRoTQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbjd0RzlRSmY2WlY0RlFWZThid3pRTDJrWEg4MmloUFhaQ29xMFhyb1prNVhzZEdQRmFSMEN4ZnhwVWpXSzVqb3hTcHNHUkxhbVpiZG55RHRyUmxqNVhMeVNoemd2bS15TlRaaGU2S3F0VUMxVTRjQnRxa1JaX2VfRF9GM0p2djJVM21yeWZuWXpQdDNDWk8xRDZnSWQwTGdQT21yTXIxLXFmY1hZTktBYVFVcVdWQ3FVYnZlNUFIR2pGYnR6UjFoUlRGZGJWd19qMjVCekRoTQ?oc=5",
@@ -274,6 +400,54 @@
       "query": "perícia médica INSS"
     },
     {
+      "id": "c1faa8615cf10a7620e6c5b11f2a9ba2faf6ca03",
+      "titulo": "STJ rejeita revisão bilionária de repetitivos sobre empréstimos compulsórios da Eletrobras",
+      "resumo": "Casos envolvem correção monetária e juros remuneratórios reflexos sobre os valores devolvidos aos consumidores",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T10:02:09.000Z",
+      "url": "https://www.jota.info/tributos/stj-rejeita-revisao-bilionaria-de-repetitivos-sobre-emprestimos-compulsorios-da-eletrobras",
+      "url_canonica": "https://www.jota.info/tributos/stj-rejeita-revisao-bilionaria-de-repetitivos-sobre-emprestimos-compulsorios-da-eletrobras",
+      "query": null
+    },
+    {
+      "id": "10861437e4722880a4e6b45273d80bb649a6e799",
+      "titulo": "O julgamento que pode romper barreiras no transporte rodoviário em prol do passageiro",
+      "resumo": "Decisão do STF sobre fretamento em circuito fechado pode condenar população de MG a conviver com uma única opção",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T08:30:53.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-julgamento-que-pode-romper-barreiras-no-transporte-rodoviario-em-prol-do-passageiro",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/artigos/o-julgamento-que-pode-romper-barreiras-no-transporte-rodoviario-em-prol-do-passageiro",
+      "query": null
+    },
+    {
+      "id": "d125984e520f6138b3124a1529e13dc5afac8d46",
+      "titulo": "Por que o caso Uber não se aplica ao fretamento em regime aberto?",
+      "resumo": "Diferente do transporte por aplicativo, fretamento em circuito aberto pode comprometer serviço público",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T08:30:53.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/por-que-o-caso-uber-nao-se-aplica-ao-fretamento-em-regime-aberto",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/artigos/por-que-o-caso-uber-nao-se-aplica-ao-fretamento-em-regime-aberto",
+      "query": null
+    },
+    {
+      "id": "9ffe4e8e54c25a356a0eac19985cb37c1dd7f264",
+      "titulo": "A erosão do direito à sustentação oral",
+      "resumo": "Uma justiça que se recusa a ouvir o advogado não é célere, é apenas sumária",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T08:30:03.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/macrolitigancia-fiscal/a-erosao-do-direito-a-sustentacao-oral",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/macrolitigancia-fiscal/a-erosao-do-direito-a-sustentacao-oral",
+      "query": null
+    },
+    {
       "id": "443642a111e4a8bb9fd7209433a77082159ba040",
       "titulo": "INSS pode suspender benefícios em 2026; veja situações que exigem atenção",
       "resumo": "INSS pode suspender benefícios em 2026; veja situações que exigem atenção 082noticias.com",
@@ -284,6 +458,18 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3FLTm5PSnVTUkhRV2pWbVdjT0s4dEx2SEJxRTlDemdkQkZ3bjFPTUtxb2k3QWNpSFljbjQyT1ZhTGlRUVhfYk1MQTI0cGhNZGkzekg2UXRHUVZmd2xXVWxoN2pqWXBEb3lBVDh2Ty1yT3oyeWNQWkMwYkVEU04zRzJ4aHVrVUkyX2VWSkE5WlJwSzYzbHZtT05WS1djZnFwVzFwaWUwNGhWUQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNM3FLTm5PSnVTUkhRV2pWbVdjT0s4dEx2SEJxRTlDemdkQkZ3bjFPTUtxb2k3QWNpSFljbjQyT1ZhTGlRUVhfYk1MQTI0cGhNZGkzekg2UXRHUVZmd2xXVWxoN2pqWXBEb3lBVDh2Ty1yT3oyeWNQWkMwYkVEU04zRzJ4aHVrVUkyX2VWSkE5WlJwSzYzbHZtT05WS1djZnFwVzFwaWUwNGhWUQ?oc=5",
       "query": "perícia médica INSS"
+    },
+    {
+      "id": "9d4b8792e48e07a32018af08c27eee8e04db32e8",
+      "titulo": "Soberania também se mede pela igualdade concorrencial",
+      "resumo": "Posição dos trabalhadores, da indústria e do varejo é clara: concorrência, sim, mas com regras iguais",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T08:20:56.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/soberania-tambem-se-mede-pela-igualdade-concorrencial",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/artigos/soberania-tambem-se-mede-pela-igualdade-concorrencial",
+      "query": null
     },
     {
       "id": "9b57caf69916fa9da90a9adf3711c86d326ef9ea",
@@ -298,6 +484,18 @@
       "query": "INSS benefício"
     },
     {
+      "id": "6dd581e3207483af08be070d98b8d6d3d283a574",
+      "titulo": "Perdemos nós, crocodilos, contribuintes e Estado de Direito, playboy!",
+      "resumo": "A lei não é o que seus idealizadores sonham, mas o que a Constituição permite",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T08:10:12.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/perdemos-nos-crocodilos-contribuintes-e-estado-de-direito-playboy",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/artigos/perdemos-nos-crocodilos-contribuintes-e-estado-de-direito-playboy",
+      "query": null
+    },
+    {
       "id": "a19851ba8ae0b4b4fdf3574d82a4be2dc24396e4",
       "titulo": "Projeto prevê pagamento em dobro se INSS negar benefício indevidamente",
       "resumo": "Projeto prevê pagamento em dobro se INSS negar benefício indevidamente Extra online",
@@ -308,6 +506,30 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVJJYWR3dFN2Z2VZY1M4TjdER2lPMlBKWE9qUlVWQ19OWmszaXB1WWJBMkZiX1JXQ3lDaDlyclVuSk5OcWNLM1JTNW1DNkYybWpWcFFyamxsSkoxTV9pcTNqQXd0bUFrbVptdG41aUtEOTBSNklRR1VnRXZTcTlFSUhLckpEUHY4NER0S0ZISG5adEszeUE3cGZBejd2M3FUNXJvR3U1d2docnRJMWYzSDBFUWJtdkYwR3BfQ205NksxRG8xaWdpVEwwTdIB2gFBVV95cUxNa2hJWEVlRjlHWXdNOUZROThKRnROTkw2VzVEYWtFeXJlYlFHc1JPZU93aE5oMUNMYU5VaFBYVThoUHkwRFRVNVE4MGgxSnBwWWJTcGp4SEs4MmpxNDMwUG42anRJRGZSWmFNbDFGNWtnbkpkLWQ4UjVTLWlpZGRhV19kQVM3YXRBRHF0cFQ0OVJOMmV5OGMxUzNIRnd0WndtdEZWazJKZmNEY3VpUk9YTXFta2VXS2JaUWN5MHVNSl9pc3p4X0hxWXhodHpSOVlWMHRWWW1RX21OUQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeVJJYWR3dFN2Z2VZY1M4TjdER2lPMlBKWE9qUlVWQ19OWmszaXB1WWJBMkZiX1JXQ3lDaDlyclVuSk5OcWNLM1JTNW1DNkYybWpWcFFyamxsSkoxTV9pcTNqQXd0bUFrbVptdG41aUtEOTBSNklRR1VnRXZTcTlFSUhLckpEUHY4NER0S0ZISG5adEszeUE3cGZBejd2M3FUNXJvR3U1d2docnRJMWYzSDBFUWJtdkYwR3BfQ205NksxRG8xaWdpVEwwTdIB2gFBVV95cUxNa2hJWEVlRjlHWXdNOUZROThKRnROTkw2VzVEYWtFeXJlYlFHc1JPZU93aE5oMUNMYU5VaFBYVThoUHkwRFRVNVE4MGgxSnBwWWJTcGp4SEs4MmpxNDMwUG42anRJRGZSWmFNbDFGNWtnbkpkLWQ4UjVTLWlpZGRhV19kQVM3YXRBRHF0cFQ0OVJOMmV5OGMxUzNIRnd0WndtdEZWazJKZmNEY3VpUk9YTXFta2VXS2JaUWN5MHVNSl9pc3p4X0hxWXhodHpSOVlWMHRWWW1RX21OUQ?oc=5",
       "query": "INSS benefício"
+    },
+    {
+      "id": "932a0e82983be1dd60042cd794ad5740bccae3f6",
+      "titulo": "Derivativos de 2008: uma lição sobre os pontos cegos da supervisão financeira",
+      "resumo": "Relatório do FMI sobre o sistema financeiro brasileiro reforça o diagnóstico que a PEC 65 tenta resolver",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T08:00:56.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/derivativos-de-2008-uma-licao-sobre-os-pontos-cegos-da-supervisao-financeira",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/artigos/derivativos-de-2008-uma-licao-sobre-os-pontos-cegos-da-supervisao-financeira",
+      "query": null
+    },
+    {
+      "id": "22f6387ff10b8f5e4f970e17768665bbfd4a2591",
+      "titulo": "Trabalho infantil nas redes sociais – parte 2",
+      "resumo": "Como o acordo com a Meta e a Resolução CNJ 687/2026 encerram o debate sobre influencers mirins",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T08:00:11.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/juizo-de-valor/trabalho-infantil-nas-redes-sociais-parte-2",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/juizo-de-valor/trabalho-infantil-nas-redes-sociais-parte-2",
+      "query": null
     },
     {
       "id": "6c8267d6267f273c1105d62e1e5ec2e1b44c6e64",
@@ -322,27 +544,15 @@
       "query": "reforma da previdência"
     },
     {
-      "id": "48a217b1664350e835402e917d86c084f72ec99f",
-      "titulo": "INSS: benefícios de agosto começam a ser pagos. Confira calendário",
-      "resumo": "INSS: benefícios de agosto começam a ser pagos. Confira calendário Metrópoles",
-      "fonte": "Metrópoles",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-25T07:30:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkZBdzl4bTBNR28tNGYtRXBoSDFQVGNFTWN4MF9VeFZDVXpUbEZXNW1zSE92UHpvNG04dTFTbHRCQXA5S1hCRzNHa2VET2JpQm54WVJrZmpVQUZHQnRqZTV2YlBVSVVnY0xvdGY3eFZDbzNkOUR1Vzg5aTNLTDBrLWU5OEdoTzdEczhHRGVOb2N6NnMwRlB6NzR4ZXJ2d1U?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQkZBdzl4bTBNR28tNGYtRXBoSDFQVGNFTWN4MF9VeFZDVXpUbEZXNW1zSE92UHpvNG04dTFTbHRCQXA5S1hCRzNHa2VET2JpQm54WVJrZmpVQUZHQnRqZTV2YlBVSVVnY0xvdGY3eFZDbzNkOUR1Vzg5aTNLTDBrLWU5OEdoTzdEczhHRGVOb2N6NnMwRlB6NzR4ZXJ2d1U?oc=5",
-      "query": "perícia médica INSS"
-    },
-    {
-      "id": "c55f3fbe8b2fdd9dd0b1ae47300daab4939108c9",
+      "id": "5847dd22f7e58934c60c89e3011c6651f4b91689",
       "titulo": "INSS inicia pagamento de benefícios de agosto; veja calendário",
-      "resumo": "INSS inicia pagamento de benefícios de agosto; veja calendário Expressão Rondônia",
-      "fonte": "Expressão Rondônia",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-25T05:18:17.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRE9vSFVUR3hPbGJBdGZTVnVzSnlWbkVhWlJKcmtWZ3BQVDB5Z2Nqbmo2akxXTE02UVFtUXJ4SVNGZk0xRVVEaUV4WWhQOEVDRFpDS2lNRW4wNFFjMDhmTU0tS0JOaHR6dWU3TDYzT0EtYmJ3TW5pNGRVdkczQUFhQkx4SHNSanphSkpGM3dnMVlBSFYwRU9HSmZPMA?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRE9vSFVUR3hPbGJBdGZTVnVzSnlWbkVhWlJKcmtWZ3BQVDB5Z2Nqbmo2akxXTE02UVFtUXJ4SVNGZk0xRVVEaUV4WWhQOEVDRFpDS2lNRW4wNFFjMDhmTU0tS0JOaHR6dWU3TDYzT0EtYmJ3TW5pNGRVdkczQUFhQkx4SHNSanphSkpGM3dnMVlBSFYwRU9HSmZPMA?oc=5",
+      "resumo": "INSS inicia pagamento de benefícios de agosto; veja calendário G1",
+      "fonte": "G1",
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
+      "data": "2026-08-25T03:01:01.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY18wdkpwWkhnbkdVbzF5Q3U3S0hqUC10aTVNODhUTjl2S0hpS0YzV0Zpd3FmdDN3cUVKVWI4TE1jeWNPZDlZSzg4dzBoeGoyVGRnVGhTdHQ0OEpZeWtqblRqeTViYWQ2ZmNHbThpWDRZYXZMdW1uZmJBbkJ1UzNXNC1taFVWNnZ3cTVLRUxLTndVRnl5RGpYYVFYSGF6Qm1NSUFJUFFyVGJ4MW1yU1oyYnZSUFJqQnfSAcYBQVVfeXFMUG5RQzllSnRpY1FtTFIzdUtZNDl5UzFxZjg0Smk4QS0wZjVTaDhXTUozT2NnbVpfOEkyVDJndWhwaENUNU83dUdRRVVJYUFLWjRuU29aSmREQUl5TFh1Tk9Ja2pOcGJ2SFhDRzhTb1NpVXp3LW05Z2xMWjlXLVJJRFd5RjI1Q2V5azRsZHA3VldiRmhmVGRGZjdEUUtvTjlTR3pjblBCNVVlcXRoX3pZOWE0dlJ1MUNDX1VrTDkxeC16U1g1WGt3?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY18wdkpwWkhnbkdVbzF5Q3U3S0hqUC10aTVNODhUTjl2S0hpS0YzV0Zpd3FmdDN3cUVKVWI4TE1jeWNPZDlZSzg4dzBoeGoyVGRnVGhTdHQ0OEpZeWtqblRqeTViYWQ2ZmNHbThpWDRZYXZMdW1uZmJBbkJ1UzNXNC1taFVWNnZ3cTVLRUxLTndVRnl5RGpYYVFYSGF6Qm1NSUFJUFFyVGJ4MW1yU1oyYnZSUFJqQnfSAcYBQVVfeXFMUG5RQzllSnRpY1FtTFIzdUtZNDl5UzFxZjg0Smk4QS0wZjVTaDhXTUozT2NnbVpfOEkyVDJndWhwaENUNU83dUdRRVVJYUFLWjRuU29aSmREQUl5TFh1Tk9Ja2pOcGJ2SFhDRzhTb1NpVXp3LW05Z2xMWjlXLVJJRFd5RjI1Q2V5azRsZHA3VldiRmhmVGRGZjdEUUtvTjlTR3pjblBCNVVlcXRoX3pZOWE0dlJ1MUNDX1VrTDkxeC16U1g1WGt3?oc=5",
       "query": "INSS benefício"
     },
     {
@@ -362,8 +572,8 @@
       "titulo": "Câmara aprova parcelamento de dívida e aumento da idade mínima para servidor se aposentar",
       "resumo": "Câmara aprova parcelamento de dívida e aumento da idade mínima para servidor se aposentar G1",
       "fonte": "G1",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-25T01:57:09.000Z",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU0dhSXp5TGs3emRWM3djcC1pbkZsNll6VWRKZW9tOFdwWFNQZW5BTGRlaWpVMU5GRXRZTkZPY20wTXhjdFUwbElTNTk2Y3lSTzFfZjF0ZXU0THhCVDN3MlpQeTlaYzFISEpNaUVIa1o4QkVtZ3oyZkxRNm1fUDFrZzJmT1BIcnozTWVFZTdrb25lTEl0RjJnT2h1LWtVZkV3RnVkTTF6REpMc19WVDk0cU1zZkRzNEdHUk1oQk9lMVRPTGV4a0JTRUc3TUVwUGY3di12VHMzVmtWbGVHRDZSM0xPOUjSAfMBQVVfeXFMTzhJRTc3blpfX3hNd2l6WTJBMUZyU01JamRqLUFvd2JpSmFBSThLTmFQWUtfTDR6TW5ublhEcjFGazdmZGJ0Q2JBUm1yaHdHMkU2N3dNb3hUMFVfdElPNDZuMWZ3RnF6cjJ4Qk5vYTZ1dzhjMWswcllDZ3FTMHJuXzVWQV91b0RmanRBSkhQOXFoUldNN205TURpX2Y4b3ZYaHZpWkhfVGdIVDhkUnBQUHNJYTBhbTJxZXFlMUFVRVE1b0YwQTA4cmp5cFBuYkVtZjVyVE44NmRWdDdXb1lPcVNPVmNXN3MzLW1COWFVQ0Z1cEZj?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU0dhSXp5TGs3emRWM3djcC1pbkZsNll6VWRKZW9tOFdwWFNQZW5BTGRlaWpVMU5GRXRZTkZPY20wTXhjdFUwbElTNTk2Y3lSTzFfZjF0ZXU0THhCVDN3MlpQeTlaYzFISEpNaUVIa1o4QkVtZ3oyZkxRNm1fUDFrZzJmT1BIcnozTWVFZTdrb25lTEl0RjJnT2h1LWtVZkV3RnVkTTF6REpMc19WVDk0cU1zZkRzNEdHUk1oQk9lMVRPTGV4a0JTRUc3TUVwUGY3di12VHMzVmtWbGVHRDZSM0xPOUjSAfMBQVVfeXFMTzhJRTc3blpfX3hNd2l6WTJBMUZyU01JamRqLUFvd2JpSmFBSThLTmFQWUtfTDR6TW5ublhEcjFGazdmZGJ0Q2JBUm1yaHdHMkU2N3dNb3hUMFVfdElPNDZuMWZ3RnF6cjJ4Qk5vYTZ1dzhjMWswcllDZ3FTMHJuXzVWQV91b0RmanRBSkhQOXFoUldNN205TURpX2Y4b3ZYaHZpWkhfVGdIVDhkUnBQUHNJYTBhbTJxZXFlMUFVRVE1b0YwQTA4cmp5cFBuYkVtZjVyVE44NmRWdDdXb1lPcVNPVmNXN3MzLW1COWFVQ0Z1cEZj?oc=5",
@@ -394,6 +604,18 @@
       "query": "perícia médica INSS"
     },
     {
+      "id": "e60606b5a374a52d521b351e745197a8c1e81786",
+      "titulo": "Quem são os candidatos ao Senado por Goiás (GO) nas eleições 2026",
+      "resumo": "Dez nomes disputam as duas vagas no Senado Federal pelo estado da região Centro-Oeste nas eleições deste ano",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-25T01:23:41.000Z",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-ao-senado-por-goias-go-nas-eleicoes-2026-agosto",
+      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-ao-senado-por-goias-go-nas-eleicoes-2026-agosto",
+      "query": null
+    },
+    {
       "id": "281a6280615c9bb867f505dac7f48c311ee5f43f",
       "titulo": "Zenaide Maia assume relatoria de MP para reduzir fila de benefícios do INSS",
       "resumo": "Zenaide Maia assume relatoria de MP para reduzir fila de benefícios do INSS O POTI",
@@ -410,8 +632,8 @@
       "titulo": "Câmara de Campinas aprova parcelamento de dívida com o Camprev",
       "resumo": "Câmara de Campinas aprova parcelamento de dívida com o Camprev G1",
       "fonte": "G1",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-25T00:40:17.000Z",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkpYTkY3LVBvRi1sbTVtbm1CNjFYTmR6dUJHblJyWUVaVEhlTUJkVjBMczNsZW0tNEpqM3FHUU9URW0yMU1FVXJZcmlHeEplTFNheVhfWk9RbUFxSVAwX3BYVXpBSTl6TW9NV0RMSzBVQVp6TnEwWjZ6aVktSm1hMXNMX01GWHlaYW5QTWpRNEwwbGtudTluTjRJZTNteWhCVGNtbGwwX3JYdGVjVDZ5cjFra1VUeHdPZWtHVHlZVm5oeFhlVUl1SGZwd3kzdG10TF9EaGJWVnhuVVhaT0VZYkc3NEM2QkF2NlJB0gH6AUFVX3lxTFA1b3Y5NjdaMGwwQnZnQVJvT00zQy1Ob0lZVFJmQnBCZWMwcjliYV8wVnVQdWlONmFJR2ZmNFJWT0VObUFrdTZwTGZmVnh2ZlZBU3hPSmFkNklOV2R2b19zVTAzNmR6a1BaUTJTdExlTWFDekxCSzR0dWhIYUtwQ0N4UG5Vc3NiNm1JV3FQLUdmRzZhV1hPZUZjVGxaOFlmTGcwRnh4dEl6RnRUUlFnTHVuVExWSXgxSW1NV1JfOFVTOE5BbDh6Q0Q2MkpJbm9LMjBTSE1nNTVGbUxVUGpwa245aldYWS1jNy1LUGRVX3ZXRzFLUWczT1ZERUE?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQYkpYTkY3LVBvRi1sbTVtbm1CNjFYTmR6dUJHblJyWUVaVEhlTUJkVjBMczNsZW0tNEpqM3FHUU9URW0yMU1FVXJZcmlHeEplTFNheVhfWk9RbUFxSVAwX3BYVXpBSTl6TW9NV0RMSzBVQVp6TnEwWjZ6aVktSm1hMXNMX01GWHlaYW5QTWpRNEwwbGtudTluTjRJZTNteWhCVGNtbGwwX3JYdGVjVDZ5cjFra1VUeHdPZWtHVHlZVm5oeFhlVUl1SGZwd3kzdG10TF9EaGJWVnhuVVhaT0VZYkc3NEM2QkF2NlJB0gH6AUFVX3lxTFA1b3Y5NjdaMGwwQnZnQVJvT00zQy1Ob0lZVFJmQnBCZWMwcjliYV8wVnVQdWlONmFJR2ZmNFJWT0VObUFrdTZwTGZmVnh2ZlZBU3hPSmFkNklOV2R2b19zVTAzNmR6a1BaUTJTdExlTWFDekxCSzR0dWhIYUtwQ0N4UG5Vc3NiNm1JV3FQLUdmRzZhV1hPZUZjVGxaOFlmTGcwRnh4dEl6RnRUUlFnTHVuVExWSXgxSW1NV1JfOFVTOE5BbDh6Q0Q2MkpJbm9LMjBTSE1nNTVGbUxVUGpwa245aldYWS1jNy1LUGRVX3ZXRzFLUWczT1ZERUE?oc=5",
@@ -422,8 +644,8 @@
       "titulo": "Romeu Zema (Novo) responde a pergunta sobre reforma da previdência",
       "resumo": "Romeu Zema (Novo) responde a pergunta sobre reforma da previdência G1",
       "fonte": "G1",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-25T00:32:51.000Z",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdEVIbm5XNS01SEdaSkEwZWVocHBlX3VBT1ZyV21JbnFyeTRmeGxqemVTQW5NamVsMS1ZYmtyRkZRN21EMzN2Qll3VXc3VFFkOTEwMzF0TnZJX2xwdU9Sc0hzN0gtYW1ZOWU3dnQxWmpZWTIzU2p6Q19VUmQ0TU8zQlhyaDlXRG9jZEZ5a245ODFSb00zcTNyRXg4dFZRTllPX3U1S2lmdDNCMnFLcGk1amZjeG1EZEQ4VVVqLWVORW16MU1rUmNxRUtCSzdPbHNvbVR2YnI2QdIB1wFBVV95cUxPdEVIbm5XNS01SEdaSkEwZWVocHBlX3VBT1ZyV21JbnFyeTRmeGxqemVTQW5NamVsMS1ZYmtyRkZRN21EMzN2Qll3VXc3VFFkOTEwMzF0TnZJX2xwdU9Sc0hzN0gtYW1ZOWU3dnQxWmpZWTIzU2p6Q19VUmQ0TU8zQlhyaDlXRG9jZEZ5a245ODFSb00zcTNyRXg4dFZRTllPX3U1S2lmdDNCMnFLcGk1amZjeG1EZEQ4VVVqLWVORW16MU1rUmNxRUtCSzdPbHNvbVR2YnI2QQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdEVIbm5XNS01SEdaSkEwZWVocHBlX3VBT1ZyV21JbnFyeTRmeGxqemVTQW5NamVsMS1ZYmtyRkZRN21EMzN2Qll3VXc3VFFkOTEwMzF0TnZJX2xwdU9Sc0hzN0gtYW1ZOWU3dnQxWmpZWTIzU2p6Q19VUmQ0TU8zQlhyaDlXRG9jZEZ5a245ODFSb00zcTNyRXg4dFZRTllPX3U1S2lmdDNCMnFLcGk1amZjeG1EZEQ4VVVqLWVORW16MU1rUmNxRUtCSzdPbHNvbVR2YnI2QdIB1wFBVV95cUxPdEVIbm5XNS01SEdaSkEwZWVocHBlX3VBT1ZyV21JbnFyeTRmeGxqemVTQW5NamVsMS1ZYmtyRkZRN21EMzN2Qll3VXc3VFFkOTEwMzF0TnZJX2xwdU9Sc0hzN0gtYW1ZOWU3dnQxWmpZWTIzU2p6Q19VUmQ0TU8zQlhyaDlXRG9jZEZ5a245ODFSb00zcTNyRXg4dFZRTllPX3U1S2lmdDNCMnFLcGk1amZjeG1EZEQ4VVVqLWVORW16MU1rUmNxRUtCSzdPbHNvbVR2YnI2QQ?oc=5",
@@ -446,12 +668,24 @@
       "titulo": "Por fila do INSS, TCU coloca benefícios previdenciários em lista de ‘alto risco’",
       "resumo": "Por fila do INSS, TCU coloca benefícios previdenciários em lista de ‘alto risco’ O GLOBO",
       "fonte": "O GLOBO",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T23:58:03.000Z",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUDNzQ1JRcVExTlF6UHpaVE5CMXoyMUx6eDFvSmtqaUlod3JFbGh0NWRaRExJbVlYRVhJVzA2ZE1PM2pxa3FNNFVYMkk4RGIzN1VWaEVJMjZDVmJaSTNJTGE4X0pIeHJfamJMQjR2eVVIUXBtMDI4SnFzNjgzOUlrakR0UHRfYS1iWXhVaThvalByZ0U0eFZhdUZTNmFNdlV5ZkZmVTZaQXA2X2kzVWwzU2NMbUd3S19LV25ScHhRZUYxYTJRa3JzTVVpb0dPZWF1c3fSAeABQVVfeXFMUENSVzMtUzRpZk9wZW5rWjVGbjlScEdxZV93OEVxeFJyVkhkSWpaemlqdEw3Y0FCZU5XbmxPa2xaWmxvYlpMZ0d2enllUHNYUFNiOGNZcGhiOUVYY0R5bjlTZEpVbWVLVmVlZFhhQ2NyNWNQMlZqTkxUa0NyUTlRcVZZSWhVeGJKMWhYaUhGRzJSQk1EUkVjVnhEeS1ScGQ4MGZGcEZzdDFTSUxuaXdoeU9obWYtc0lQbkpYYmhtSXhFcHpXZnNyaUhTOTQwUjJYbURZVXBNZUxJT0tkTTc0X0U?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUDNzQ1JRcVExTlF6UHpaVE5CMXoyMUx6eDFvSmtqaUlod3JFbGh0NWRaRExJbVlYRVhJVzA2ZE1PM2pxa3FNNFVYMkk4RGIzN1VWaEVJMjZDVmJaSTNJTGE4X0pIeHJfamJMQjR2eVVIUXBtMDI4SnFzNjgzOUlrakR0UHRfYS1iWXhVaThvalByZ0U0eFZhdUZTNmFNdlV5ZkZmVTZaQXA2X2kzVWwzU2NMbUd3S19LV25ScHhRZUYxYTJRa3JzTVVpb0dPZWF1c3fSAeABQVVfeXFMUENSVzMtUzRpZk9wZW5rWjVGbjlScEdxZV93OEVxeFJyVkhkSWpaemlqdEw3Y0FCZU5XbmxPa2xaWmxvYlpMZ0d2enllUHNYUFNiOGNZcGhiOUVYY0R5bjlTZEpVbWVLVmVlZFhhQ2NyNWNQMlZqTkxUa0NyUTlRcVZZSWhVeGJKMWhYaUhGRzJSQk1EUkVjVnhEeS1ScGQ4MGZGcEZzdDFTSUxuaXdoeU9obWYtc0lQbkpYYmhtSXhFcHpXZnNyaUhTOTQwUjJYbURZVXBNZUxJT0tkTTc0X0U?oc=5",
       "query": "INSS benefício"
+    },
+    {
+      "id": "b381b7fe9420e83eaa19cc50879f17993d72b23e",
+      "titulo": "Braskem protocola pedido de recuperação extrajudicial com dívidas de R$ 56,5 bi; leia íntegra do pedido",
+      "resumo": "Companhia teve aval de credores que representam 39,6% dos créditos e vai em busca de mais de 50% de adesão",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T23:32:01.000Z",
+      "url": "https://www.jota.info/justica/braskem-protocola-pedido-de-recuperacao-extrajudicial-com-dividas-de-r-565-bi-leia-integra-do-pedido",
+      "url_canonica": "https://www.jota.info/justica/braskem-protocola-pedido-de-recuperacao-extrajudicial-com-dividas-de-r-565-bi-leia-integra-do-pedido",
+      "query": null
     },
     {
       "id": "3efc13c69662afea64c644fa4da38bc37cc2ebd9",
@@ -490,16 +724,16 @@
       "query": "INSS benefício"
     },
     {
-      "id": "4224abaadfa3d58e5c7abe67a11c768b6727ab03",
-      "titulo": "INSS adere ao programa Contrata + Brasil para manutenção e reparos de prédios — Ministério da Previdência Social",
-      "resumo": "INSS adere ao programa Contrata + Brasil para manutenção e reparos de prédios — Ministério da Previdência Social www.gov.br",
-      "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-24T21:26:07.000Z",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSWx4YTYtSjJwcV9IQnRudWpWREpDdXRUNjM5a1FTLU54ZldFVHpwSnRNdzVDRWhOZkx1Tm1UcXl3QkN3cGxlTU05VFh3cnlHbmpqMW5ZUENYQWllUjdwVTJ3dXFQUmc4NVJ4d3FYT3JfbGZJcllCTzB5V2cxRXlfQWRXSmJaRGs0dDVCOEVfa0VtbW40aFZzaGwxT1ZCXzlsMEJVNGkxWXh3MndFVTFuREFOQTU5aTJfalVqT2hSa0J6VzhndzN1T0ZIb0ZtUQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSWx4YTYtSjJwcV9IQnRudWpWREpDdXRUNjM5a1FTLU54ZldFVHpwSnRNdzVDRWhOZkx1Tm1UcXl3QkN3cGxlTU05VFh3cnlHbmpqMW5ZUENYQWllUjdwVTJ3dXFQUmc4NVJ4d3FYT3JfbGZJcllCTzB5V2cxRXlfQWRXSmJaRGs0dDVCOEVfa0VtbW40aFZzaGwxT1ZCXzlsMEJVNGkxWXh3MndFVTFuREFOQTU5aTJfalVqT2hSa0J6VzhndzN1T0ZIb0ZtUQ?oc=5",
-      "query": "previdência complementar"
+      "id": "3d85a3521432f05a73ca7dcd8dd6ac0123a4fb47",
+      "titulo": "Quem são os candidatos a senador por Minas Gerais (MG) nas eleições de 2026",
+      "resumo": "Dezessete nomes disputam as duas vagas no Senado Federal pelo estado mineiro nas eleições deste ano",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T21:41:25.000Z",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-senador-por-minas-gerais-mg-nas-eleicoes-de-2026-agosto",
+      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-senador-por-minas-gerais-mg-nas-eleicoes-de-2026-agosto",
+      "query": null
     },
     {
       "id": "b90f33caee57151b268a6a00dc3ce999ab97c7e8",
@@ -538,15 +772,27 @@
       "query": "revisão da vida toda"
     },
     {
-      "id": "6ac714f647bd5eb0dd49b754025c216ebd6c2b57",
+      "id": "0f6a51c32b6a406e93a6f7112aa0a350b4b246ce",
+      "titulo": "Os desafios do governo Lula nas eleições: endividamento das famílias",
+      "resumo": "Poder de compra menor, juros altos e crescimento de bets corroem orçamento doméstico e refletem domínio neoliberal mesmo sob a centro-esquerda",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T20:35:24.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/democracia-em-transe/os-desafios-do-governo-lula-nas-eleicoes-endividamento-das-familias",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/democracia-em-transe/os-desafios-do-governo-lula-nas-eleicoes-endividamento-das-familias",
+      "query": null
+    },
+    {
+      "id": "894555b18910f0cab37b3f96cae79f92714ce3aa",
       "titulo": "INSS permite validação por dados bancários para contratação de consignado",
       "resumo": "INSS permite validação por dados bancários para contratação de consignado Diário Corumbaense",
       "fonte": "Diário Corumbaense",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
       "data": "2026-08-24T20:34:11.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSksyczFXUzYtbm1OLVVBS0tPTnJHVDY0ODMxLWZiSjdwdVhBdTFjNGFhS3IwRU8ycTBHbGN5N0UzTTIwM1ptVmRWeXZiX1ltaWZhcVZxYUM2Zw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xSksyczFXUzYtbm1OLVVBS0tPTnJHVDY0ODMxLWZiSjdwdVhBdTFjNGFhS3IwRU8ycTBHbGN5N0UzTTIwM1ptVmRWeXZiX1ltaWZhcVZxYUM2Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aUlRjYWdKNHBuSFRFR1hONzdQekg2RmozbjNPZ09FUk9DRDROLUNUZEdob3c0SW0tQnljanhDMm1NRGk5c3kxbHZTTzBwSVI4RmFPbFhjLTBiNXpGRzdCRg?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aUlRjYWdKNHBuSFRFR1hONzdQekg2RmozbjNPZ09FUk9DRDROLUNUZEdob3c0SW0tQnljanhDMm1NRGk5c3kxbHZTTzBwSVI4RmFPbFhjLTBiNXpGRzdCRg?oc=5",
       "query": "INSS benefício"
     },
     {
@@ -586,6 +832,18 @@
       "query": "INSS benefício"
     },
     {
+      "id": "61dfdc2e54ef660c096ef89c39634acd2b7788f6",
+      "titulo": "Moraes diz que Brasil tem ‘trauma’ e confunde autoridade de segurança pública com autoritarismo",
+      "resumo": "Relator da Lei Antifacção deixou claro que pretende protagonismo maior do Judiciário no combate ao crime organizado",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T20:07:20.000Z",
+      "url": "https://www.jota.info/stf/do-supremo/moraes-diz-que-brasil-tem-trauma-e-confunde-autoridade-de-seguranca-publica-com-autoritarismo",
+      "url_canonica": "https://www.jota.info/stf/do-supremo/moraes-diz-que-brasil-tem-trauma-e-confunde-autoridade-de-seguranca-publica-com-autoritarismo",
+      "query": null
+    },
+    {
       "id": "cc81a8a45ad425b74adf35ea121649912a3a31f1",
       "titulo": "Como organizar as finanças para viver melhor na aposentadoria",
       "resumo": "Como organizar as finanças para viver melhor na aposentadoria ND Mais",
@@ -622,6 +880,18 @@
       "query": "previdência complementar"
     },
     {
+      "id": "ddd25ade9dc90f08f5760e7cefe7b5a0b5fbe0ef",
+      "titulo": "Anvisa cancela registro do medicamento Elevidys, que trata doença rara",
+      "resumo": "Farmacêutica Roche pede cancelamento do registro do Elevidys, e Anvisa aponta insuficiência de dados para manter autorização condicional",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T19:32:16.000Z",
+      "url": "https://www.jota.info/saude/anvisa-cancela-registro-do-medicamento-elevidys-que-trata-doenca-rara",
+      "url_canonica": "https://www.jota.info/saude/anvisa-cancela-registro-do-medicamento-elevidys-que-trata-doenca-rara",
+      "query": null
+    },
+    {
       "id": "0f09507112fc9b5a16347aab739c3f4336ad4283",
       "titulo": "Governo estuda cobrança de empresas com muitos trabalhadores PJ",
       "resumo": "Governo estuda cobrança de empresas com muitos trabalhadores PJ Ponta Negra News",
@@ -644,6 +914,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVM2TkZkaEVvUFd3ZUFzT3phbE5NeGFIZTBVb2dFTzY1alhHSkdvVzVIMG1VMkNVM1JTcEhocnVtaHZvTlc5Z0xpNThyT2kyU2pyYUszMmNHTjBnd2VFb2lVcHQ0UGJmbXZadmY0alVWNFowdlBSV1BwYTZNMklESDJRTUVHMzBDYThmZjJxX0I4ZWNGbG9MNW9VUVNaN3QwR19rR25mamkxSXA4WVZPQ1pTeVZDVE5rOUVwMTJGUTRHTlFhRjFPN0N0NmhpWWFvVnEyZA?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYVM2TkZkaEVvUFd3ZUFzT3phbE5NeGFIZTBVb2dFTzY1alhHSkdvVzVIMG1VMkNVM1JTcEhocnVtaHZvTlc5Z0xpNThyT2kyU2pyYUszMmNHTjBnd2VFb2lVcHQ0UGJmbXZadmY0alVWNFowdlBSV1BwYTZNMklESDJRTUVHMzBDYThmZjJxX0I4ZWNGbG9MNW9VUVNaN3QwR19rR25mamkxSXA4WVZPQ1pTeVZDVE5rOUVwMTJGUTRHTlFhRjFPN0N0NmhpWWFvVnEyZA?oc=5",
       "query": "INSS benefício"
+    },
+    {
+      "id": "249964dd0a18a563f3ba8901ef8319edb5a001e1",
+      "titulo": "Dino diz que emendas são &#8216;monstros&#8217; e fala sobre apropriação bilionária de recursos",
+      "resumo": "Ministro critica volume de emendas parlamentares e aponta fragilidades em órgãos responsáveis pela fiscalização financeira",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T18:49:18.000Z",
+      "url": "https://www.jota.info/stf/do-supremo/dino-diz-que-emendas-sao-monstros-e-fala-sobre-apropriacao-bilionaria-de-recursos",
+      "url_canonica": "https://www.jota.info/stf/do-supremo/dino-diz-que-emendas-sao-monstros-e-fala-sobre-apropriacao-bilionaria-de-recursos",
+      "query": null
     },
     {
       "id": "a53c2026baaef39816a3c3cd1d7857137d80d07c",
@@ -682,12 +964,24 @@
       "query": "INSS benefício"
     },
     {
+      "id": "99d2c5c06b73284a0d1aa7c7e4aef1a3a728c089",
+      "titulo": "Pagamento de R$ 2,6 bi de União e ex-Eletrobras encerra disputa de 30 anos sobre privatização no Piauí",
+      "resumo": "Acordo foi homologado pelo ministro Luiz Fux, do STF",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T18:06:56.000Z",
+      "url": "https://www.jota.info/stf/do-supremo/pagamento-de-r-26-bi-de-uniao-e-ex-eletrobras-encerra-disputa-de-30-anos-sobre-privatizacao-no-piaui",
+      "url_canonica": "https://www.jota.info/stf/do-supremo/pagamento-de-r-26-bi-de-uniao-e-ex-eletrobras-encerra-disputa-de-30-anos-sobre-privatizacao-no-piaui",
+      "query": null
+    },
+    {
       "id": "b9d1f0456b7b29d3a42fc4f3d3080cda84b6ddf4",
       "titulo": "Justiça manda INSS pagar um salário mínimo a dona de casa com diabetes e fibromialgia; entenda",
       "resumo": "Justiça manda INSS pagar um salário mínimo a dona de casa com diabetes e fibromialgia; entenda G1",
       "fonte": "G1",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T18:00:17.000Z",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWk44dGhjb3J0ZkFudXZ2N0REMG03TDd6bjc0djRGS0IxZHM1NnpidGFVanMxUTlKY1F5aURfNDFvZ2NnVlZWWEFqQ0Z1Q3ZHUkcxbVlsTXJMT3RiSl9JcnZQTUdQWHlYaXRMc2V1NWQxU1NKalQ0ZkhlTnhSZEd0b2VKZXp2SjN1ZTJJUVNwRUZxNG1fLURFOVJGLUY0Wnd1ZW9hc09sSFlTQTUxWkY4QW5sZ1JQQmRCVmlHeFRkSUNVV3FlMFIyT2gydkppR0ZxVDVCSlBiSXNnSUVzZmxHV1h6YnJvcGZXTllEZVhkd9IB_gFBVV95cUxQUWhKNm9rZlhzY29heDNxMnNmaS1LalBBRXQ0UGFHTnd2b3FSN3d0QW45dHFkb2ZTUDExb2pxVkpoXzV5VnU4RndaOTBNRzBqSjlnSG5Td3hKU3ZLRDNoajhEQm9NeDhLZnBaeVp6QnBSMTUxTFhtT0tFalp5QnprSThFTzI5ZWpzc3gwdm1JZFFNWkdiNy1BdFZ4Y1RqdkhRUUlkRWFHczFNTDJRTG9USEJWQ2tXcVdMOTVtZkJjU3BnRGlIXzBCSnlGRFNjcWE2YmxvZ3FZTGJlTnVuN08yMmxSYzZyNFlTaU5SYzc4RjhXOEdVZGZuMmw5ZVhfdw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPWk44dGhjb3J0ZkFudXZ2N0REMG03TDd6bjc0djRGS0IxZHM1NnpidGFVanMxUTlKY1F5aURfNDFvZ2NnVlZWWEFqQ0Z1Q3ZHUkcxbVlsTXJMT3RiSl9JcnZQTUdQWHlYaXRMc2V1NWQxU1NKalQ0ZkhlTnhSZEd0b2VKZXp2SjN1ZTJJUVNwRUZxNG1fLURFOVJGLUY0Wnd1ZW9hc09sSFlTQTUxWkY4QW5sZ1JQQmRCVmlHeFRkSUNVV3FlMFIyT2gydkppR0ZxVDVCSlBiSXNnSUVzZmxHV1h6YnJvcGZXTllEZVhkd9IB_gFBVV95cUxQUWhKNm9rZlhzY29heDNxMnNmaS1LalBBRXQ0UGFHTnd2b3FSN3d0QW45dHFkb2ZTUDExb2pxVkpoXzV5VnU4RndaOTBNRzBqSjlnSG5Td3hKU3ZLRDNoajhEQm9NeDhLZnBaeVp6QnBSMTUxTFhtT0tFalp5QnprSThFTzI5ZWpzc3gwdm1JZFFNWkdiNy1BdFZ4Y1RqdkhRUUlkRWFHczFNTDJRTG9USEJWQ2tXcVdMOTVtZkJjU3BnRGlIXzBCSnlGRFNjcWE2YmxvZ3FZTGJlTnVuN08yMmxSYzZyNFlTaU5SYzc4RjhXOEdVZGZuMmw5ZVhfdw?oc=5",
@@ -716,6 +1010,18 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWpkUV9qTThuc0JvcXJTQWJsMTVkbDA5NDkwMjdSWlc5dmhZSnBZb3V1VjRTZUIwOHhlQmphMTBxOWhyWmxYWVRiZ1ZoZ1UtU05nOGN2cnNRNjBHUTBPczRoU0xqVWduNTFBTlNQX2VUcHNZY0NHbFk5ZmFpdmx3aEF1Tll6Nnc1ZGZvdFJyZC1QcUxKTUJ6V05BVFk0VGFIVnJUa2UwV3FOOVV1bzFyaDhacW1VWndvMHlNZtIBwgFBVV95cUxPR3Via01xMWJTQzhoUGppcFVCUjBxUHVCSl91bWFjU290ZXlPUXRFbUhQd1lRbG9xQ01wUWFhVU1rTHhrbUxWMzduOGlmQUVEY0lkS3ZoM3ZISHdMQVdidTZFRVlDYS03S0tHWnBhQ1pyd0RjQm9iRGhsWllWbTBTb2FuZ0ZBWEtrOEtkUGpvdld5WXh1THBDTGl1VExSQUhzUnZPZEt5UEkxUHhIc2JXdm5nQjhJV0RVbXJzRVhHMEpjZw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVWpkUV9qTThuc0JvcXJTQWJsMTVkbDA5NDkwMjdSWlc5dmhZSnBZb3V1VjRTZUIwOHhlQmphMTBxOWhyWmxYWVRiZ1ZoZ1UtU05nOGN2cnNRNjBHUTBPczRoU0xqVWduNTFBTlNQX2VUcHNZY0NHbFk5ZmFpdmx3aEF1Tll6Nnc1ZGZvdFJyZC1QcUxKTUJ6V05BVFk0VGFIVnJUa2UwV3FOOVV1bzFyaDhacW1VWndvMHlNZtIBwgFBVV95cUxPR3Via01xMWJTQzhoUGppcFVCUjBxUHVCSl91bWFjU290ZXlPUXRFbUhQd1lRbG9xQ01wUWFhVU1rTHhrbUxWMzduOGlmQUVEY0lkS3ZoM3ZISHdMQVdidTZFRVlDYS03S0tHWnBhQ1pyd0RjQm9iRGhsWllWbTBTb2FuZ0ZBWEtrOEtkUGpvdld5WXh1THBDTGl1VExSQUhzUnZPZEt5UEkxUHhIc2JXdm5nQjhJV0RVbXJzRVhHMEpjZw?oc=5",
       "query": "reforma da previdência"
+    },
+    {
+      "id": "ced09d262704af6f0c531abfbddf10f0963f32bc",
+      "titulo": "STF valida proibição de devedor contumaz pedir recuperação judicial",
+      "resumo": "Relator, ministro Flávio Dino diz que restrição é proporcional e que protege o mercado",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T17:36:54.000Z",
+      "url": "https://www.jota.info/stf/do-supremo/stf-valida-proibicao-de-devedor-contumaz-pedir-recuperacao-judicial",
+      "url_canonica": "https://www.jota.info/stf/do-supremo/stf-valida-proibicao-de-devedor-contumaz-pedir-recuperacao-judicial",
+      "query": null
     },
     {
       "id": "15bb433f4f5ab05cf08fa30e528dcab5f20184af",
@@ -770,8 +1076,8 @@
       "titulo": "Agência de Comunicação - ID CTVM avalia a maior presença de fundos de pensão no crédito privado estruturado",
       "resumo": "Agência de Comunicação - ID CTVM avalia a maior presença de fundos de pensão no crédito privado estruturado Estadão Blue Studio",
       "fonte": "Estadão Blue Studio",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T16:35:20.000Z",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQenlhMk5SSVJJWE1FX1c0SDhNQXBEc3VIM2FDZGhwVnZCUW53Z0R5RExLTXFkUlczZ3hGb2lDNXZjczZpWk1HOWtwUmVKWjBLX2NldldiaVFGMzRxX0xQVEhFd1oyclVGdHh6NzhDQXUwejhISUxLSWx4V3BDaUZKQXVBTHdQdHBoNE5vR285QUk1NHZuNWVmY0NFemYzSzFfOV9pU1hlUFdOWjVwZXhwbGQ0VnRpU3doaHV4ZjUwTzUzOVpFQ2FETWpVUTdibjktWW83cF9jckZtNFVrZk1sZ0NkRjc0aFR5bkh3?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQenlhMk5SSVJJWE1FX1c0SDhNQXBEc3VIM2FDZGhwVnZCUW53Z0R5RExLTXFkUlczZ3hGb2lDNXZjczZpWk1HOWtwUmVKWjBLX2NldldiaVFGMzRxX0xQVEhFd1oyclVGdHh6NzhDQXUwejhISUxLSWx4V3BDaUZKQXVBTHdQdHBoNE5vR285QUk1NHZuNWVmY0NFemYzSzFfOV9pU1hlUFdOWjVwZXhwbGQ0VnRpU3doaHV4ZjUwTzUzOVpFQ2FETWpVUTdibjktWW83cF9jckZtNFVrZk1sZ0NkRjc0aFR5bkh3?oc=5",
@@ -818,8 +1124,8 @@
       "titulo": "Beneficiários do INSS sem biometria poderão contratar consignado com validação de dados bancários; veja as regras",
       "resumo": "Beneficiários do INSS sem biometria poderão contratar consignado com validação de dados bancários; veja as regras www.gov.br",
       "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-24T15:48:24.000Z",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWVQ2Q205Rzd2ZVZDNFZlc2RRd1FMcGdFNG9BVUNQUFRsYXRoODNPeEdlV3BoM25EOFJnalJRX2Vaa1plN0tnbUJDcElvZmZ1U3B0VkRXdEhLdnFvNG1GTW1VOXlkNDB5MFZySWk2V3dtVlV0RFNSSWtsbVFYSkwtYmFRN0VVS1FYNFg3UG02NUpydHZudFNlTTlpaWlEX2JSNl9lSG1kbGFOdFkxcWZwakVudXF2QS0zUGlSZHV3Rm80NlBaUnRPYnI2emdlRml4ejZwcUJveE1nb29FMVpWRUtpa3l5WUtURW9fYnB4d1Z3Zw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWVQ2Q205Rzd2ZVZDNFZlc2RRd1FMcGdFNG9BVUNQUFRsYXRoODNPeEdlV3BoM25EOFJnalJRX2Vaa1plN0tnbUJDcElvZmZ1U3B0VkRXdEhLdnFvNG1GTW1VOXlkNDB5MFZySWk2V3dtVlV0RFNSSWtsbVFYSkwtYmFRN0VVS1FYNFg3UG02NUpydHZudFNlTTlpaWlEX2JSNl9lSG1kbGFOdFkxcWZwakVudXF2QS0zUGlSZHV3Rm80NlBaUnRPYnI2emdlRml4ejZwcUJveE1nb29FMVpWRUtpa3l5WUtURW9fYnB4d1Z3Zw?oc=5",
@@ -842,8 +1148,8 @@
       "titulo": "INSS libera consignado sem biometria e barra empréstimo nos primeiros 90 dias; entenda",
       "resumo": "INSS libera consignado sem biometria e barra empréstimo nos primeiros 90 dias; entenda Folha de S.Paulo",
       "fonte": "Folha de S.Paulo",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T14:44:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTJpOHgzQWZNUzF2U3d5aEtyMXp5YVpVVFgxNXRzSUMwc2VwNjItdTJnaXJFcDl0V3VCNEVKSWQ1a2czVTN0YXo2MTRTbTJzV0ZlajBhWWt3UkNnTmlaczdrdkNmN1V0cFBaa19oY0hjdDdqaXZCWk83cFYyV0FHUDU0aUg4VTlMWFl6WTcyWXczbEJZZ1hBQlAwdFZsM2Z0TjJ0Y1FMWkU?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTJpOHgzQWZNUzF2U3d5aEtyMXp5YVpVVFgxNXRzSUMwc2VwNjItdTJnaXJFcDl0V3VCNEVKSWQ1a2czVTN0YXo2MTRTbTJzV0ZlajBhWWt3UkNnTmlaczdrdkNmN1V0cFBaa19oY0hjdDdqaXZCWk83cFYyV0FHUDU0aUg4VTlMWFl6WTcyWXczbEJZZ1hBQlAwdFZsM2Z0TjJ0Y1FMWkU?oc=5",
@@ -878,8 +1184,8 @@
       "titulo": "Pagamentos do INSS de agosto começam nesta terça-feira, 25; veja o calendário de 2026",
       "resumo": "Pagamentos do INSS de agosto começam nesta terça-feira, 25; veja o calendário de 2026 VEJA",
       "fonte": "VEJA",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T14:03:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjZ2cFpVQ3pBNmNzMWNhaUd1SGxKWUdFdFRwaXdCVUZoc0dReDFKT3JaYVY1NU5QTzVvcXJvMUJtX2paNE5SdzJLSG9sY3dzNV9aUk44TWZXWEsxYXp5RjRKc0ViWDJYTHhQYlNCNVJfeEVCQUdRLXhxQW1STWVhSFRHc2hRUGV4S0JOWUwzQWxGS1hiRU41dFN4aXBpcEw2dDZvek5kVFhiQ0NTMzBwWVl6NUdZaTdZ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQjZ2cFpVQ3pBNmNzMWNhaUd1SGxKWUdFdFRwaXdCVUZoc0dReDFKT3JaYVY1NU5QTzVvcXJvMUJtX2paNE5SdzJLSG9sY3dzNV9aUk44TWZXWEsxYXp5RjRKc0ViWDJYTHhQYlNCNVJfeEVCQUdRLXhxQW1STWVhSFRHc2hRUGV4S0JOWUwzQWxGS1hiRU41dFN4aXBpcEw2dDZvek5kVFhiQ0NTMzBwWVl6NUdZaTdZ?oc=5",
@@ -890,8 +1196,8 @@
       "titulo": "INSS encerra programa que permitia adiantamento do benefício de aposentados",
       "resumo": "INSS encerra programa que permitia adiantamento do benefício de aposentados VEJA",
       "fonte": "VEJA",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T13:58:28.000Z",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFNaa0R1QUJSY2ZaNXpMTDJhR2llX1RCWHIzUjJodi1KTEdjeklRQXd1OXZtTm1oUkIzV3NMbWNTQktlLTRZSnpiMXI1eDNQZ1lQWVNMMmo2MUl2U0pjNjdPMmpkdzY4WVZiM2h2enVvOHp3R3JKWXRyLU12eHZuVVF3VUpEV3hZa2Z2YU5UNmFzWXBKejdSY2c3aFRqUXpINFJtR0lEcDdLUGtPalcwRw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOFNaa0R1QUJSY2ZaNXpMTDJhR2llX1RCWHIzUjJodi1KTEdjeklRQXd1OXZtTm1oUkIzV3NMbWNTQktlLTRZSnpiMXI1eDNQZ1lQWVNMMmo2MUl2U0pjNjdPMmpkdzY4WVZiM2h2enVvOHp3R3JKWXRyLU12eHZuVVF3VUpEV3hZa2Z2YU5UNmFzWXBKejdSY2c3aFRqUXpINFJtR0lEcDdLUGtPalcwRw?oc=5",
@@ -926,8 +1232,8 @@
       "titulo": "Comissão Julgadora do 10º Prêmio PREVIC de Monografia definida em Portaria",
       "resumo": "Comissão Julgadora do 10º Prêmio PREVIC de Monografia definida em Portaria www.gov.br",
       "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-24T13:18:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblZhaHpHYTY0REhKUHdGSVI1bjljdDZ0MElKLUJELVFzMExoUm1FcU9HWk5xY2V4ZnlsdWtZcDc1YUcwRGRUaUVOb2Fuem5Sa2xCdmFCNEw3czM1aEt5dzMwRkRJckhuT1RVakpBMGFYdVZ0RUNabmg2b0R6S2RZS0hJSFJnTGZnb0p0dWtIT1NVb0h1Rm92WnFfNWo1V185TGMtbGRhMllPQ2hVTTZ0VXNnbEpuUQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblZhaHpHYTY0REhKUHdGSVI1bjljdDZ0MElKLUJELVFzMExoUm1FcU9HWk5xY2V4ZnlsdWtZcDc1YUcwRGRUaUVOb2Fuem5Sa2xCdmFCNEw3czM1aEt5dzMwRkRJckhuT1RVakpBMGFYdVZ0RUNabmg2b0R6S2RZS0hJSFJnTGZnb0p0dWtIT1NVb0h1Rm92WnFfNWo1V185TGMtbGRhMllPQ2hVTTZ0VXNnbEpuUQ?oc=5",
@@ -979,7 +1285,7 @@
       "data": "2026-08-24T11:43:24.000Z",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMk9MTVhQZldtNEVYaFgxdTJ0MGJVbFd5QV9POXJEbEtlbWpMdnp2OEFyZDhoMW9UU0VwVkpSalNkWTJPblh3aDN6ZXR2YnNBZ0ozQndJVkZGd2FYY3VVLXpTNjUyOHNNVkQ2eXZLUVhMdnZUN3pxVC14MlJON2VlMTZTd0VDa1pydG03QV9LVGRfOGZxa1ZLUktB0gGfAUFVX3lxTE5UeGtlak52N2lXOUJmLVJxRjcxRnRKRUF1SS1mU0RKbVM4N0RIRURyZE5xa0lRajZZdV9KVkpkTG85amprb3laRVpDNmc5UWF3ZE5ycjdlVWpFeEhzS3VCSm9takJhUVh5el9tWmJTRlBpUEo1bW0yV3BEZEozWGFVTDNnejlBUmd4UXR6b0wwUklhWThZQkg5c2JtLWdOTQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMk9MTVhQZldtNEVYaFgxdTJ0MGJVbFd5QV9POXJEbEtlbWpMdnp2OEFyZDhoMW9UU0VwVkpSalNkWTJPblh3aDN6ZXR2YnNBZ0ozQndJVkZGd2FYY3VVLXpTNjUyOHNNVkQ2eXZLUVhMdnZUN3pxVC14MlJON2VlMTZTd0VDa1pydG03QV9LVGRfOGZxa1ZLUktB0gGfAUFVX3lxTE5UeGtlak52N2lXOUJmLVJxRjcxRnRKRUF1SS1mU0RKbVM4N0RIRURyZE5xa0lRajZZdV9KVkpkTG85amprb3laRVpDNmc5UWF3ZE5ycjdlVWpFeEhzS3VCSm9takJhUVh5el9tWmJTRlBpUEo1bW0yV3BEZEozWGFVTDNnejlBUmd4UXR6b0wwUklhWThZQkg5c2JtLWdOTQ?oc=5",
-      "query": "previdência complementar"
+      "query": "reforma da previdência"
     },
     {
       "id": "35fe671dc1349716d8cc62577eeba5ec14b2e81a",
@@ -1046,8 +1352,8 @@
       "titulo": "Filas preocupam, e benefício do INSS vai para lista de alto risco do TCU",
       "resumo": "Filas preocupam, e benefício do INSS vai para lista de alto risco do TCU Valor Econômico",
       "fonte": "Valor Econômico",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T08:00:51.000Z",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWowM2VweFFFUWczcU9HTnR6UzJUVHpZZDViU0lWTHh3MDRlMEc5X1RpYjgwajk5Njg3ZGVTbVVCNUZSZTQzQUtGOEhMWWxLMHA1ZUxjM1dpM1ZoZXVEMHJTd0FsMkNoTDMtT0RsNFpvenFvZzlxSG10OUpGeDZOemVSUHpxWEU5YnZtRm5YN2pLdmp0SUMzeVM4dEtXcERLNW5kN0cwUjRaeDhYWFlfNER0X25maGdKSFVsclBJOF9BRV8wU1HSAdQBQVVfeXFMUEpRejZKVHEtQ3M0STR6TDlZano4dk9BbS1ldk1OQ3B5YTBYb1N5dkltQ1JKcnl3MHRDdW9iOHlZbG0wR0dxOTVSUENLWnFzeEVWZkJLejhOZHdHV19GM0tfdkdGVzZJTWJVc1lmMDBCY0k1V2dfYzgzcDNFQjJnRmIxYlVVZmYzM21JbC1CSXh3VXRMX3ZyU19jLThpUWthV2NCS3F6a014WVNnTXljZ1JFYThJWEhwYUZERUJvLXJ1MW1xWEhDcjhYaUtKZDhUTjlXU3A?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWowM2VweFFFUWczcU9HTnR6UzJUVHpZZDViU0lWTHh3MDRlMEc5X1RpYjgwajk5Njg3ZGVTbVVCNUZSZTQzQUtGOEhMWWxLMHA1ZUxjM1dpM1ZoZXVEMHJTd0FsMkNoTDMtT0RsNFpvenFvZzlxSG10OUpGeDZOemVSUHpxWEU5YnZtRm5YN2pLdmp0SUMzeVM4dEtXcERLNW5kN0cwUjRaeDhYWFlfNER0X25maGdKSFVsclBJOF9BRV8wU1HSAdQBQVVfeXFMUEpRejZKVHEtQ3M0STR6TDlZano4dk9BbS1ldk1OQ3B5YTBYb1N5dkltQ1JKcnl3MHRDdW9iOHlZbG0wR0dxOTVSUENLWnFzeEVWZkJLejhOZHdHV19GM0tfdkdGVzZJTWJVc1lmMDBCY0k1V2dfYzgzcDNFQjJnRmIxYlVVZmYzM21JbC1CSXh3VXRMX3ZyU19jLThpUWthV2NCS3F6a014WVNnTXljZ1JFYThJWEhwYUZERUJvLXJ1MW1xWEhDcjhYaUtKZDhUTjlXU3A?oc=5",
@@ -1058,8 +1364,8 @@
       "titulo": "Governo Lula discute política do salário mínimo diferente para trabalhador e beneficiário do INSS",
       "resumo": "Governo Lula discute política do salário mínimo diferente para trabalhador e beneficiário do INSS Valor Econômico",
       "fonte": "Valor Econômico",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T08:00:39.000Z",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnJIRDB5OGJ4T25MU004bDAwcVVTMDEyTm9HTTkxUFhXMmxJNFhOdTVCdjVab1EteHBKQ0J0dVk2djh6VTAtRVFYSzJ3djcyVHQ1Nm1XcTFfZldPeVNmZ2daZlBHdTJVdHZoWXRFaUhOb0JsM2o2LUE0LU5xa3d5alQtdFJrQUctZmZ6V2J3MGU5Z0x1VUdERVZSdTNEbVZYVHE1cUg4YmdoYS1kbG9ZZTR3WlAzTU4xcmZRRlZhaklvUUlSOXRUYkxGRmJvM3lKN1llOTV1aExpMEJ0ZVAwTzc4dG9JcUlR0gH3AUFVX3lxTE5IcHc5ZU4tOWl2a1NhYnl0R0JnTEVOMGpVckV4R082LUxiSWpCUjRiQ0g5S05ScndNRUppYTUtN09mV0VmNy1hSUIxdXZiODNKckNabWEza09OcjU2cTZvMWlwT1lfMzdRSy1acGVFS1B4V0Q0eDZTYXBnbWY4NUNoNlgzRGhZcnp2X2RKaEhDR3lFWFN0SFJ0cG5Xb3FFV09PM0xEcEVUdnpTODRoZzRyMWpWRWJnTWVCRjNuVnBUR05OWHNPQWlnRDhlYThjM3dON2x1Sy1xQjZ1SE5CNS1OcS0zRExXaXhoUTcyRTVrMG40eDVTbTA?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnJIRDB5OGJ4T25MU004bDAwcVVTMDEyTm9HTTkxUFhXMmxJNFhOdTVCdjVab1EteHBKQ0J0dVk2djh6VTAtRVFYSzJ3djcyVHQ1Nm1XcTFfZldPeVNmZ2daZlBHdTJVdHZoWXRFaUhOb0JsM2o2LUE0LU5xa3d5alQtdFJrQUctZmZ6V2J3MGU5Z0x1VUdERVZSdTNEbVZYVHE1cUg4YmdoYS1kbG9ZZTR3WlAzTU4xcmZRRlZhaklvUUlSOXRUYkxGRmJvM3lKN1llOTV1aExpMEJ0ZVAwTzc4dG9JcUlR0gH3AUFVX3lxTE5IcHc5ZU4tOWl2a1NhYnl0R0JnTEVOMGpVckV4R082LUxiSWpCUjRiQ0g5S05ScndNRUppYTUtN09mV0VmNy1hSUIxdXZiODNKckNabWEza09OcjU2cTZvMWlwT1lfMzdRSy1acGVFS1B4V0Q0eDZTYXBnbWY4NUNoNlgzRGhZcnp2X2RKaEhDR3lFWFN0SFJ0cG5Xb3FFV09PM0xEcEVUdnpTODRoZzRyMWpWRWJnTWVCRjNuVnBUR05OWHNPQWlnRDhlYThjM3dON2x1Sy1xQjZ1SE5CNS1OcS0zRExXaXhoUTcyRTVrMG40eDVTbTA?oc=5",
@@ -1094,8 +1400,8 @@
       "titulo": "Leitor reclama de suspensão de benefício do INSS",
       "resumo": "Leitor reclama de suspensão de benefício do INSS Estadão",
       "fonte": "Estadão",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-24T01:10:37.000Z",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUlhMU5KX1AyX3YxSklIVDUtZVllM1prVUNrZFNSU1dpTVJ6eVZGQjE2UzlhSERYUmprZHNqenY5TjBUbXMtX2FLN3Vvclc0Qm5zcURpM2pNZVFIcFVoM0liYmJfOGR1Tm1XSmhnS1h5M3BXWm5ldGRMMDBjUG5ucHhnVlhRTHFvdkxDM3JuRnM2Zk12R2VRTlQyM0doUW9JaTJRalF0T05YeE1V?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUlhMU5KX1AyX3YxSklIVDUtZVllM1prVUNrZFNSU1dpTVJ6eVZGQjE2UzlhSERYUmprZHNqenY5TjBUbXMtX2FLN3Vvclc0Qm5zcURpM2pNZVFIcFVoM0liYmJfOGR1Tm1XSmhnS1h5M3BXWm5ldGRMMDBjUG5ucHhnVlhRTHFvdkxDM3JuRnM2Zk12R2VRTlQyM0doUW9JaTJRalF0T05YeE1V?oc=5",
@@ -1226,8 +1532,8 @@
       "titulo": "Contribuição de aposentados para o INSS pode acabar? Tema volta a andar no Senado",
       "resumo": "Contribuição de aposentados para o INSS pode acabar? Tema volta a andar no Senado InfoMoney",
       "fonte": "InfoMoney",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-23T16:03:20.000Z",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUllcHRwYnh4U2RxUmpyV3o3R2ZSb0tfcjcxT3NwSEpZNnludmdBQ3JWNnN3dW9JdkVmM00yQmtxM0Z5dXZOdlg5M1dJOFZuMXlNSnhtcXl0VW1sQmxPMmN2MDVfeWNxbzV5djluZC1qQTBLTDBJRUx5NWk5NjdpcDZ5bFNtTG9ST1NibWoxXzlFakR1N0VHamRUazYwNWdUN1huaGhCa25kM2RhRmhtTTFIdm83bkFxVHJwZm54YnR5YnZr0gHKAUFVX3lxTE5kcmQtYV9xVDlkN2t1ZlNmVHI2NFZlcmcwMU1NTzN5M3Y1MzVZMUpDS0E3LS1HVWtpWHA2WmNSUjFpTUpYNkpXYXNQSmxaTzg2YllrbTliNFY4b0xfV1dlZUJDZmVwQ0djZ01ON0tTUHg1SWR2QmFta1NWRVdmUHljZFRrdjk4b1NRNnBVNGZuYnBId3VBRHNJeFFLM2ZxRS1neHlrQ3BOMmxqaG1fZzh6MHJoOWVrWVhoVllHc1pNcG1wX1RwSzY2REE?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYUllcHRwYnh4U2RxUmpyV3o3R2ZSb0tfcjcxT3NwSEpZNnludmdBQ3JWNnN3dW9JdkVmM00yQmtxM0Z5dXZOdlg5M1dJOFZuMXlNSnhtcXl0VW1sQmxPMmN2MDVfeWNxbzV5djluZC1qQTBLTDBJRUx5NWk5NjdpcDZ5bFNtTG9ST1NibWoxXzlFakR1N0VHamRUazYwNWdUN1huaGhCa25kM2RhRmhtTTFIdm83bkFxVHJwZm54YnR5YnZr0gHKAUFVX3lxTE5kcmQtYV9xVDlkN2t1ZlNmVHI2NFZlcmcwMU1NTzN5M3Y1MzVZMUpDS0E3LS1HVWtpWHA2WmNSUjFpTUpYNkpXYXNQSmxaTzg2YllrbTliNFY4b0xfV1dlZUJDZmVwQ0djZ01ON0tTUHg1SWR2QmFta1NWRVdmUHljZFRrdjk4b1NRNnBVNGZuYnBId3VBRHNJeFFLM2ZxRS1neHlrQ3BOMmxqaG1fZzh6MHJoOWVrWVhoVllHc1pNcG1wX1RwSzY2REE?oc=5",
@@ -1262,8 +1568,8 @@
       "titulo": "Zema defende nova reforma da Previdência com ajuste pela expectativa de vida",
       "resumo": "Zema defende nova reforma da Previdência com ajuste pela expectativa de vida InfoMoney",
       "fonte": "InfoMoney",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-23T12:20:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXdsNWpScGJWclVGS3U5VVFXY2hNVTQxVkdVWmVOWlFFZjQtQnBWbXhmZ2IwUlB0X0J5ZGFQNFhKajJCWmtVa0UxTnVpdUE4bjJ5S0pfUzZjalVuTE91N3VyTV9iY2JZU0ZKbnR4clY0aVM5VVc3UHVrZFloclBPVmtvMS1DRnVhQnFPb2FTbExyWkdvc2RxMnljY2FhVEJrcWZUQ2NsNWJBdjk5NEUwLXJDanRqUdIBuwFBVV95cUxNUy1ncEtWM3JfTm1RYm9fM191R3BGcG9FTTJoMWNXNlRFM1pqUXJVQVF6SVNTVjZGXzZrd2VaV0tlQ0pJMDl1QUtFUllUbUVjaDhaNWx1bTZuMVlmblFFSGlfWERHNGc1Z1Y1NDN2Tk90NksyVWpXU2EwZ1V5QTgzQ2FkcTlhc1NzM1AxQktSX0cxODIyWkdqVXVDNHA3OW9IRVltdWVsNlB4TVh3SG9BY2VPa1RZRlhjbFJ3?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXdsNWpScGJWclVGS3U5VVFXY2hNVTQxVkdVWmVOWlFFZjQtQnBWbXhmZ2IwUlB0X0J5ZGFQNFhKajJCWmtVa0UxTnVpdUE4bjJ5S0pfUzZjalVuTE91N3VyTV9iY2JZU0ZKbnR4clY0aVM5VVc3UHVrZFloclBPVmtvMS1DRnVhQnFPb2FTbExyWkdvc2RxMnljY2FhVEJrcWZUQ2NsNWJBdjk5NEUwLXJDanRqUdIBuwFBVV95cUxNUy1ncEtWM3JfTm1RYm9fM191R3BGcG9FTTJoMWNXNlRFM1pqUXJVQVF6SVNTVjZGXzZrd2VaV0tlQ0pJMDl1QUtFUllUbUVjaDhaNWx1bTZuMVlmblFFSGlfWERHNGc1Z1Y1NDN2Tk90NksyVWpXU2EwZ1V5QTgzQ2FkcTlhc1NzM1AxQktSX0cxODIyWkdqVXVDNHA3OW9IRVltdWVsNlB4TVh3SG9BY2VPa1RZRlhjbFJ3?oc=5",
@@ -1282,15 +1588,15 @@
       "query": "previdência complementar"
     },
     {
-      "id": "4610f1f04270638641121560be8db6fdda359a4f",
+      "id": "bf36f94ed6dc90f8df2332c649dd270f4baf91c0",
       "titulo": "Zema defende mais tempo de contribuição para aposentadoria",
       "resumo": "Zema defende mais tempo de contribuição para aposentadoria Ponta Negra News",
       "fonte": "Ponta Negra News",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-23T11:27:02.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnFpaDd5Mlo1TWt5RkFmQTJoUzlDVE1LSXhXR1cyTjMydzQtNm4wb0tzZFBaVFNLWUJTS2FHQ2tqUTZWVTVJZnhDNjRyVHR2U2Z1emlqaGNrNmpwbWRnN0diRU9oNHFCbkdQaWhXTS05RHlhRUFWTkR2QmpTZ19ESUctaVA1LTdDYkJMc08zM1NMUXlMOXhBaVctOUpCNVRMdU5oc1U1RdIBpwFBVV95cUxPMnFpaDd5Mlo1TWt5RkFmQTJoUzlDVE1LSXhXR1cyTjMydzQtNm4wb0tzZFBaVFNLWUJTS2FHQ2tqUTZWVTVJZnhDNjRyVHR2U2Z1emlqaGNrNmpwbWRnN0diRU9oNHFCbkdQaWhXTS05RHlhRUFWTkR2QmpTZ19ESUctaVA1LTdDYkJMc08zM1NMUXlMOXhBaVctOUpCNVRMdU5oc1U1RQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnFpaDd5Mlo1TWt5RkFmQTJoUzlDVE1LSXhXR1cyTjMydzQtNm4wb0tzZFBaVFNLWUJTS2FHQ2tqUTZWVTVJZnhDNjRyVHR2U2Z1emlqaGNrNmpwbWRnN0diRU9oNHFCbkdQaWhXTS05RHlhRUFWTkR2QmpTZ19ESUctaVA1LTdDYkJMc08zM1NMUXlMOXhBaVctOUpCNVRMdU5oc1U1RdIBpwFBVV95cUxPMnFpaDd5Mlo1TWt5RkFmQTJoUzlDVE1LSXhXR1cyTjMydzQtNm4wb0tzZFBaVFNLWUJTS2FHQ2tqUTZWVTVJZnhDNjRyVHR2U2Z1emlqaGNrNmpwbWRnN0diRU9oNHFCbkdQaWhXTS05RHlhRUFWTkR2QmpTZ19ESUctaVA1LTdDYkJMc08zM1NMUXlMOXhBaVctOUpCNVRMdU5oc1U1RQ?oc=5",
+      "data": "2026-08-23T11:26:57.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkp5N25TTlpydmVQTERUdnhlSGxSejZiMXlzRW9wdWx3Vms4SnZNemdBZ05CblZHUEE2X09XeTBaS3pPdDVmc0Q1aVVianpXaExvSldKNHQtckVOcnRJRlYwYzBqWGdwZk81ZmpEaGMxYldNaXhBU1lfV2RSN0M5TTZmN215cXR4ZUZ4SW9KRm9DUWhnVjBXbmdlaUtaVzJYNXfSAacBQVVfeXFMTzJxaWg3eTJaNU1reUZBZkEyaFM5Q1RNS0l4V0dXMk4zMnc0LTZuMG9Lc2RQWlRTS1lCU0thR0NralE2VlU1SWZ4QzY0clR0dlNmdXppamhjazZqcG1kZzdHYkVPaDRxQm5HUGloV00tOUR5YUVBVk5EdkJqU2dfRElHLWlQNS03Q2JCTHNPMzNTTFF5TDl4QWlXLTlKQjVUTHVOaHNVNUU?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkp5N25TTlpydmVQTERUdnhlSGxSejZiMXlzRW9wdWx3Vms4SnZNemdBZ05CblZHUEE2X09XeTBaS3pPdDVmc0Q1aVVianpXaExvSldKNHQtckVOcnRJRlYwYzBqWGdwZk81ZmpEaGMxYldNaXhBU1lfV2RSN0M5TTZmN215cXR4ZUZ4SW9KRm9DUWhnVjBXbmdlaUtaVzJYNXfSAacBQVVfeXFMTzJxaWg3eTJaNU1reUZBZkEyaFM5Q1RNS0l4V0dXMk4zMnc0LTZuMG9Lc2RQWlRTS1lCU0thR0NralE2VlU1SWZ4QzY0clR0dlNmdXppamhjazZqcG1kZzdHYkVPaDRxQm5HUGloV00tOUR5YUVBVk5EdkJqU2dfRElHLWlQNS03Q2JCTHNPMzNTTFF5TDl4QWlXLTlKQjVUTHVOaHNVNUU?oc=5",
       "query": "reforma da previdência"
     },
     {
@@ -1298,8 +1604,8 @@
       "titulo": "Devolução de previdência obtida por liminar revogada prescreve em dez anos",
       "resumo": "Devolução de previdência obtida por liminar revogada prescreve em dez anos Consultor Jurídico",
       "fonte": "Consultor Jurídico",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
       "data": "2026-08-23T11:22:21.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGZFWnNyUXoyakhsZWk3SkswaEJGTG9qV0ZZeGZ0UnRGaGtQS1JXazNWUDFHcm9OcE5YYjYxc01QSm03ZV9XZlRKMWUtOExlUkh3aHNRX1huUTBvOTg0bEpTQy1WSzJyVUtuZS1JbVZXWE5wdzRpbEl1eE9ENUhYakNGVHhkN2tYUmJCRFdrUzduOTkwNEJZWmE4cklrdi1ENVlXdUFnbGd6QQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObGZFWnNyUXoyakhsZWk3SkswaEJGTG9qV0ZZeGZ0UnRGaGtQS1JXazNWUDFHcm9OcE5YYjYxc01QSm03ZV9XZlRKMWUtOExlUkh3aHNRX1huUTBvOTg0bEpTQy1WSzJyVUtuZS1JbVZXWE5wdzRpbEl1eE9ENUhYakNGVHhkN2tYUmJCRFdrUzduOTkwNEJZWmE4cklrdi1ENVlXdUFnbGd6QQ?oc=5",
@@ -1346,23 +1652,23 @@
       "titulo": "INSS volta a liberar empréstimo consignado a aposentados e pensionistas sem biometria facial. Veja como funciona",
       "resumo": "INSS volta a liberar empréstimo consignado a aposentados e pensionistas sem biometria facial. Veja como funciona O GLOBO",
       "fonte": "O GLOBO",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-23T03:00:18.000Z",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM0d5SVVCSTdpc0tJbUtzajYxOHZXbjhpNVhoS2hUcl9TdmMtbks0VzllekdrdzBycmxCU2xtSGRFVlNiRGxlSHpQckZYQ19GV0NFTnY1SHRrLXVXTDdvY2dpZWs3dS1xYkJvUVhsZ0ppNHJtcE03MkQ4VXlZQmxBM1hwX1poX3I3UUs3TlVZMVBENkhDUVppZ0c5NlRnY1k1dDc0dVc5Z1REczJnSlFfRkVCaGpoX2pUbjZ5NGtLMXlnSVN4RXhieHlHdVNGUEtQalE2UlF2NVNQSzExQXFCc3VwajlZXzdQRjFJdy04cjFyNE1tc2huS1hfdWZkaGJGU1dEWmdOTXY0R0HSAZoCQVVfeXFMTUE2a18xRXcyLWltZm5tSXlvVlZteDlYVVVpMnhBTkVDVG5RWGJUNWkxaG10UUhhTk55Q1pzdFNaclU5MXRISlMyVXg0TTJpSHZpS3FvdHlWTG9vd3FpMTJVd1Y2NWM0alZCYkFzamZJSG9lUmhiVS0wRkFhc0J3RU12b3lwRFpqNGhkSjQwUnFCRFVMVFFkSzlrWEFFSTVvMmtHWTlPRnhkdmFEaGtwRi10ZWZ3X1FWQmlZUHY3WEFwc05hN20yUHBjVmJsbjZxS21zTVh1VTZwa2VSbVczQjZwMXhRRk5pcHVGQWVfd1dOak12b3o2Q3F6dEptUDhyZEx6cXV1V1pGRW1YLW8tVjJfbDR6b3VwTXJn?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM0d5SVVCSTdpc0tJbUtzajYxOHZXbjhpNVhoS2hUcl9TdmMtbks0VzllekdrdzBycmxCU2xtSGRFVlNiRGxlSHpQckZYQ19GV0NFTnY1SHRrLXVXTDdvY2dpZWs3dS1xYkJvUVhsZ0ppNHJtcE03MkQ4VXlZQmxBM1hwX1poX3I3UUs3TlVZMVBENkhDUVppZ0c5NlRnY1k1dDc0dVc5Z1REczJnSlFfRkVCaGpoX2pUbjZ5NGtLMXlnSVN4RXhieHlHdVNGUEtQalE2UlF2NVNQSzExQXFCc3VwajlZXzdQRjFJdy04cjFyNE1tc2huS1hfdWZkaGJGU1dEWmdOTXY0R0HSAZoCQVVfeXFMTUE2a18xRXcyLWltZm5tSXlvVlZteDlYVVVpMnhBTkVDVG5RWGJUNWkxaG10UUhhTk55Q1pzdFNaclU5MXRISlMyVXg0TTJpSHZpS3FvdHlWTG9vd3FpMTJVd1Y2NWM0alZCYkFzamZJSG9lUmhiVS0wRkFhc0J3RU12b3lwRFpqNGhkSjQwUnFCRFVMVFFkSzlrWEFFSTVvMmtHWTlPRnhkdmFEaGtwRi10ZWZ3X1FWQmlZUHY3WEFwc05hN20yUHBjVmJsbjZxS21zTVh1VTZwa2VSbVczQjZwMXhRRk5pcHVGQWVfd1dOak12b3o2Q3F6dEptUDhyZEx6cXV1V1pGRW1YLW8tVjJfbDR6b3VwTXJn?oc=5",
       "query": "INSS benefício"
     },
     {
-      "id": "022888c9c6d9c3d00dda0f6c51027181335f6915",
-      "titulo": "Zema defende nova reforma da Previdência e admite ampliar tempo de contribuição",
-      "resumo": "Zema defende nova reforma da Previdência e admite ampliar tempo de contribuição grupo sepé",
-      "fonte": "grupo sepé",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-23T02:37:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIbzlCeHM5NTdIRlltYVNQNkxrSDBUWW5Pd05wRUgwWWJPY0RFMmphckZmT2pYSm03Yk94RzRSRlF6QzlNV0NXUU9KTy1LRmJmMnM3ZUVKQk5XcEZlcDA0Z21ObTh1RE9CRGY1VWF3SQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIbzlCeHM5NTdIRlltYVNQNkxrSDBUWW5Pd05wRUgwWWJPY0RFMmphckZmT2pYSm03Yk94RzRSRlF6QzlNV0NXUU9KTy1LRmJmMnM3ZUVKQk5XcEZlcDA0Z21ObTh1RE9CRGY1VWF3SQ?oc=5",
+      "id": "4cf9183ebc4294b15925565d425b0671f9c536ac",
+      "titulo": "Zema defende nova reforma da Previdência e admite aumentar tempo de contribuição",
+      "resumo": "Zema defende nova reforma da Previdência e admite aumentar tempo de contribuição G1",
+      "fonte": "G1",
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
+      "data": "2026-08-22T17:51:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTTB4SVJCNlpBcDVqeFVVTkFIVWdpckVNWFFQbjNuRXZqUW5YU2I5MmhaUmstNXpZT1didFdTOE5LTGM2RHkyekRfVk5HcGZMWHZ1Z1p5NTN2alF5R3hHSDczdHJjR1R5eUFqRDl5LWxLdXhEOEJZVkljTGRKUnhlbndNeFUxWEhsMkpSbkVjcWNDTnBoX1ZIVXh4SFpSM2NqbVdhek8xY29jZ2Z5ZGQ1cXVsekItc1I5Nl9KcFQyenpUOGxESE5HcFdFd0pJLS1sUWVyTzdwREtHZExqbVZVMzRsekd4NTZt0gH3AUFVX3lxTFA3UXY3cDktMGZqY0lMZHRGMVhLUUltVTY5YWhCTnFCcE52QVlOZTV4ZWRrV3VrRHR4TzcyMVREd1hneS1IOHNjajlvTGlJX1BYVG1rcVcxeWJicFpwYUY3LWxmOU9zOFJOY2JIX3pIZXZCT1pDbUxHakx3aWlMMmpNSGdFMjEyNEN3ejdaeE9TU0pORi1WOTlIcTJlMnV4SmRiSWFkWm5OWjBuZGRKYmJ1VEFUbzFyb1U0QkhhOHBER0RMOE5MdDZENVRDMnVLNjRQc0JEVmpJRWJZVXBaU0hmeXhudkZUX2o2RXhRc19vTTVjOW5IcFU?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTTB4SVJCNlpBcDVqeFVVTkFIVWdpckVNWFFQbjNuRXZqUW5YU2I5MmhaUmstNXpZT1didFdTOE5LTGM2RHkyekRfVk5HcGZMWHZ1Z1p5NTN2alF5R3hHSDczdHJjR1R5eUFqRDl5LWxLdXhEOEJZVkljTGRKUnhlbndNeFUxWEhsMkpSbkVjcWNDTnBoX1ZIVXh4SFpSM2NqbVdhek8xY29jZ2Z5ZGQ1cXVsekItc1I5Nl9KcFQyenpUOGxESE5HcFdFd0pJLS1sUWVyTzdwREtHZExqbVZVMzRsekd4NTZt0gH3AUFVX3lxTFA3UXY3cDktMGZqY0lMZHRGMVhLUUltVTY5YWhCTnFCcE52QVlOZTV4ZWRrV3VrRHR4TzcyMVREd1hneS1IOHNjajlvTGlJX1BYVG1rcVcxeWJicFpwYUY3LWxmOU9zOFJOY2JIX3pIZXZCT1pDbUxHakx3aWlMMmpNSGdFMjEyNEN3ejdaeE9TU0pORi1WOTlIcTJlMnV4SmRiSWFkWm5OWjBuZGRKYmJ1VEFUbzFyb1U0QkhhOHBER0RMOE5MdDZENVRDMnVLNjRQc0JEVmpJRWJZVXBaU0hmeXhudkZUX2o2RXhRc19vTTVjOW5IcFU?oc=5",
       "query": "reforma da previdência"
     },
     {
@@ -1414,30 +1720,6 @@
       "query": "INSS benefício"
     },
     {
-      "id": "10f06dfd3de8dc9e67badf401cb0305b4e863a90",
-      "titulo": "Romeu Zema sugere reforma da Previdência com aumento do tempo de contribuição",
-      "resumo": "Romeu Zema sugere reforma da Previdência com aumento do tempo de contribuição PAIPEE -",
-      "fonte": "PAIPEE -",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-22T22:02:41.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3BWeF9ZN2lSR19pTURXS2JPSnZtTnZ0d1F5Y1R3Z1I1M09CMnVFVDJKNl8wZnhkNWkxZF8wQVNCaEtfVFY3bUllSGVtUlNaa2IzNUxYdk4zd2R1bS1VSTJ6LTBpVWlILXBNQTlKenlseW0wSkJ4Z2hzQWZab1k2eVpRYWpxUERKUVV1bnVLN1lXT0ZNRkR6cU5GbVBObm9MM1dYR25kNENkbXZsYnRCUg?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3BWeF9ZN2lSR19pTURXS2JPSnZtTnZ0d1F5Y1R3Z1I1M09CMnVFVDJKNl8wZnhkNWkxZF8wQVNCaEtfVFY3bUllSGVtUlNaa2IzNUxYdk4zd2R1bS1VSTJ6LTBpVWlILXBNQTlKenlseW0wSkJ4Z2hzQWZab1k2eVpRYWpxUERKUVV1bnVLN1lXT0ZNRkR6cU5GbVBObm9MM1dYR25kNENkbXZsYnRCUg?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
-      "id": "829cc2a78f2bd108db790fe0418790b6c4663ed7",
-      "titulo": "Zema, crítico de programas sociais, defende mais tempo de contribuição para aposentadoria",
-      "resumo": "Zema, crítico de programas sociais, defende mais tempo de contribuição para aposentadoria Diário do Centro do Mundo",
-      "fonte": "Diário do Centro do Mundo",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-22T20:08:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTU9GU0U3UU91WkpKU2Q1SFFIQUNqeGRrRlRZUGpER2xYbmFHV0dYZExHSnZGc1V2cEF4Q2VWRHpJM2RIaldqWUtUU2JBZnRmUXZ1VHNhWHJMX2R0N1dMRVpqbEM0YVp5amdwbTVfUEZJWXVJT18ydFljM3o2X2dIMU91LV95V3RJelBJZzAzVWVlRXBtQXZmRXdQQTh6TUlKUHBuNzV5dk5RZFl0OXdVZXlsMmtLc0gyNXYtVlBpMW5RczRPbDhBdg?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTU9GU0U3UU91WkpKU2Q1SFFIQUNqeGRrRlRZUGpER2xYbmFHV0dYZExHSnZGc1V2cEF4Q2VWRHpJM2RIaldqWUtUU2JBZnRmUXZ1VHNhWHJMX2R0N1dMRVpqbEM0YVp5amdwbTVfUEZJWXVJT18ydFljM3o2X2dIMU91LV95V3RJelBJZzAzVWVlRXBtQXZmRXdQQTh6TUlKUHBuNzV5dk5RZFl0OXdVZXlsMmtLc0gyNXYtVlBpMW5RczRPbDhBdg?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "b25eefd1f21279ed4744b86bd2fd718c23a140f7",
       "titulo": "Zema propõe vínculo entre tempo de contribuição e expectativa de vida em nova reforma da Previdência",
       "resumo": "Zema propõe vínculo entre tempo de contribuição e expectativa de vida em nova reforma da Previdência diarioesp.com.br",
@@ -1466,8 +1748,8 @@
       "titulo": "Zema defende nova reforma da Previdência e fala em aumentar tempo de contribuição",
       "resumo": "Zema defende nova reforma da Previdência e fala em aumentar tempo de contribuição Valor Econômico",
       "fonte": "Valor Econômico",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-22T19:35:51.000Z",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN2RSb3JXOTN6Q2ZpV2dUdlRqRGl0RldKR2hqdzZQekVjY3ZUNUsxY2lVRmUzOWtTb05VUnJ5Z295QUtfd2VGUmxuNGxQX2RSMFY5aHRxN3ZrSm82WXVWcDN0Y0tEa1lzX196blR1OWt6ZXZ6WFZUODJtUXdac3FNTXk3SWNXUW8wOTc0UlZ1cGZydnhsR19YS0JTR1J6STQ0OVVBYXlZS1ctRUoxT1l3X3FGMlpncXlLZ19UVUpEM3hWUjg2M2xVcUY4UG53UGZuaUdTbU5mTVBZMldWWEhxRzhhZFjSAfMBQVVfeXFMTzBJV2FoYmRLX2Z0YjZPZm93Rm9yWXpRQzlldHJibTVOUnlBb2Zydk92cm9MWHZsTEZPdE1pOUc5NEZvSV9zT21xRVFEUHBFMVlIT3llNm5jczhTVjlXdUxRVHExc0NSTDNtczZIYmlMZHEzSmo3bGcyZDBtUmdtbTJTZXpkLXBKcE81TlBmcktxOGhhSXpTTDVva3FlLXNJeGY2M2VZQ0U4V2dSNUdPWUpnVjJUYjk0RXo0cUh0VXc0cjhBdlM5S1RJclhJMW1XN2N1ZWYzMktpaUt0QUFLeGNxVnR6SndFdnN6a1hxZkFOX3JN?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN2RSb3JXOTN6Q2ZpV2dUdlRqRGl0RldKR2hqdzZQekVjY3ZUNUsxY2lVRmUzOWtTb05VUnJ5Z295QUtfd2VGUmxuNGxQX2RSMFY5aHRxN3ZrSm82WXVWcDN0Y0tEa1lzX196blR1OWt6ZXZ6WFZUODJtUXdac3FNTXk3SWNXUW8wOTc0UlZ1cGZydnhsR19YS0JTR1J6STQ0OVVBYXlZS1ctRUoxT1l3X3FGMlpncXlLZ19UVUpEM3hWUjg2M2xVcUY4UG53UGZuaUdTbU5mTVBZMldWWEhxRzhhZFjSAfMBQVVfeXFMTzBJV2FoYmRLX2Z0YjZPZm93Rm9yWXpRQzlldHJibTVOUnlBb2Zydk92cm9MWHZsTEZPdE1pOUc5NEZvSV9zT21xRVFEUHBFMVlIT3llNm5jczhTVjlXdUxRVHExc0NSTDNtczZIYmlMZHEzSmo3bGcyZDBtUmdtbTJTZXpkLXBKcE81TlBmcktxOGhhSXpTTDVva3FlLXNJeGY2M2VZQ0U4V2dSNUdPWUpnVjJUYjk0RXo0cUh0VXc0cjhBdlM5S1RJclhJMW1XN2N1ZWYzMktpaUt0QUFLeGNxVnR6SndFdnN6a1hxZkFOX3JN?oc=5",
@@ -1498,40 +1780,16 @@
       "query": "previdência complementar"
     },
     {
-      "id": "fb576f5149c6e436d835a0ab58e8627703bcb7eb",
-      "titulo": "Antena 10 FM",
-      "resumo": "Antena 10 FM Antena 10 FM",
-      "fonte": "Antena 10 FM",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-22T18:15:30.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb2RabC1GZk82LW5rcm5hYUtPQ0FuUnRSSTdSbzV3SUlTVDVOR1p3RFprMlM5QXc1NGF5ME9TV3EzV2s5SWMwd3JuZENvN1luNk9XelVHc0xyV2NrcURkeW9hYm5uNTZBcVY2QUhLcU1EdGg4YWhEQllFbkZjckdYeGlOM0RpcDRUOHY5NlpZOXdyeWJnRlh2WEU2WU9ZUmQtMkdJdV9xVmRrN1lMUW0tWXJJYTB5MnJyMTR6NnJUNGJfVUF1WWhDMA?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb2RabC1GZk82LW5rcm5hYUtPQ0FuUnRSSTdSbzV3SUlTVDVOR1p3RFprMlM5QXc1NGF5ME9TV3EzV2s5SWMwd3JuZENvN1luNk9XelVHc0xyV2NrcURkeW9hYm5uNTZBcVY2QUhLcU1EdGg4YWhEQllFbkZjckdYeGlOM0RpcDRUOHY5NlpZOXdyeWJnRlh2WEU2WU9ZUmQtMkdJdV9xVmRrN1lMUW0tWXJJYTB5MnJyMTR6NnJUNGJfVUF1WWhDMA?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "ea0b6350b3da1df24f02af0045fa0d5571f4b643",
       "titulo": "TNU define quando complementação garante benefício desde a DER",
       "resumo": "TNU define quando complementação garante benefício desde a DER Migalhas",
       "fonte": "Migalhas",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
       "data": "2026-08-22T18:03:21.000Z",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGFuMzFpTDVwd0toNWlIU0xHbS1SNm1hblhFTEd3NUJNeDhFdXBibzJXSnhvdlF2Tk01ZFRlX2NRQkZWZ0RiMVROOTJPcU9OVmJUTUg1LWJUMUU1REI0RWJXRnpyZHFVSEItdFJCSC1YdUNZYlVHdWI2b1FvR2ZRRzA4V0FSNG9acERzdjVwN2pfQlVLTFNMS2pOdHFHUFZQTFBHb3A5aHI?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMGFuMzFpTDVwd0toNWlIU0xHbS1SNm1hblhFTEd3NUJNeDhFdXBibzJXSnhvdlF2Tk01ZFRlX2NRQkZWZ0RiMVROOTJPcU9OVmJUTUg1LWJUMUU1REI0RWJXRnpyZHFVSEItdFJCSC1YdUNZYlVHdWI2b1FvR2ZRRzA4V0FSNG9acERzdjVwN2pfQlVLTFNMS2pOdHFHUFZQTFBHb3A5aHI?oc=5",
       "query": "INSS benefício"
-    },
-    {
-      "id": "62566f5c7bae775add8aa7d84a550f0d4d12cba8",
-      "titulo": "Câmara aprova incentivos para contratação em fronteiras",
-      "resumo": "Câmara aprova incentivos para contratação em fronteiras Diário Carioca",
-      "fonte": "Diário Carioca",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-22T17:47:19.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3FVeXJIVGpfOE5iRTlaWWJHNUZrX04xOGxXcWFZc0x6RnNjT3Bta1l5dVFxNl9jLWlYaGxhY05LNTdvRU1JMkxNSzJTYUhCSkdSQUVTelVsenFmbXNUNWY3YUpXRzE0ZzByelR3TmtraEhGQ19KQV9lWkt3Uk1tZjEzTzd4ZlJlZ29lZE5sSzFsRG4wV0M0WnpCd3JwdVI0SzFsakEwODNyRG1LeEtSazFONEkxNm8?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3FVeXJIVGpfOE5iRTlaWWJHNUZrX04xOGxXcWFZc0x6RnNjT3Bta1l5dVFxNl9jLWlYaGxhY05LNTdvRU1JMkxNSzJTYUhCSkdSQUVTelVsenFmbXNUNWY3YUpXRzE0ZzByelR3TmtraEhGQ19KQV9lWkt3Uk1tZjEzTzd4ZlJlZ29lZE5sSzFsRG4wV0M0WnpCd3JwdVI0SzFsakEwODNyRG1LeEtSazFONEkxNm8?oc=5",
-      "query": "contribuição previdenciária patronal"
     },
     {
       "id": "be919708e332be42625cdeefbde8de87e7aa0d9f",
@@ -1598,8 +1856,8 @@
       "titulo": "INSS aprova liberação de empréstimo consignado sem biometria facial",
       "resumo": "INSS aprova liberação de empréstimo consignado sem biometria facial CNN Brasil",
       "fonte": "CNN Brasil",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-22T14:08:39.000Z",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcndvT1JOWENyeGgyWVlBc2EzNURqNkF6U2ZEQUNJYndvTU1KbWg1cktGUk1aRlBoZ1dtOVZoZHBNY1dhUzBMd21FX3p4V1Z5LUc1SndTV0Q0VVRQVUNjZjRVQl9SVmg3MkRXQkk4YmY4eU9uYVhoQV9JWTFfdVMxVFpfYVIwRnBUV2dKRENnUEo0dHUwM2VoX0Jxd2QtNEJLOXNZREFSOXlXc1ZhNGs1bTNmdWY3QQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcndvT1JOWENyeGgyWVlBc2EzNURqNkF6U2ZEQUNJYndvTU1KbWg1cktGUk1aRlBoZ1dtOVZoZHBNY1dhUzBMd21FX3p4V1Z5LUc1SndTV0Q0VVRQVUNjZjRVQl9SVmg3MkRXQkk4YmY4eU9uYVhoQV9JWTFfdVMxVFpfYVIwRnBUV2dKRENnUEo0dHUwM2VoX0Jxd2QtNEJLOXNZREFSOXlXc1ZhNGs1bTNmdWY3QQ?oc=5",
@@ -1718,8 +1976,8 @@
       "titulo": "PREVIC solicita informações sobre contrato de dívidas em ofício dirigido às EFPC",
       "resumo": "PREVIC solicita informações sobre contrato de dívidas em ofício dirigido às EFPC www.gov.br",
       "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-21T23:19:53.000Z",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWx4MFhiSGlYelJvTFY4b2hxc1VLRDJtZkZ6S3NhdnBBVXBoZE1mQ1d2ZUV0MDhvTXhuOGotdEFZbGZzSmNTMVJmbXU0WVhPWlNJOEg1SnRjenV6a18yajI4VEFIQ1BLcUt5T0RrZkZoeWlaQ0tzZEh4Y3JaZmtYSW1aVEE5TS0xLXowR3k1emFvNGxZY1k5eE5LbkNLMk91UTJKbHM1UDRFVUlXdU9pNEJabXU1d2g5a1czRzhR?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTWx4MFhiSGlYelJvTFY4b2hxc1VLRDJtZkZ6S3NhdnBBVXBoZE1mQ1d2ZUV0MDhvTXhuOGotdEFZbGZzSmNTMVJmbXU0WVhPWlNJOEg1SnRjenV6a18yajI4VEFIQ1BLcUt5T0RrZkZoeWlaQ0tzZEh4Y3JaZmtYSW1aVEE5TS0xLXowR3k1emFvNGxZY1k5eE5LbkNLMk91UTJKbHM1UDRFVUlXdU9pNEJabXU1d2g5a1czRzhR?oc=5",
@@ -1798,24 +2056,12 @@
       "query": "perícia médica INSS"
     },
     {
-      "id": "f17ff949d2926f75715dc052fc7e7648095d92cf",
-      "titulo": "Fim da idade mínima no Brasil: trabalhadores podem se aposentar após 15, 20 ou 25 anos nestas atividades",
-      "resumo": "Fim da idade mínima no Brasil: trabalhadores podem se aposentar após 15, 20 ou 25 anos nestas atividades Diário do Comércio",
-      "fonte": "Diário do Comércio",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-21T20:45:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTFNTN1k5RDNlNkQ1VDZRU3JhR1JkRU1xN3ZIcm5mZE5iSGJpdlg5cnNVSlFIa0lZNDkxMVNjNWp4XzVMNlhNR2dIZjRZTENvU3E1SDc1X1I2X1Vld1VyWV9MQ2dHSHp2clRJQVJyMy1rUzBDalJuNm1HN1loUEhpYjJXOFlBMnBBUDJxMURFZ2pkdWFtUHZMNUdpWTRoZkpidk9LZUhYckVCZWdycnMySXRFOFlQbF9DTFdST3NxcFExWUwtemNBNi1XY2tmRWg0Wm54cFJB?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTFNTN1k5RDNlNkQ1VDZRU3JhR1JkRU1xN3ZIcm5mZE5iSGJpdlg5cnNVSlFIa0lZNDkxMVNjNWp4XzVMNlhNR2dIZjRZTENvU3E1SDc1X1I2X1Vld1VyWV9MQ2dHSHp2clRJQVJyMy1rUzBDalJuNm1HN1loUEhpYjJXOFlBMnBBUDJxMURFZ2pkdWFtUHZMNUdpWTRoZkpidk9LZUhYckVCZWdycnMySXRFOFlQbF9DTFdST3NxcFExWUwtemNBNi1XY2tmRWg0Wm54cFJB?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "9c641908f5f8593d782d19372f3a719b4f11ec56",
       "titulo": "Comissão aprova incentivos para empresa em área de fronteira que contratar jovens ou indígenas",
       "resumo": "Comissão aprova incentivos para empresa em área de fronteira que contratar jovens ou indígenas Portal da Câmara dos Deputados",
       "fonte": "Portal da Câmara dos Deputados",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-21T20:04:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUM3RnBVcjQydmNsN2luSW96cXZsd3JoV2Y3andqa2drcU9IR1JFYnp5OUp3Tmt1V2hUTU9UOHdWbEg0RlFVSF9oNXlXc3A5Nmtib2pQclN6ZzNtTEVzM1l1aHZnTlJGOW55MzVGejRZLUZNeTM4a2lRbWNkbkY4OXN6a1U2ZThYLXZLUVZONGd0cHdOWXBMeA?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcUM3RnBVcjQydmNsN2luSW96cXZsd3JoV2Y3andqa2drcU9IR1JFYnp5OUp3Tmt1V2hUTU9UOHdWbEg0RlFVSF9oNXlXc3A5Nmtib2pQclN6ZzNtTEVzM1l1aHZnTlJGOW55MzVGejRZLUZNeTM4a2lRbWNkbkY4OXN6a1U2ZThYLXZLUVZONGd0cHdOWXBMeA?oc=5",
@@ -1898,8 +2144,8 @@
       "titulo": "Comunidade dos Países de Língua Portuguesa assinam acordo que garante segurança social para trabalhadores migrantes — Ministério da Previdência Social",
       "resumo": "Comunidade dos Países de Língua Portuguesa assinam acordo que garante segurança social para trabalhadores migrantes — Ministério da Previdência Social www.gov.br",
       "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-21T14:51:50.000Z",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQXBlZmM2dGFSQmxzTDB1WWh2OWVHT3ptY0RwblpyZkNGZ3hwRDFFel9vYVRMaUlxZXBEeVFXTnBhcWhXMjdYbS04bGFTMWtjQXRUTUt3U01yU1pneHRLTUoxM2FSRHE1VWdzYTltQXdfV0Q0elZaaVBpazBmMU5xM2NBdmZLWEh1anBXRmxDT2RpTzU2S2VqZlNKdjJ6b3l0aEg5dlNEd2tjaDBGUXMtcV96TU9CNlFXd1NIOTl4M212WnRoS0NYUEVYME8tMGpldXZQY0VzYVNKbmZDSk1fc0p2aUt5djRBUERpYkJyT3FNcXB5MTNSYWs0X0xmRGExdFRr?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQXBlZmM2dGFSQmxzTDB1WWh2OWVHT3ptY0RwblpyZkNGZ3hwRDFFel9vYVRMaUlxZXBEeVFXTnBhcWhXMjdYbS04bGFTMWtjQXRUTUt3U01yU1pneHRLTUoxM2FSRHE1VWdzYTltQXdfV0Q0elZaaVBpazBmMU5xM2NBdmZLWEh1anBXRmxDT2RpTzU2S2VqZlNKdjJ6b3l0aEg5dlNEd2tjaDBGUXMtcV96TU9CNlFXd1NIOTl4M212WnRoS0NYUEVYME8tMGpldXZQY0VzYVNKbmZDSk1fc0p2aUt5djRBUERpYkJyT3FNcXB5MTNSYWs0X0xmRGExdFRr?oc=5",
@@ -1910,8 +2156,8 @@
       "titulo": "O que diz o plano de governo de Zema para a economia",
       "resumo": "O que diz o plano de governo de Zema para a economia Gazeta do Povo",
       "fonte": "Gazeta do Povo",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-21T14:46:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlhXZTZpQm1XajVFTUhuT3U3cTdpTWxoMG1rN1lXTkpZWC1hZTZWNWs5bEh4Tl9iLWdza3ZTb3k4VmRVejRWcEc3YVlqUURCQS1vbnpZQ2g5b1c0azRXZGphRk1vRGhKaEp1Y0pQaHBKM1FDaFBacVV6eGlJT1hUN3hIRQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZlhXZTZpQm1XajVFTUhuT3U3cTdpTWxoMG1rN1lXTkpZWC1hZTZWNWs5bEh4Tl9iLWdza3ZTb3k4VmRVejRWcEc3YVlqUURCQS1vbnpZQ2g5b1c0azRXZGphRk1vRGhKaEp1Y0pQaHBKM1FDaFBacVV6eGlJT1hUN3hIRQ?oc=5",
@@ -1934,8 +2180,8 @@
       "titulo": "INSS oferece mais de 3 mil vagas de avaliação social neste fim de semana (22 e 23)",
       "resumo": "INSS oferece mais de 3 mil vagas de avaliação social neste fim de semana (22 e 23) www.gov.br",
       "fonte": "www.gov.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-21T14:31:30.000Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXNlT0FVRGVRaU5UdF90NkxidkRSV012LW9ER3JCdm1xYmEwdklvVTFFTUE2S1ctQ2NfcmRvWnk1SmNxZVRLTUI3TUtPTFl6ak5NOEZldjBnSF9NS2ZxNUJ2a3FLM3FKT3BhOThHRmtONWNPYVp4d3ZSd29ncHRUSDBJVVEtLWxuMUEtMTc3eW92MWhWUnB2ZGlJU3cyY0pQUnNzN3dQMldzeEowSjBUXzJGd3VQVmUtcHRCZk51bUVGYjRjR1lz?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXNlT0FVRGVRaU5UdF90NkxidkRSV012LW9ER3JCdm1xYmEwdklvVTFFTUE2S1ctQ2NfcmRvWnk1SmNxZVRLTUI3TUtPTFl6ak5NOEZldjBnSF9NS2ZxNUJ2a3FLM3FKT3BhOThHRmtONWNPYVp4d3ZSd29ncHRUSDBJVVEtLWxuMUEtMTc3eW92MWhWUnB2ZGlJU3cyY0pQUnNzN3dQMldzeEowSjBUXzJGd3VQVmUtcHRCZk51bUVGYjRjR1lz?oc=5",
@@ -1966,18 +2212,6 @@
       "query": "previdência complementar"
     },
     {
-      "id": "a24b0857993347b360e1ec93d7a7b03ee61cf57a",
-      "titulo": "Aposentados podem deixar de pagar contribuição previdenciária? Entenda",
-      "resumo": "Aposentados podem deixar de pagar contribuição previdenciária? Entenda viva.com.br",
-      "fonte": "viva.com.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-21T13:08:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUQ2aHI5dW1OaW55anA0ekJhbHIzQ1dXUVRMTGR0dzdhQzFnZkZIMjI4N09NbXRkTlc1Tm1GUzFQTFZiN0tzcmY3RkpEY1JTREtRM1JGREhKdVFWbVgzTlVMZGZYeTVjdjFEMTB5QjVIanBNT25KOXpRejgxcW4ybTdvd0dpQnZDX0hLWXE5TmJuSU83ejlTaTFGdlU0SzVvX3oyc2FtTlVad0xDT1VwV0tOM19Ndw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUQ2aHI5dW1OaW55anA0ekJhbHIzQ1dXUVRMTGR0dzdhQzFnZkZIMjI4N09NbXRkTlc1Tm1GUzFQTFZiN0tzcmY3RkpEY1JTREtRM1JGREhKdVFWbVgzTlVMZGZYeTVjdjFEMTB5QjVIanBNT25KOXpRejgxcW4ybTdvd0dpQnZDX0hLWXE5TmJuSU83ejlTaTFGdlU0SzVvX3oyc2FtTlVad0xDT1VwV0tOM19Ndw?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "8bdf62833abcf2dc1340b4628b3c79e07ec56a25",
       "titulo": "O custo oculto da ansiedade financeira nas empresas",
       "resumo": "O custo oculto da ansiedade financeira nas empresas Gazeta da Semana",
@@ -1990,18 +2224,6 @@
       "query": "previdência complementar"
     },
     {
-      "id": "66d8e3726d5112b392c6ba41bca7ed423cea1885",
-      "titulo": "Reforma da Previdência de Rafard será debatida em audiência pública",
-      "resumo": "Reforma da Previdência de Rafard será debatida em audiência pública jornalosemanario.com.br",
-      "fonte": "jornalosemanario.com.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-21T12:09:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQyRGFfMHVFMElzQTBEUjBXQkhVZU1zQU5LQUJFZXUzc3dVeFBaT3I3Vk8zWVNLeW1WVUhRbWdkT2ZkRkU2aVRjRFFnY2sxenBYUWlGNjl1cVRNMndoSHhLRmZJN2IwcThWbV9pa202YkhOV1NYUERwX2JFbVU3YTBZbG1PcjhENTIxTk94VnF1Mm5EWnlUYWNCRUQ3Y096UTExY0VJQQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnQyRGFfMHVFMElzQTBEUjBXQkhVZU1zQU5LQUJFZXUzc3dVeFBaT3I3Vk8zWVNLeW1WVUhRbWdkT2ZkRkU2aVRjRFFnY2sxenBYUWlGNjl1cVRNMndoSHhLRmZJN2IwcThWbV9pa202YkhOV1NYUERwX2JFbVU3YTBZbG1PcjhENTIxTk94VnF1Mm5EWnlUYWNCRUQ3Y096UTExY0VJQQ?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "7d4f59b9df6ccea2beb9252d5c2ab97490e6d2e4",
       "titulo": "PagBank amplia portfólio com previdência privada 100% digital",
       "resumo": "PagBank amplia portfólio com previdência privada 100% digital Money Report",
@@ -2012,18 +2234,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0pRVDFmMW1sb0g1Wk1PQnpVVjE2aEVwaXhIMUlTc0pwaFR6X0lIS3ZrMzVKTXAzZVJsVC1UX01vQWN0emg1eHBmaTdWVVNPUnNJbHZpT0YzT1pzZ2NEcHM5UEY5UWoySURxWVNOazgtSVNGSnJ3eU1odVFkWU1SYzdPNlEzYk9QVHpMaVM0eEYwYzhaR1QxbFFKMzdRSW5KYWFVaGNR?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0pRVDFmMW1sb0g1Wk1PQnpVVjE2aEVwaXhIMUlTc0pwaFR6X0lIS3ZrMzVKTXAzZVJsVC1UX01vQWN0emg1eHBmaTdWVVNPUnNJbHZpT0YzT1pzZ2NEcHM5UEY5UWoySURxWVNOazgtSVNGSnJ3eU1odVFkWU1SYzdPNlEzYk9QVHpMaVM0eEYwYzhaR1QxbFFKMzdRSW5KYWFVaGNR?oc=5",
       "query": "previdência complementar"
-    },
-    {
-      "id": "e20f9877648b80b965e8f92f8f6d3a6ea7ce14a4",
-      "titulo": "PROPOSTA DO RPPS PODE AUMENTAR DESCONTOS E EXIGIR MAIS IDADE PARA APOSENTADORIA",
-      "resumo": "PROPOSTA DO RPPS PODE AUMENTAR DESCONTOS E EXIGIR MAIS IDADE PARA APOSENTADORIA fmcruzeiro.com.br",
-      "fonte": "fmcruzeiro.com.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-21T09:45:20.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalZyY3RIOW56RklWOW9BRzYwWXJkNFNJaThBdkNueEhJZFFpRVc4UUxLbGxKUWJkU2VBeDF5ekJwVWRWRFZaZXBGNkxpRUpucWI4ZDdNT3dXR3QtbWkzU0xrcjdBWjFpYVFhWnh2THozNkhXd080TFFKRS1OcG5Cd2ZBM2k1SUhKcXdXdE9NSFNkb3RfaG1XajAtWEw3S1lnS2V5Q1I2Mmg0RHN5RFF5dmFSWXhCZGVk?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQalZyY3RIOW56RklWOW9BRzYwWXJkNFNJaThBdkNueEhJZFFpRVc4UUxLbGxKUWJkU2VBeDF5ekJwVWRWRFZaZXBGNkxpRUpucWI4ZDdNT3dXR3QtbWkzU0xrcjdBWjFpYVFhWnh2THozNkhXd080TFFKRS1OcG5Cd2ZBM2k1SUhKcXdXdE9NSFNkb3RfaG1XajAtWEw3S1lnS2V5Q1I2Mmg0RHN5RFF5dmFSWXhCZGVk?oc=5",
-      "query": "reforma da previdência"
     },
     {
       "id": "ae414804f7c1a42bbfaa414196dda4d94de1a040",
@@ -2050,18 +2260,6 @@
       "query": "previdência complementar"
     },
     {
-      "id": "1e9fa2a8c079e05a073d73c9703f3a84d3856929",
-      "titulo": "Quem se aposentou a partir de 2019 pode ter valor recalculado após nova derrota do INSS",
-      "resumo": "Quem se aposentou a partir de 2019 pode ter valor recalculado após nova derrota do INSS Diário do Comércio",
-      "fonte": "Diário do Comércio",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-21T06:43:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWJWUmcxcnhKV2VDbEx0WTl1SGtBTGU2TXNZRUlRX1FfY2ZtSkZUWDVlQTBmOS04Nld3ODh2Y1lvcE9fMHQ1MVQyaGJRemc1ZWFmU0oxWWV4OWFwS1JRMzNOMDVwNkR1UFFjSzR3NVdSQ0FfU2tCaE91ZlpNQVd1T0dRX1BiQWJnR3JxUnB0STVJQU53YTlxMjQzTlQ2RnQzRW9vb21VNjk5MXZGNk15aWM0ZGxubFIyNE8tSmhCRkZwUQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWJWUmcxcnhKV2VDbEx0WTl1SGtBTGU2TXNZRUlRX1FfY2ZtSkZUWDVlQTBmOS04Nld3ODh2Y1lvcE9fMHQ1MVQyaGJRemc1ZWFmU0oxWWV4OWFwS1JRMzNOMDVwNkR1UFFjSzR3NVdSQ0FfU2tCaE91ZlpNQVd1T0dRX1BiQWJnR3JxUnB0STVJQU53YTlxMjQzTlQ2RnQzRW9vb21VNjk5MXZGNk15aWM0ZGxubFIyNE8tSmhCRkZwUQ?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "b2b344379c6fb831fa59e671e0fd1bc3f27deecd",
       "titulo": "Pesquisa mostra 56 EFPCs com exposição de R$ 12 mi à Casas Bahia",
       "resumo": "Pesquisa mostra 56 EFPCs com exposição de R$ 12 mi à Casas Bahia Revista Investidor Institucional",
@@ -2078,8 +2276,8 @@
       "titulo": "Da contribuição sobre o 13º proporcional ao aviso prévio indenizado",
       "resumo": "Da contribuição sobre o 13º proporcional ao aviso prévio indenizado Consultor Jurídico",
       "fonte": "Consultor Jurídico",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
       "data": "2026-08-20T22:26:02.000Z",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV08zalRIS3pydEItdkpxMmRNT0JGbXQ2TFB5QTJiMFRvcmo2VGF0bzhadGdFdFAtOV9yV0NLeTAzczExeDBGc2FRQk4ydVNUWWZsS2NzX2ZhdE84UlRYeEFhUWJuREtaR19KTXJYanlBWVBhQ1JqR3R6eEdwNEV3MVdkZjBWTDJhODNiQ2xFd1BablZmMnE5TW1tLWlVWThSeF9pSzVORHZfbDc0YUVqUjFNQXc1bjduNmQtYUloakdDS0tFc0puQTdVV3pmMjY0OUwzYkZJZW1IaXpBTktwOFVWbXE1ODR3ak1SZw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV08zalRIS3pydEItdkpxMmRNT0JGbXQ2TFB5QTJiMFRvcmo2VGF0bzhadGdFdFAtOV9yV0NLeTAzczExeDBGc2FRQk4ydVNUWWZsS2NzX2ZhdE84UlRYeEFhUWJuREtaR19KTXJYanlBWVBhQ1JqR3R6eEdwNEV3MVdkZjBWTDJhODNiQ2xFd1BablZmMnE5TW1tLWlVWThSeF9pSzVORHZfbDc0YUVqUjFNQXc1bjduNmQtYUloakdDS0tFc0puQTdVV3pmMjY0OUwzYkZJZW1IaXpBTktwOFVWbXE1ODR3ak1SZw?oc=5",
@@ -2090,8 +2288,8 @@
       "titulo": "Fim da contribuição previdenciária dos aposentados será discutido em comissão — Rádio Senado",
       "resumo": "Fim da contribuição previdenciária dos aposentados será discutido em comissão — Rádio Senado Senado Federal",
       "fonte": "Senado Federal",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "oficial",
+      "peso_fonte": 1,
       "data": "2026-08-20T21:25:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUQycHc4Qm1yQzZuMXJfNENfT1p4Mk94NEFVdTlnSG13dnBJRnBEVmVkYzdnWUxkNzBvQXljQ1g5dS0wQk9relJLYUpsRUlTaUJuXzF4Ml9Pb3BiUDEzSkp6MmFudWxiRUdINktDcldEOTV2aUk2YThVNGM1cElpSWtvQ3g1ZGptdkFmN1RLOE82VFg1YXluSEhMSHhHdkU5VHZmalZ2VEpuNkdpMi15MTZVeVYteW1GemhtcC15U2F6cDdPQXZWbGNkWFg?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaUQycHc4Qm1yQzZuMXJfNENfT1p4Mk94NEFVdTlnSG13dnBJRnBEVmVkYzdnWUxkNzBvQXljQ1g5dS0wQk9relJLYUpsRUlTaUJuXzF4Ml9Pb3BiUDEzSkp6MmFudWxiRUdINktDcldEOTV2aUk2YThVNGM1cElpSWtvQ3g1ZGptdkFmN1RLOE82VFg1YXluSEhMSHhHdkU5VHZmalZ2VEpuNkdpMi15MTZVeVYteW1GemhtcC15U2F6cDdPQXZWbGNkWFg?oc=5",
@@ -2110,6 +2308,18 @@
       "query": "perícia médica INSS"
     },
     {
+      "id": "a4dbcc5e3be796e0ad9404a24032afd9fa73df40",
+      "titulo": "INSS: proposta prevê mudança na idade mínima para se aposentar",
+      "resumo": "INSS: proposta prevê mudança na idade mínima para se aposentar OABPrev-PR",
+      "fonte": "OABPrev-PR",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-20T18:08:50.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXctNm5EQUZoREtzRGpGWk9fQ3dlZlJaNkdidFg2eDM2RG9CVzlrSHM1WHRNeGRrYWZySUtqeU1OVmlaQXZ1b3cxVWZJckhvUTFieVdFMmtENUlPNkxXY1NXNnh2QkRMR183OG13UjVGN2VTVDVkd29nYnVLOEdQLXFfN0N2ZnY0YUtCcDJNT2FQUW5jNnl6OGJWb203TVBjUFE?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXctNm5EQUZoREtzRGpGWk9fQ3dlZlJaNkdidFg2eDM2RG9CVzlrSHM1WHRNeGRrYWZySUtqeU1OVmlaQXZ1b3cxVWZJckhvUTFieVdFMmtENUlPNkxXY1NXNnh2QkRMR183OG13UjVGN2VTVDVkd29nYnVLOEdQLXFfN0N2ZnY0YUtCcDJNT2FQUW5jNnl6OGJWb203TVBjUFE?oc=5",
+      "query": "reforma da previdência"
+    },
+    {
       "id": "d104343f0bf415e0ebf7c654aed51561bedd3ebb",
       "titulo": "Revisão da vida toda do INSS: entenda a decisão do STF e os impactos para aposentados",
       "resumo": "Revisão da vida toda do INSS: entenda a decisão do STF e os impactos para aposentados Serasa",
@@ -2120,18 +2330,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWo3OFBxeGNoM2tzNlhUeGhsVHJFTXdtZHRLRTJvSG13bFFOUk9PM0s4N1VmS0VqNHcyVDlpTVNuTHo5SmNGU1czUDJ6b2Q3OHZqWVZBUTRSU1pSU3cwOWlIZHhWemFxWUZIbUctU0NRUnlmbHI2X3ZXM09qR29fNVBR?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOWo3OFBxeGNoM2tzNlhUeGhsVHJFTXdtZHRLRTJvSG13bFFOUk9PM0s4N1VmS0VqNHcyVDlpTVNuTHo5SmNGU1czUDJ6b2Q3OHZqWVZBUTRSU1pSU3cwOWlIZHhWemFxWUZIbUctU0NRUnlmbHI2X3ZXM09qR29fNVBR?oc=5",
       "query": "revisão da vida toda"
-    },
-    {
-      "id": "e4ddb8ede28adf2037d4da220553f3346b70d156",
-      "titulo": "Nova idade para aposentadoria pode ser aprovada no Brasil",
-      "resumo": "Nova idade para aposentadoria pode ser aprovada no Brasil A Crítica",
-      "fonte": "A Crítica",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-20T16:10:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXVxODMwb25EcGpCYzAwV0N4MEY1OFdMQkJrcGx3NUZvZVBiaTM3OFpjVDRvaEZoNEZTdDBGVnRiaFc3by01eFdpUDhFQ25QSGVISDBiRmhwb0VzTFluem5NSS1heG5GOC14ZlREYXZ4eXgwMVZuS0RkZjBTdzI1ZjNERkE0WHNaeVUyS2xySQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXVxODMwb25EcGpCYzAwV0N4MEY1OFdMQkJrcGx3NUZvZVBiaTM3OFpjVDRvaEZoNEZTdDBGVnRiaFc3by01eFdpUDhFQ25QSGVISDBiRmhwb0VzTFluem5NSS1heG5GOC14ZlREYXZ4eXgwMVZuS0RkZjBTdzI1ZjNERkE0WHNaeVUyS2xySQ?oc=5",
-      "query": "reforma da previdência"
     },
     {
       "id": "d59d451df0789b0e4ae8e80ca5cb5f207d459e0f",
@@ -2158,15 +2356,15 @@
       "query": "previdência complementar"
     },
     {
-      "id": "7db94ee58c7e8205f60e42b668a72f81111d7ddf",
-      "titulo": "STJ afasta divisor mínimo e determina revisão de aposentadoria concedida após a Reforma da Previdência",
-      "resumo": "STJ afasta divisor mínimo e determina revisão de aposentadoria concedida após a Reforma da Previdência Portal Juristas",
-      "fonte": "Portal Juristas",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-20T14:03:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXd5dlVBc3VmSUQyVWxGOW9GZnJqQ3Bib1R4OTliTEF3d3U1eFB0WUJfazBKdW9yTXQ5R2NITHVYRi1YYl80LVlKSlRwd1FkRnNsWVNBamwyVi1MLW9sTnBFWm5xMmUyQ19BY0R1SUJGMktfYkNxckE1UGoxZlJkTXdzbDBuRVNiRFlJZDFFUk96QTNGTmIzdXJKck5XSThVRjBMRFdjRnJGRUpnOFU5QlhTWnkxd3JGXzU5UUJZTk03Z0lVMGo0cXUtN2ZQVS01NkE?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXd5dlVBc3VmSUQyVWxGOW9GZnJqQ3Bib1R4OTliTEF3d3U1eFB0WUJfazBKdW9yTXQ5R2NITHVYRi1YYl80LVlKSlRwd1FkRnNsWVNBamwyVi1MLW9sTnBFWm5xMmUyQ19BY0R1SUJGMktfYkNxckE1UGoxZlJkTXdzbDBuRVNiRFlJZDFFUk96QTNGTmIzdXJKck5XSThVRjBMRFdjRnJGRUpnOFU5QlhTWnkxd3JGXzU5UUJZTk03Z0lVMGo0cXUtN2ZQVS01NkE?oc=5",
+      "id": "fa4e9e32b5dc5c4d9381ba858b4cb446a834345d",
+      "titulo": "STJ afasta divisor mínimo em aposentadoria concedida após reforma da previdência",
+      "resumo": "STJ afasta divisor mínimo em aposentadoria concedida após reforma da previdência Migalhas",
+      "fonte": "Migalhas",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-18T22:17:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2JEcUhZX1BnUFFhTE9DbHFxNWtCeTdBOUdmMm0tcGRaSmN3M3RqN0F0dHRaQUlBTmxXUy0yQkVEVGo4X09NWUFiUFZVV2xyVThlbDFFd05yUXBPcnNGUHFIaHZvUGtiTHlwc1NoMVk3UHItd3NibTlRaU1xN3psZTVKbV9xRW95akJWaVFYQVFlcFlXZkVpYjBYN1gyS0RYeUM1d0VtTzV1WlBG?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2JEcUhZX1BnUFFhTE9DbHFxNWtCeTdBOUdmMm0tcGRaSmN3M3RqN0F0dHRaQUlBTmxXUy0yQkVEVGo4X09NWUFiUFZVV2xyVThlbDFFd05yUXBPcnNGUHFIaHZvUGtiTHlwc1NoMVk3UHItd3NibTlRaU1xN3psZTVKbV9xRW95akJWaVFYQVFlcFlXZkVpYjBYN1gyS0RYeUM1d0VtTzV1WlBG?oc=5",
       "query": "reforma da previdência"
     },
     {
@@ -2210,36 +2408,24 @@
       "titulo": "Benefício previdenciário vai custar 8% mais em 2027, projeta governo",
       "resumo": "Benefício previdenciário vai custar 8% mais em 2027, projeta governo Valor Econômico",
       "fonte": "Valor Econômico",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-20T08:00:32.000Z",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWotdEF2SU8wTVRCXzh0UDNlNkljNnVLU2lQN2JsQU1kbF9PblYzZ3NIdnpBQ1JwcHpKeFFBTnZSbnhrcjRGLWxYTnNSc0dEZGVpZmg2WG5iYVhwTW9kbmRrUXFRX1MzczdJT3ZCNXJwRjFWTVlOdHJCMWxWVG1pTUhDWUNnb1JpYUJfUjAtY3hjTXVWZXNaOEtFN21uVHhLdlJ1aXVjbXVRUUd2cWFGeDUyYU9oV2FIaUpmcUo5NNIBzgFBVV95cUxPdzZfWndlSVp4X09DamwxVVhrUE5WWFo2RzYzZno5R1dncERSVGNGN2xPbmhYT1diSjdFYVFXYlVCV1EtaWlnWGtycG1rSmluQlRnamhNSTRja1JWRW1MUDQxb3lPMGlUaUw3RUw5OWFxMlZWT2xSYXk2bE9aS1d4QUtqVUcxazViYi1FUU00RTd0OTBncVlKM0NWV1E1ZUhkX2J1ZzRoRUJyQ1lnV3dXaFhjdE1KVzV2ZTJOQ19KTlVidmozUVhrZmZWRzRQQQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWotdEF2SU8wTVRCXzh0UDNlNkljNnVLU2lQN2JsQU1kbF9PblYzZ3NIdnpBQ1JwcHpKeFFBTnZSbnhrcjRGLWxYTnNSc0dEZGVpZmg2WG5iYVhwTW9kbmRrUXFRX1MzczdJT3ZCNXJwRjFWTVlOdHJCMWxWVG1pTUhDWUNnb1JpYUJfUjAtY3hjTXVWZXNaOEtFN21uVHhLdlJ1aXVjbXVRUUd2cWFGeDUyYU9oV2FIaUpmcUo5NNIBzgFBVV95cUxPdzZfWndlSVp4X09DamwxVVhrUE5WWFo2RzYzZno5R1dncERSVGNGN2xPbmhYT1diSjdFYVFXYlVCV1EtaWlnWGtycG1rSmluQlRnamhNSTRja1JWRW1MUDQxb3lPMGlUaUw3RUw5OWFxMlZWT2xSYXk2bE9aS1d4QUtqVUcxazViYi1FUU00RTd0OTBncVlKM0NWV1E1ZUhkX2J1ZzRoRUJyQ1lnV3dXaFhjdE1KVzV2ZTJOQ19KTlVidmozUVhrZmZWRzRQQQ?oc=5",
-      "query": "INSS benefício"
+      "query": "reforma da previdência"
     },
     {
       "id": "7407429be37eb2791a3338c4aeb86e4af9e3716d",
       "titulo": "Apesar de queda na fila no INSS, pessoas relatam espera de até 8 meses por resposta a pedido de benefício",
       "resumo": "Apesar de queda na fila no INSS, pessoas relatam espera de até 8 meses por resposta a pedido de benefício G1",
       "fonte": "G1",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-20T03:00:56.000Z",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUHVuN0t5ZEszVzlpVWp5TTVuV19TWTdWVUVWNEN3Vnc5Z09TYTdta2lrSlh5cWFJdk04M3Q1eDN3RDZtY01ySGFnZlc1dXNCRFl3ZURmQTc4ZFVwdThwb291ckdMZnRQa3Vwd3c1MmFPSzlIZjBFZUs1a2dtSzdqRzFYSFBhUV9yS3h3SGtJUTlVWm1RdHZwVDYzOXZFYWgzX0ctV1BNelBHb0ZqUjF2RC1qcWI2enJ3ZTNGREdUQ2FXOHFpRDJtT2hYS2J1NnNvcHZhaERFMnVxR0Q0dEdnZ3pKbVdzTkVRSEpHVFl5YXrSAf8BQVVfeXFMTjlPUUd4MGZVc0VHUEVfMmk4OXBEdTVlc2FxQjdCMEVscU5HemRrcmFTMmZxWWUtLVd1SkYzYTRfZ0JKcy1fck9yb1JMRnNKa2IzY3daeWpTSldYVlgtN3pWTGVjNW5YZzk0UFNqcHpYM1J2cXRPVFBqQ0VNNUtHT1RsRXpNZXZfem90MmJ4YWpoMkZKbmM0Q3NYQUhJR0EzeDhDdFB6RnhadWlMeXVWVDdPYnhlSDZmc25Rc3pob01nNEplOXp5Zk1fVzJDME9qMUpGV0ZsSk9DLUo5T2ZHUnhMVF9CRXRZay04ekRFNEpDUmRFWHd6cFZiVnZBcUtZ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUHVuN0t5ZEszVzlpVWp5TTVuV19TWTdWVUVWNEN3Vnc5Z09TYTdta2lrSlh5cWFJdk04M3Q1eDN3RDZtY01ySGFnZlc1dXNCRFl3ZURmQTc4ZFVwdThwb291ckdMZnRQa3Vwd3c1MmFPSzlIZjBFZUs1a2dtSzdqRzFYSFBhUV9yS3h3SGtJUTlVWm1RdHZwVDYzOXZFYWgzX0ctV1BNelBHb0ZqUjF2RC1qcWI2enJ3ZTNGREdUQ2FXOHFpRDJtT2hYS2J1NnNvcHZhaERFMnVxR0Q0dEdnZ3pKbVdzTkVRSEpHVFl5YXrSAf8BQVVfeXFMTjlPUUd4MGZVc0VHUEVfMmk4OXBEdTVlc2FxQjdCMEVscU5HemRrcmFTMmZxWWUtLVd1SkYzYTRfZ0JKcy1fck9yb1JMRnNKa2IzY3daeWpTSldYVlgtN3pWTGVjNW5YZzk0UFNqcHpYM1J2cXRPVFBqQ0VNNUtHT1RsRXpNZXZfem90MmJ4YWpoMkZKbmM0Q3NYQUhJR0EzeDhDdFB6RnhadWlMeXVWVDdPYnhlSDZmc25Rc3pob01nNEplOXp5Zk1fVzJDME9qMUpGV0ZsSk9DLUo5T2ZHUnhMVF9CRXRZay04ekRFNEpDUmRFWHd6cFZiVnZBcUtZ?oc=5",
       "query": "perícia médica INSS"
-    },
-    {
-      "id": "c08ec0065c0cefa4d6d9f7c474aba2c043942fec",
-      "titulo": "INSS pode determinar nova idade para se aposentar. Saiba qual é!",
-      "resumo": "INSS pode determinar nova idade para se aposentar. Saiba qual é! dol.com.br",
-      "fonte": "dol.com.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-20T02:31:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU9fcFh2aUhlaW4tMHd0MmNZb0tfWEdUSHNtY3VYaGdUUXB3cVRFRVUzV25pMmhMNVRQZF8xcURDblhPbkZlX1NjY0c0ZTE5V1hJSW9pOFdBYkt6UjBBZkRGNGVpREo0X1Z0b0dabVd2UUJ3UjV6Sko5Zm9aMk0wMGZ1cGlybHE3R0RGTTlHT0V2OEFjTjViUzJNZWhGN2NPemIzTUxwNNIBrwFBVV95cUxOalVyRTlfTEx2M21OTzB2WDVwc0oxWXlwWWd6LXhoOHlaYURiV1pndWtQZFVPQllvT1paVDRxYVdPcTZpZVJtQ0xndUxwcXZEWUphYXRyeU1TczFkRTQyVlpBaWk5WTZlNHdVQy1TcEpnbEExSzVJQXFCTWRqRk82ZXRvNDJ6b1BYSlJZejlNdFptSG1BZkY1d2pWUUlPdjRVZ1ZLMm12QzQ1RXBCMXZR?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU9fcFh2aUhlaW4tMHd0MmNZb0tfWEdUSHNtY3VYaGdUUXB3cVRFRVUzV25pMmhMNVRQZF8xcURDblhPbkZlX1NjY0c0ZTE5V1hJSW9pOFdBYkt6UjBBZkRGNGVpREo0X1Z0b0dabVd2UUJ3UjV6Sko5Zm9aMk0wMGZ1cGlybHE3R0RGTTlHT0V2OEFjTjViUzJNZWhGN2NPemIzTUxwNNIBrwFBVV95cUxOalVyRTlfTEx2M21OTzB2WDVwc0oxWXlwWWd6LXhoOHlaYURiV1pndWtQZFVPQllvT1paVDRxYVdPcTZpZVJtQ0xndUxwcXZEWUphYXRyeU1TczFkRTQyVlpBaWk5WTZlNHdVQy1TcEpnbEExSzVJQXFCTWRqRk82ZXRvNDJ6b1BYSlJZejlNdFptSG1BZkY1d2pWUUlPdjRVZ1ZLMm12QzQ1RXBCMXZR?oc=5",
-      "query": "reforma da previdência"
     },
     {
       "id": "6216613fc7ab3c811663be412f125d80059c167c",
@@ -2254,18 +2440,6 @@
       "query": "previdência complementar"
     },
     {
-      "id": "f069337190bdd34f5292ac6dc7f2ca1ce0756277",
-      "titulo": "Renan Santos diz que “o que mais tem no Brasil é militar vagabundo” e quer militares em nova reforma da Previdência",
-      "resumo": "Renan Santos diz que “o que mais tem no Brasil é militar vagabundo” e quer militares em nova reforma da Previdência Agora RN",
-      "fonte": "Agora RN",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-20T01:22:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTNFSGU4LTBfbTVyalczNEo5dW9JYlRucm1ENEJ6NTNULTZDY1UtaGhpU3ZudGtmTklMUElQdWZoSHUxdHhLc3RqdzlsWXFVaXNrbW5TVkxMREpiZ0EzTGxfRzE2TlhIeWd5TUxyQ25qc3BTeDctanhkd01OMUNOZi0zRTRkNEx1d3FN?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTNFSGU4LTBfbTVyalczNEo5dW9JYlRucm1ENEJ6NTNULTZDY1UtaGhpU3ZudGtmTklMUElQdWZoSHUxdHhLc3RqdzlsWXFVaXNrbW5TVkxMREpiZ0EzTGxfRzE2TlhIeWd5TUxyQ25qc3BTeDctanhkd01OMUNOZi0zRTRkNEx1d3FN?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "61df9f94de5bc2d89505deef41af09b38cbe3771",
       "titulo": "PREVCOM abre cadastro de estagiários com inscrições até 08/09/2026",
       "resumo": "PREVCOM abre cadastro de estagiários com inscrições até 08/09/2026 diariodamidia.com.br",
@@ -2278,15 +2452,15 @@
       "query": "previdência complementar"
     },
     {
-      "id": "636b403277dbab2fd0bb6de4411914e2843bed55",
-      "titulo": "Caçador discute reforma da Previdência Municipal em audiência",
-      "resumo": "Caçador discute reforma da Previdência Municipal em audiência Jornal Extra SC",
-      "fonte": "Jornal Extra SC",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T20:54:35.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnpFeGpjWkduc2RRY2pBVkNWOFI1UUZ4YmVDblpBREJOVENGdG94NHhCREQwZ1ZRWTlhSEtsX3E3M0pSWHJUZHZfT0hVZEUxNGZXcUJLQ0FobFgzMFAwNmV0RGJXVmxQVTFVLUFaTGc3WS1MTGZEbzNOdTBaVWR2MDhSdTJfTFlqSTBCSkE4X1VaXzRzb2tZd21KeHY1bmVOVUkwYXFTSEo?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVnpFeGpjWkduc2RRY2pBVkNWOFI1UUZ4YmVDblpBREJOVENGdG94NHhCREQwZ1ZRWTlhSEtsX3E3M0pSWHJUZHZfT0hVZEUxNGZXcUJLQ0FobFgzMFAwNmV0RGJXVmxQVTFVLUFaTGc3WS1MTGZEbzNOdTBaVWR2MDhSdTJfTFlqSTBCSkE4X1VaXzRzb2tZd21KeHY1bmVOVUkwYXFTSEo?oc=5",
+      "id": "d776e31845cda52e5d872e2312c61739fdaab67e",
+      "titulo": "STF vai decidir se agentes penitenciários têm direito à aposentadoria integral e reajuste igual aos da ativa",
+      "resumo": "STF vai decidir se agentes penitenciários têm direito à aposentadoria integral e reajuste igual aos da ativa stf noticias",
+      "fonte": "stf noticias",
+      "tipo_fonte": "tribunal",
+      "peso_fonte": 1,
+      "data": "2026-08-19T22:49:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOTJvcHRDcnQ1S0c2Wi00SkxIZnpFcmhXdTR2cjBucWpDLVVCTnI2OU5GOEFJc0dMdmhrc0x0a2VnR1picVB2NU01MU5mV2dkdVFpNGFHc0F0NXoxWFdMMWVBRTV5WUtrS0JUUzNPUVF5YU9XdExscDE5WWxvUHptWjF2bnEyWVV3NFRobHF6TkZqSFlaRDN6VmlrckgwbzV5SU5HWHFVSU90Yk43WDVKQmNkbk9oSjVFZ1YwNGJ3RkdBUVFrUTFGdW54dmdWSGhtOWx6bEhjUXhOeDREc2xDVC1ZWGVhZw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOTJvcHRDcnQ1S0c2Wi00SkxIZnpFcmhXdTR2cjBucWpDLVVCTnI2OU5GOEFJc0dMdmhrc0x0a2VnR1picVB2NU01MU5mV2dkdVFpNGFHc0F0NXoxWFdMMWVBRTV5WUtrS0JUUzNPUVF5YU9XdExscDE5WWxvUHptWjF2bnEyWVV3NFRobHF6TkZqSFlaRDN6VmlrckgwbzV5SU5HWHFVSU90Yk43WDVKQmNkbk9oSjVFZ1YwNGJ3RkdBUVFrUTFGdW54dmdWSGhtOWx6bEhjUXhOeDREc2xDVC1ZWGVhZw?oc=5",
       "query": "reforma da previdência"
     },
     {
@@ -2330,8 +2504,8 @@
       "titulo": "INSS revisa benefícios em 2026; veja quem pode ficar livre da perícia",
       "resumo": "INSS revisa benefícios em 2026; veja quem pode ficar livre da perícia Folha Vitória",
       "fonte": "Folha Vitória",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-19T19:41:15.000Z",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd25DU3JxcDh3UURVUlNHRGdYaE9nMU9SWVBkR0FNWHVwTzVKZzdtaC1DWU5uU0EtY3B2cmV6ajZ6VUxMNENwSE1CSDNlVk5wQTNUWVc3a0JpSDVkX1RMbVVZOE1iMGlBbjY2clhZUGRXT1hPdkk3dE5ibF9Yc3laREJadHFmdG1ibU1YeWk0TmNiaGNaLVh1dXRITVd1WjJya0ZUS1NiUFgyaXA4ZmNj?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd25DU3JxcDh3UURVUlNHRGdYaE9nMU9SWVBkR0FNWHVwTzVKZzdtaC1DWU5uU0EtY3B2cmV6ajZ6VUxMNENwSE1CSDNlVk5wQTNUWVc3a0JpSDVkX1RMbVVZOE1iMGlBbjY2clhZUGRXT1hPdkk3dE5ibF9Yc3laREJadHFmdG1ibU1YeWk0TmNiaGNaLVh1dXRITVd1WjJya0ZUS1NiUFgyaXA4ZmNj?oc=5",
@@ -2371,6 +2545,18 @@
       "data": "2026-08-19T17:43:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX29NM0ZTNjJkYUk4V0tHclBOYk1FYVBTNEZzYWRnUldUTDhnVE93NjRyYXZxTGlfaTIxczVrRVk1QXpyLVAxT0g0Zk5uTXJjVTRKQ2ZDWlhQR05FTnNtbzBMQ2h4UDFvbk1zNGY3VmUzSzBKMGpibzdLVWo0ZnhXMV9SdVJiczUwVDF4Q2xtTEVKRUtoczFnc0h3SmFId3lNeFhXQ2w4WHBKQmdaOEdBVzIxd0hIM1JycnZ2ajcwSU9VbmNwaE0xYl9mYW1COUpF?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX29NM0ZTNjJkYUk4V0tHclBOYk1FYVBTNEZzYWRnUldUTDhnVE93NjRyYXZxTGlfaTIxczVrRVk1QXpyLVAxT0g0Zk5uTXJjVTRKQ2ZDWlhQR05FTnNtbzBMQ2h4UDFvbk1zNGY3VmUzSzBKMGpibzdLVWo0ZnhXMV9SdVJiczUwVDF4Q2xtTEVKRUtoczFnc0h3SmFId3lNeFhXQ2w4WHBKQmdaOEdBVzIxd0hIM1JycnZ2ajcwSU9VbmNwaE0xYl9mYW1COUpF?oc=5",
+      "query": "reforma da previdência"
+    },
+    {
+      "id": "8bf6805648fa0e1da5a3f3e82bf59bafc042a9a5",
+      "titulo": "STJ afasta divisor mínimo no cálculo de aposentadoria pós-reforma",
+      "resumo": "STJ afasta divisor mínimo no cálculo de aposentadoria pós-reforma Previdenciarista",
+      "fonte": "Previdenciarista",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-19T17:01:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWFPdFdPR3BQRklZMUNfdllMT0wzd3lJZ1ozY1Nnbll0bi1qZ1h6Rmlad1JJWXExZ3gxSndFUThGLVZDMlBzTWpyVDRmS3hxVHMweVh3Smw3bjE3cVhwYm92c1Y5LWI4OTZIU0JkbFMxVTI1a0EwaE9FMVNESE0xZWRXXzR3UE5BWXFENm9kMy1RcWNxMmgteUluOEc0QQ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZWFPdFdPR3BQRklZMUNfdllMT0wzd3lJZ1ozY1Nnbll0bi1qZ1h6Rmlad1JJWXExZ3gxSndFUThGLVZDMlBzTWpyVDRmS3hxVHMweVh3Smw3bjE3cVhwYm92c1Y5LWI4OTZIU0JkbFMxVTI1a0EwaE9FMVNESE0xZWRXXzR3UE5BWXFENm9kMy1RcWNxMmgteUluOEc0QQ?oc=5",
       "query": "reforma da previdência"
     },
     {
@@ -2446,18 +2632,6 @@
       "query": "previdência complementar"
     },
     {
-      "id": "5cff47d82859ed992833bebff6f2c54d24e5d507",
-      "titulo": "INSS terá de refazer cálculo de aposentadorias; entenda",
-      "resumo": "INSS terá de refazer cálculo de aposentadorias; entenda vgnoticias.com.br",
-      "fonte": "vgnoticias.com.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T12:27:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0ZCcDBkcUh0a0NzcE13eXNheVJ2NlN4ekl4dWxpMUMxaXFvdjhqa2s2aktfRWZVdXp0alYyZ1p6S2F1c2dqODItUHhVWF9VM3BoZVQ5OG5CRG15Z1VQaUMxbEFNS25nS2JQOTdFdjVfREJfeXZTbzN1RjVIZ3BZUEZmQUVUYTZKcmpzd005S05GbGlicTI4eEJ4ZEMtckk?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0ZCcDBkcUh0a0NzcE13eXNheVJ2NlN4ekl4dWxpMUMxaXFvdjhqa2s2aktfRWZVdXp0alYyZ1p6S2F1c2dqODItUHhVWF9VM3BoZVQ5OG5CRG15Z1VQaUMxbEFNS25nS2JQOTdFdjVfREJfeXZTbzN1RjVIZ3BZUEZmQUVUYTZKcmpzd005S05GbGlicTI4eEJ4ZEMtckk?oc=5",
-      "query": "reforma da previdência"
-    },
-    {
       "id": "3fd4a2a9e35665de293a3c130551ab689ac70e29",
       "titulo": "INSS faz pente-fino em benefícios em 2026: veja quem pode ser convocado e quem está livre da perícia periódica",
       "resumo": "INSS faz pente-fino em benefícios em 2026: veja quem pode ser convocado e quem está livre da perícia periódica Gazeta de São Paulo",
@@ -2474,8 +2648,8 @@
       "titulo": "Previdência quer concessão automática de benefício após recurso favorável a segurado do INSS",
       "resumo": "Previdência quer concessão automática de benefício após recurso favorável a segurado do INSS Folha de S.Paulo",
       "fonte": "Folha de S.Paulo",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-19T10:35:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ0JlRThPelhTTGxIZVJyekVmZzM3bHNqVnV0ekZmb01hMXdlRk5HYWx0a2x3c2JqVk5qYUZOSWY4UkZxdkY5c1JZLWFqYWdhblc0S3lKSUZBNDJSZTBrb0QxRV96MUZ1R0ZCaHZTOHNraDBOT2FsaEVPb0wwZXo1dmpmalk2SHg2NnhrTEpqRmhNNWxpRWxVbTN6eWlZaEJFU0RVRzJ2UFFHQXYxYjMxMElWbDg4Z1I4SUMyRmZmM3EtbU5hbDJfX1dsTWJzX3FDQlhxc3dCUGp3OE10?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ0JlRThPelhTTGxIZVJyekVmZzM3bHNqVnV0ekZmb01hMXdlRk5HYWx0a2x3c2JqVk5qYUZOSWY4UkZxdkY5c1JZLWFqYWdhblc0S3lKSUZBNDJSZTBrb0QxRV96MUZ1R0ZCaHZTOHNraDBOT2FsaEVPb0wwZXo1dmpmalk2SHg2NnhrTEpqRmhNNWxpRWxVbTN6eWlZaEJFU0RVRzJ2UFFHQXYxYjMxMElWbDg4Z1I4SUMyRmZmM3EtbU5hbDJfX1dsTWJzX3FDQlhxc3dCUGp3OE10?oc=5",
@@ -2528,18 +2702,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm5MUUU0WVM5VTM0eTFGcEJXNDQwMkNFM19CSUlORGRMZTMzcTR6aTZXVFp6NGRhUnU1bk5qWXRrRmQ4Vm1NX29kMU1KUVBhM0lRZnBJWkRmSTZueFRTMklZNU4wYWJRMnd3Wkt3ZEJ4aHMtUlgxWW9taXRBVGhVatIBhgFBVV95cUxPTFU2M1dDdm9BeEVETmNFZDA5akNtdlY5X1NzX2NsaHp2bk9TU0hGcDdZQlBzNmN6dmtQUm9xUEF3Ykx3SXVkbkZaVFVpVWNGT01kTHozOGN4V2pSUkcxOUFkZzlVSGtkUTlqSkUtMzA1MnJVdlZ1N1Y1d3d0cWRmeUVVNC0zUQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRm5MUUU0WVM5VTM0eTFGcEJXNDQwMkNFM19CSUlORGRMZTMzcTR6aTZXVFp6NGRhUnU1bk5qWXRrRmQ4Vm1NX29kMU1KUVBhM0lRZnBJWkRmSTZueFRTMklZNU4wYWJRMnd3Wkt3ZEJ4aHMtUlgxWW9taXRBVGhVatIBhgFBVV95cUxPTFU2M1dDdm9BeEVETmNFZDA5akNtdlY5X1NzX2NsaHp2bk9TU0hGcDdZQlBzNmN6dmtQUm9xUEF3Ykx3SXVkbkZaVFVpVWNGT01kTHozOGN4V2pSUkcxOUFkZzlVSGtkUTlqSkUtMzA1MnJVdlZ1N1Y1d3d0cWRmeUVVNC0zUQ?oc=5",
       "query": "perícia médica INSS"
-    },
-    {
-      "id": "cb8e02a047d533176d04a7333b08dd27d9965221",
-      "titulo": "Reunião no gabinete debate andamento da reforma da Previdência",
-      "resumo": "Reunião no gabinete debate andamento da reforma da Previdência Jornal do Garcia",
-      "fonte": "Jornal do Garcia",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T05:31:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVRlcW5GVDhxWU9YMzh3VEJuTEJIbXgwaWFqazJkeEJqR2tXd3B1MW9Fa2RDVUUzTmtVZHB0SDdKc2xDWEFGVzdyVjRiNWttNWRPQWdMMzJ2LWJTXzhjY2lNQk9URlc5RHRsUjJleEwyeTMwbVdINWVSbS1TZFdIMno1ZG4xVEVVVmpIQm9uX1cwRTI3ZnIwNw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVRlcW5GVDhxWU9YMzh3VEJuTEJIbXgwaWFqazJkeEJqR2tXd3B1MW9Fa2RDVUUzTmtVZHB0SDdKc2xDWEFGVzdyVjRiNWttNWRPQWdMMzJ2LWJTXzhjY2lNQk9URlc5RHRsUjJleEwyeTMwbVdINWVSbS1TZFdIMno1ZG4xVEVVVmpIQm9uX1cwRTI3ZnIwNw?oc=5",
-      "query": "reforma da previdência"
     },
     {
       "id": "0715b898cfe7246c297172fdd5d2f9b74acd69b7",
@@ -2654,8 +2816,8 @@
       "titulo": "Painel: Servidores do INSS dizem ter sido alvo de ataque hacker e relatam alterações em benefícios",
       "resumo": "Painel: Servidores do INSS dizem ter sido alvo de ataque hacker e relatam alterações em benefícios Folha de S.Paulo",
       "fonte": "Folha de S.Paulo",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
       "data": "2026-08-18T18:30:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcno4TVEwSzhwYXlFbnFyaG9VTThoZGNiM1YyQVppWFpvSEk0YlJYVzJuTnFMWE15T0hSM1Q5VjZzZTA5V0V5VzRiaG9UVFZJVmpzYk1xZmhGcGVfVEdQNHNkSWlnYWNvbWhZeHlDbk5aRzBGMGVEM3FrdU4xUHRXQk5jdHNUNHBHYlZtZzhfYkJiTzIzRDl0dnBjZ1l5aVBzc1FKbmY2dnFVZEU5TXRlWjN0ekJzcjRUa1ZGaWZINnRUUXNnTUdnc25mYllmNlZ4UTQtZkNQWTI5bkY3TTBpZGVvVQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPcno4TVEwSzhwYXlFbnFyaG9VTThoZGNiM1YyQVppWFpvSEk0YlJYVzJuTnFMWE15T0hSM1Q5VjZzZTA5V0V5VzRiaG9UVFZJVmpzYk1xZmhGcGVfVEdQNHNkSWlnYWNvbWhZeHlDbk5aRzBGMGVEM3FrdU4xUHRXQk5jdHNUNHBHYlZtZzhfYkJiTzIzRDl0dnBjZ1l5aVBzc1FKbmY2dnFVZEU5TXRlWjN0ekJzcjRUa1ZGaWZINnRUUXNnTUdnc25mYllmNlZ4UTQtZkNQWTI5bkY3TTBpZGVvVQ?oc=5",

@@ -10,6 +10,11 @@ import { writeJson, nowBRTISO, CONFIG_DIR, ROOT } from './lib/util.js';
  */
 const CANDIDATAS = [
   { id: 'conjur', area: 'todas', tipo: 'especializado', peso: 0.8, url: 'https://www.conjur.com.br/rss.xml' },
+  { id: 'jota', area: 'todas', tipo: 'especializado', peso: 0.8, url: 'https://www.jota.info/feed' },
+  { id: 'migalhas', area: 'todas', tipo: 'especializado', peso: 0.8, url: 'https://www.migalhas.com.br/rss' },
+  { id: 'agencia-brasil-economia', area: 'todas', tipo: 'oficial', peso: 0.9, url: 'https://agenciabrasil.ebc.com.br/rss/economia/feed.xml' },
+  { id: 'agencia-brasil-justica', area: 'todas', tipo: 'oficial', peso: 0.9, url: 'https://agenciabrasil.ebc.com.br/rss/justica/feed.xml' },
+  { id: 'agencia-brasil-geral', area: 'todas', tipo: 'oficial', peso: 0.9, url: 'https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml' },
   { id: 'stf-noticias', area: 'todas', tipo: 'tribunal', peso: 1.0, url: 'https://portal.stf.jus.br/RSS/feed.asp?tipo=noticiaSTF' },
   { id: 'stj-noticias', area: 'todas', tipo: 'tribunal', peso: 1.0, url: 'https://www.stj.jus.br/sites/portalp/SiteAssets/rss/noticias.xml' },
   { id: 'tst-noticias', area: 'trabalhista', tipo: 'tribunal', peso: 1.0, url: 'https://www.tst.jus.br/-/rss/noticias' },

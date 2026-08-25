@@ -87,6 +87,12 @@ Variáveis úteis: `SITE_BASE` (base das URLs em `feed.json`, default `https://m
 `public/api/feed.json`, `public/api/ticker.json` e `public/api/weather.json` seguem os contratos da seção 6 do briefing. **Não altere sem avisar os consumidores.** Os arquivos são servidos com `Access-Control-Allow-Origin: *` (ver `server.js`).
 
 ## Fases
-- **Fase 1 (atual):** Google News + Conjur, dedupe, score, Markdown determinístico, clima, `feed.json`/`ticker.json`, três workflows via `workflow_dispatch`.
-- **Fase 2:** fontes oficiais validadas, tabela de normas, resumo por GitHub Models, janela de revisão, issue automática em falha.
+- **Fase 1:** Google News + Conjur, dedupe, score, Markdown determinístico, clima, `feed.json`/`ticker.json`, três workflows via `workflow_dispatch`.
+- **Fase 2 (atual):** peso de fonte por domínio/nome (`lib/sources.js` — oficial/tribunal têm peso 1.0 mesmo quando o item chega via Google News), tabela de **Normas e atos publicados** (`lib/normas.js`), **janela de revisão** do rascunho (o `.draft.md` editado à mão é respeitado quando mais novo que o raw; use `--force` para re-renderizar), fontes oficiais ampliadas e validadas, resumo por **GitHub Models** e issue automática em falha.
 - **Fase 3:** página HTML no site, `repository_dispatch`, DOU e newsletter.
+
+## Peso de fonte (Fase 2)
+`lib/sources.js` classifica cada item pela fonte real (domínio ou nome do publisher) e aplica o maior peso entre domínio, nome e o piso do feed. Assim, uma notícia do STF/Receita que chega pelo Google News recebe peso de fonte oficial, não de agregador. Ajuste as regras em `REGRAS_HOST`/`REGRAS_NOME`.
+
+## Janela de revisão do rascunho (Fase 2)
+O workflow de **pesquisa** gera `content/<area>/<data>.draft.md`. Se um humano editar esse rascunho, a **publicação** respeita a edição: quando o `.draft.md` é mais novo que o raw, ele é promovido a `<data>.md` sem re-renderizar. Para forçar a re-renderização (descartando o rascunho), rode `node src/render.js --area=<area> --force`.

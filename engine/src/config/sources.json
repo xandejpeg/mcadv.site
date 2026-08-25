@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-25T12:34:28-03:00",
+  "gerado_em": "2026-08-25T12:50:04-03:00",
   "fontes": [
     {
       "id": "conjur",
@@ -10,7 +10,58 @@
       "status": "erro",
       "erro": "HTTP 403",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
+    },
+    {
+      "id": "jota",
+      "area": "todas",
+      "tipo": "especializado",
+      "peso": 0.8,
+      "url": "https://www.jota.info/feed",
+      "status": "ok",
+      "itens_detectados": 25,
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
+    },
+    {
+      "id": "migalhas",
+      "area": "todas",
+      "tipo": "especializado",
+      "peso": 0.8,
+      "url": "https://www.migalhas.com.br/rss",
+      "status": "erro",
+      "erro": "HTTP 404",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
+    },
+    {
+      "id": "agencia-brasil-economia",
+      "area": "todas",
+      "tipo": "oficial",
+      "peso": 0.9,
+      "url": "https://agenciabrasil.ebc.com.br/rss/economia/feed.xml",
+      "status": "sem-feed",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
+    },
+    {
+      "id": "agencia-brasil-justica",
+      "area": "todas",
+      "tipo": "oficial",
+      "peso": 0.9,
+      "url": "https://agenciabrasil.ebc.com.br/rss/justica/feed.xml",
+      "status": "sem-feed",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
+    },
+    {
+      "id": "agencia-brasil-geral",
+      "area": "todas",
+      "tipo": "oficial",
+      "peso": 0.9,
+      "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
+      "status": "sem-feed",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "stf-noticias",
@@ -21,7 +72,7 @@
       "status": "erro",
       "erro": "fetch failed",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "stj-noticias",
@@ -31,7 +82,7 @@
       "url": "https://www.stj.jus.br/sites/portalp/SiteAssets/rss/noticias.xml",
       "status": "sem-feed",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "tst-noticias",
@@ -42,7 +93,7 @@
       "status": "erro",
       "erro": "HTTP 404",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "receita-federal",
@@ -52,7 +103,7 @@
       "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
       "status": "ok",
       "itens_detectados": 10,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "mte-noticias",
@@ -63,7 +114,7 @@
       "status": "erro",
       "erro": "HTTP 404",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "mps-noticias",
@@ -74,7 +125,7 @@
       "status": "erro",
       "erro": "HTTP 404",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "inss-noticias",
@@ -84,7 +135,7 @@
       "url": "https://www.gov.br/inss/pt-br/noticias/RSS",
       "status": "sem-feed",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:28-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     },
     {
       "id": "agencia-senado",
@@ -95,7 +146,7 @@
       "status": "erro",
       "erro": "HTTP 404",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:14-03:00"
+      "ultima_validacao": "2026-08-25T12:50:04-03:00"
     },
     {
       "id": "agencia-camara",
@@ -105,7 +156,7 @@
       "url": "https://www.camara.leg.br/noticias/rss/ultimas",
       "status": "sem-feed",
       "itens_detectados": 0,
-      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+      "ultima_validacao": "2026-08-25T12:50:03-03:00"
     }
   ]
 }

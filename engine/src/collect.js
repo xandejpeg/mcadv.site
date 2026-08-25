@@ -2,6 +2,7 @@ import path from 'node:path';
 import { fetchText, mapLimit } from './lib/http.js';
 import { parseFeed } from './lib/feed.js';
 import { canonicalUrl, resumoCurto, sha1, similarity, limparTituloGN } from './lib/text.js';
+import { classificarFonte } from './lib/sources.js';
 import {
   loadAreas, loadSources, writeJson, parseArgs, todayBRT, nowBRTISO,
   hostOf, ROOT, AREAS_VALIDAS
@@ -82,14 +83,16 @@ export async function collect(area, { dias = 7 } = {}) {
         if (valida && d < from) continue;
         const urlc = canonicalUrl(it.link);
         if (!urlc) continue;
-        const fonte = it.source || hostOf(urlc) || 'fonte';
+        const host = hostOf(urlc);
+        const fonte = it.source || host || 'fonte';
+        const cls = classificarFonte(host, fonte, f.peso);
         collected.push({
           id: sha1(urlc),
           titulo: limparTituloGN(it.title, it.source),
           resumo: resumoCurto(it.description, 300),
           fonte,
-          tipo_fonte: f.tipo,
-          peso_fonte: f.peso,
+          tipo_fonte: cls.tipo,
+          peso_fonte: cls.peso,
           data: valida ? d.toISOString() : now.toISOString(),
           url: it.link,
           url_canonica: urlc,

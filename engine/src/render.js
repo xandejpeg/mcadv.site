@@ -4,6 +4,7 @@ import { checkLink, mapLimit } from './lib/http.js';
 import { mdEscape, yamlString, stripSmartQuotes } from './lib/text.js';
 import { rankAndSelect } from './score.js';
 import { enrich } from './summarize.js';
+import { extrairNormas } from './lib/normas.js';
 import {
   loadAreas, loadJson, parseArgs, todayBRT, nowBRTISO, dataBR, periodoCurto, dataExtenso,
   ROOT, AREAS_VALIDAS
@@ -77,7 +78,14 @@ function calcularEdicao(area, data) {
   return anteriores + 1;
 }
 
-export async function render(area, { data, draft = false, skipLinkCheck = false } = {}) {
+/** Decide se o rascunho editado à mão deve ser respeitado (mais novo que o raw). */
+export function deveRespeitarRascunho(rawMtimeMs, draftMtimeMs, force = false) {
+  if (force) return false;
+  if (!rawMtimeMs || !draftMtimeMs) return false;
+  return draftMtimeMs > rawMtimeMs;
+}
+
+export async function render(area, { data, draft = false, skipLinkCheck = false, force = false } = {}) {
   const areas = loadAreas();
   const cfg = areas.config || {};
   const areaCfg = areas.areas[area];
@@ -87,6 +95,20 @@ export async function render(area, { data, draft = false, skipLinkCheck = false 
   const rawPath = path.join(ROOT, 'data', 'raw', area, `${data}.json`);
   const raw = loadJson(rawPath, null);
   if (!raw) throw new Error(`Raw não encontrado: ${path.relative(ROOT, rawPath)} (rode collect antes)`);
+
+  const finalPath = path.join(ROOT, 'content', area, `${data}.md`);
+  const draftPath = path.join(ROOT, 'content', area, `${data}.draft.md`);
+
+  // Janela de revisão: se o rascunho foi editado à mão depois da coleta, respeita a edição.
+  if (!draft) {
+    const rawMtime = fs.statSync(rawPath).mtimeMs;
+    const draftMtime = fs.existsSync(draftPath) ? fs.statSync(draftPath).mtimeMs : 0;
+    if (deveRespeitarRascunho(rawMtime, draftMtime, force)) {
+      const body = fs.readFileSync(draftPath, 'utf8');
+      fs.writeFileSync(finalPath, body, 'utf8');
+      return { out: finalPath, md: body, destaques: [], secundarios: [], descartados: [], edicao: calcularEdicao(area, data), titulo: null, promovidoDoRascunho: true };
+    }
+  }
 
   const now = new Date();
   const { destaques: d0, secundarios: s0, descartados } = rankAndSelect(raw.itens, areaCfg, now, {
@@ -115,13 +137,15 @@ export async function render(area, { data, draft = false, skipLinkCheck = false 
 
   const titulo = `${areaCfg.titulo_radar} — ${periodo}`;
   const edicao = calcularEdicao(area, data);
+  const idsDestaque = new Set(destaques.map((d) => d.id));
+  const normas = extrairNormas(raw.itens.filter((it) => !idsDestaque.has(it.id)), 6);
   const md = renderMarkdown({
     titulo, area, data,
     periodo_de: raw.periodo_de, periodo_ate: raw.periodo_ate,
     edicao, fontes_consultadas: (raw.fontes_consultadas || []).length,
     itens: destaques.length + secundarios.length,
     gerado_em: nowBRTISO(now),
-    panorama, porque, destaques, secundarios, normas: []
+    panorama, porque, destaques, secundarios, normas
   });
 
   const nome = draft ? `${data}.draft.md` : `${data}.md`;
@@ -129,20 +153,21 @@ export async function render(area, { data, draft = false, skipLinkCheck = false 
   fs.mkdirSync(path.dirname(out), { recursive: true });
   fs.writeFileSync(out, md, 'utf8');
 
-  return { out, md, destaques, secundarios, descartados, edicao, titulo };
+  return { out, md, destaques, secundarios, descartados, edicao, titulo, normas };
 }
 
 async function main() {
   const args = parseArgs();
   const area = args.area;
   if (!AREAS_VALIDAS.includes(area)) {
-    console.error(`Uso: node src/render.js --area=<${AREAS_VALIDAS.join('|')}> [--data=YYYY-MM-DD] [--draft] [--skip-link-check]`);
+    console.error(`Uso: node src/render.js --area=<${AREAS_VALIDAS.join('|')}> [--data=YYYY-MM-DD] [--draft] [--skip-link-check] [--force]`);
     process.exit(1);
   }
   const { out, destaques, secundarios } = await render(area, {
     data: args.data,
     draft: !!args.draft,
-    skipLinkCheck: !!args['skip-link-check']
+    skipLinkCheck: !!args['skip-link-check'],
+    force: !!args.force
   });
   console.log(`[render] ${area}: ${destaques.length} destaques + ${secundarios.length} secundários → ${path.relative(ROOT, out)}`);
 }
