@@ -1,0 +1,111 @@
+{
+  "gerado_em": "2026-08-25T12:34:28-03:00",
+  "fontes": [
+    {
+      "id": "conjur",
+      "area": "todas",
+      "tipo": "especializado",
+      "peso": 0.8,
+      "url": "https://www.conjur.com.br/rss.xml",
+      "status": "erro",
+      "erro": "HTTP 403",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    },
+    {
+      "id": "stf-noticias",
+      "area": "todas",
+      "tipo": "tribunal",
+      "peso": 1,
+      "url": "https://portal.stf.jus.br/RSS/feed.asp?tipo=noticiaSTF",
+      "status": "erro",
+      "erro": "fetch failed",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    },
+    {
+      "id": "stj-noticias",
+      "area": "todas",
+      "tipo": "tribunal",
+      "peso": 1,
+      "url": "https://www.stj.jus.br/sites/portalp/SiteAssets/rss/noticias.xml",
+      "status": "sem-feed",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    },
+    {
+      "id": "tst-noticias",
+      "area": "trabalhista",
+      "tipo": "tribunal",
+      "peso": 1,
+      "url": "https://www.tst.jus.br/-/rss/noticias",
+      "status": "erro",
+      "erro": "HTTP 404",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    },
+    {
+      "id": "receita-federal",
+      "area": "tributario-fiscal",
+      "tipo": "oficial",
+      "peso": 1,
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/RSS",
+      "status": "ok",
+      "itens_detectados": 10,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    },
+    {
+      "id": "mte-noticias",
+      "area": "trabalhista",
+      "tipo": "oficial",
+      "peso": 1,
+      "url": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/RSS",
+      "status": "erro",
+      "erro": "HTTP 404",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    },
+    {
+      "id": "mps-noticias",
+      "area": "previdenciario",
+      "tipo": "oficial",
+      "peso": 1,
+      "url": "https://www.gov.br/previdencia/pt-br/noticias-e-conteudo/RSS",
+      "status": "erro",
+      "erro": "HTTP 404",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    },
+    {
+      "id": "inss-noticias",
+      "area": "previdenciario",
+      "tipo": "oficial",
+      "peso": 1,
+      "url": "https://www.gov.br/inss/pt-br/noticias/RSS",
+      "status": "sem-feed",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:28-03:00"
+    },
+    {
+      "id": "agencia-senado",
+      "area": "todas",
+      "tipo": "oficial",
+      "peso": 0.9,
+      "url": "https://www12.senado.leg.br/noticias/feed/ultimasnoticias/rss.xml",
+      "status": "erro",
+      "erro": "HTTP 404",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:14-03:00"
+    },
+    {
+      "id": "agencia-camara",
+      "area": "todas",
+      "tipo": "oficial",
+      "peso": 0.9,
+      "url": "https://www.camara.leg.br/noticias/rss/ultimas",
+      "status": "sem-feed",
+      "itens_detectados": 0,
+      "ultima_validacao": "2026-08-25T12:34:13-03:00"
+    }
+  ]
+}

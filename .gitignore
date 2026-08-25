@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+engine/node_modules/
+
+# Logs e temporários
+*.log
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
+.env.*

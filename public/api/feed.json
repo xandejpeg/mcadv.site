@@ -1,0 +1,30 @@
+{
+  "gerado_em": "2026-08-25T12:36:33-03:00",
+  "versao": 1,
+  "relatorios": [
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 18 a 25/08/2026",
+      "data": "2026-08-25",
+      "edicao": 1,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-25.md",
+      "itens": 12
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 18 a 25/08/2026",
+      "data": "2026-08-25",
+      "edicao": 1,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-08-25.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 18 a 25/08/2026",
+      "data": "2026-08-25",
+      "edicao": 1,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-08-25.md",
+      "itens": 12
+    }
+  ]
+}

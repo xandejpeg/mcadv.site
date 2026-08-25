@@ -1,0 +1,124 @@
+name: Radar - Publicação
+
+on:
+  schedule:
+    - cron: "0 23 * * 1"   # seg 20:00 BRT — tributário/fiscal
+    - cron: "0 23 * * 3"   # qua 20:00 BRT — trabalhista
+    - cron: "0 11 * * 5"   # sex 08:00 BRT — previdenciário
+  workflow_dispatch:
+    inputs:
+      area:
+        description: Área a publicar
+        type: choice
+        options:
+          - tributario-fiscal
+          - trabalhista
+          - previdenciario
+
+permissions:
+  contents: write
+  issues: write
+  models: read
+
+concurrency:
+  group: radar-publicacao-${{ github.event.inputs.area || github.event.schedule }}
+  cancel-in-progress: false
+
+jobs:
+  publicacao:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      MCAP_USE_MODELS: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Definir área
+        id: area
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 23 * * 1") AREA=tributario-fiscal ;;
+            "0 23 * * 3") AREA=trabalhista ;;
+            "0 11 * * 5") AREA=previdenciario ;;
+            *) AREA="${{ github.event.inputs.area }}" ;;
+          esac
+          if [ -z "$AREA" ]; then AREA=tributario-fiscal; fi
+          echo "area=$AREA" >> "$GITHUB_OUTPUT"
+
+      - name: Instalar dependências do engine
+        working-directory: engine
+        run: npm ci || npm install
+
+      - name: Auto-cura (coletar se faltar o raw do dia)
+        working-directory: engine
+        run: |
+          AREA=${{ steps.area.outputs.area }}
+          DATA=$(TZ=America/Sao_Paulo date +%F)
+          if [ ! -f "../data/raw/$AREA/$DATA.json" ]; then
+            echo "Raw ausente — coletando agora."
+            node src/collect.js --area=$AREA --dias=7
+          fi
+
+      - name: Renderizar relatório final
+        working-directory: engine
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node src/render.js --area=${{ steps.area.outputs.area }}
+
+      - name: Remover rascunho e publicar feeds
+        working-directory: engine
+        run: |
+          AREA=${{ steps.area.outputs.area }}
+          DATA=$(TZ=America/Sao_Paulo date +%F)
+          rm -f "../content/$AREA/$DATA.draft.md"
+          node src/publish.js
+
+      - name: Commitar publicação
+        run: |
+          AREA=${{ steps.area.outputs.area }}
+          DATA=$(TZ=America/Sao_Paulo date +%F)
+          git config user.name "mcap-radar[bot]"
+          git config user.email "actions@github.com"
+          git add content public data || true
+          if git diff --cached --quiet; then
+            echo "Nada a commitar."
+          else
+            git commit -m "radar($AREA): publicação $DATA"
+            git push
+          fi
+
+      - name: Disparar consumidores
+        env:
+          DISPATCH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$DISPATCH_TOKEN" ]; then
+            echo "DISPATCH_TOKEN ausente — pulando notificação de consumidores."
+            exit 0
+          fi
+          node -e '
+            const fs=require("fs");
+            const cfg=JSON.parse(fs.readFileSync("engine/src/config/consumers.json","utf8"));
+            for (const c of (cfg.consumidores||[])) {
+              if (!c.ativo || !c.repo) continue;
+              console.log("Notificaria:", c.repo, c.evento);
+            }
+          '
+
+      - name: Abrir issue em caso de falha
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const titulo = `Radar: falha na publicação (${{ steps.area.outputs.area }})`;
+            const body = `Falha no workflow **Publicação** em ${new Date().toISOString()}.\n\nRun: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const abertas = await github.rest.issues.listForRepo({ owner: context.repo.owner, repo: context.repo.repo, state: 'open', labels: 'radar-falha' });
+            const existente = abertas.data.find(i => i.title === titulo);
+            if (existente) {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: existente.number, body });
+            } else {
+              await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title: titulo, body, labels: ['radar-falha'] });
+            }

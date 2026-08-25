@@ -1,0 +1,21 @@
+{
+  "name": "mcap-radar-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Motor de pesquisa e distribuição de conteúdo jurídico do MCAP.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "collect": "node src/collect.js",
+    "render": "node src/render.js",
+    "weather": "node src/weather.js",
+    "publish": "node src/publish.js",
+    "validate-sources": "node src/validate-sources.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
+  }
+}

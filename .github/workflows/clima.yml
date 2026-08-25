@@ -1,0 +1,61 @@
+name: Radar - Clima
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 05:00 BRT — boletim diário de São Paulo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: radar-clima
+  cancel-in-progress: false
+
+jobs:
+  clima:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências do engine
+        working-directory: engine
+        run: npm ci || npm install
+
+      - name: Atualizar clima
+        working-directory: engine
+        run: node src/weather.js
+
+      - name: Commitar clima
+        run: |
+          DATA=$(TZ=America/Sao_Paulo date +%F)
+          git config user.name "mcap-radar[bot]"
+          git config user.email "actions@github.com"
+          git add data/weather public/api/weather.json public/api/ticker.json || true
+          if git diff --cached --quiet; then
+            echo "Nada a commitar."
+          else
+            git commit -m "radar(clima): $DATA"
+            git push
+          fi
+
+      - name: Abrir issue em caso de falha
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const titulo = 'Radar: falha no clima';
+            const body = `Falha no workflow **Clima** em ${new Date().toISOString()}.\n\nRun: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const abertas = await github.rest.issues.listForRepo({ owner: context.repo.owner, repo: context.repo.repo, state: 'open', labels: 'radar-falha' });
+            const existente = abertas.data.find(i => i.title === titulo);
+            if (existente) {
+              await github.rest.issues.createComment({ owner: context.repo.owner, repo: context.repo.repo, issue_number: existente.number, body });
+            } else {
+              await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title: titulo, body, labels: ['radar-falha'] });
+            }

@@ -1,0 +1,101 @@
+{
+  "config": {
+    "janela_dias": 7,
+    "concorrencia": 6,
+    "timeout_ms": 15000,
+    "retries": 2,
+    "score_minimo": 0.15,
+    "max_destaques": 3,
+    "max_secundarios": 9
+  },
+  "areas": {
+    "tributario-fiscal": {
+      "nome": "Tributário & Fiscal",
+      "titulo_radar": "Radar Tributário & Fiscal",
+      "publicacao": "segunda 20:00 BRT",
+      "queries": [
+        "reforma tributária",
+        "Receita Federal autuação",
+        "CARF decisão",
+        "ICMS STF",
+        "IBS CBS",
+        "crédito PIS COFINS"
+      ],
+      "keywords": [
+        { "termo": "reforma tributaria", "peso": 3 },
+        { "termo": "carf", "peso": 3 },
+        { "termo": "receita federal", "peso": 2.5 },
+        { "termo": "icms", "peso": 2 },
+        { "termo": "pis cofins", "peso": 2 },
+        { "termo": "ibs", "peso": 2 },
+        { "termo": "cbs", "peso": 2 },
+        { "termo": "imposto", "peso": 1.5 },
+        { "termo": "tributo", "peso": 1.5 },
+        { "termo": "tributacao", "peso": 1.5 },
+        { "termo": "stf", "peso": 1.5 },
+        { "termo": "credito", "peso": 1 },
+        { "termo": "fiscal", "peso": 1 },
+        { "termo": "iss", "peso": 1 },
+        { "termo": "difal", "peso": 1.5 }
+      ]
+    },
+    "trabalhista": {
+      "nome": "Trabalhista",
+      "titulo_radar": "Radar Trabalhista",
+      "publicacao": "quarta 20:00 BRT",
+      "queries": [
+        "justiça do trabalho decisão",
+        "TST tese",
+        "reforma trabalhista",
+        "eSocial trabalhista",
+        "terceirização julgamento",
+        "pejotização"
+      ],
+      "keywords": [
+        { "termo": "tst", "peso": 3 },
+        { "termo": "justica do trabalho", "peso": 3 },
+        { "termo": "reforma trabalhista", "peso": 2.5 },
+        { "termo": "pejotizacao", "peso": 2.5 },
+        { "termo": "terceirizacao", "peso": 2 },
+        { "termo": "esocial", "peso": 2 },
+        { "termo": "trabalhador", "peso": 1.5 },
+        { "termo": "clt", "peso": 2 },
+        { "termo": "emprego", "peso": 1 },
+        { "termo": "sindicato", "peso": 1.5 },
+        { "termo": "verbas rescisorias", "peso": 1.5 },
+        { "termo": "jornada", "peso": 1 },
+        { "termo": "vinculo empregaticio", "peso": 2 },
+        { "termo": "dano moral trabalhista", "peso": 1.5 }
+      ]
+    },
+    "previdenciario": {
+      "nome": "Previdenciário",
+      "titulo_radar": "Radar Previdenciário",
+      "publicacao": "sexta 08:00 BRT",
+      "queries": [
+        "INSS benefício",
+        "reforma da previdência",
+        "revisão da vida toda",
+        "perícia médica INSS",
+        "previdência complementar",
+        "contribuição previdenciária patronal"
+      ],
+      "keywords": [
+        { "termo": "inss", "peso": 3 },
+        { "termo": "previdencia", "peso": 2.5 },
+        { "termo": "reforma da previdencia", "peso": 2.5 },
+        { "termo": "revisao da vida toda", "peso": 2.5 },
+        { "termo": "aposentadoria", "peso": 2 },
+        { "termo": "beneficio", "peso": 1.5 },
+        { "termo": "pericia medica", "peso": 2 },
+        { "termo": "contribuicao previdenciaria", "peso": 2 },
+        { "termo": "bpc", "peso": 1.5 },
+        { "termo": "auxilio", "peso": 1.5 },
+        { "termo": "pensao", "peso": 1.5 },
+        { "termo": "rgps", "peso": 1.5 },
+        { "termo": "rpps", "peso": 1.5 },
+        { "termo": "salario de contribuicao", "peso": 1.5 }
+      ]
+    }
+  }
+}

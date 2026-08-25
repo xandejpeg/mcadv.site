@@ -1,0 +1,10 @@
+{
+  "consumidores": [
+    {
+      "nome": "Real Prev LP",
+      "repo": "",
+      "evento": "mcap-radar-updated",
+      "ativo": false
+    }
+  ]
+}
