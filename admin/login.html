@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Painel MCADV | Acesso Restrito</title>
+  <link rel="icon" href="../assets/img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;
+      color:#e8ecf3;
+      background:radial-gradient(1200px 600px at 70% -10%,rgba(201,169,110,0.14),transparent 60%),linear-gradient(160deg,#0a1628 0%,#05101a 100%);
+      display:flex;align-items:center;justify-content:center;
+      min-height:100vh;padding:24px;-webkit-font-smoothing:antialiased;
+    }
+    .card{
+      width:100%;max-width:420px;
+      background:rgba(10,22,40,0.72);
+      border:1px solid rgba(201,169,110,0.18);
+      border-radius:18px;
+      padding:44px 38px 38px;
+      box-shadow:0 30px 80px rgba(0,0,0,0.45);
+      backdrop-filter:blur(6px);
+    }
+    .brand{text-align:center;margin-bottom:32px}
+    .brand img{width:60px;height:60px;object-fit:contain;filter:sepia(35%) brightness(2.1) saturate(0.75);margin-bottom:14px}
+    .brand h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:28px;font-weight:700;color:#fff;margin:0 0 4px}
+    .brand p{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:3px;text-transform:uppercase;color:#c9a96e;margin:0}
+    .field{margin-bottom:18px}
+    .field label{display:block;font-size:12px;font-weight:500;letter-spacing:.5px;text-transform:uppercase;color:rgba(255,255,255,0.55);margin-bottom:8px}
+    .input-wrap{position:relative;display:flex;align-items:center}
+    .input-wrap i{position:absolute;left:14px;color:#c9a96e;font-size:16px}
+    .input-wrap input{
+      width:100%;padding:13px 14px 13px 42px;
+      background:rgba(255,255,255,0.05);
+      border:1px solid rgba(255,255,255,0.12);
+      border-radius:10px;color:#fff;font-size:15px;outline:none;
+      transition:border-color .2s ease,background .2s ease;
+    }
+    .input-wrap input:focus{border-color:#c9a96e;background:rgba(255,255,255,0.08)}
+    .toggle-pass{position:absolute;right:12px;background:none;border:none;color:rgba(255,255,255,0.45);cursor:pointer;font-size:16px;padding:4px}
+    .toggle-pass:hover{color:#c9a96e}
+    .btn{
+      width:100%;margin-top:8px;padding:14px;
+      background:linear-gradient(135deg,#c9a96e,#b8944d);
+      border:none;border-radius:10px;color:#081120;
+      font-size:15px;font-weight:600;letter-spacing:.3px;cursor:pointer;
+      transition:transform .2s ease,box-shadow .2s ease;
+    }
+    .btn:hover{transform:translateY(-2px);box-shadow:0 10px 24px rgba(201,169,110,0.3)}
+    .btn:active{transform:translateY(0)}
+    .error{
+      display:none;align-items:center;gap:8px;
+      margin:0 0 18px;padding:11px 14px;
+      background:rgba(220,60,60,0.1);border:1px solid rgba(220,60,60,0.35);
+      border-radius:9px;color:#f4a3a3;font-size:13px;
+    }
+    .error.show{display:flex}
+    .back{display:block;text-align:center;margin-top:24px;color:rgba(255,255,255,0.4);font-size:12px;text-decoration:none;transition:color .2s ease}
+    .back:hover{color:#c9a96e}
+  </style>
+</head>
+<body>
+  <main class="card">
+    <div class="brand">
+      <img src="../assets/img/logo-transparent.png" alt="Moraes de Carvalho">
+      <h1>Painel MCADV</h1>
+      <p>Acesso Restrito</p>
+    </div>
+
+    <div class="error" id="error" role="alert">
+      <i class="bi bi-exclamation-triangle-fill"></i>
+      <span id="errorText">Usuário ou senha inválidos.</span>
+    </div>
+
+    <form id="loginForm" autocomplete="off" novalidate>
+      <div class="field">
+        <label for="user">Usuário</label>
+        <div class="input-wrap">
+          <i class="bi bi-person"></i>
+          <input type="text" id="user" name="user" placeholder="Seu usuário" required autofocus>
+        </div>
+      </div>
+      <div class="field">
+        <label for="pass">Senha</label>
+        <div class="input-wrap">
+          <i class="bi bi-lock"></i>
+          <input type="password" id="pass" name="pass" placeholder="Sua senha" required>
+          <button type="button" class="toggle-pass" id="togglePass" aria-label="Mostrar senha"><i class="bi bi-eye"></i></button>
+        </div>
+      </div>
+      <button type="submit" class="btn">Entrar</button>
+    </form>
+
+    <a class="back" href="../index.html"><i class="bi bi-arrow-left"></i> Voltar ao site</a>
+  </main>
+
+  <script src="assets/auth.js"></script>
+  <script>
+    (function () {
+      // Se já autenticado, vai direto ao painel.
+      if (window.MCADVAuth.isAuthenticated()) {
+        window.location.replace('painel.html');
+        return;
+      }
+
+      var form = document.getElementById('loginForm');
+      var error = document.getElementById('error');
+      var toggle = document.getElementById('togglePass');
+      var passInput = document.getElementById('pass');
+
+      toggle.addEventListener('click', function () {
+        var isPass = passInput.type === 'password';
+        passInput.type = isPass ? 'text' : 'password';
+        toggle.querySelector('i').className = isPass ? 'bi bi-eye-slash' : 'bi bi-eye';
+      });
+
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var user = document.getElementById('user').value.trim();
+        var pass = passInput.value;
+        if (window.MCADVAuth.login(user, pass)) {
+          window.location.href = 'painel.html';
+        } else {
+          error.classList.add('show');
+          passInput.value = '';
+          passInput.focus();
+        }
+      });
+    })();
+  </script>
+</body>
+</html>

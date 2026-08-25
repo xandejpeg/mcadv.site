@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>Painel MCADV</title>
+  <link rel="icon" href="../assets/img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="../assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <script src="assets/auth.js"></script>
+  <script>
+    // Protege a página antes de renderizar.
+    window.MCADVAuth.requireAuth('login.html');
+  </script>
+  <style>
+    *{box-sizing:border-box}
+    body{
+      margin:0;min-height:100vh;
+      font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;
+      color:#e8ecf3;
+      background:radial-gradient(1200px 600px at 80% -10%,rgba(201,169,110,0.1),transparent 60%),linear-gradient(160deg,#0a1628 0%,#05101a 100%);
+      -webkit-font-smoothing:antialiased;
+    }
+    header{
+      display:flex;align-items:center;justify-content:space-between;gap:16px;
+      padding:18px 28px;border-bottom:1px solid rgba(201,169,110,0.15);
+      background:rgba(5,16,26,0.6);backdrop-filter:blur(6px);
+    }
+    .logo{display:flex;align-items:center;gap:12px}
+    .logo img{width:40px;height:40px;object-fit:contain;filter:sepia(35%) brightness(2.1) saturate(0.75)}
+    .logo h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:20px;font-weight:700;color:#fff;margin:0}
+    .logo span{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#c9a96e;display:block}
+    .user-box{display:flex;align-items:center;gap:14px;font-size:14px;color:rgba(255,255,255,0.7)}
+    .logout{
+      display:inline-flex;align-items:center;gap:7px;
+      padding:9px 16px;background:rgba(255,255,255,0.05);
+      border:1px solid rgba(255,255,255,0.14);border-radius:9px;
+      color:#e8ecf3;font-size:13px;cursor:pointer;transition:all .2s ease;
+    }
+    .logout:hover{border-color:#c9a96e;color:#c9a96e}
+    main{max-width:1100px;margin:0 auto;padding:56px 28px}
+    .welcome h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:34px;font-weight:700;color:#fff;margin:0 0 8px}
+    .welcome p{color:rgba(255,255,255,0.55);font-size:15px;margin:0 0 40px}
+    .placeholder{
+      border:1px dashed rgba(201,169,110,0.35);border-radius:16px;
+      padding:56px 32px;text-align:center;background:rgba(255,255,255,0.02);
+    }
+    .placeholder i{font-size:40px;color:#c9a96e;margin-bottom:16px;display:block}
+    .placeholder h3{font-size:19px;color:#fff;margin:0 0 8px;font-weight:600}
+    .placeholder p{color:rgba(255,255,255,0.5);font-size:14px;margin:0;max-width:440px;margin-inline:auto;line-height:1.6}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="../assets/img/logo-transparent.png" alt="MCADV">
+      <div>
+        <h1>Painel MCADV</h1>
+        <span>Área Administrativa</span>
+      </div>
+    </div>
+    <div class="user-box">
+      <span id="userName"><i class="bi bi-person-circle"></i></span>
+      <button class="logout" id="logout"><i class="bi bi-box-arrow-right"></i> Sair</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="welcome">
+      <h2>Bem-vindo</h2>
+      <p>Este é o painel administrativo do MCADV.</p>
+    </div>
+    <div class="placeholder">
+      <i class="bi bi-tools"></i>
+      <h3>Painel em construção</h3>
+      <p>As funcionalidades desta área serão adicionadas em seguida. Por enquanto, o acesso e o login estão prontos.</p>
+    </div>
+  </main>
+
+  <script>
+    (function () {
+      var current = window.MCADVAuth.currentUser();
+      if (current && current.user) {
+        document.getElementById('userName').innerHTML =
+          '<i class="bi bi-person-circle"></i> ' + current.user;
+      }
+      document.getElementById('logout').addEventListener('click', function () {
+        window.MCADVAuth.logout();
+        window.location.replace('login.html');
+      });
+    })();
+  </script>
+</body>
+</html>
