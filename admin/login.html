@@ -64,6 +64,7 @@
       border-radius:9px;color:#f4a3a3;font-size:13px;
     }
     .error.show{display:flex}
+    .error.info{background:rgba(201,169,110,0.1);border-color:rgba(201,169,110,0.4);color:#e2c795}
     .back{display:block;text-align:center;margin-top:24px;color:rgba(255,255,255,0.4);font-size:12px;text-decoration:none;transition:color .2s ease}
     .back:hover{color:#c9a96e}
   </style>
@@ -106,14 +107,9 @@
   <script src="assets/auth.js"></script>
   <script>
     (function () {
-      // Se já autenticado, vai direto ao painel.
-      if (window.MCADVAuth.isAuthenticated()) {
-        window.location.replace('painel.html');
-        return;
-      }
-
       var form = document.getElementById('loginForm');
       var error = document.getElementById('error');
+      var errorText = document.getElementById('errorText');
       var toggle = document.getElementById('togglePass');
       var passInput = document.getElementById('pass');
 
@@ -128,9 +124,14 @@
         var user = document.getElementById('user').value.trim();
         var pass = passInput.value;
         if (window.MCADVAuth.login(user, pass)) {
-          window.location.href = 'painel.html';
+          // Painel ainda nao definido: apenas confirma o acesso, sem navegar.
+          error.className = 'error show info';
+          error.querySelector('i').className = 'bi bi-check-circle-fill';
+          errorText.textContent = 'Acesso confirmado. O painel sera disponibilizado em breve.';
         } else {
-          error.classList.add('show');
+          error.className = 'error show';
+          error.querySelector('i').className = 'bi bi-exclamation-triangle-fill';
+          errorText.textContent = 'Usuario ou senha invalidos.';
           passInput.value = '';
           passInput.focus();
         }
