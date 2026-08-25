@@ -14,9 +14,11 @@ export async function enrich({ area, areaCfg, destaques, secundarios = [], perio
 
   try {
     const llm = await enriquecerComLLM({ areaCfg, destaques, periodo, token, timeoutMs: opts.timeoutMs ?? 60000 });
-    if (!llm) return { ...deterministico, fonte: 'deterministico' };
+    if (!llm) { console.error('[summarize] LLM sem retorno util - usando deterministico'); return { ...deterministico, fonte: 'deterministico' }; }
+    console.error(`[summarize] LLM ok (panorama=${!!llm.panorama}, porque=${Object.keys(llm.porque || {}).length})`);
     return { panorama: llm.panorama || deterministico.panorama, porque: { ...deterministico.porque, ...llm.porque }, fonte: 'github-models' };
-  } catch {
+  } catch (e) {
+    console.error('[summarize] erro LLM:', e?.message || e);
     return { ...deterministico, fonte: 'deterministico' };
   }
 }
@@ -57,6 +59,7 @@ async function enriquecerComLLM({ areaCfg, destaques, periodo, token, timeoutMs 
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
   try {
+    console.error(`[summarize] chamando GitHub Models (${process.env.LLM_MODEL || 'openai/gpt-4o-mini'})...`);
     const res = await fetch('https://models.github.ai/inference/chat/completions', {
       method: 'POST',
       signal: ctrl.signal,
@@ -68,17 +71,21 @@ async function enriquecerComLLM({ areaCfg, destaques, periodo, token, timeoutMs 
       })
     });
     clearTimeout(t);
-    if (!res.ok) return null;
+    if (!res.ok) {
+      console.error(`[summarize] GitHub Models HTTP ${res.status}: ${(await res.text().catch(() => '')).slice(0, 200)}`);
+      return null;
+    }
     const data = await res.json();
     const content = data?.choices?.[0]?.message?.content;
     if (!content) return null;
     const parsed = extrairJson(content);
     if (!parsed) return null;
 
+    // Números permitidos: os presentes no material + anos (19xx/20xx) e inteiros pequenos.
     const numerosMaterial = new Set((material.match(/\d[\d.,]*/g) || []).map((n) => n.replace(/[.,]/g, '')));
     const validaTexto = (txt) => {
       const nums = (String(txt).match(/\d[\d.,]*/g) || []).map((n) => n.replace(/[.,]/g, ''));
-      return nums.every((n) => numerosMaterial.has(n));
+      return nums.every((n) => numerosMaterial.has(n) || /^(19|20)\d{2}$/.test(n) || Number(n) <= 12);
     };
 
     const porque = {};
