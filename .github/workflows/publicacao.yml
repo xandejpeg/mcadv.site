@@ -67,6 +67,9 @@ jobs:
         working-directory: engine
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+          LLM_MODEL: ${{ secrets.LLM_MODEL }}
         run: node src/render.js --area=${{ steps.area.outputs.area }}
 
       - name: Remover rascunho e publicar feeds

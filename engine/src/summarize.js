@@ -58,21 +58,25 @@ async function enriquecerComLLM({ areaCfg, destaques, periodo, token, timeoutMs 
 
   const ctrl = new AbortController();
   const t = setTimeout(() => ctrl.abort(), timeoutMs);
+  // Endpoint compatível com OpenAI. Default: GitHub Models (em descontinuação);
+  // para outro provedor, defina LLM_BASE_URL (ex.: https://api.openai.com/v1) + LLM_API_KEY + LLM_MODEL.
+  const base = (process.env.LLM_BASE_URL || 'https://models.github.ai/inference').replace(/\/+$/, '');
+  const modelo = process.env.LLM_MODEL || 'openai/gpt-4o-mini';
   try {
-    console.error(`[summarize] chamando GitHub Models (${process.env.LLM_MODEL || 'openai/gpt-4o-mini'})...`);
-    const res = await fetch('https://models.github.ai/inference/chat/completions', {
+    console.error(`[summarize] chamando LLM em ${base} (${modelo})...`);
+    const res = await fetch(`${base}/chat/completions`, {
       method: 'POST',
       signal: ctrl.signal,
       headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${token}` },
       body: JSON.stringify({
-        model: process.env.LLM_MODEL || 'openai/gpt-4o-mini',
+        model: modelo,
         temperature: 0.3,
         messages: [{ role: 'system', content: system }, { role: 'user', content: user }]
       })
     });
     clearTimeout(t);
     if (!res.ok) {
-      console.error(`[summarize] GitHub Models HTTP ${res.status}: ${(await res.text().catch(() => '')).slice(0, 200)}`);
+      console.error(`[summarize] LLM HTTP ${res.status}: ${(await res.text().catch(() => '')).slice(0, 200)}`);
       return null;
     }
     const data = await res.json();

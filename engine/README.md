@@ -74,11 +74,15 @@ Os crons estão em **UTC**. Ex.: seg 20:00 BRT = `0 23 * * 1`. O agendador do Gi
 ## Secrets
 | Secret | Para quê | Se faltar |
 |---|---|---|
-| `GITHUB_TOKEN` | Fornecido pelo Actions. Commits dos workflows e, com `permissions: models: read`, o resumo por **GitHub Models**. | Sempre presente no Actions. |
+| `GITHUB_TOKEN` | Fornecido pelo Actions. Commits dos workflows. | Sempre presente no Actions. |
 | `DISPATCH_TOKEN` | PAT para disparar `repository_dispatch` aos consumidores (`consumers.json`). | O passo de notificação é **pulado**. |
-| `LLM_API_KEY` (local) | Alternativa ao GitHub Models para rodar o enriquecimento por IA fora do Actions. | Usa o **resumo determinístico**. |
+| `LLM_API_KEY` | Chave de um provedor **compatível com OpenAI** para o resumo por IA. | Usa o **resumo determinístico**. |
+| `LLM_BASE_URL` | Endpoint do provedor (ex.: `https://api.openai.com/v1`). | Default: GitHub Models (**em descontinuação** — ver nota). |
+| `LLM_MODEL` | Modelo (ex.: `gpt-4o-mini`). | Default `openai/gpt-4o-mini`. |
 
-Variáveis úteis: `SITE_BASE` (base das URLs em `feed.json`, default `https://mdcadvocacia.com`), `MCAP_USE_MODELS=1` (liga o LLM no Actions), `MCAP_DETERMINISTICO=1` (força o texto determinístico), `LLM_MODEL` (default `openai/gpt-4o-mini`).
+> ⚠️ **GitHub Models em descontinuação.** Em produção o endpoint padrão retornou `HTTP 410 github_models_retirement_brownout`. Para ter resumo por IA, configure `LLM_API_KEY` + `LLM_BASE_URL` + `LLM_MODEL` de um provedor compatível com OpenAI. Sem isso, o motor usa o **texto determinístico** (o relatório sempre sai).
+
+Variáveis úteis: `SITE_BASE` (base das URLs em `feed.json`, default `https://mdcadvocacia.com`), `LLM_API_KEY`/`LLM_BASE_URL`/`LLM_MODEL` (resumo por IA em qualquer provedor compatível com OpenAI), `MCAP_USE_MODELS=1` (tenta o GitHub Models com o `GITHUB_TOKEN` — hoje retornando 410), `MCAP_DETERMINISTICO=1` (força o texto determinístico).
 
 ## Enriquecimento por IA (fallback garantido)
 `summarize.js` gera "Panorama da semana" e "Por que importa". Sem credencial, com erro ou timeout de 60s, cai no **texto determinístico** — o relatório **sempre** sai. O material coletado é tratado como dado não confiável (delimitado no prompt, com instrução explícita para o modelo ignorar comandos embutidos) e qualquer número citado que não apareça no material invalida o enriquecimento.
