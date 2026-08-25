@@ -13,7 +13,7 @@
   <script src="assets/auth.js"></script>
   <script>
     // Protege a página antes de renderizar.
-    window.MCADVAuth.requireAuth('login.html');
+    window.MCADVAuth.requireAuth('entrar.html');
   </script>
   <style>
     *{box-sizing:border-box}
@@ -59,7 +59,7 @@
       <img src="../assets/img/logo-transparent.png" alt="MCADV">
       <div>
         <h1>Painel MCADV</h1>
-        <span>Área Administrativa</span>
+        <span>Área Restrita</span>
       </div>
     </div>
     <div class="user-box">
@@ -71,7 +71,7 @@
   <main>
     <div class="welcome">
       <h2>Bem-vindo</h2>
-      <p>Este é o painel administrativo do MCADV.</p>
+      <p>Este é o painel do MCADV.</p>
     </div>
     <div class="placeholder">
       <i class="bi bi-tools"></i>
@@ -89,7 +89,7 @@
       }
       document.getElementById('logout').addEventListener('click', function () {
         window.MCADVAuth.logout();
-        window.location.replace('login.html');
+        window.location.replace('entrar.html');
       });
     })();
   </script>

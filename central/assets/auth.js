@@ -7,7 +7,7 @@
   'use strict';
 
   var CREDENTIALS = { user: 'Xande', pass: '123321' };
-  var SESSION_KEY = 'mcadv_admin_auth';
+  var SESSION_KEY = 'mcadv_central_auth';
 
   window.MCADVAuth = {
     /** Valida credenciais e cria a sessão local. */
@@ -41,7 +41,7 @@
     /** Protege páginas do painel: redireciona ao login se não autenticado. */
     requireAuth: function (loginUrl) {
       if (!this.isAuthenticated()) {
-        window.location.replace(loginUrl || 'login.html');
+        window.location.replace(loginUrl || 'entrar.html');
       }
     }
   };
