@@ -76,6 +76,7 @@ jobs:
           DATA=$(TZ=America/Sao_Paulo date +%F)
           rm -f "../content/$AREA/$DATA.draft.md"
           node src/publish.js
+          node src/newsletter.js
 
       - name: Commitar publicação
         run: |
@@ -92,6 +93,7 @@ jobs:
           fi
 
       - name: Disparar consumidores
+        working-directory: engine
         env:
           DISPATCH_TOKEN: ${{ secrets.DISPATCH_TOKEN }}
         run: |
@@ -99,14 +101,7 @@ jobs:
             echo "DISPATCH_TOKEN ausente — pulando notificação de consumidores."
             exit 0
           fi
-          node -e '
-            const fs=require("fs");
-            const cfg=JSON.parse(fs.readFileSync("engine/src/config/consumers.json","utf8"));
-            for (const c of (cfg.consumidores||[])) {
-              if (!c.ativo || !c.repo) continue;
-              console.log("Notificaria:", c.repo, c.evento);
-            }
-          '
+          node src/dispatch.js
 
       - name: Abrir issue em caso de falha
         if: failure()

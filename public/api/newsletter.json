@@ -1,0 +1,37 @@
+{
+  "gerado_em": "2026-08-25T12:56:19-03:00",
+  "versao": 1,
+  "data": "2026-08-25",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-08-25.md",
+  "relatorios": [
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 18 a 25/08/2026",
+      "data": "2026-08-25",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-25.md"
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 18 a 25/08/2026",
+      "data": "2026-08-25",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-08-25.md"
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 18 a 25/08/2026",
+      "data": "2026-08-25",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-08-25.md"
+    }
+  ],
+  "clima": {
+    "cidade": "São Paulo",
+    "data": "2026-08-25",
+    "data_extenso": "terça, 25 de agosto de 2026",
+    "temp_atual": 22,
+    "min": 14,
+    "max": 22,
+    "condicao": "garoa moderada",
+    "prob_chuva": 16,
+    "texto": "São Paulo · terça, 25 de agosto de 2026 · 22°C, garoa moderada · mín 14° / máx 22°"
+  }
+}

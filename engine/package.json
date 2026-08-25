@@ -9,9 +9,12 @@
   },
   "scripts": {
     "collect": "node src/collect.js",
+    "collect-dou": "node src/collect-dou.js",
     "render": "node src/render.js",
     "weather": "node src/weather.js",
     "publish": "node src/publish.js",
+    "newsletter": "node src/newsletter.js",
+    "dispatch": "node src/dispatch.js",
     "validate-sources": "node src/validate-sources.js",
     "test": "node --test"
   },

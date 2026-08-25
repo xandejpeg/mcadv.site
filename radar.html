@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Radar MCAP | Notícias e Normas do Direito Empresarial</title>
+  <meta name="description" content="Radar jurídico do escritório Moraes de Carvalho: relatórios semanais de Tributário & Fiscal, Trabalhista e Previdenciário.">
+  <link rel="icon" href="assets/img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <style>
+    *{box-sizing:border-box}
+    body{margin:0;min-height:100vh;font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;color:#e8ecf3;background:radial-gradient(1200px 600px at 80% -10%,rgba(201,169,110,0.1),transparent 60%),linear-gradient(160deg,#0a1628 0%,#05101a 100%);-webkit-font-smoothing:antialiased}
+    a{color:#c9a96e;text-decoration:none}
+    a:hover{color:#d4b98a}
+    header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px 28px;border-bottom:1px solid rgba(201,169,110,0.15);background:rgba(5,16,26,0.6);backdrop-filter:blur(6px);position:sticky;top:0;z-index:10}
+    .brand{display:flex;align-items:center;gap:12px}
+    .brand img{width:40px;height:40px;object-fit:contain;filter:sepia(35%) brightness(2.1) saturate(0.75)}
+    .brand h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;font-weight:700;color:#fff;margin:0;line-height:1}
+    .brand span{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:2px;text-transform:uppercase;color:#c9a96e}
+    .voltar{font-size:13px;color:rgba(255,255,255,0.6)}
+    .clima{display:flex;align-items:center;gap:10px;max-width:1200px;margin:18px auto 0;padding:12px 20px;background:rgba(201,169,110,0.08);border:1px solid rgba(201,169,110,0.25);border-radius:12px;font-size:14px;color:#e2c795;width:calc(100% - 40px)}
+    .clima i{font-size:18px}
+    main{max-width:1200px;margin:0 auto;padding:28px 20px 64px;display:grid;grid-template-columns:minmax(300px,380px) 1fr;gap:28px;align-items:start}
+    @media (max-width:860px){main{grid-template-columns:1fr}}
+    .tabs{display:flex;gap:8px;margin-bottom:18px;flex-wrap:wrap}
+    .tab{padding:8px 14px;border:1px solid rgba(255,255,255,0.14);border-radius:999px;background:rgba(255,255,255,0.03);color:rgba(255,255,255,0.7);font-size:13px;cursor:pointer;transition:all .2s ease}
+    .tab.ativo,.tab:hover{border-color:#c9a96e;color:#081120;background:#c9a96e}
+    .lista{display:flex;flex-direction:column;gap:12px}
+    .card{padding:16px 18px;border:1px solid rgba(255,255,255,0.1);border-radius:12px;background:rgba(255,255,255,0.02);cursor:pointer;transition:border-color .2s ease,transform .2s ease}
+    .card:hover{border-color:#c9a96e;transform:translateY(-2px)}
+    .card .area{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:1.5px;text-transform:uppercase;color:#c9a96e}
+    .card h3{font-family:'Cormorant Garamond',Georgia,serif;font-size:19px;color:#fff;margin:6px 0 6px;font-weight:600;line-height:1.25}
+    .card .meta{font-size:12px;color:rgba(255,255,255,0.5)}
+    .leitor{border:1px solid rgba(201,169,110,0.18);border-radius:16px;background:rgba(10,22,40,0.5);padding:32px 34px;min-height:420px}
+    .leitor.vazio{display:flex;align-items:center;justify-content:center;color:rgba(255,255,255,0.4);font-size:15px;text-align:center}
+    .leitor h1{font-family:'Cormorant Garamond',Georgia,serif;font-size:30px;color:#fff;margin:0 0 4px}
+    .leitor h2{font-family:'Cormorant Garamond',Georgia,serif;font-size:22px;color:#c9a96e;margin:30px 0 10px;border-bottom:1px solid rgba(201,169,110,0.2);padding-bottom:6px}
+    .leitor h3{font-size:17px;color:#fff;margin:20px 0 6px}
+    .leitor p{color:rgba(255,255,255,0.78);line-height:1.7;font-size:15px;margin:8px 0}
+    .leitor a{word-break:break-word}
+    .leitor blockquote{margin:12px 0;padding:10px 16px;border-left:3px solid #c9a96e;background:rgba(201,169,110,0.07);border-radius:0 8px 8px 0;color:#e2c795;font-size:14px}
+    .leitor ul{padding-left:20px;color:rgba(255,255,255,0.78);line-height:1.7}
+    .leitor table{width:100%;border-collapse:collapse;margin:14px 0;font-size:13px}
+    .leitor th,.leitor td{border:1px solid rgba(255,255,255,0.12);padding:8px 10px;text-align:left;color:rgba(255,255,255,0.75)}
+    .leitor th{background:rgba(201,169,110,0.1);color:#e2c795}
+    .leitor hr{border:none;border-top:1px solid rgba(255,255,255,0.1);margin:24px 0}
+    .erro{color:#f4a3a3;font-size:14px}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <img src="assets/img/logo-transparent.png" alt="MCAP">
+      <div>
+        <h1>Radar MCAP</h1>
+        <span>Notícias & Normas</span>
+      </div>
+    </div>
+    <a class="voltar" href="index.html"><i class="bi bi-arrow-left"></i> Voltar ao site</a>
+  </header>
+
+  <div class="clima" id="clima" style="display:none"><i class="bi bi-cloud-sun"></i> <span id="climaTexto"></span></div>
+
+  <main>
+    <section>
+      <div class="tabs" id="tabs">
+        <button class="tab ativo" data-area="todas">Todas</button>
+        <button class="tab" data-area="tributario-fiscal">Tributário &amp; Fiscal</button>
+        <button class="tab" data-area="trabalhista">Trabalhista</button>
+        <button class="tab" data-area="previdenciario">Previdenciário</button>
+      </div>
+      <div class="lista" id="lista"><p style="color:rgba(255,255,255,0.5)">Carregando relatórios…</p></div>
+    </section>
+    <section class="leitor vazio" id="leitor">Selecione um relatório para ler aqui.</section>
+  </main>
+
+  <script>
+    const NOMES = { 'tributario-fiscal': 'Tributário & Fiscal', 'trabalhista': 'Trabalhista', 'previdenciario': 'Previdenciário' };
+    let relatorios = [];
+    let filtro = 'todas';
+
+    function esc(s){ return String(s).replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c])); }
+
+    // Conversor Markdown mínimo para o formato gerado pelo Radar.
+    function mdToHtml(md){
+      md = md.replace(/^---\n[\s\S]*?\n---\n/, ''); // remove front-matter
+      const linhas = md.split('\n');
+      let html = '', i = 0, emLista = false, emTabela = false;
+      const fechaLista = () => { if(emLista){ html += '</ul>'; emLista = false; } };
+      const inline = (t) => esc(t)
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m,txt,url) => `<a href="${encodeURI(url)}" target="_blank" rel="noopener">${txt}</a>`)
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+      while(i < linhas.length){
+        let l = linhas[i];
+        if(/^\s*\|.*\|\s*$/.test(l) && /^\s*\|[-\s|:]+\|\s*$/.test(linhas[i+1]||'')){
+          fechaLista();
+          const head = l.split('|').slice(1,-1).map(c=>`<th>${inline(c.trim())}</th>`).join('');
+          html += `<table><thead><tr>${head}</tr></thead><tbody>`;
+          i += 2;
+          while(i<linhas.length && /^\s*\|.*\|\s*$/.test(linhas[i])){
+            const row = linhas[i].split('|').slice(1,-1).map(c=>`<td>${inline(c.trim())}</td>`).join('');
+            html += `<tr>${row}</tr>`; i++;
+          }
+          html += '</tbody></table>'; continue;
+        }
+        if(/^### /.test(l)){ fechaLista(); html += `<h3>${inline(l.slice(4))}</h3>`; }
+        else if(/^## /.test(l)){ fechaLista(); html += `<h2>${inline(l.slice(3))}</h2>`; }
+        else if(/^# /.test(l)){ fechaLista(); html += `<h1>${inline(l.slice(2))}</h1>`; }
+        else if(/^> /.test(l)){ fechaLista(); html += `<blockquote>${inline(l.slice(2))}</blockquote>`; }
+        else if(/^---\s*$/.test(l)){ fechaLista(); html += '<hr>'; }
+        else if(/^\s*[-*] /.test(l)){ if(!emLista){ html += '<ul>'; emLista = true; } html += `<li>${inline(l.replace(/^\s*[-*] /,''))}</li>`; }
+        else if(l.trim() === ''){ fechaLista(); }
+        else { fechaLista(); html += `<p>${inline(l)}</p>`; }
+        i++;
+      }
+      fechaLista();
+      return html;
+    }
+
+    function render(){
+      const lista = document.getElementById('lista');
+      const itens = relatorios.filter(r => filtro === 'todas' || r.area === filtro);
+      if(!itens.length){ lista.innerHTML = '<p style="color:rgba(255,255,255,0.5)">Nenhum relatório nesta área ainda.</p>'; return; }
+      lista.innerHTML = itens.map((r, idx) => `
+        <article class="card" data-idx="${relatorios.indexOf(r)}">
+          <div class="area">${esc(NOMES[r.area] || r.area)}</div>
+          <h3>${esc(r.titulo)}</h3>
+          <div class="meta">${esc(dataBR(r.data))}${r.itens ? ' · ' + r.itens + ' itens' : ''}${r.edicao ? ' · edição ' + r.edicao : ''}</div>
+        </article>`).join('');
+      lista.querySelectorAll('.card').forEach(c => c.addEventListener('click', () => abrir(relatorios[+c.dataset.idx])));
+    }
+
+    function dataBR(d){ const [y,m,dd] = String(d).slice(0,10).split('-'); return `${dd}/${m}/${y}`; }
+
+    async function abrir(r){
+      const leitor = document.getElementById('leitor');
+      leitor.classList.remove('vazio');
+      leitor.innerHTML = '<p style="color:rgba(255,255,255,0.5)">Carregando…</p>';
+      try{
+        const url = `content/${r.area}/${r.data}.md`;
+        const res = await fetch(url, { cache: 'no-cache' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        leitor.innerHTML = mdToHtml(await res.text());
+        leitor.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }catch(e){
+        leitor.innerHTML = `<p class="erro">Não foi possível abrir este relatório (${esc(e.message)}).</p>`;
+      }
+    }
+
+    async function carregarClima(){
+      try{
+        const res = await fetch('public/api/weather.json', { cache: 'no-cache' });
+        if(!res.ok) return;
+        const c = await res.json();
+        if(c && c.texto){ document.getElementById('climaTexto').textContent = c.texto; document.getElementById('clima').style.display = 'flex'; }
+      }catch(e){ /* clima é opcional */ }
+    }
+
+    async function init(){
+      document.getElementById('tabs').addEventListener('click', (e) => {
+        const b = e.target.closest('.tab'); if(!b) return;
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('ativo'));
+        b.classList.add('ativo'); filtro = b.dataset.area; render();
+      });
+      carregarClima();
+      try{
+        const res = await fetch('public/api/feed.json', { cache: 'no-cache' });
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        relatorios = data.relatorios || [];
+        render();
+      }catch(e){
+        document.getElementById('lista').innerHTML = `<p class="erro">Não foi possível carregar os relatórios (${esc(e.message)}).</p>`;
+      }
+    }
+    init();
+  </script>
+</body>
+</html>

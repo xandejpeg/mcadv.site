@@ -88,8 +88,20 @@ Variáveis úteis: `SITE_BASE` (base das URLs em `feed.json`, default `https://m
 
 ## Fases
 - **Fase 1:** Google News + Conjur, dedupe, score, Markdown determinístico, clima, `feed.json`/`ticker.json`, três workflows via `workflow_dispatch`.
-- **Fase 2 (atual):** peso de fonte por domínio/nome (`lib/sources.js` — oficial/tribunal têm peso 1.0 mesmo quando o item chega via Google News), tabela de **Normas e atos publicados** (`lib/normas.js`), **janela de revisão** do rascunho (o `.draft.md` editado à mão é respeitado quando mais novo que o raw; use `--force` para re-renderizar), fontes oficiais ampliadas e validadas, resumo por **GitHub Models** e issue automática em falha.
-- **Fase 3:** página HTML no site, `repository_dispatch`, DOU e newsletter.
+- **Fase 2:** peso de fonte por domínio/nome (`lib/sources.js`), tabela de **Normas e atos publicados** (`lib/normas.js`), **janela de revisão** do rascunho, fontes oficiais ampliadas, resumo por **GitHub Models** e issue automática em falha.
+- **Fase 3 (atual):** página pública **`radar.html`** listando os relatórios, `repository_dispatch` para os consumidores (`dispatch.js`), coletor de **DOU** opcional (`collect-dou.js`) e **newsletter** (digest combinado `newsletter.js`).
+
+## Página pública (Fase 3)
+`radar.html` (na raiz do site) consome `public/api/feed.json` e `public/api/weather.json`, lista os relatórios por área e renderiza o `.md` escolhido num leitor embutido (conversor Markdown mínimo, sem dependências). Link no rodapé da LP ("Radar Jurídico"). Requer os feeds servidos com CORS (já configurado no `server.js`).
+
+## repository_dispatch (Fase 3)
+`node src/dispatch.js` lê `src/config/consumers.json` e envia um `repository_dispatch` para cada consumidor **ativo** com `repo` preenchido, usando o secret `DISPATCH_TOKEN`. Sem o secret, o passo é pulado. O `client_payload` inclui as URLs de `feed`, `ticker` e `weather`. Chamado automaticamente no fim de `publicacao.yml`.
+
+## DOU (Fase 3, opcional)
+`node src/collect-dou.js --area=<area>` coleta atos do Diário Oficial de forma best-effort. Como a INLABS/DOU não expõe RSS aberto, usamos o índice do Google News restrito a `site:in.gov.br` (guardando **apenas ementa + link**, sem scraping do jornal) até haver credencial INLABS. Saída em `data/raw/dou/<area>/<data>.json`. Não é obrigatório no pipeline.
+
+## Newsletter (Fase 3)
+`node src/newsletter.js` monta um boletim combinado com o relatório mais recente de cada área + manchetes do ticker + clima. Gera `content/newsletter/<data>.md` e `public/api/newsletter.json`. Roda ao fim de `publicacao.yml`. O envio por e-mail em si depende de infraestrutura externa (fora do escopo do motor).
 
 ## Peso de fonte (Fase 2)
 `lib/sources.js` classifica cada item pela fonte real (domínio ou nome do publisher) e aplica o maior peso entre domínio, nome e o piso do feed. Assim, uma notícia do STF/Receita que chega pelo Google News recebe peso de fonte oficial, não de agregador. Ajuste as regras em `REGRAS_HOST`/`REGRAS_NOME`.
