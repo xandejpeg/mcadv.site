@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-08-25T13:08:38-03:00",
+  "gerado_em": "2026-08-26T09:38:18-03:00",
   "versao": 1,
-  "data": "2026-08-25",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-08-25.md",
+  "data": "2026-08-26",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-08-26.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 18 a 25/08/2026",
-      "data": "2026-08-25",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-25.md"
+      "titulo": "Radar Tributário & Fiscal — 19 a 26/08/2026",
+      "data": "2026-08-26",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-26.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-08-25",
-    "data_extenso": "terça, 25 de agosto de 2026",
-    "temp_atual": 22,
-    "min": 14,
-    "max": 22,
-    "condicao": "garoa moderada",
-    "prob_chuva": 35,
-    "texto": "São Paulo · terça, 25 de agosto de 2026 · 22°C, garoa moderada · mín 14° / máx 22°"
+    "data": "2026-08-26",
+    "data_extenso": "quarta, 26 de agosto de 2026",
+    "temp_atual": 15,
+    "min": 15,
+    "max": 24,
+    "condicao": "garoa fraca",
+    "prob_chuva": 33,
+    "texto": "São Paulo · quarta, 26 de agosto de 2026 · 15°C, garoa fraca · mín 15° / máx 24°"
   }
 }

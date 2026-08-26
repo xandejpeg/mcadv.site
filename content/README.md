@@ -4,6 +4,7 @@
 
 ## tributario-fiscal
 
+- **26/08/2026** — [Radar Tributário & Fiscal — 19 a 26/08/2026](tributario-fiscal/2026-08-26.md) · 12 itens
 - **25/08/2026** — [Radar Tributário & Fiscal — 18 a 25/08/2026](tributario-fiscal/2026-08-25.md) · 12 itens
 
 ## trabalhista
