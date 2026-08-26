@@ -20,7 +20,7 @@ permissions:
   issues: write
 
 concurrency:
-  group: radar-pesquisa-${{ github.event.inputs.area || github.event.schedule }}
+  group: radar-commit
   cancel-in-progress: false
 
 jobs:
@@ -90,7 +90,13 @@ jobs:
             echo "Nada a commitar."
           else
             git commit -m "radar($AREA): pesquisa $DATA"
-            n=0; until [ $n -ge 5 ]; do git pull --rebase --autostash && git push && break; n=$((n+1)); echo "retry push $n"; sleep 4; done
+            ok=0
+            for i in 1 2 3 4 5; do
+              if git push; then ok=1; break; fi
+              git pull --rebase --autostash || git rebase --abort || true
+              sleep 4
+            done
+            [ $ok -eq 1 ] || { echo "push falhou apos 5 tentativas"; exit 1; }
           fi
 
       - name: Abrir issue em caso de falha
