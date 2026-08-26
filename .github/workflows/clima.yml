@@ -42,7 +42,7 @@ jobs:
             echo "Nada a commitar."
           else
             git commit -m "radar(clima): $DATA"
-            git push
+            n=0; until [ $n -ge 5 ]; do git pull --rebase --autostash && git push && break; n=$((n+1)); echo "retry push $n"; sleep 4; done
           fi
 
       - name: Abrir issue em caso de falha
