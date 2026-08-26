@@ -14,5 +14,6 @@
 
 ## previdenciario
 
+- **26/08/2026** — [Radar Previdenciário — 19 a 26/08/2026](previdenciario/2026-08-26.md) · 12 itens
 - **25/08/2026** — [Radar Previdenciário — 18 a 25/08/2026](previdenciario/2026-08-25.md) · 12 itens
 
