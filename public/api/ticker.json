@@ -58,16 +58,16 @@
       "data": "2026-08-25"
     }
   ],
-  "gerado_em": "2026-08-26T21:10:15-03:00",
+  "gerado_em": "2026-08-27T08:17:01-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-08-26",
-    "data_extenso": "quarta, 26 de agosto de 2026",
-    "temp_atual": 15,
-    "min": 15,
-    "max": 24,
-    "condicao": "garoa fraca",
-    "prob_chuva": 33,
-    "texto": "São Paulo · quarta, 26 de agosto de 2026 · 15°C, garoa fraca · mín 15° / máx 24°"
+    "data": "2026-08-27",
+    "data_extenso": "quinta, 27 de agosto de 2026",
+    "temp_atual": 18,
+    "min": 16,
+    "max": 27,
+    "condicao": "garoa moderada",
+    "prob_chuva": 90,
+    "texto": "São Paulo · quinta, 27 de agosto de 2026 · 18°C, garoa moderada · mín 16° / máx 27°"
   }
 }
