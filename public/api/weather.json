@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-08-27T08:17:01-03:00",
+  "gerado_em": "2026-08-28T08:43:11-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-08-27",
-  "data_extenso": "quinta, 27 de agosto de 2026",
-  "temp_atual": 18,
-  "min": 16,
-  "max": 27,
-  "condicao": "garoa moderada",
-  "prob_chuva": 90,
-  "texto": "São Paulo · quinta, 27 de agosto de 2026 · 18°C, garoa moderada · mín 16° / máx 27°"
+  "data": "2026-08-28",
+  "data_extenso": "sexta, 28 de agosto de 2026",
+  "temp_atual": 21,
+  "min": 17,
+  "max": 31,
+  "condicao": "garoa fraca",
+  "prob_chuva": 6,
+  "texto": "São Paulo · sexta, 28 de agosto de 2026 · 21°C, garoa fraca · mín 17° / máx 31°"
 }
