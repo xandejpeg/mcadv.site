@@ -2,11 +2,32 @@
   "versao": 1,
   "manchetes": [
     {
-      "titulo": "Fato gerador do IBS e da CBS no momento do pagamento",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcW53aEFoYzRXdF9KRTlNYkRoQlR0d3hyc0NpNXY1RFM5aUhiRlVJQXV6LTRYSUM2T3laUWpZQ1UxNFNhWDNKZ2tjRV9FWl9MZzU2S1pxeDlWejdZeW5mbVBrMzlIS19JNTNXU0NXci1lS0RNTk1JODJ0TjlnMllSd0lJTHh2c2swU2l0LXJ1UDJ6Nk9GNFZYVEVaTWNXQ3RF?oc=5",
-      "fonte": "Consultor Jurídico",
+      "titulo": "O Simples Nacional e a opção pelo regime de apuração da CBS e do IBS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmtGOUJuRnRpQ2lJdVkyTURJS1A0cGp3WjBYdnFOWUpzT294SWtaRFJBSldwMjBIWnZDUXlsTjVtWkIyVHhqNkxRTWxnWHFEX3BIb1o2OGwwSEdsWmk0dUFManlBZXJSbWdmSDU2LTdQTEpJOWgzZS1oUFRaekZ4WUxNbUwtTjU3dF9UZ2czSkZXeUVkcGo5bWVrVHF2d3R6Z3JaTWpuMTE5WXNTNWFTVW91TlBiT1E?oc=5",
+      "fonte": "JOTA Info",
       "area": "tributario-fiscal",
-      "data": "2026-08-28"
+      "data": "2026-08-31"
+    },
+    {
+      "titulo": "Manaus sediará nesta terça-feira (1º) o Módulo 15 do Curso Reforma Tributária do Consumo",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnZ1TzM1c3hoNW5RNXJtb0swMHpwVV96UVBGUnN4eXpZMC02NWpna2NSck1KdV9jRnIxektqYm1iTU9XckVmeE5ZVVMyWlRKc2gyODg4M3p6Y1FsMkVPSHMtOXVjdHh2a3pKOGgwS2NTMzZyNFZKYzJOUWwybThNUGd0SDV4Tm5KdDhBd1lRcmVOMlV0S2VDWm43NFRvR0V3dzV6Y3BBeFBhb2YxVHpzNF9sOHRkZFVkUzdZRGRnaWhzdEluZXpVeFlYeGtZc1lKNThlOXFlZjE3YTZrUkdfcTRwYkU1S1M5QkpSODBVaw?oc=5",
+      "fonte": "gov.br",
+      "area": "tributario-fiscal",
+      "data": "2026-08-31"
+    },
+    {
+      "titulo": "Setembro será mês decisivo para empresas definirem como vão recolher IBS e CBS no Simples…",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTEEwRUZVWjNZNWpnbDFkSGpxblZJaVRhallPN2xKSlJ5bDhPd3lfOTNJZ2NHOFpSMC13dE5sZ1h0ZWNILUJBeGNmY3g3NU5sSmZWdlAtNmNSRE4xMTg4b0I3OVJ1WmlLWGppTThPMHdUWURoUzRDNGlwaXVIUTBmVmNFblRob2prc0hTSnNQTndHOXRIRGFCbUxmZVBiRFM3Um1ENkRNZWN1Vzg2UVNDSE02ZFNJVVBFVlN0M1RnQnRuMU9uUWlxdEZSTy1zcHlPUXJN0gHYAUFVX3lxTE9DQWtkb2hOdF9XdHU2aTdHRzZZUEtqVlg3RnZ6MTFpb2FIbTlha0NCUDhWSzRuU2dYUFpnaEdzaWlyODNDdmFYaHNjdzFGaG12Mmt5UVpTQXdmb290bW1IX0kybllBM0EzOWVUejZrZDVYOVlLcnNQVlhzMDVIYUdBa0hBV2FUbHp0OVRWcGFKUXJOS1pUVk01RUJORFp4cUdPaHMycFZMNTk3clREWGUwYW1PMUNZZTJEby1zWUZqdlRtdVI4cXQ4N28tQW5qLWxOazVkOHV5dw?oc=5",
+      "fonte": "Jornal Contábil",
+      "area": "tributario-fiscal",
+      "data": "2026-08-31"
+    },
+    {
+      "titulo": "Split payment e créditos de IBS e CBS desafiam empresas na Reforma Tributária",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazI0MDNSZVI5VUF5QlFlVEFMbmJNOVNYOS1odnJyNE1zX0VlaWV5V3JyNGJwTjFoLXR6RkgydjFFOTZxSFB5Y2MwalpIdi16VHdvNkVIeWZqSExvcS1POE5HTEUtODFicEM5QmVwNUR5Y01WbjN6dmx0WXE5ZW45b1V2N3YzM080Uy1NVU5uM00tNll2SDVvZENaV3V4WjNrVGtTYnMzcEVaMTNDU0xz?oc=5",
+      "fonte": "BM&C News",
+      "area": "tributario-fiscal",
+      "data": "2026-08-31"
     },
     {
       "titulo": "INSS em Santarém realiza mutirão de perícia médica neste fim de semana",
@@ -14,27 +35,6 @@
       "fonte": "G1",
       "area": "previdenciario",
       "data": "2026-08-28"
-    },
-    {
-      "titulo": "Grupo desenha proposta de reforma da Previdência para o próximo governo com idade mínima…",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU3gyVmRqSjhiLXdUTWduVFFaLWI0R2FIZVN1U3RmN2RzZVdLYnBGYzBIRUV0QUtFN1Q4T1pKdHF1NF8zSWowOTAzYXhUOWVNUE90cmpaZHdSd0dXa29LcjE2SmNZaUZiZ1lOQ0xkaUdWUTFadVZla2xLRkM3c0thNE9NM0Y4cG04b0J6NzQ2eEJ1dFdiNU43YndtZFBSXzdudEpWOFU1M1Z6U20wZndtRmNBRWNUNXkySU1Od3RaNlpMdVkyYno2eFBKU0RTbENTckFlSTNGVdIB1wFBVV95cUxPU3gyVmRqSjhiLXdUTWduVFFaLWI0R2FIZVN1U3RmN2RzZVdLYnBGYzBIRUV0QUtFN1Q4T1pKdHF1NF8zSWowOTAzYXhUOWVNUE90cmpaZHdSd0dXa29LcjE2SmNZaUZiZ1lOQ0xkaUdWUTFadVZla2xLRkM3c0thNE9NM0Y4cG04b0J6NzQ2eEJ1dFdiNU43YndtZFBSXzdudEpWOFU1M1Z6U20wZndtRmNBRWNUNXkySU1Od3RaNlpMdVkyYno2eFBKU0RTbENTckFlSTNGVQ?oc=5",
-      "fonte": "Estadão",
-      "area": "previdenciario",
-      "data": "2026-08-28"
-    },
-    {
-      "titulo": "Nova proposta de reforma da Previdência busca estabilizar gasto com idade mínima de 67…",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcV85TmY1d3FYS0Z5LTE3cmdhMzRoXzlPMjB4cWlHalQ3dmdkclRfQmhacWVQQVF6SXN5WlBENlFyZ2ZMbFUyNlFTZmRyUlVKUk12YmVQNWtYWUJ0QW5OUlBzX1NCeFJXYkJJaVNBaUU5QkM5RUR4cUgzOXVyV3ZySmNzaGIzdXlzaG9oZ2JjZkRoSTF1Sm8zMUluYWZZT09kZXE0T0Y2Y2hWa2xydnJaR21UckNzOE9Kd3FXcjd2QzlsMDRpaUh2b2hXMEo5Z0I4ekQxWnJuNFFyaVZHOVhraWJXVk82dU5Cc1laU0Qza0c?oc=5",
-      "fonte": "Folha de S.Paulo",
-      "area": "previdenciario",
-      "data": "2026-08-28"
-    },
-    {
-      "titulo": "Suspensão da rejeição automática invalida notas sem IBS e CBS?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeTBxREIxaDJPME40bF9QNHBuR2NSTG9uVC1aU2xuU0EyNklwUzJ4bHRYM1FOcGRFM2swTHpLS0JEVlM3N0JaTWEyT1QwT082cFNzQlJjWjFFYTc2VGxnb2J4ZGxrbkkwUVRRRzMxSDdydEhmV3dlR0hoemFYWFYtODNtMFRFM3RYVUdpUmJHeVhWdmhzR1BYNVdVank?oc=5",
-      "fonte": "Consultor Jurídico",
-      "area": "tributario-fiscal",
-      "data": "2026-08-27"
     },
     {
       "titulo": "Audiência pública no TST debate limites para controle do uso do banheiro durante jornada",
@@ -58,7 +58,7 @@
       "data": "2026-08-25"
     }
   ],
-  "gerado_em": "2026-08-31T05:03:39-03:00",
+  "gerado_em": "2026-08-31T20:16:20-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-08-31",

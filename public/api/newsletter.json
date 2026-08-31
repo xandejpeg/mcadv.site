@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-08-28T11:59:19-03:00",
+  "gerado_em": "2026-08-31T20:16:20-03:00",
   "versao": 1,
-  "data": "2026-08-28",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-08-28.md",
+  "data": "2026-08-31",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-08-31.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 19 a 26/08/2026",
-      "data": "2026-08-26",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-26.md"
+      "titulo": "Radar Tributário & Fiscal — 24 a 31/08/2026",
+      "data": "2026-08-31",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-31.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-08-28",
-    "data_extenso": "sexta, 28 de agosto de 2026",
-    "temp_atual": 21,
-    "min": 17,
-    "max": 31,
-    "condicao": "garoa fraca",
-    "prob_chuva": 6,
-    "texto": "São Paulo · sexta, 28 de agosto de 2026 · 21°C, garoa fraca · mín 17° / máx 31°"
+    "data": "2026-08-31",
+    "data_extenso": "segunda, 31 de agosto de 2026",
+    "temp_atual": 18,
+    "min": 18,
+    "max": 26,
+    "condicao": "trovoada com granizo",
+    "prob_chuva": 75,
+    "texto": "São Paulo · segunda, 31 de agosto de 2026 · 18°C, trovoada com granizo · mín 18° / máx 26°"
   }
 }
