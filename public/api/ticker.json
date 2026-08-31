@@ -58,16 +58,16 @@
       "data": "2026-08-25"
     }
   ],
-  "gerado_em": "2026-08-30T05:02:41-03:00",
+  "gerado_em": "2026-08-31T05:03:39-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-08-30",
-    "data_extenso": "domingo, 30 de agosto de 2026",
-    "temp_atual": 21,
-    "min": 20,
-    "max": 31,
-    "condicao": "trovoada",
-    "prob_chuva": 80,
-    "texto": "São Paulo · domingo, 30 de agosto de 2026 · 21°C, trovoada · mín 20° / máx 31°"
+    "data": "2026-08-31",
+    "data_extenso": "segunda, 31 de agosto de 2026",
+    "temp_atual": 18,
+    "min": 18,
+    "max": 26,
+    "condicao": "trovoada com granizo",
+    "prob_chuva": 75,
+    "texto": "São Paulo · segunda, 31 de agosto de 2026 · 18°C, trovoada com granizo · mín 18° / máx 26°"
   }
 }
