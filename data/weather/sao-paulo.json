@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-31T05:03:39-03:00",
+  "gerado_em": "2026-09-01T05:03:21-03:00",
   "cidade": "São Paulo",
-  "data": "2026-08-31",
-  "data_extenso": "segunda, 31 de agosto de 2026",
-  "temp_atual": 18,
-  "min": 18,
-  "max": 26,
-  "condicao": "trovoada com granizo",
-  "prob_chuva": 75,
-  "texto": "São Paulo · segunda, 31 de agosto de 2026 · 18°C, trovoada com granizo · mín 18° / máx 26°"
+  "data": "2026-09-01",
+  "data_extenso": "terça, 1 de setembro de 2026",
+  "temp_atual": 19,
+  "min": 14,
+  "max": 21,
+  "condicao": "trovoada",
+  "prob_chuva": 100,
+  "texto": "São Paulo · terça, 1 de setembro de 2026 · 19°C, trovoada · mín 14° / máx 21°"
 }
