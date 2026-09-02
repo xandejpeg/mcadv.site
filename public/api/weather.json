@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-09-01T05:03:21-03:00",
+  "gerado_em": "2026-09-02T05:03:08-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-09-01",
-  "data_extenso": "terça, 1 de setembro de 2026",
-  "temp_atual": 19,
-  "min": 14,
+  "data": "2026-09-02",
+  "data_extenso": "quarta, 2 de setembro de 2026",
+  "temp_atual": 13,
+  "min": 13,
   "max": 21,
-  "condicao": "trovoada",
-  "prob_chuva": 100,
-  "texto": "São Paulo · terça, 1 de setembro de 2026 · 19°C, trovoada · mín 14° / máx 21°"
+  "condicao": "garoa fraca",
+  "prob_chuva": 80,
+  "texto": "São Paulo · quarta, 2 de setembro de 2026 · 13°C, garoa fraca · mín 13° / máx 21°"
 }
