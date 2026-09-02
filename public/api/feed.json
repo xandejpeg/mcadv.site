@@ -1,7 +1,15 @@
 {
-  "gerado_em": "2026-08-31T20:16:20-03:00",
+  "gerado_em": "2026-09-02T20:11:59-03:00",
   "versao": 1,
   "relatorios": [
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 26/08/2026 a 02/09/2026",
+      "data": "2026-09-02",
+      "edicao": 3,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-02.md",
+      "itens": 12
+    },
     {
       "area": "tributario-fiscal",
       "titulo": "Radar Tributário & Fiscal — 24 a 31/08/2026",

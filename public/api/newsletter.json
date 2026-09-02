@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-08-31T20:16:20-03:00",
+  "gerado_em": "2026-09-02T20:11:59-03:00",
   "versao": 1,
-  "data": "2026-08-31",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-08-31.md",
+  "data": "2026-09-02",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-02.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 19 a 26/08/2026",
-      "data": "2026-08-26",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-08-26.md"
+      "titulo": "Radar Trabalhista — 26/08/2026 a 02/09/2026",
+      "data": "2026-09-02",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-02.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-08-31",
-    "data_extenso": "segunda, 31 de agosto de 2026",
-    "temp_atual": 18,
-    "min": 18,
-    "max": 26,
-    "condicao": "trovoada com granizo",
-    "prob_chuva": 75,
-    "texto": "São Paulo · segunda, 31 de agosto de 2026 · 18°C, trovoada com granizo · mín 18° / máx 26°"
+    "data": "2026-09-02",
+    "data_extenso": "quarta, 2 de setembro de 2026",
+    "temp_atual": 13,
+    "min": 13,
+    "max": 21,
+    "condicao": "garoa fraca",
+    "prob_chuva": 80,
+    "texto": "São Paulo · quarta, 2 de setembro de 2026 · 13°C, garoa fraca · mín 13° / máx 21°"
   }
 }
