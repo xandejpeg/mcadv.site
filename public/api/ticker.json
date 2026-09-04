@@ -58,16 +58,16 @@
       "data": "2026-08-24"
     }
   ],
-  "gerado_em": "2026-09-03T05:03:13-03:00",
+  "gerado_em": "2026-09-04T05:03:11-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-03",
-    "data_extenso": "quinta, 3 de setembro de 2026",
-    "temp_atual": 12,
-    "min": 12,
-    "max": 26,
-    "condicao": "nublado",
-    "prob_chuva": 0,
-    "texto": "São Paulo · quinta, 3 de setembro de 2026 · 12°C, nublado · mín 12° / máx 26°"
+    "data": "2026-09-04",
+    "data_extenso": "sexta, 4 de setembro de 2026",
+    "temp_atual": 17,
+    "min": 16,
+    "max": 28,
+    "condicao": "garoa moderada",
+    "prob_chuva": 23,
+    "texto": "São Paulo · sexta, 4 de setembro de 2026 · 17°C, garoa moderada · mín 16° / máx 28°"
   }
 }
