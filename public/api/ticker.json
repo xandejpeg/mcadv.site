@@ -2,6 +2,34 @@
   "versao": 1,
   "manchetes": [
     {
+      "titulo": "Receita Federal formaliza adesão de empresas ao piloto da CBS",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRE1LbDd2MjhCNUdtczBEVzcydFZidUtEMnVsaVRuOFRKZURHdnRWRXowLTNiMkNYREJDTWQ0cnZ4aC1zQ0RQSkJDU1F4d2YzcHhuYUVsVWJhVTBxVlV5emREeDdjNGI0NjJPeUhzNlBMYkd3dXlrNG5FdGY0dFhPdmVlV1l1RUFnQkp0MHc1Q1hmdV9QdE15R0JKMWVNMzZFN3c?oc=5",
+      "fonte": "atlaspublico.com.br",
+      "area": "tributario-fiscal",
+      "data": "2026-09-04"
+    },
+    {
+      "titulo": "O crédito tributário entrou na agenda das operadoras de planos de saúde",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-credito-tributario-entrou-na-agenda-das-operadoras-de-planos-de-saude",
+      "fonte": "jota.info",
+      "area": "tributario-fiscal",
+      "data": "2026-09-04"
+    },
+    {
+      "titulo": "Reforma da SAF: Tributação e impactos diante da reforma tributária",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXRWSFFpcm16TTJRQ2d5YTZKTmZLR3RIRzM0XzZuQXcxc3ZVaXhNd3QxQ3FKUTk1cmdyenhERDJuc29fdldlTWdPME5PeUlYZUZwbFlNRGN4ck1YSlU3a1hfdHNYMVZfdGUtMXVVMElORjI0cmJwZElmMFpXSW1HazhuckZHc3RIMk1USkE3c2VsbTdadHVOUW5mQ3Y2UkltNWNtTS13N2NOemVLMzFMV3JnNV9LZHQzTVQzdTBn?oc=5",
+      "fonte": "Migalhas",
+      "area": "tributario-fiscal",
+      "data": "2026-09-03"
+    },
+    {
+      "titulo": "Jovem acusado de matar a mãe terá de devolver pensão ao INSS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRy1CSTZfM2RPUTlwbEo5dVM1clR5U2lWR2s5YTFaZ21pWUttV294d0JGWmVRZEFZWVJPZVBqajR6MW1WUlFvSS1DVkZIM0xjM3dadjViVDJWYWZKcGJ4VVFGLUNKRTBoOUtueGpOV1ZEMGY2LVpKd1l0eXRvakZzb3VsYmJFTUZiTmJLcFBZRG1vV293VzVlNHY5ZDYtMDM1dmFNTnJUMldHUQ?oc=5",
+      "fonte": "Consultor Jurídico",
+      "area": "previdenciario",
+      "data": "2026-09-03"
+    },
+    {
       "titulo": "Justiça condena pejotização de trabalhadores da limpeza em Sergipe",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGpVLUpHSnJncDdDX0sxMlJFZGh1a3hFb1ZDb3VlaW5wWmZNbVltdW03MEtINFNwLWI5cE04eFdVX3BXWUxia3JjTkxyOS16VFpuZUNiNS1ES2tESUEwOVJrMnMxMmNlckpTUS1PQUJ1d0xtdlVVSF91NlBRT29YRlBuaGVjYUNxQm0wUDViRGdmWHpqWVN2YjRKVHRkODdFVHI1V2hR?oc=5",
       "fonte": "CUT - Central Única dos Trabalhadores",
@@ -9,18 +37,11 @@
       "data": "2026-09-02"
     },
     {
-      "titulo": "Justiça do Trabalho afasta competência para analisar vínculo de profissional contratado…",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUE1rREJNemV3U3o0Qk9LeFFYekZZTlhpcnVqMTE3enp0Q29nM0g2bE83d29CM2xaZUxrMGhsNHlfekZnMjNCaE9qT0k4LVZWNU9nTGtLN2tsTy1nX2xGVHNBaFRIci12Vk5oVmg0VE5uWGpIMGhha3N3cWprYld2Nzh4cnRjblllSnV6c3BjZ0UtTjVJTlBGdnhhUmdqeUdhQlZFVDhPdkYxWWVINWhvc2xyM3RuLTNlYWNXVkF4eVJpOTBWVVY5ZQ?oc=5",
-      "fonte": "Portal Juristas",
-      "area": "trabalhista",
-      "data": "2026-09-02"
-    },
-    {
-      "titulo": "TRT-6 promove palestra sobre interação entre precedentes vinculantes dos TRTs e do TST",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeUFfVGwxSUJoMmV6Y0xMZThGUzEwUjZTUS1wR01wSzFBX3czdW16M2dxNWMyeVI3UWcwQXVXRGVVVXFWNHM0Uld2d1VndjNEaURuSTBuTU5TRmxpNWNlNk1QNVM5SnJmeDV1bTdyMmhzYUt5aUxSTHpmbjFVc3VrWHY4d0VVc0RXeXNLZHdFbjZOMW5PVXBjNkZLYXJIRkZXTlMwWW5zN05Od1JlbVlZcTV6U2lCVVNrSUt2NzY2bzJCUU83czl2Mlpn?oc=5",
-      "fonte": "trt6.jus.br",
-      "area": "trabalhista",
-      "data": "2026-09-02"
+      "titulo": "Receita Federal alerta: começa hoje o prazo para opção pelo Simples Nacional e para a…",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQZEZkXzBZM0Q0eEI0SXN3QkxmLTR1WlgxRHc3bmxRNzdXemZWYWM0bWZfcE5wOHh0U1BBM0VxMXdtTDhDMjZrQmx1WHlvdWNoeWpLRzk0MmNSTDl2SmVXUWRjN29vbnc3allIbGtRRmh3UTZ2RDlVV2ZqekJHYzZFNkREMk8wZ2tad3RqM29Nbk5aOTlLUEoxT1UyeHdSWmU0ZnZfR1RrWjBpMFY1d3BiVU5LR3dsM2s0UUQ0T1RQWmdFNGxTMlJTUEd5cThFZWoxQUpYRUpSZE1mX2gyOWh3QTJSamtub2RXa3lialhFbTA5RFh3S2wzSGVvanFLaDY3bXhtamgtY0NaQjNkZW54ZXM0am1SREJpeUdiYzZhVzBZaU1acW94VzhObGppNThjalBlQnJ0NzJEZw?oc=5",
+      "fonte": "www.gov.br",
+      "area": "tributario-fiscal",
+      "data": "2026-09-01"
     },
     {
       "titulo": "TST marca audiência pública para discutir prorrogação de jornada em ambiente insalubre",
@@ -30,35 +51,14 @@
       "data": "2026-09-01"
     },
     {
-      "titulo": "O Simples Nacional e a opção pelo regime de apuração da CBS e do IBS",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWmtGOUJuRnRpQ2lJdVkyTURJS1A0cGp3WjBYdnFOWUpzT294SWtaRFJBSldwMjBIWnZDUXlsTjVtWkIyVHhqNkxRTWxnWHFEX3BIb1o2OGwwSEdsWmk0dUFManlBZXJSbWdmSDU2LTdQTEpJOWgzZS1oUFRaekZ4WUxNbUwtTjU3dF9UZ2czSkZXeUVkcGo5bWVrVHF2d3R6Z3JaTWpuMTE5WXNTNWFTVW91TlBiT1E?oc=5",
-      "fonte": "JOTA Info",
-      "area": "tributario-fiscal",
-      "data": "2026-08-31"
-    },
-    {
-      "titulo": "Manaus sediará nesta terça-feira (1º) o Módulo 15 do Curso Reforma Tributária do Consumo",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSnZ1TzM1c3hoNW5RNXJtb0swMHpwVV96UVBGUnN4eXpZMC02NWpna2NSck1KdV9jRnIxektqYm1iTU9XckVmeE5ZVVMyWlRKc2gyODg4M3p6Y1FsMkVPSHMtOXVjdHh2a3pKOGgwS2NTMzZyNFZKYzJOUWwybThNUGd0SDV4Tm5KdDhBd1lRcmVOMlV0S2VDWm43NFRvR0V3dzV6Y3BBeFBhb2YxVHpzNF9sOHRkZFVkUzdZRGRnaWhzdEluZXpVeFlYeGtZc1lKNThlOXFlZjE3YTZrUkdfcTRwYkU1S1M5QkpSODBVaw?oc=5",
-      "fonte": "gov.br",
-      "area": "tributario-fiscal",
-      "data": "2026-08-31"
-    },
-    {
-      "titulo": "Força-tarefa combate ação criminosa que fraudava benefícios previdenciários e evita…",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdklqUDhJRk1sY2Y2N3FSaHY1TlJYME1HMUxIMjA5Nk5iOWt6QzBGSWtmbXRXc1RFUlZqZzJ5ems4T1VkS0FObndnVGZNZTRteXIwcUJ4bk1naFBlZHBFN0NxdVp4NHBSWVRRUEotTXBsSmgwOEJHYVAzelk2aS15RWNjUXpmTTc1anNPczlYVDhTSVczRy1YX1YtN1dSbUdDWjhBMk94ZTFmV01MQW5fLXVNazlvM3p5cFFhNkpTX0daYVYzeDdkaDJhVGtTQnlGdWhUQVRUc08tLS1nOTByTjhiaE5hbXNlNWV1bUk5RUJaMXdiX2RJRTl3?oc=5",
-      "fonte": "www.gov.br",
+      "titulo": "CAE aprova projeto de Jaques Wagner que reduz contribuição previdenciária de municípios…",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdVNTbnllckFGb0MwcEpoekVtZy1FeDNkNVhUNkl4RVpXZGFxUmlWWi1XdTdIMHEtYk1ob3pwdk8xMmhFdlllSTFWZF9rNlh2SktNZ1VaWE16VUMzTVVhZjZid1h6VGRoX0NDVVJXZEJISlMxTHVMTFd2d1pDdFRIamtlVnZ0Z05GSHdOa1VwTnNvS1pQN3RreEM0SzFiTlYtWUVrY1lPZ2tKd2o3dnptTDc0YlIwUmdxRDdlZTlsckh6LTlq?oc=5",
+      "fonte": "PT no Senado",
       "area": "previdenciario",
-      "data": "2026-08-25"
-    },
-    {
-      "titulo": "INSS adere ao programa Contrata + Brasil para manutenção e reparos de prédios —…",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSWx4YTYtSjJwcV9IQnRudWpWREpDdXRUNjM5a1FTLU54ZldFVHpwSnRNdzVDRWhOZkx1Tm1UcXl3QkN3cGxlTU05VFh3cnlHbmpqMW5ZUENYQWllUjdwVTJ3dXFQUmc4NVJ4d3FYT3JfbGZJcllCTzB5V2cxRXlfQWRXSmJaRGs0dDVCOEVfa0VtbW40aFZzaGwxT1ZCXzlsMEJVNGkxWXh3MndFVTFuREFOQTU5aTJfalVqT2hSa0J6VzhndzN1T0ZIb0ZtUQ?oc=5",
-      "fonte": "www.gov.br",
-      "area": "previdenciario",
-      "data": "2026-08-24"
+      "data": "2026-09-01"
     }
   ],
-  "gerado_em": "2026-09-04T05:03:11-03:00",
+  "gerado_em": "2026-09-04T08:12:18-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-09-04",

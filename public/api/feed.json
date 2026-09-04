@@ -1,7 +1,15 @@
 {
-  "gerado_em": "2026-09-02T20:11:59-03:00",
+  "gerado_em": "2026-09-04T08:12:18-03:00",
   "versao": 1,
   "relatorios": [
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 28/08/2026 a 04/09/2026",
+      "data": "2026-09-04",
+      "edicao": 4,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-04.md",
+      "itens": 12
+    },
     {
       "area": "trabalhista",
       "titulo": "Radar Trabalhista — 26/08/2026 a 02/09/2026",

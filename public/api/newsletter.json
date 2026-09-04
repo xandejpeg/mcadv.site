@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-02T20:11:59-03:00",
+  "gerado_em": "2026-09-04T08:12:18-03:00",
   "versao": 1,
-  "data": "2026-09-02",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-02.md",
+  "data": "2026-09-04",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-04.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 21 a 28/08/2026",
-      "data": "2026-08-28",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-08-28.md"
+      "titulo": "Radar Previdenciário — 28/08/2026 a 04/09/2026",
+      "data": "2026-09-04",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-04.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-02",
-    "data_extenso": "quarta, 2 de setembro de 2026",
-    "temp_atual": 13,
-    "min": 13,
-    "max": 21,
-    "condicao": "garoa fraca",
-    "prob_chuva": 80,
-    "texto": "São Paulo · quarta, 2 de setembro de 2026 · 13°C, garoa fraca · mín 13° / máx 21°"
+    "data": "2026-09-04",
+    "data_extenso": "sexta, 4 de setembro de 2026",
+    "temp_atual": 17,
+    "min": 16,
+    "max": 28,
+    "condicao": "garoa moderada",
+    "prob_chuva": 23,
+    "texto": "São Paulo · sexta, 4 de setembro de 2026 · 17°C, garoa moderada · mín 16° / máx 28°"
   }
 }
