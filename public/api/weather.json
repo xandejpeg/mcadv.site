@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-09-05T05:02:47-03:00",
+  "gerado_em": "2026-09-06T05:02:49-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-09-05",
-  "data_extenso": "sábado, 5 de setembro de 2026",
-  "temp_atual": 15,
-  "min": 15,
-  "max": 24,
-  "condicao": "pancadas de chuva fracas",
-  "prob_chuva": 91,
-  "texto": "São Paulo · sábado, 5 de setembro de 2026 · 15°C, pancadas de chuva fracas · mín 15° / máx 24°"
+  "data": "2026-09-06",
+  "data_extenso": "domingo, 6 de setembro de 2026",
+  "temp_atual": 13,
+  "min": 10,
+  "max": 15,
+  "condicao": "garoa densa",
+  "prob_chuva": 100,
+  "texto": "São Paulo · domingo, 6 de setembro de 2026 · 13°C, garoa densa · mín 10° / máx 15°"
 }
