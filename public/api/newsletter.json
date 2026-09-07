@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-09-04T08:12:18-03:00",
+  "gerado_em": "2026-09-07T20:16:39-03:00",
   "versao": 1,
-  "data": "2026-09-04",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-04.md",
+  "data": "2026-09-07",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-07.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 24 a 31/08/2026",
-      "data": "2026-08-31",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-31.md"
+      "titulo": "Radar Tributário & Fiscal — 31/08/2026 a 07/09/2026",
+      "data": "2026-09-07",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-07.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-04",
-    "data_extenso": "sexta, 4 de setembro de 2026",
-    "temp_atual": 17,
-    "min": 16,
-    "max": 28,
-    "condicao": "garoa moderada",
-    "prob_chuva": 23,
-    "texto": "São Paulo · sexta, 4 de setembro de 2026 · 17°C, garoa moderada · mín 16° / máx 28°"
+    "data": "2026-09-07",
+    "data_extenso": "segunda, 7 de setembro de 2026",
+    "temp_atual": 10,
+    "min": 10,
+    "max": 14,
+    "condicao": "garoa fraca",
+    "prob_chuva": 65,
+    "texto": "São Paulo · segunda, 7 de setembro de 2026 · 10°C, garoa fraca · mín 10° / máx 14°"
   }
 }
