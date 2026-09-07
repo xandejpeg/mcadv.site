@@ -58,16 +58,16 @@
       "data": "2026-09-01"
     }
   ],
-  "gerado_em": "2026-09-06T05:02:49-03:00",
+  "gerado_em": "2026-09-07T05:03:36-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-06",
-    "data_extenso": "domingo, 6 de setembro de 2026",
-    "temp_atual": 13,
+    "data": "2026-09-07",
+    "data_extenso": "segunda, 7 de setembro de 2026",
+    "temp_atual": 10,
     "min": 10,
-    "max": 15,
-    "condicao": "garoa densa",
-    "prob_chuva": 100,
-    "texto": "São Paulo · domingo, 6 de setembro de 2026 · 13°C, garoa densa · mín 10° / máx 15°"
+    "max": 14,
+    "condicao": "garoa fraca",
+    "prob_chuva": 65,
+    "texto": "São Paulo · segunda, 7 de setembro de 2026 · 10°C, garoa fraca · mín 10° / máx 14°"
   }
 }
