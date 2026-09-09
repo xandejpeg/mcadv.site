@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-07T20:16:39-03:00",
+  "gerado_em": "2026-09-09T20:12:07-03:00",
   "versao": 1,
-  "data": "2026-09-07",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-07.md",
+  "data": "2026-09-09",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-09.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 26/08/2026 a 02/09/2026",
-      "data": "2026-09-02",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-02.md"
+      "titulo": "Radar Trabalhista — 02 a 09/09/2026",
+      "data": "2026-09-09",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-09.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-07",
-    "data_extenso": "segunda, 7 de setembro de 2026",
-    "temp_atual": 10,
-    "min": 10,
-    "max": 14,
-    "condicao": "garoa fraca",
-    "prob_chuva": 65,
-    "texto": "São Paulo · segunda, 7 de setembro de 2026 · 10°C, garoa fraca · mín 10° / máx 14°"
+    "data": "2026-09-09",
+    "data_extenso": "quarta, 9 de setembro de 2026",
+    "temp_atual": 15,
+    "min": 15,
+    "max": 22,
+    "condicao": "trovoada",
+    "prob_chuva": 98,
+    "texto": "São Paulo · quarta, 9 de setembro de 2026 · 15°C, trovoada · mín 15° / máx 22°"
   }
 }

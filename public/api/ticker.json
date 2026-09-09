@@ -2,23 +2,30 @@
   "versao": 1,
   "manchetes": [
     {
+      "titulo": "Justiça do Trabalho suspende novos registros de herbicidas com glifosato por 90 dias",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNG9CZERnTVZZNFVJeGpSSGw0M0NReUpqeG8zeVJSaWZ2RWRoNV9uWGh0Q1o5UmU5MkhndWg2ZnZpelByVzNTVW4xUkl2b3hWTkdmcGlzdUM5Y19aTk5PZ25RWmpyek1kb3Q1SWVQaHh0Z3FzdmNDZThNSzlfS2x2Y0kzSVJfeFZrQWEtNg?oc=5",
+      "fonte": "boca.com.br",
+      "area": "trabalhista",
+      "data": "2026-09-09"
+    },
+    {
+      "titulo": "STF mantém precedentes do TST sobre estabilidade no emprego",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM2pFLTE5b1ktWnU2UWIxTHA5M1A3TXc5ajVLSzJhcnRBY2Z5RGF5VHhrUjBTN1RUUmE3UFI5Zmdjb3NFdG1HMkhLRHBFVjdpSHlkOUt3M0ktR0JuTmoxT19mSDNrb2N3S0xobUk0c3B5SElYWUZjVF9DTkR4RU9YLVJLYlcwenY3ZU1oRlZ6cW0tNk45U3hqMS1yb2NxVzFIOFhj?oc=5",
+      "fonte": "Consultor Jurídico",
+      "area": "trabalhista",
+      "data": "2026-09-08"
+    },
+    {
+      "titulo": "30% dos MEIs vieram de trabalhadores CLT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLVptajFqSmd4cURScGZRMjAtV1k2WmkzMzktXzVWZWp6ZXM4cFg3WjlkeS11MGNVU19YRzYyRlY1S2s3bnl1bVgzVFZrNmdmS1pfWWx2SW5WLVFrcUpSWXQ0X1BweGZ2V3EwQVE2emtFRXdGUlpLVjZHRW5EWEV5dnVtWmVjR2c0cWNtTw?oc=5",
+      "fonte": "Portal Contabeis",
+      "area": "trabalhista",
+      "data": "2026-09-08"
+    },
+    {
       "titulo": "IBS e CBS nos contratos de concessão de aeroportos",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUcxY1lZdzlyeGpQa0Q1UW5fcHlmWFMwR1YwSlVfMzJFU0ZLcXdmaE1tc3NkM2ZIRXFYc3gzV29pbXRHN01aZzNIbnlRcnc0cFJ0NklkdjZEb1B1cERSSERmNzgwM3RSUWFWWnhsa2pPdzE5NVZMN0d0QmVFbGdRV1BxV0I5VzRUTTdMbXJn?oc=5",
       "fonte": "Consultor Jurídico",
-      "area": "tributario-fiscal",
-      "data": "2026-09-07"
-    },
-    {
-      "titulo": "Carf anula multa aduaneira contra Diageo com base na reforma tributária",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOW9uMzNES1d6V3l6RG8tdXljRjgtdzZ6WWhmUWNIdVRRdWpWeFNNa2hEU3VXM0djQ2JsVWtfU0l5LTVBVkpYVWIyVEZ1MmpwanVRSEpjUGotWE12MzB4Rk1zamZuc3Y4WkJYSlR6Vm5zU3VoWWV4U2ItRWYtLW1NcWRYaERqVHM?oc=5",
-      "fonte": "Imprensa 24h",
-      "area": "tributario-fiscal",
-      "data": "2026-09-07"
-    },
-    {
-      "titulo": "Setembro é a data limite para 6 milhões de empresas do Simples decidirem como pagar os…",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNXF2ZGEtV1N2OTNROVp6NUJXSHVtRXd5YkNCNTBDYkhMX1h0cjRFRVE1bUhXS0ZBYlZJUnplUjRBelBLcjRYb0lTUlJHazBuSXpUOU1QN215OVV3MjdWaEFPa2lscEk0UUhKQlNFSTBQTGdnTmxKcFVHNF9MNEthU1h2MVQzX3pjOE9KcDJ5cXEzN0J1X1gxN2NId1ltNWJLa2U0ZHk4S3VUYkVtRWViTDNpSnlmNHVVTEFsUWZqU3REemdzTFR5THh6OVppem50TU9MbW9EazRGYWR4Qmt0SEUwREJRSDdwVzBxS05QRWoyY2plemNnWQ?oc=5",
-      "fonte": "bra1.com.br",
       "area": "tributario-fiscal",
       "data": "2026-09-07"
     },
@@ -30,25 +37,18 @@
       "data": "2026-09-05"
     },
     {
+      "titulo": "Precedentes na Justiça do Trabalho: como uniformizar decisões sem ignorar IA e realidade…",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS25Yd3duSTFsZmVZbkxwN3NMMnRZRlZxLVB5cDJIT0VXSXRMNFd1ek9qeE1kWmJDOHd0VjZycVRzYWRxbzFjdlB3X0pPMk5KencxRTMwTVV5RHdyV2pPMlFOSGloaHpnVUlxdTR4NWRYY2VqcTZxNjRWM2xXbEtuT05wdzRRR1RpSHBSSUdaYmVJZXNJekgtSktkNVUxVzRYUFlYaG5UVTQ3VDduOXY1enhGS1ZDWXZCRGZxZnZfOA?oc=5",
+      "fonte": "TST",
+      "area": "trabalhista",
+      "data": "2026-09-04"
+    },
+    {
       "titulo": "Jovem acusado de matar a mãe terá de devolver pensão ao INSS",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRy1CSTZfM2RPUTlwbEo5dVM1clR5U2lWR2s5YTFaZ21pWUttV294d0JGWmVRZEFZWVJPZVBqajR6MW1WUlFvSS1DVkZIM0xjM3dadjViVDJWYWZKcGJ4VVFGLUNKRTBoOUtueGpOV1ZEMGY2LVpKd1l0eXRvakZzb3VsYmJFTUZiTmJLcFBZRG1vV293VzVlNHY5ZDYtMDM1dmFNTnJUMldHUQ?oc=5",
       "fonte": "Consultor Jurídico",
       "area": "previdenciario",
       "data": "2026-09-03"
-    },
-    {
-      "titulo": "Justiça condena pejotização de trabalhadores da limpeza em Sergipe",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGpVLUpHSnJncDdDX0sxMlJFZGh1a3hFb1ZDb3VlaW5wWmZNbVltdW03MEtINFNwLWI5cE04eFdVX3BXWUxia3JjTkxyOS16VFpuZUNiNS1ES2tESUEwOVJrMnMxMmNlckpTUS1PQUJ1d0xtdlVVSF91NlBRT29YRlBuaGVjYUNxQm0wUDViRGdmWHpqWVN2YjRKVHRkODdFVHI1V2hR?oc=5",
-      "fonte": "CUT - Central Única dos Trabalhadores",
-      "area": "trabalhista",
-      "data": "2026-09-02"
-    },
-    {
-      "titulo": "TST marca audiência pública para discutir prorrogação de jornada em ambiente insalubre",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFdxNzV6bDBLb3pZUXBTVjFUTVFyeGQzd3hBTVFaWDhPSkxQdnVvZTNsNkVXZTl0UFdrX0pMSnhOa3NwTkk4djVSX0ExRjZfNTkxNGgzSXN5bE42MUlKN2JOOTMyaWh4YWhTbEloQVVQSUNrZkxSS2kxclFGNTE5NGlRb093N052Nm1fTUh5WFhVWmNCVmZOTmlaRGtGaEFPNlZXdHlfUHA3NklhN0JqZg?oc=5",
-      "fonte": "TST",
-      "area": "trabalhista",
-      "data": "2026-09-01"
     },
     {
       "titulo": "CAE aprova projeto de Jaques Wagner que reduz contribuição previdenciária de municípios…",
@@ -58,7 +58,7 @@
       "data": "2026-09-01"
     }
   ],
-  "gerado_em": "2026-09-09T05:03:20-03:00",
+  "gerado_em": "2026-09-09T20:12:07-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-09-09",
