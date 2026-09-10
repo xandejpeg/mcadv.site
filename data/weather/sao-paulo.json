@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-09-09T05:03:20-03:00",
+  "gerado_em": "2026-09-10T05:03:09-03:00",
   "cidade": "São Paulo",
-  "data": "2026-09-09",
-  "data_extenso": "quarta, 9 de setembro de 2026",
-  "temp_atual": 15,
-  "min": 15,
-  "max": 22,
-  "condicao": "trovoada",
-  "prob_chuva": 98,
-  "texto": "São Paulo · quarta, 9 de setembro de 2026 · 15°C, trovoada · mín 15° / máx 22°"
+  "data": "2026-09-10",
+  "data_extenso": "quinta, 10 de setembro de 2026",
+  "temp_atual": 18,
+  "min": 17,
+  "max": 23,
+  "condicao": "pancadas de chuva moderadas",
+  "prob_chuva": 100,
+  "texto": "São Paulo · quinta, 10 de setembro de 2026 · 18°C, pancadas de chuva moderadas · mín 17° / máx 23°"
 }
