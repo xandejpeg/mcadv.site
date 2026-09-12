@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-09-11T05:03:07-03:00",
+  "gerado_em": "2026-09-12T05:02:24-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-09-11",
-  "data_extenso": "sexta, 11 de setembro de 2026",
-  "temp_atual": 16,
-  "min": 15,
-  "max": 29,
+  "data": "2026-09-12",
+  "data_extenso": "sábado, 12 de setembro de 2026",
+  "temp_atual": 18,
+  "min": 16,
+  "max": 26,
   "condicao": "trovoada",
-  "prob_chuva": 92,
-  "texto": "São Paulo · sexta, 11 de setembro de 2026 · 16°C, trovoada · mín 15° / máx 29°"
+  "prob_chuva": 100,
+  "texto": "São Paulo · sábado, 12 de setembro de 2026 · 18°C, trovoada · mín 16° / máx 26°"
 }
