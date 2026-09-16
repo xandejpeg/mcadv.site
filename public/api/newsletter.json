@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-14T20:15:46-03:00",
+  "gerado_em": "2026-09-16T20:12:08-03:00",
   "versao": 1,
-  "data": "2026-09-14",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-14.md",
+  "data": "2026-09-16",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-16.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 02 a 09/09/2026",
-      "data": "2026-09-09",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-09.md"
+      "titulo": "Radar Trabalhista — 09 a 16/09/2026",
+      "data": "2026-09-16",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-16.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-14",
-    "data_extenso": "segunda, 14 de setembro de 2026",
-    "temp_atual": 14,
-    "min": 14,
-    "max": 17,
-    "condicao": "pancadas de chuva fracas",
-    "prob_chuva": 100,
-    "texto": "São Paulo · segunda, 14 de setembro de 2026 · 14°C, pancadas de chuva fracas · mín 14° / máx 17°"
+    "data": "2026-09-16",
+    "data_extenso": "quarta, 16 de setembro de 2026",
+    "temp_atual": 13,
+    "min": 13,
+    "max": 20,
+    "condicao": "garoa fraca",
+    "prob_chuva": 35,
+    "texto": "São Paulo · quarta, 16 de setembro de 2026 · 13°C, garoa fraca · mín 13° / máx 20°"
   }
 }
