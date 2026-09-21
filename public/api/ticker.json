@@ -58,16 +58,16 @@
       "data": "2026-09-16"
     }
   ],
-  "gerado_em": "2026-09-20T05:02:56-03:00",
+  "gerado_em": "2026-09-21T05:03:07-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-20",
-    "data_extenso": "domingo, 20 de setembro de 2026",
+    "data": "2026-09-21",
+    "data_extenso": "segunda, 21 de setembro de 2026",
     "temp_atual": 18,
     "min": 18,
-    "max": 23,
+    "max": 29,
     "condicao": "pancadas de chuva moderadas",
-    "prob_chuva": 76,
-    "texto": "São Paulo · domingo, 20 de setembro de 2026 · 18°C, pancadas de chuva moderadas · mín 18° / máx 23°"
+    "prob_chuva": 71,
+    "texto": "São Paulo · segunda, 21 de setembro de 2026 · 18°C, pancadas de chuva moderadas · mín 18° / máx 29°"
   }
 }
