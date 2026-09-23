@@ -2,6 +2,27 @@
   "versao": 1,
   "manchetes": [
     {
+      "titulo": "TST define quando trabalhador pode perder direito de cobrar dívida",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdmY3bzg3QURUSDBXOUFKX2ZVUVVfNVd5b1dhTGtJWFpWa1hJWHhBOWZhdDRiNVg1SXdrbXlRWk83bEktOHpIWXZaRktVcEp0N1NTdEJ1Y0owYzBiX0dGUkNhVkROZmNnaTFxT2w1T3NwTDhiNnR1RzJwVXhmamliQnpuV3E2TmVZVmJiUnBETkVia2tKcTFmSW1sRVVna0NhWW5ReEc1b2hvejlja0ZNaXZBdw?oc=5",
+      "fonte": "Migalhas",
+      "area": "trabalhista",
+      "data": "2026-09-23"
+    },
+    {
+      "titulo": "Número de trabalhadores ligados a sindicatos fica estável em 2025, mostra IBGE",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3dvczFTYlk4SUl0WEdHTk5Cd2ZKZl9ta19kc2RGSUpudFhGdDdnVkwyU09VdG5HMF9iVnVWVTVzWTllMXdxQnNVRXR4azRGdGlVWFFlb1B4cFpwOEdpX01GQjJ4ei1KYVpYTDhoUTN3Z01DNkhQTU82TVBOZFNqYkZxNnNWNU5kaGlTSGtGbW45clNseTJFYXc4R1NfUWx1NEYxekp5cy1QNU1zeTRCM1YxLVhDTkl5ZzExbzAxWUxuUGc0b3U1cDVCMnVpUdIB3AFBVV95cUxQckZwYmhNekhIXzB4X003X3lyUElrc2xOT0x2SUsxVXRiODJQWC1nZGhTVS1xX3dLZ0hFUjhCTHJpY0xCUGxPRExBYzUyS1ZZOE9kX3JrR09MdWE4aXlHOXBIRENCTFVRdjNxYmU0d2pPSER6V1B3c05DcDZtXzhCVGZnRnpxZXNZN3RxSTRRYmlrY0hnU2dYNDJDcUlob21fMVVFMFNHdGpSU2xHTF9YYnBBUFplc0lpY3hqOHJVZDJDdlpVUHY0RGFyMU1WZWZnWl9ueERxeFJzS2Jl?oc=5",
+      "fonte": "Valor Econômico",
+      "area": "trabalhista",
+      "data": "2026-09-23"
+    },
+    {
+      "titulo": "O Protocolo Antidiscriminatório da Justiça do Trabalho e a proteção efetiva das pessoas…",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb2dEaFFSTDFMZlZmcGFjbHc5eC1sNkhLVEZRQnJ3VVV0VHByV2hIRmJIbmZEakcwSE5URWt3T1EyRVNmblhGNjlhendKV0VFb013eHlUdjJ2eExYemdJa2RjcWRQM0RTODRoNVBpRUNXQWhpSngtbEVUaXhBRVIwUnh4TXRoV0ppLXo4MVlLRGl0RHk2QjNXc1hRTFNROHJLNkludjJHMkhmc0p5YVRXTlJrdXFFTC1oMkRxUkxmUXFPaldPOXhQRU9ad19Iam93eHYzelBxOEpKZG9qV2gxR1RIWEZjUGPSAewBQVVfeXFMT3NwS3JMdkZjcVBYYXZCWnpNM09XQ01GRm03WGo1d3N0emJnV0NsUXA2OVBwVEFkcHE5YmFvdmR5bEFMSnBoV0RBUUQ0dTU1eklDbTRfV0VRNG1hYzFlRUNrZ2ZYbmRZdjFUVHFYVzgxdGZRc3VfY3l2V0I3ZFlCN1Vud0hveXFTUjZnc0VzZWpSVnFlalNIelNLNEt2clVfdGZBeHlTNkNlUDdBMExOcGl3Yzh2b3RZZ19WZjFXQWwwbHNkRTRrNHdyNU5UZ3phUmE4TDVocE8zVU9nanFfMi10S1N0SV9vbENJQmw?oc=5",
+      "fonte": "Estadão",
+      "area": "trabalhista",
+      "data": "2026-09-23"
+    },
+    {
       "titulo": "STF assegura manutenção de créditos de ICMS nas vendas interestaduais de combustíveis",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0JVNnVsX3B2WXoxdUlVX2hRVURNWFk4ZUQ3U1Y0b1RGR1ZxMjBKeDB4SVVJRmdaa0RSWFgzdGF4amItT0RmbU9xUHhUNjIzRkR2Z2RBNWpLbkFrcHRCV3MzeV92aGdjcWlxV01SR1NYTWVNZE1BS0tZeUpTX0p4M3RDdHZqUkVBQTZUc3BDX0xiNmpHQjhFY0xyaHdvSDRxRFlqOG9sUHFuRkZ0c2F3bQ?oc=5",
       "fonte": "Migalhas",
@@ -16,32 +37,11 @@
       "data": "2026-09-21"
     },
     {
-      "titulo": "Cooperativas têm até 31 de outubro para optar por IBS e CBS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3VnR2JGN3ZweDFleXFTelh6blc0OFBwbDdQbHB1NkxMaEFsamZ2V083dVdQQ19wUUMzMnRqM0tyUkNnXzNhYVZrY3FSZnh2MEFZZnMtM2laWHpBZ0J2NU5GenIzUEs1VVU5TENIY2pLV2xTd3BlbWg0eGZqcVBiU3VNUHZGTXIydW13WmplbjFGbWo5bHlBb1JJSUtzNFlmQ1JPLU54OGtGaHZmR1dWc2d4T2VEWmtDREhyX2ctWFVNQQ?oc=5",
-      "fonte": "jornalmetropolis.com.br",
-      "area": "tributario-fiscal",
-      "data": "2026-09-21"
-    },
-    {
-      "titulo": "Carf aprova súmulas sobre Cide, IOF e outras seis matérias",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeXJXaUlqZWtVUjdGQjE5N0NieHQwRWpXUVVRemZNdFN5eFlXOEx6cjRPWDlMSG1pelpWRGVvQ1A5SE85ZVF6Y3RwZGRaaWFyZW1Senl3TTE1UEhnOVIwUmpObk8xMUpVM1ptVmtETktBaVJ6WUpBUi00amUxTlNpNVk3QlBuTlViVlpHSmFwRVg5Zw?oc=5",
-      "fonte": "JOTA Info",
-      "area": "tributario-fiscal",
-      "data": "2026-09-21"
-    },
-    {
-      "titulo": "Trabalhador com câncer consegue reverter decisão de TRT que impediu sua reintegração ao…",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2NyLVdRU1IyNzl4N0NkV0ZNb3lPWmFRZlhwMjRfMUpZLXI4OVZ6ZTdvT0IxMXhNNjZjOW9FeldfNGRzNnM0bXczZ3N4WDQ5c0d4ck1SdHpuS2hKMkpQVTNtLXN3OUNrWmNsUlkxSEV0WTRFM1NMSVNkM2VmUWZtTFlqd1h1MmNzblRlMHppWnFJTTVZRHVaTmZISUlhZkJNVm9XWjlXVjZKb1ZwaVhiRFo2RFdjUzNNNjNTaA?oc=5",
+      "titulo": "TST ouve setores sobre necessidade de licença para extensão de jornada em ambiente…",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUpqbFN1QUNTV3dsdS13MDZYXzRJWW5zcDhtZnlXdVhoWU90QUQ2MHZTTk9kalZuaG9tRzZXSWhHMUp2VHZhbzI4ZWhNRGhZdXJkMUZiNUJXTmRtZzV5VEM5VnpRQTYxaU1YY0hkNEF4R1gwSk42cWg5OGVvQXVaazJYem9ra0VYNkotaWRpdHRDc29mUXRvdk05M2dTaS1BVnBCX2twTm1DbEVoTEl6ZUV4a2lWLTJR?oc=5",
       "fonte": "TST",
       "area": "trabalhista",
-      "data": "2026-09-16"
-    },
-    {
-      "titulo": "Sindicato que perdeu ação civil pública não terá que pagar honorários",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdlBIRWEyNWNlak1YNE1kU1BybVJfS3ZHUmZtQnNhZjRYcjlMaEpqUXZfV2UzUmJENzNudGIxUlVac0ExcE5xeUNsZUpIR2pILVhJdk9zbU9wUW4zTERsYU5DaWxUeFR5WDQyNVRBTGR1TVhNMkxfUVBPVDltaUxzb0RlLUFYdmZyQURJOUhnU2Y5TTAwSDl4d2Rn?oc=5",
-      "fonte": "TST",
-      "area": "trabalhista",
-      "data": "2026-09-16"
+      "data": "2026-09-21"
     },
     {
       "titulo": "Agência de Nova Cruz (RN) passa a oferecer Perícia Médica Conectada — Instituto Nacional…",
@@ -51,14 +51,14 @@
       "data": "2026-09-16"
     },
     {
-      "titulo": "Perícia Conectada RN 1.jpg.jpeg — Instituto Nacional do Seguro Social - INSS",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQWl0NUUtXzVvZUlEY0RlTWY1V0wwSjg5REZkay1wQ1VMbzNEeXN2RW80VmNmYWZ0YTl2NFJ1R28zOHpWY3ZTbm4zUVlnQ2h4LThQQXRDTWFNS2RWemRvWmxEb1Nkc3Jpc1VXWS1vWkRjQmRabGFPMWFndTBqSE4waVpjaGhxSThXY2loMTMwMlZlUDBIZnVwU2hSVmtxZ3MwN0xwX05qVUdYZUhtOEZYU0s5ZDd6dzNMR212WnFUOUNBOWx0VnM2UzlXUjlsM0dtcEpwSmxwdkZkYURVVXRVSWxkSXU?oc=5",
-      "fonte": "www.gov.br",
+      "titulo": "Filho que matou mãe terá de ressarcir INSS por pensão paga ao marido dela",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQlplVGFBS1ZvUk9HZjE4N0s4dGxkcUp0RUJpc2l3eDQ1SUJ4Rjc2NjhXRWx0LXlqVzRqSWpvNnB2TFpnZXRnSzNVcEcxTmE3MzJEb2t6NGpXR1VKRkhOcGQ0czd0SFhDTDhPbTlEUmhNcF9MdXRoSThtTzlnMHdDUjBtazJfMlRLVS1pSU4wZTdxZkI1S1JBQXFxYVhZQlhpdkxHQkhlbUZoTG5KWUE?oc=5",
+      "fonte": "migalhas.com.br",
       "area": "previdenciario",
-      "data": "2026-09-16"
+      "data": "2026-09-12"
     }
   ],
-  "gerado_em": "2026-09-23T05:03:01-03:00",
+  "gerado_em": "2026-09-23T20:10:48-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-09-23",
