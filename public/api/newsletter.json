@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-23T20:10:48-03:00",
+  "gerado_em": "2026-09-25T08:05:26-03:00",
   "versao": 1,
-  "data": "2026-09-23",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-23.md",
+  "data": "2026-09-25",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-25.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 11 a 18/09/2026",
-      "data": "2026-09-18",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-18.md"
+      "titulo": "Radar Previdenciário — 18 a 25/09/2026",
+      "data": "2026-09-25",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-25.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-23",
-    "data_extenso": "quarta, 23 de setembro de 2026",
-    "temp_atual": 14,
-    "min": 13,
-    "max": 17,
-    "condicao": "garoa densa",
-    "prob_chuva": 86,
-    "texto": "São Paulo · quarta, 23 de setembro de 2026 · 14°C, garoa densa · mín 13° / máx 17°"
+    "data": "2026-09-25",
+    "data_extenso": "sexta, 25 de setembro de 2026",
+    "temp_atual": 15,
+    "min": 15,
+    "max": 27,
+    "condicao": "garoa moderada",
+    "prob_chuva": 82,
+    "texto": "São Paulo · sexta, 25 de setembro de 2026 · 15°C, garoa moderada · mín 15° / máx 27°"
   }
 }
