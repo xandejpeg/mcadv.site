@@ -58,16 +58,16 @@
       "data": "2026-09-21"
     }
   ],
-  "gerado_em": "2026-09-27T05:02:58-03:00",
+  "gerado_em": "2026-09-28T05:08:48-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-27",
-    "data_extenso": "domingo, 27 de setembro de 2026",
+    "data": "2026-09-28",
+    "data_extenso": "segunda, 28 de setembro de 2026",
     "temp_atual": 18,
-    "min": 18,
-    "max": 31,
+    "min": 17,
+    "max": 32,
     "condicao": "nublado",
-    "prob_chuva": 8,
-    "texto": "São Paulo · domingo, 27 de setembro de 2026 · 18°C, nublado · mín 18° / máx 31°"
+    "prob_chuva": 24,
+    "texto": "São Paulo · segunda, 28 de setembro de 2026 · 18°C, nublado · mín 17° / máx 32°"
   }
 }
