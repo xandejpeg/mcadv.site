@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-09-25T08:05:26-03:00",
+  "gerado_em": "2026-09-28T20:18:12-03:00",
   "versao": 1,
-  "data": "2026-09-25",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-25.md",
+  "data": "2026-09-28",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-28.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 14 a 21/09/2026",
-      "data": "2026-09-21",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-21.md"
+      "titulo": "Radar Tributário & Fiscal — 21 a 28/09/2026",
+      "data": "2026-09-28",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-28.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-25",
-    "data_extenso": "sexta, 25 de setembro de 2026",
-    "temp_atual": 15,
-    "min": 15,
-    "max": 27,
-    "condicao": "garoa moderada",
-    "prob_chuva": 82,
-    "texto": "São Paulo · sexta, 25 de setembro de 2026 · 15°C, garoa moderada · mín 15° / máx 27°"
+    "data": "2026-09-28",
+    "data_extenso": "segunda, 28 de setembro de 2026",
+    "temp_atual": 18,
+    "min": 17,
+    "max": 32,
+    "condicao": "nublado",
+    "prob_chuva": 24,
+    "texto": "São Paulo · segunda, 28 de setembro de 2026 · 18°C, nublado · mín 17° / máx 32°"
   }
 }
