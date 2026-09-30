@@ -2,23 +2,37 @@
   "versao": 1,
   "manchetes": [
     {
+      "titulo": "Demissão por WhatsApp pode não gerar dano moral, decide Justiça do Trabalho",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUFNVN0xtSGNKTWxPSHg5cEVrd25ZbVhjQTM1eVRrLS1ESEN1czNaQy1WVFdhaG93ZDU2WjB1enMzczlmeGhobWdsU3FjTTFuUE9kLUhwLUFQZ1YtSG5DdkMxWmRKYllvdXNyMnpBR19SWnF3TUp6N3ZEOG9kZ2ZQTWJwSXQ?oc=5",
+      "fonte": "Debate Jurídico",
+      "area": "trabalhista",
+      "data": "2026-09-30"
+    },
+    {
+      "titulo": "TST: Sindicato pode agir em defesa de um único trabalhador em ação",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGI1cUI3dmlXN1EwQVRUTWdXYWdCc2VVY09xajJvZGxKMlJpQml2RW5yd1JJalhWVmlZemJJSmR4UjdjVVY1bk5SbHdPZTdGRHM5VjdSTDVCUHozY0dDSG4tanpPbDhiYmszLXJKUlpaSVJnSER2VXRvbVVZcVJidVE1dTduTHhmVzVsLXdDbnk1aTBuUzVNcjVnbllQeXdXNm1IZktkVEw3R2Zi?oc=5",
+      "fonte": "Migalhas",
+      "area": "trabalhista",
+      "data": "2026-09-29"
+    },
+    {
+      "titulo": "Sindicato pode representar um único trabalhador em todas as fases do processo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkZOZFU4OVV5WUpjSS1zd2tpLTBNcDYtckplSlVHaTlwVE5lTHJaWVR4WVQ3ZHhGcm1pTzlqWDJseE54akJvSzdWVWwzZGplV05IaXpWb2toRjFyckhQenZtcUtkWkFRLVhQVHpBRWJSbko2cnJQV2JzTjJnbXlVeVgtY1RtVFNTa21wYTFJWGVvWWNMdFB4alVqRnZGYS0zbmpBT0tQSXJOcU9RTFE?oc=5",
+      "fonte": "Consultor Jurídico",
+      "area": "trabalhista",
+      "data": "2026-09-29"
+    },
+    {
+      "titulo": "Congresso Internacional das Academias se encerra debatendo pejotização, fim da jornada 6…",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RaFZSS1BEbnhGTXFzM1llc2tlcmpsaWVDM3QwOTBLUnkxQTRkOWh4TEZlMFVidUpMUDRhdlUxQkpPRlNQU1hhaTRwWmZsY3ZSYkRBZXdzczkzazliLVk1ZHYtY2VmaWE1WjktZDFBd2Z0dw?oc=5",
+      "fonte": "TRT4",
+      "area": "trabalhista",
+      "data": "2026-09-29"
+    },
+    {
       "titulo": "Capacitação nacional sobre a Reforma Tributária do Consumo — Receita Federal",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPUTVBUHlja0QtZkVjUmUtTFJIMGFZc0RwRkJqdDVlRmNIcnQ3dm0yMHg2ZXJaeHZuc19jYVZtWFJPV3BsUnVuT2JuRUtRd09TNlR6WWE0R01EbzJUSGxNbEUxVTl3cTZTcWltaS1nZjZBWG41Q0VuSVMwWUs3YzlCVkI4d2xNQnNpdC1XX21IUHhsRWQ0bVM4T2ZwSnNDZjlfc3FfVlluM0poUUpKWkswV3FLcjR3b1ZHVGhGLTNTalUwb1RsLTNRQzVBOVdxTzYwSlZpN1JqdHVPM2EwM0dxV2JYanRRbjJZMWF3S3c4MVNCQ1lGMG9yWFNGVEJmNXdnTEMyWXJycVJFQ2JrM2UzUnZBdnZTVzc4VHBfTFdpWWY5SDR6aEV6cnNXYnVBMmpMNEpIZ1QxQ2d0R3EtZmFQNml3RlBaeUtTTDI3M3pVdExEUC1LS2c?oc=5",
       "fonte": "www.gov.br",
-      "area": "tributario-fiscal",
-      "data": "2026-09-28"
-    },
-    {
-      "titulo": "Simples Nacional IBS CBS: alíquotas cheias em foco",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SSjBONmhYVGdNeXdUQnEtMUZPT1lWak8zSGdWZkxLZkZ2X2lPNVRFVW5RSW1PZ0haRnVDRkxYMUJORnRGb0lPeEFfNjlGcGIzaEQzbmFoTWs5eGxIY05rV3lkanVHZUxGRkVpNmhueWg3dDR4RzZTMFA5WWE?oc=5",
-      "fonte": "Acia Araçatuba",
-      "area": "tributario-fiscal",
-      "data": "2026-09-28"
-    },
-    {
-      "titulo": "Reforma tributária: pequenos negócios terão de escolher como pagar novos impostos",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMkVNUVdBSDNSVWZrekpsWE95eWRwY2t0eVB0SW1VbGk4T0t2QXdyS2pNQUdRQmNrNHNTdjQxblpYeEhpOUJjczgxYmNNTzgyYlBEX1hLMVlZZk1oTVVNS3ZxbUo5emtrQndEc0R1d2hRNHFLVlh3SVJoSzZmZFBIeTlPRXhYYTZ2OE1vbkkyR21QeXBHbU03LXhDX2RJWl9xdWU0ZU4yUmNUQURBLXUyMzRqMnI5TXlOWEN6TWZXZXI2MFVOLWRLQm1VMGRZXzVkajJQRjNDVWo5SmJfeVo4SHFR0gHwAUFVX3lxTFBSYkd2bW5TOE41YURCMzVDQnZnd1hicFQ1aHJFVHJ2eFZPRGFibFdKQmtaUlI4WS1KUVdibzVSYkRYRUZseW9UV0g1TURkbGV3Mnc2cGRvNWNyVmNmeUhPNUVjdU5Dc1RRVzFNQ19DaVFqQTQ5NmI1RExxWVhPdUh3S3JMQjJBRjhQLW9xQjFfQWRWcm9EZFpyd2RJVFVaUDFoQ1FkVUNzWmhYNHpXNURwTERWdGx6OVlfS1JNTTFSb2NmLU5ubVhZSUE2eEF3dm9DXzFBX0tDWjcxTVJ3SDJUazd3YUNGWTU3VkRSZTU4Tw?oc=5",
-      "fonte": "G1",
       "area": "tributario-fiscal",
       "data": "2026-09-28"
     },
@@ -30,13 +44,6 @@
       "data": "2026-09-25"
     },
     {
-      "titulo": "Agências do INSS têm quase 23 mil vagas de atendimento neste fim de semana (26 e 27)",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdEt1UjlFUXlDTThBTFlsUDg2UWE0SDFjUHFwV054YXFiRTJ3eS1oeFYzanpnQ2Vyano5Y085dDJ5UVFXdXlXamFHWlRsX2ZvMElMNVRITTREVWlpa2RHT0Nrald6ZXJkRWh5VFNpM1NMOWo3QjZLOVU5RlFuNm5laDA5TzRHZFItajl3OFg4M0R0eWhvZE83dGFCTEdETlp3bmRMU2tGeXVfWmEtWTkwNmdFUF96RnN5Z3hWQ2Q5MmZRaHpndjZkNVln?oc=5",
-      "fonte": "www.gov.br",
-      "area": "previdenciario",
-      "data": "2026-09-24"
-    },
-    {
       "titulo": "Perícia médica no INSS passa a ter presença de intérpretes de Libras para pessoas com…",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZzVvSjZmd2hSSG5KOWl5WXFsZ1JJcUxDYWhkUmtuU0JTNUxUME5tdWpPWTM2ZzJvVlBnek9XZWJnS0dWMVJxcC1ZeURYTlQxcVB5Ni1OWXZzZElVNDI0bjZEU1dQeUhNTzA4QlBhcWJSbE5sYm9sUFFvUUxUSWRCdTRGd01kTWhKSFJSQ1p0cWVFRnl4cGpYeFBudkMtQnFLUHk4X05nd3dvbjBlUTkyejlucmJEeS1rNnN4dS1FTk1QbTk1bUkwLTJEaHVLN250R3c?oc=5",
       "fonte": "www.gov.br",
@@ -44,21 +51,14 @@
       "data": "2026-09-23"
     },
     {
-      "titulo": "TST ouve setores sobre necessidade de licença para extensão de jornada em ambiente…",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRUpqbFN1QUNTV3dsdS13MDZYXzRJWW5zcDhtZnlXdVhoWU90QUQ2MHZTTk9kalZuaG9tRzZXSWhHMUp2VHZhbzI4ZWhNRGhZdXJkMUZiNUJXTmRtZzV5VEM5VnpRQTYxaU1YY0hkNEF4R1gwSk42cWg5OGVvQXVaazJYem9ra0VYNkotaWRpdHRDc29mUXRvdk05M2dTaS1BVnBCX2twTm1DbEVoTEl6ZUV4a2lWLTJR?oc=5",
-      "fonte": "TST",
-      "area": "trabalhista",
-      "data": "2026-09-21"
-    },
-    {
-      "titulo": "Prorrogação de jornada em ambientes insalubres: acompanhe audiência pública no TST",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWxxd2ljNHhzQXdGZVZsc1dfaVVrQU82LUxtYVZkbFlBcnhoY3JPTm1lT3BOOWtoXzlycTd4Q1lEbE9iaW9TN0pqY0FlYlRSNkZ0Z3FRbUNuZnJlU3NLUm1OdUtYQ251ZkRORXFsZS0yMnBHc0FDTTQzcDJYeE1WWXFESG5xRTdoaXBzVDN4NktmTlpFSnVFQnhuVEtyNkJUZHhwNjdfY0lCUQ?oc=5",
-      "fonte": "TST",
-      "area": "trabalhista",
-      "data": "2026-09-21"
+      "titulo": "Na previdência complementar, não há benefício sem reserva",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlNKcm1GekNQNk5HU3BHbDNhalduXzQ5aEFiR1ZjOEJTR21YUmRoYkxqR2poODVQcFJNbVhjMldWbHYtT1l3dkdvcHZkaTZ2eUVnYnE2bmxob1dENllwSHY1ekVycm9fMmlSTUdhYmo2OF9uSUJETUxFRkdjZGlDR1ZDX2pvWHhqZXBNS1NRdEhGa2pvckJnOF9Yd2dBdEd5NnRtU2p4VQ?oc=5",
+      "fonte": "jota.info",
+      "area": "previdenciario",
+      "data": "2026-09-19"
     }
   ],
-  "gerado_em": "2026-09-30T05:03:28-03:00",
+  "gerado_em": "2026-09-30T20:13:25-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-09-30",
