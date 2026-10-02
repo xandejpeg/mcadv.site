@@ -58,16 +58,16 @@
       "data": "2026-09-19"
     }
   ],
-  "gerado_em": "2026-10-01T05:04:02-03:00",
+  "gerado_em": "2026-10-02T05:03:09-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-01",
-    "data_extenso": "quinta, 1 de outubro de 2026",
-    "temp_atual": 21,
-    "min": 20,
-    "max": 28,
-    "condicao": "trovoada",
-    "prob_chuva": 100,
-    "texto": "São Paulo · quinta, 1 de outubro de 2026 · 21°C, trovoada · mín 20° / máx 28°"
+    "data": "2026-10-02",
+    "data_extenso": "sexta, 2 de outubro de 2026",
+    "temp_atual": 18,
+    "min": 15,
+    "max": 19,
+    "condicao": "garoa moderada",
+    "prob_chuva": 72,
+    "texto": "São Paulo · sexta, 2 de outubro de 2026 · 18°C, garoa moderada · mín 15° / máx 19°"
   }
 }
