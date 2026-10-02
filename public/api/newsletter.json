@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-30T20:13:25-03:00",
+  "gerado_em": "2026-10-02T08:05:19-03:00",
   "versao": 1,
-  "data": "2026-09-30",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-09-30.md",
+  "data": "2026-10-02",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-02.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 18 a 25/09/2026",
-      "data": "2026-09-25",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-25.md"
+      "titulo": "Radar Previdenciário — 25/09/2026 a 02/10/2026",
+      "data": "2026-10-02",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-02.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-09-30",
-    "data_extenso": "quarta, 30 de setembro de 2026",
-    "temp_atual": 19,
-    "min": 19,
-    "max": 31,
-    "condicao": "garoa fraca",
-    "prob_chuva": 75,
-    "texto": "São Paulo · quarta, 30 de setembro de 2026 · 19°C, garoa fraca · mín 19° / máx 31°"
+    "data": "2026-10-02",
+    "data_extenso": "sexta, 2 de outubro de 2026",
+    "temp_atual": 18,
+    "min": 15,
+    "max": 19,
+    "condicao": "garoa moderada",
+    "prob_chuva": 72,
+    "texto": "São Paulo · sexta, 2 de outubro de 2026 · 18°C, garoa moderada · mín 15° / máx 19°"
   }
 }
