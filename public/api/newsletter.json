@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-02T08:05:19-03:00",
+  "gerado_em": "2026-10-05T20:17:58-03:00",
   "versao": 1,
-  "data": "2026-10-02",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-02.md",
+  "data": "2026-10-05",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-05.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 21 a 28/09/2026",
-      "data": "2026-09-28",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-28.md"
+      "titulo": "Radar Tributário & Fiscal — 28/09/2026 a 05/10/2026",
+      "data": "2026-10-05",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-05.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-02",
-    "data_extenso": "sexta, 2 de outubro de 2026",
-    "temp_atual": 18,
-    "min": 15,
-    "max": 19,
+    "data": "2026-10-05",
+    "data_extenso": "segunda, 5 de outubro de 2026",
+    "temp_atual": 16,
+    "min": 16,
+    "max": 23,
     "condicao": "garoa moderada",
-    "prob_chuva": 72,
-    "texto": "São Paulo · sexta, 2 de outubro de 2026 · 18°C, garoa moderada · mín 15° / máx 19°"
+    "prob_chuva": 44,
+    "texto": "São Paulo · segunda, 5 de outubro de 2026 · 16°C, garoa moderada · mín 16° / máx 23°"
   }
 }

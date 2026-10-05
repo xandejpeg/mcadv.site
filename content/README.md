@@ -4,6 +4,7 @@
 
 ## tributario-fiscal
 
+- **05/10/2026** — [Radar Tributário & Fiscal — 28/09/2026 a 05/10/2026](tributario-fiscal/2026-10-05.md) · 12 itens
 - **28/09/2026** — [Radar Tributário & Fiscal — 21 a 28/09/2026](tributario-fiscal/2026-09-28.md) · 12 itens
 - **21/09/2026** — [Radar Tributário & Fiscal — 14 a 21/09/2026](tributario-fiscal/2026-09-21.md) · 12 itens
 - **14/09/2026** — [Radar Tributário & Fiscal — 07 a 14/09/2026](tributario-fiscal/2026-09-14.md) · 12 itens
