@@ -58,16 +58,16 @@
       "data": "2026-09-29"
     }
   ],
-  "gerado_em": "2026-10-04T07:05:59-03:00",
+  "gerado_em": "2026-10-05T05:11:05-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-04",
-    "data_extenso": "domingo, 4 de outubro de 2026",
-    "temp_atual": 19,
-    "min": 17,
-    "max": 24,
+    "data": "2026-10-05",
+    "data_extenso": "segunda, 5 de outubro de 2026",
+    "temp_atual": 16,
+    "min": 16,
+    "max": 23,
     "condicao": "garoa moderada",
-    "prob_chuva": 100,
-    "texto": "São Paulo · domingo, 4 de outubro de 2026 · 19°C, garoa moderada · mín 17° / máx 24°"
+    "prob_chuva": 44,
+    "texto": "São Paulo · segunda, 5 de outubro de 2026 · 16°C, garoa moderada · mín 16° / máx 23°"
   }
 }
