@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-05T05:11:05-03:00",
+  "gerado_em": "2026-10-06T05:03:27-03:00",
   "cidade": "São Paulo",
-  "data": "2026-10-05",
-  "data_extenso": "segunda, 5 de outubro de 2026",
+  "data": "2026-10-06",
+  "data_extenso": "terça, 6 de outubro de 2026",
   "temp_atual": 16,
   "min": 16,
-  "max": 23,
-  "condicao": "garoa moderada",
-  "prob_chuva": 44,
-  "texto": "São Paulo · segunda, 5 de outubro de 2026 · 16°C, garoa moderada · mín 16° / máx 23°"
+  "max": 25,
+  "condicao": "trovoada",
+  "prob_chuva": 90,
+  "texto": "São Paulo · terça, 6 de outubro de 2026 · 16°C, trovoada · mín 16° / máx 25°"
 }
