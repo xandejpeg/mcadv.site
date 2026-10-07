@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-05T20:17:58-03:00",
+  "gerado_em": "2026-10-07T20:12:38-03:00",
   "versao": 1,
-  "data": "2026-10-05",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-05.md",
+  "data": "2026-10-07",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-07.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 23 a 30/09/2026",
-      "data": "2026-09-30",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-30.md"
+      "titulo": "Radar Trabalhista — 30/09/2026 a 07/10/2026",
+      "data": "2026-10-07",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-07.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-05",
-    "data_extenso": "segunda, 5 de outubro de 2026",
-    "temp_atual": 16,
-    "min": 16,
-    "max": 23,
-    "condicao": "garoa moderada",
-    "prob_chuva": 44,
-    "texto": "São Paulo · segunda, 5 de outubro de 2026 · 16°C, garoa moderada · mín 16° / máx 23°"
+    "data": "2026-10-07",
+    "data_extenso": "quarta, 7 de outubro de 2026",
+    "temp_atual": 18,
+    "min": 17,
+    "max": 25,
+    "condicao": "trovoada",
+    "prob_chuva": 100,
+    "texto": "São Paulo · quarta, 7 de outubro de 2026 · 18°C, trovoada · mín 17° / máx 25°"
   }
 }

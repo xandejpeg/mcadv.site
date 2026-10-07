@@ -2,6 +2,20 @@
   "versao": 1,
   "manchetes": [
     {
+      "titulo": "Motorista tenta abastecer carro particular com cartão da empresa três vezes, e TST mantém…",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc3hRYjRIVnFsNnNnQ1JOc0ZldE05ZC16ZlFKbHJvRHVZb1ZMUl8tMFlBRXlQcndxYmE3YW1JaFNfQjFEanc3SVRFU3VmRFVfT1d2U1JiMTBXMFlKOHdIY1ZLSXBmMUpDdl8wQ0R1MU91OV9NQThLOVRfSW5jbWpkc0ljeHM2UlpQLVZNRXdQSkpESHBlaDJBQV9rNWJoWDNtVUVBcDBzeWFnRXd1NHF6ejFGVmxyQm44enl5eVhkX0RURXhHSWJKT0F6eG5QNWtiVy1tWTJySQ?oc=5",
+      "fonte": "Notícias Automotivas",
+      "area": "trabalhista",
+      "data": "2026-10-07"
+    },
+    {
+      "titulo": "TST manda Ambev pagar adicional por periculosidade a vendedor de moto",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUERDUEpnN2tHWHI2UTlmOGV3Y3I2dGNzcEVSaGJ1RWdOVFNJemRLNGxIZEJ0a2s3N2RnM1djdnJNbWJLbzJPb19sTTJWOWoyVm1xYmlrZ0otTHpYaUpsM0NJWHZjZV8wSWREYVRFRjc5eWxTZ0VGNXd0b3JpWjVxYnRraThYMFJTWG1qbXZNM1VqdWVEcDZ4VFM1Z1RhY29RRUJEaXVJSGJTc1hkOTRLR2hmV2F4MmZT0gG-AUFVX3lxTFAxS2QwVnRBd3lHc0pLeXREcUxiV3R6TG5LR09ueG41UmFobFV5eXVLbUQyOFV2SmJpMkJxQ0h1T3NVa0VFOTZIa3VlZ3JYby1BT1VCVGhESkpNdGVpeHB4WnRDZlZfZVUyWk40MlZUNHFnVVN0SVEtdm9pVERKc255c0RZZnJYTXd5SnpkVS0zLUxmTmhVYXcxbFEzeWVmaWc3bFVkdjdlVU1tejJ3VHFmRzFrOUVuY2JWWEVPY3c?oc=5",
+      "fonte": "Bem Paraná",
+      "area": "trabalhista",
+      "data": "2026-10-07"
+    },
+    {
       "titulo": "Senador eleito José Medeiros defende mudanças na reforma tributária",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUnpHM1ZQeS1MQlRTa014NkhteWIzX0M3VVJiTkxNX2tqLVNxbnh4elM4eTAyRGtUWmVmSDBHRHpuR2N0eUVoeVJOV0trd2RPSXFlX3hYeDdjUlppN3NqZmFCU25rNkhHRlZEejZjNnRId0xESGJLRnVPWWthOFhaQWthUzlRdldaMnFWd2kzb3ZtcGVLeENvb01WbG1wbmZYb3p6V2V2SnZfYUFBZmxRUldreW9BTXFMRFFLenI4d3ZNbE52Nnc?oc=5",
       "fonte": "Senado Federal",
@@ -9,17 +23,10 @@
       "data": "2026-10-05"
     },
     {
-      "titulo": "Queda de gastos médicos não prova eficácia de programas de redução de riscos, diz Carf",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVWVIN25VajlQMmVGWHdsSVJuTnc5eDVYMEdhX3ZuTjhSMzluYlhmaTV2UThXeUpCYkpuVE5BVmItREhTVGNKMk5yU0JuR0RlSmY3ZHVGMEZnQkZ2d3NXV3dIRmZTWGEwM3Z3LWljLUwyalVRQjVZWWtkeDNNbHVHeDUxX0Q5T0x0eVJ3Z2dmam1Ta0tndTd0dTNRUGRVSGxwNy1qVDhDVDhxdXFyNUlXVS14V0pJVVE?oc=5",
-      "fonte": "JOTA Jornalismo",
-      "area": "tributario-fiscal",
-      "data": "2026-10-05"
-    },
-    {
-      "titulo": "Fazenda define metodologia de cálculo da CBS e IBS sobre combustíveis",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZEpFZ1NVMk05VGpsYVFCb0FTZ1JXa2RLZ3Y5SnZNYjlTd2djU1o0SzlvZ2JpLXdHVjdFRER3b1U5T2x3Tkpwd25IYkhpMHZPRTRlZDByREFHMmJNeFVNanpCUEtMZW42YXZ5NXRFYVFqMDVQWVlHWXNqZ1prY2MtQjV2ZDdmdDJtTTR4aXJuS2NjQW03dlN5RG4xamJVMmtfZ2I0YXdHUDlRU1BlRTg4RTNpdlRIVEhMU09maDBBMXNURWNtX1hFYlJlS1h3WWtJU1BWcEhDSnNBbTR0YnfSAeMBQVVfeXFMTi04M0VEYk1XbmRTZmRsOUE1OFVyYjUyMmdKS2hKZllRd2JEZDlDZkJscUlhNmxLQmlBSWNEQl90eXd6N1BFbnZ0VldnVWxvTktwSXVWaHl5TnFnLS10Y3c1NzM5MWlINENrakQtWnhZTXNSbFNzanRUMXdhZEd5cGRha1VLNGNWbW5TWVpub1p2Z25aY2pTM1RpRi1TUDNqLVV1a3FHOHlSSV9NVXRZWEdGUzZmdGhXR3lBeDJfdlNGLTFaM1VRN2xZWHBnbERIUlBVNHBCNWVyR3BYTjU4ZWRsZkU?oc=5",
-      "fonte": "Notícias Agrícolas",
-      "area": "tributario-fiscal",
+      "titulo": "Sindicato pode executar sentença coletiva que envolve 8,5 mil trabalhadores",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWDVWWlRqVFhfR1BHcHBXblJWWlZ4ckM3c0prei1JNlJaNHJNNjlEMkZaSVI3UnBuYklDV2JndlhfT1YzVzNkV3ZVVHJrMUlDb1BOTVFHeDMxM3dJaGJIYURXV1ZzNkIta3llTm5iM3o0bnAtN1ItaVFnN2ktdUlGd1F2UGl2UnBTLXlrVm51RGJhTWh0MG9RSWhVbEhEak1J?oc=5",
+      "fonte": "TST",
+      "area": "trabalhista",
       "data": "2026-10-05"
     },
     {
@@ -30,35 +37,28 @@
       "data": "2026-10-04"
     },
     {
-      "titulo": "Mulheres afastadas do trabalho por violência doméstica poderão receber benefício do INSS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNak5KZDFrT2FtbkRldlU4Z1ZHenB5SDlUb0Q3VjhYRlZZY3lITlNCRWh0QTBUQVJxXy14LUg1RWNiT01RZ3dwTWN0d013VmF4MmVLNzdSQ3VKNVY4ZzJMWTJ2dEFtU1ZOczBxR0FCZ0JPZGhUc0N3TzZrZjVHYUFPN19XMll5aUpZVjk5OFhlcFpRT0ViR3VXUWMzNVN4ZlRHVVMxaHBxN1BmLWl2ZHREdnlwNnZqWkFzaWNiaHJNemJZTVZB?oc=5",
-      "fonte": "Folha BV",
-      "area": "previdenciario",
-      "data": "2026-10-02"
-    },
-    {
-      "titulo": "image (3).jpg — Instituto Nacional do Seguro Social - INSS",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYWxIYlplWU1aYUtEQ2NVdTFOS200UkhZS2ZrMU1PQnFBQVlMMzBhUGhMM1pQSnR3aDk5RE54a05leFIwNm44bURsZzQ5LUFXZE91VTNXclVPRjU0a2pQR05YWUtielpKQTZ2ekRjOFpUdTM2eHBveDlSN3lKZC14VHQzQW9JWXFvMXlPYlJrekMwXzNSUEJuMFdpT2pwYmN2SjFHdFlyaWxFbHFEU3JjTV9pZnJVTEhpaVMyYzJNN0pQYlFPbE0xLXMwRHhrS2VabXl6TV9seTRpSHk4TkFiZmJB?oc=5",
-      "fonte": "www.gov.br",
-      "area": "previdenciario",
-      "data": "2026-10-01"
-    },
-    {
-      "titulo": "TST: Sindicato pode agir em defesa de um único trabalhador em ação",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGI1cUI3dmlXN1EwQVRUTWdXYWdCc2VVY09xajJvZGxKMlJpQml2RW5yd1JJalhWVmlZemJJSmR4UjdjVVY1bk5SbHdPZTdGRHM5VjdSTDVCUHozY0dDSG4tanpPbDhiYmszLXJKUlpaSVJnSER2VXRvbVVZcVJidVE1dTduTHhmVzVsLXdDbnk1aTBuUzVNcjVnbllQeXdXNm1IZktkVEw3R2Zi?oc=5",
+      "titulo": "TST define marco temporal para aplicação da reforma trabalhista",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWVR1S1h0SkdDZEhNR2Y2SGdoaVYwd1ViWWo3Q3l2TWJnQy1tYWJ5WHVPUFdpWEQxU3Y0Nkx0WlUtQnlYbHNUeXlWaW12LVQySFVGS1lDZmlsM2NQcnc3dXBFa2NPcDVsYlJvUnRFaUJYU3lGTG84VUxpTTJzZkdNeVNfZmVfeGczS0VwTnIzS05YYTA5d2FVY0RDYVM1TTl3dHlZWjQteUJ1Zw?oc=5",
       "fonte": "Migalhas",
       "area": "trabalhista",
-      "data": "2026-09-29"
+      "data": "2026-10-04"
     },
     {
-      "titulo": "TST considera greve dos Correios não abusiva e autoriza compensação dos dias de…",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmJXQ1UzUXR4YjlwenAzZmZmdzg2aExYaGp0LWpoRmVkdVlMdXczR21MYVVzeFBTRmhNaEJ6bUJub2xkUzhHcUx6MjBGUmJ0bkd4c1FUZEYxUjRDTWZTdWdKLTFVSU5LbWEtcjhFdTJvcFA3THVaOTdYREo5U1V1UDl3eDJrT0tzMEpWRTdhTG5iWEI2RTFGbWhxRzJxX1lsaDhvYUl6MTBZTUd1d0R3RDZvN0xvR3c?oc=5",
-      "fonte": "TST",
-      "area": "trabalhista",
-      "data": "2026-09-24"
+      "titulo": "Coisa julgada e benefício por incapacidade: limite da revisão do INSS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXJOTU5JRzBGd0lxX3I4Nk5CQkdaVmRzaHZHRElOZXppOWFILXRnT1Z5Wm9PRXlRcllJOTlCWGNmWFNOZVNueHZtQmJXczdYTmFTakczMzZyUWI5VVdLcEZzbTVBM1d0TlN4cUFzMkJiaEV6bjlRVHJwVVpmSFk2TEszRDc5TnY2b2VYRDFFaU5TMzd6UExrY1dwTWVnVDYtd0FiMllDUUo3bUg3Q1VlendMaTZzaVh6bjJyQW9SRQ?oc=5",
+      "fonte": "Consultor Jurídico",
+      "area": "previdenciario",
+      "data": "2026-09-27"
+    },
+    {
+      "titulo": "Em MG, Renan Santos defende reforma da Previdência e concessões de rodovias",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeUZlUmt5bmdxel9hRHlXZFpZbktBbmk5bVMzNTJQVTJNb1JsNWJwQk84MlZNeXFEWjdRdGtqYUJrNTVJZElvS0VpZ1BxSzBqQ1RFVE5vRHJrQUNpV1lXMUxaRXhBNEI5TS1aNzJRVUJBblltOVEwdEY0c1FkYWlsZkVmTm9pOFFzWWNIX3kxXzloY0RhaFc2UUx0Q011dlZJSEJwaVJ4cXd5Nmo3UTV0WFBiUUp4QU5feFNVWWU4M2gwN3ZnUUNpZm9CUXE0MGo1VVNSN2lEbS0ycFRuU091N2lBN3JDR25ucnlxRS1n0gHzAUFVX3lxTE9tWlJZQ3Rtblozb3hON3ZqYndMRFZjQkJFM0FRbTdvUEo3YklKS2FxMVdXcnZLSnM5b085b2c1elBxZzJQc3pRRVJiSXdvcllZZktlNjNLUVE4VmdZS05SeHcyRDJ1ZkN1UExsNm5BeXVNdTZ1SWtJZjdjMTFJVXlHckdzWEV2NWlZU1h5VWdmNWtrdVJfQWtmc2JCMWdtUER0SzFsRGt3aTlKbEd6cDZtUE8xVzRMUVdBVjUyb1FPMnduX05yei1GbHZDa3JpLUYzdzN0VTNkeHJtR2RWeFdkb09TMTZvMDBqcVNkbWQ2UXpJdw?oc=5",
+      "fonte": "Grupo Jota Sidney",
+      "area": "previdenciario",
+      "data": "2026-09-25"
     }
   ],
-  "gerado_em": "2026-10-07T05:03:51-03:00",
+  "gerado_em": "2026-10-07T20:12:38-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-10-07",
