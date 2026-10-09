@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-07T20:12:38-03:00",
+  "gerado_em": "2026-10-09T08:05:40-03:00",
   "versao": 1,
-  "data": "2026-10-07",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-07.md",
+  "data": "2026-10-09",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-09.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 25/09/2026 a 02/10/2026",
-      "data": "2026-10-02",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-02.md"
+      "titulo": "Radar Previdenciário — 02 a 09/10/2026",
+      "data": "2026-10-09",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-09.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-07",
-    "data_extenso": "quarta, 7 de outubro de 2026",
-    "temp_atual": 18,
-    "min": 17,
-    "max": 25,
+    "data": "2026-10-09",
+    "data_extenso": "sexta, 9 de outubro de 2026",
+    "temp_atual": 19,
+    "min": 19,
+    "max": 31,
     "condicao": "trovoada",
-    "prob_chuva": 100,
-    "texto": "São Paulo · quarta, 7 de outubro de 2026 · 18°C, trovoada · mín 17° / máx 25°"
+    "prob_chuva": 52,
+    "texto": "São Paulo · sexta, 9 de outubro de 2026 · 19°C, trovoada · mín 19° / máx 31°"
   }
 }
