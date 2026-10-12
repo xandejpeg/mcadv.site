@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-09T08:05:40-03:00",
+  "gerado_em": "2026-10-12T20:18:57-03:00",
   "versao": 1,
-  "data": "2026-10-09",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-09.md",
+  "data": "2026-10-12",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-12.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 28/09/2026 a 05/10/2026",
-      "data": "2026-10-05",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-05.md"
+      "titulo": "Radar Tributário & Fiscal — 05 a 12/10/2026",
+      "data": "2026-10-12",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-12.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-09",
-    "data_extenso": "sexta, 9 de outubro de 2026",
-    "temp_atual": 19,
-    "min": 19,
-    "max": 31,
+    "data": "2026-10-12",
+    "data_extenso": "segunda, 12 de outubro de 2026",
+    "temp_atual": 17,
+    "min": 17,
+    "max": 24,
     "condicao": "trovoada",
-    "prob_chuva": 52,
-    "texto": "São Paulo · sexta, 9 de outubro de 2026 · 19°C, trovoada · mín 19° / máx 31°"
+    "prob_chuva": 97,
+    "texto": "São Paulo · segunda, 12 de outubro de 2026 · 17°C, trovoada · mín 17° / máx 24°"
   }
 }
