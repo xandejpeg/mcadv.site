@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-10-12T05:17:10-03:00",
+  "gerado_em": "2026-10-13T05:07:56-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-10-12",
-  "data_extenso": "segunda, 12 de outubro de 2026",
+  "data": "2026-10-13",
+  "data_extenso": "terça, 13 de outubro de 2026",
   "temp_atual": 17,
   "min": 17,
-  "max": 24,
+  "max": 28,
   "condicao": "trovoada",
-  "prob_chuva": 97,
-  "texto": "São Paulo · segunda, 12 de outubro de 2026 · 17°C, trovoada · mín 17° / máx 24°"
+  "prob_chuva": 80,
+  "texto": "São Paulo · terça, 13 de outubro de 2026 · 17°C, trovoada · mín 17° / máx 28°"
 }
