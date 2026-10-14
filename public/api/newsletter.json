@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-12T20:18:57-03:00",
+  "gerado_em": "2026-10-14T20:11:59-03:00",
   "versao": 1,
-  "data": "2026-10-12",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-12.md",
+  "data": "2026-10-14",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-14.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 30/09/2026 a 07/10/2026",
-      "data": "2026-10-07",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-07.md"
+      "titulo": "Radar Trabalhista — 07 a 14/10/2026",
+      "data": "2026-10-14",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-14.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-12",
-    "data_extenso": "segunda, 12 de outubro de 2026",
-    "temp_atual": 17,
-    "min": 17,
-    "max": 24,
-    "condicao": "trovoada",
-    "prob_chuva": 97,
-    "texto": "São Paulo · segunda, 12 de outubro de 2026 · 17°C, trovoada · mín 17° / máx 24°"
+    "data": "2026-10-14",
+    "data_extenso": "quarta, 14 de outubro de 2026",
+    "temp_atual": 18,
+    "min": 18,
+    "max": 29,
+    "condicao": "pancadas de chuva fracas",
+    "prob_chuva": 88,
+    "texto": "São Paulo · quarta, 14 de outubro de 2026 · 18°C, pancadas de chuva fracas · mín 18° / máx 29°"
   }
 }

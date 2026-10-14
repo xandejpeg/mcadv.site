@@ -1,7 +1,15 @@
 {
-  "gerado_em": "2026-10-12T20:18:57-03:00",
+  "gerado_em": "2026-10-14T20:11:59-03:00",
   "versao": 1,
   "relatorios": [
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 07 a 14/10/2026",
+      "data": "2026-10-14",
+      "edicao": 9,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-14.md",
+      "itens": 12
+    },
     {
       "area": "tributario-fiscal",
       "titulo": "Radar Tributário & Fiscal — 05 a 12/10/2026",
