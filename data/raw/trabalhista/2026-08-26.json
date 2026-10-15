@@ -1,6 +1,6 @@
 {
   "area": "trabalhista",
-  "gerado_em": "2026-08-26T09:39:46-03:00",
+  "gerado_em": "2026-08-26T18:58:07-03:00",
   "periodo_de": "2026-08-19",
   "periodo_ate": "2026-08-26",
   "dias": 7,
@@ -9,13 +9,31 @@
       "id": "google-news:trabalhista:3",
       "url": "https://news.google.com/rss/search?q=eSocial%20trabalhista%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "status": "ok",
-      "itens": 3
+      "itens": 5
+    },
+    {
+      "id": "google-news:trabalhista:4",
+      "url": "https://news.google.com/rss/search?q=terceiriza%C3%A7%C3%A3o%20julgamento%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "status": "ok",
+      "itens": 35
     },
     {
       "id": "google-news:trabalhista:1",
       "url": "https://news.google.com/rss/search?q=TST%20tese%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "status": "ok",
-      "itens": 18
+      "itens": 16
+    },
+    {
+      "id": "google-news:trabalhista:5",
+      "url": "https://news.google.com/rss/search?q=pejotiza%C3%A7%C3%A3o%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "status": "ok",
+      "itens": 55
+    },
+    {
+      "id": "google-news:trabalhista:0",
+      "url": "https://news.google.com/rss/search?q=justi%C3%A7a%20do%20trabalho%20decis%C3%A3o%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "status": "ok",
+      "itens": 58
     },
     {
       "id": "google-news:trabalhista:2",
@@ -24,33 +42,471 @@
       "itens": 49
     },
     {
-      "id": "google-news:trabalhista:5",
-      "url": "https://news.google.com/rss/search?q=pejotiza%C3%A7%C3%A3o%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "status": "ok",
-      "itens": 48
-    },
-    {
-      "id": "google-news:trabalhista:4",
-      "url": "https://news.google.com/rss/search?q=terceiriza%C3%A7%C3%A3o%20julgamento%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "status": "ok",
-      "itens": 31
-    },
-    {
-      "id": "google-news:trabalhista:0",
-      "url": "https://news.google.com/rss/search?q=justi%C3%A7a%20do%20trabalho%20decis%C3%A3o%20when%3A7d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "status": "ok",
-      "itens": 65
-    },
-    {
       "id": "jota",
       "url": "https://www.jota.info/feed",
       "status": "ok",
       "itens": 25
     }
   ],
-  "total_coletado": 239,
-  "total_unico": 206,
+  "total_coletado": 243,
+  "total_unico": 212,
   "itens": [
+    {
+      "id": "119868761c3529309e144391c69ffd8957cc9d95",
+      "titulo": "Justiça dá prazo de 15 dias para Uber prestar informações sobre ‘passe para motoristas’",
+      "resumo": "Justiça dá prazo de 15 dias para Uber prestar informações sobre ‘passe para motoristas’ JOTA Info",
+      "fonte": "JOTA Info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T21:01:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamJ0elo0WlQ1NTVvR05wdV9kbE45SWFmTzE4cmhYWnI2WjVvanRLcm9kSGhodWFxVDNPeDJxRGRLRU4xVVNyYk1iQ2d1UUQ4cm96dkJfV29UaXNDVHY5VEZidXJYNVNjUWlqM3d6Sno1NFZFWlAxWXotS3BCWnRjRDJHN05nRldiZzhKal93WjNhQUV4UVNteUJOejFkN2VCVzVoYVJmQ29aU1BiR1pEUFZqYXI5N1U?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamJ0elo0WlQ1NTVvR05wdV9kbE45SWFmTzE4cmhYWnI2WjVvanRLcm9kSGhodWFxVDNPeDJxRGRLRU4xVVNyYk1iQ2d1UUQ4cm96dkJfV29UaXNDVHY5VEZidXJYNVNjUWlqM3d6Sno1NFZFWlAxWXotS3BCWnRjRDJHN05nRldiZzhKal93WjNhQUV4UVNteUJOejFkN2VCVzVoYVJmQ29aU1BiR1pEUFZqYXI5N1U?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "858ae3dbc97229b26977e5c679b9618ca276d44b",
+      "titulo": "Casa JOTA debate os desafios das apostas ilegais no Brasil",
+      "resumo": "Encontro vai debater ainda os caminhos para fortalecer o enfrentamento desse mercado",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T18:57:05.000Z",
+      "url": "https://www.jota.info/coberturas-especiais/casa-jota-debate-desafios-das-apostas-ilegais-no-brasil",
+      "url_canonica": "https://www.jota.info/coberturas-especiais/casa-jota-debate-desafios-das-apostas-ilegais-no-brasil",
+      "query": null
+    },
+    {
+      "id": "e6ac13486104087c8430916c00029447e05332c2",
+      "titulo": "TST soma 40 mil ações sobre controle de banheiro no trabalho",
+      "resumo": "TST soma 40 mil ações sobre controle de banheiro no trabalho vermelho.org.br",
+      "fonte": "vermelho.org.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T18:53:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWgwekxSQWdpc2dVc3VkeEw2RWV5RDhudEVRZXhSd0NGMHBqZzdfQ2RwTF9Nb0VzNS1pcTQtbkpDZl9lOTFidFpDd3hwZzh6YktOWFdjamRFYzNzaHN2NV9rYk1TaC1HclhlWWdFZmVsajY2dmI2MEJWbXZIcE1UY3ZkUFExNXUtX2YzR3FQSm9MVU1jeWwwTHRpQ3ZmM1VCdC1heXdzRWI2M2pidXc?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWgwekxSQWdpc2dVc3VkeEw2RWV5RDhudEVRZXhSd0NGMHBqZzdfQ2RwTF9Nb0VzNS1pcTQtbkpDZl9lOTFidFpDd3hwZzh6YktOWFdjamRFYzNzaHN2NV9rYk1TaC1HclhlWWdFZmVsajY2dmI2MEJWbXZIcE1UY3ZkUFExNXUtX2YzR3FQSm9MVU1jeWwwTHRpQ3ZmM1VCdC1heXdzRWI2M2pidXc?oc=5",
+      "query": "TST tese"
+    },
+    {
+      "id": "c7cffb3469066d3817076b336f527c870bfc3aab",
+      "titulo": "Fora das urnas, Dino, Moraes e Mendonça entram no centro da disputa presidencial",
+      "resumo": "Investigações e decisões dos três ministros afetam campanhas de Lula e Flávio Bolsonaro e influenciam estratégias eleitorais",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T18:30:17.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/coluna-flavia-maia/fora-das-urnas-dino-moraes-e-mendonca-entram-no-centro-da-disputa-presidencial",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/coluna-flavia-maia/fora-das-urnas-dino-moraes-e-mendonca-entram-no-centro-da-disputa-presidencial",
+      "query": null
+    },
+    {
+      "id": "aba2fee568d05d380d143f471b893c9a8f47442c",
+      "titulo": "TST cria gratificação de 15% para servidores sem incidência de impostos",
+      "resumo": "TST cria gratificação de 15% para servidores sem incidência de impostos Claudio Dantas",
+      "fonte": "Claudio Dantas",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T18:02:08.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXJySzliSXRJNjZZQWVLaTByRlJWVjIwZzExVUY3c1JKV0VFcXdOMFlrUmxUelE3RnROXy12WEdLZXNxLXRnZ0Z5N1FyeURkeW5uUW1vYkJiNS1SYlItaFFKSGl3U2VVanRBV0VZbkU2YmV6UVBNSXZnZHRUX2tYM01tSC05Z2IxS0s3YjZ4eERQVEwtdHRxeGVWd19laFVmQ1E?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXJySzliSXRJNjZZQWVLaTByRlJWVjIwZzExVUY3c1JKV0VFcXdOMFlrUmxUelE3RnROXy12WEdLZXNxLXRnZ0Z5N1FyeURkeW5uUW1vYkJiNS1SYlItaFFKSGl3U2VVanRBV0VZbkU2YmV6UVBNSXZnZHRUX2tYM01tSC05Z2IxS0s3YjZ4eERQVEwtdHRxeGVWd19laFVmQ1E?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "9d51430096cb116df729ef17d6481f6199180bde",
+      "titulo": "STF julga nesta quarta-feira regras para gratuidade de justiça em ações trabalhistas",
+      "resumo": "STF julga nesta quarta-feira regras para gratuidade de justiça em ações trabalhistas Agora MT",
+      "fonte": "Agora MT",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T17:43:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzdJMENfaEFZdnRMYVZxbHBvOXdwSnJneEdMam5ON1hCVFFfX0RCanlOZXFBbXJVVXJwc1U2RVZ0NUJzWUFZcXp5X25jLWVqTWpKN3dyTWM5dkZrSW41UTVJNkpUVXI2b05nZXZVQjZhUTd5YUJKM3JrcXBpNXlRdGlhdzJoYmVQTGUtbnFRMUdQNjVoeUxCZmdKSVc2ZW9zUmZqeWNjdXZmUy1zREpZMUFZdjJ5dk0wOWZ4Sw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdzdJMENfaEFZdnRMYVZxbHBvOXdwSnJneEdMam5ON1hCVFFfX0RCanlOZXFBbXJVVXJwc1U2RVZ0NUJzWUFZcXp5X25jLWVqTWpKN3dyTWM5dkZrSW41UTVJNkpUVXI2b05nZXZVQjZhUTd5YUJKM3JrcXBpNXlRdGlhdzJoYmVQTGUtbnFRMUdQNjVoeUxCZmdKSVc2ZW9zUmZqeWNjdXZmUy1zREpZMUFZdjJ5dk0wOWZ4Sw?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "d9b330a875a832ece8645ddd88b26ba2aa90616f",
+      "titulo": "Casas Bahia é obrigada a reintegrar 1.900 trabalhadores após decisão da Justiça do Trabalho",
+      "resumo": "Casas Bahia é obrigada a reintegrar 1.900 trabalhadores após decisão da Justiça do Trabalho WSCOM",
+      "fonte": "WSCOM",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T17:36:43.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZExORG9QWHBtaXhTYUprYXhMTGlSQ3lBNmxHa2hVWm1BbUVTNTNFUjFreDdpVkJEV09ibUw4Y3ZlakNNSUxWVkZ6cDhIbXh5eVJZMkRqRDBOeDNSWm9JeHBCX1VVNG1HZnp0a192TFlnWEdGaXdwYnJuQjNSNU1XenZpWUEtQ2JUcmE5WDBqNm53Tk5EV19lTnZMdFk0bzBTdnQ5VVE4RTVFZGdYMmZDSmlKOWJER3QyRVpOUHpPTHgtOFh3c0RSRjVoeFhUa1VUbjVhX3BaVU94ejhYZEdQZFpnVGV4Zw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZExORG9QWHBtaXhTYUprYXhMTGlSQ3lBNmxHa2hVWm1BbUVTNTNFUjFreDdpVkJEV09ibUw4Y3ZlakNNSUxWVkZ6cDhIbXh5eVJZMkRqRDBOeDNSWm9JeHBCX1VVNG1HZnp0a192TFlnWEdGaXdwYnJuQjNSNU1XenZpWUEtQ2JUcmE5WDBqNm53Tk5EV19lTnZMdFk0bzBTdnQ5VVE4RTVFZGdYMmZDSmlKOWJER3QyRVpOUHpPTHgtOFh3c0RSRjVoeFhUa1VUbjVhX3BaVU94ejhYZEdQZFpnVGV4Zw?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "5d97877efd59589cc22c4cbe8e217e575e40422f",
+      "titulo": "STF AO VIVO – Transporte coletivo por plataformas digitais – sessão de 26/8/2026",
+      "resumo": "STF AO VIVO – Transporte coletivo por plataformas digitais – sessão de 26/8/2026 JOTA Info",
+      "fonte": "JOTA Info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T17:35:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFpleDZjTGpialpFczJ1MlRHbkJkR21FSW9fb292cXF6X044X0RiUy1oWDdlUGl1Y1JNeFhoRjMzV2RIMmlFcHZLdllnX3ZIYlZ4THJrRm1HQVBWNDB6VXJoSnR2MW4wWUxfT2N6a3RDMXd3YnVCRjFHQW5Hc2lhYnhDckFYa2lOOTJ4cU52Q3J0cE1YV1VXWmtrRS12bjZjV2E1QnJwMlhsVjl0d05wS0IzUQ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZFpleDZjTGpialpFczJ1MlRHbkJkR21FSW9fb292cXF6X044X0RiUy1oWDdlUGl1Y1JNeFhoRjMzV2RIMmlFcHZLdllnX3ZIYlZ4THJrRm1HQVBWNDB6VXJoSnR2MW4wWUxfT2N6a3RDMXd3YnVCRjFHQW5Hc2lhYnhDckFYa2lOOTJ4cU52Q3J0cE1YV1VXWmtrRS12bjZjV2E1QnJwMlhsVjl0d05wS0IzUQ?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "78fc02a20c59c81137798ac576aa0d5958c017d9",
+      "titulo": "A inclusão que não veio: até onde a IA desceu a pirâmide social",
+      "resumo": "Segundo pesquisas, 84,6% conhecem a inteligência artificial nas classes D e E, mas taxa de uso ainda é baixa, de 16%",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T17:30:14.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/radar-de-evidencias/a-inclusao-que-nao-veio-ate-onde-a-ia-desceu-a-piramide-social",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/radar-de-evidencias/a-inclusao-que-nao-veio-ate-onde-a-ia-desceu-a-piramide-social",
+      "query": null
+    },
+    {
+      "id": "c60339cb92e51965f48a3a58b756a427c90e5a9e",
+      "titulo": "Tribunal de Justiça suspende Lei que autorizava contratação de 1,3 mil funcionários terceirizados em Turiaçu",
+      "resumo": "Tribunal de Justiça suspende Lei que autorizava contratação de 1,3 mil funcionários terceirizados em Turiaçu Neto Ferreira",
+      "fonte": "Neto Ferreira",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T17:23:21.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeVFsMnU1QWV6eWxWUDlSTHZjc2Z1OHVZN2JSaVNLNlljMm9KSlVjVDNvLXhscWg2aEswRlFVaHRFbFFOQjEwa3dhQlJvYy0wTEhvWW9jYzBaZnpselg0azRKVjI3SEczQlowTVYwazhXQ2xmbHlKd280SU5HVjVBcjlfUjA3SmMtTGRwbWppa1o1UERrbzFiSDl5MUN0X1I0Y0Myc2FHVlZlZlpqa1YwX0x6aVkzQTZDcmlpTUVQYkFQOG5aSzhJTjVFbzlnQW9aSFk4OXhaZw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeVFsMnU1QWV6eWxWUDlSTHZjc2Z1OHVZN2JSaVNLNlljMm9KSlVjVDNvLXhscWg2aEswRlFVaHRFbFFOQjEwa3dhQlJvYy0wTEhvWW9jYzBaZnpselg0azRKVjI3SEczQlowTVYwazhXQ2xmbHlKd280SU5HVjVBcjlfUjA3SmMtTGRwbWppa1o1UERrbzFiSDl5MUN0X1I0Y0Myc2FHVlZlZlpqa1YwX0x6aVkzQTZDcmlpTUVQYkFQOG5aSzhJTjVFbzlnQW9aSFk4OXhaZw?oc=5",
+      "query": "terceirização julgamento"
+    },
+    {
+      "id": "4200045f64edc97ac6124994cb4d663ad36d22f5",
+      "titulo": "&#8216;É um absurdo fazer acordos de infraestrutura no TCU&#8217;, diz Elena Landau sobre Secex-Consenso",
+      "resumo": "A economista foi uma das participantes do Legal Infra Summit &#124; JOTA Farol da Infraestrutura, que discutiu os desafios da infraestrutura brasileira",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T17:18:52.000Z",
+      "url": "https://www.jota.info/coberturas-especiais/e-um-absurdo-que-os-acordos-de-infraestrutura-sejam-feitos-do-ambiente-do-tcu-diz-elena-landau-sobre-secex-consenso",
+      "url_canonica": "https://www.jota.info/coberturas-especiais/e-um-absurdo-que-os-acordos-de-infraestrutura-sejam-feitos-do-ambiente-do-tcu-diz-elena-landau-sobre-secex-consenso",
+      "query": null
+    },
+    {
+      "id": "c951d1d90b9437af569951c3a8f5dd5e4ca145a7",
+      "titulo": "O triunfo e a morte anunciada do novo STJ",
+      "resumo": "De quem é a palavra final sobre tratados e leis federais?",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T17:05:18.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-triunfo-e-a-morte-anunciada-do-novo-stj",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/artigos/o-triunfo-e-a-morte-anunciada-do-novo-stj",
+      "query": null
+    },
+    {
+      "id": "8eb925abcda2ef6dbc60484dd928ede36b3a7693",
+      "titulo": "Justiça do Trabalho mantém demissão por justa causa de funcionária que abandonou emprego",
+      "resumo": "Justiça do Trabalho mantém demissão por justa causa de funcionária que abandonou emprego Sincovaga Notícias",
+      "fonte": "Sincovaga Notícias",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T16:16:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR19PLU1pTEdkUGd3QkRQQjI5OUF6T2F5NklSUld1Z0ZCN1E1V0JsUjUzQUJoSlVUbVhBSXNhU1MzeUowbW9KTXljaWhwNl90eWNvSFVidHctTEtiSjFwZ1d2aUhUTUZ6VzNPOHhTN3ZwNF9nQVRXLTBucFBSZzRiQzFGZTBBQ0kzVW8zczh2Zmh2bVpCalFiWmlpekhmYXN0dGpQM05WTDlGWmVrZm5rX2J4WnItUzBsVWNUbnAteUI4c2Jr?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR19PLU1pTEdkUGd3QkRQQjI5OUF6T2F5NklSUld1Z0ZCN1E1V0JsUjUzQUJoSlVUbVhBSXNhU1MzeUowbW9KTXljaWhwNl90eWNvSFVidHctTEtiSjFwZ1d2aUhUTUZ6VzNPOHhTN3ZwNF9nQVRXLTBucFBSZzRiQzFGZTBBQ0kzVW8zczh2Zmh2bVpCalFiWmlpekhmYXN0dGpQM05WTDlGWmVrZm5rX2J4WnItUzBsVWNUbnAteUI4c2Jr?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "5cc547d5453ec62d2c50744e8484c5d7b2f41c72",
+      "titulo": "Casa JOTA debate o papel do microcrédito na economia nordestina",
+      "resumo": "Evento debate o papel do microcrédito no empreendedorismo, na inovação e na agricultura familiar",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T16:13:07.000Z",
+      "url": "https://www.jota.info/coberturas-especiais/casa-jota-debate-o-papel-do-microcredito-na-economia-nordestina",
+      "url_canonica": "https://www.jota.info/coberturas-especiais/casa-jota-debate-o-papel-do-microcredito-na-economia-nordestina",
+      "query": null
+    },
+    {
+      "id": "296a4aad510e607dd60ffc47dd9654e5d90f6a8c",
+      "titulo": "Veja o plano de governo de Dimas Cassimiro (PCO), candidato ao governo do Maranhão",
+      "resumo": "Veja o plano de governo de Dimas Cassimiro (PCO), candidato ao governo do Maranhão G1",
+      "fonte": "G1",
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
+      "data": "2026-08-26T16:07:59.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMU1pRThUQmUxeVlWblp2VkFDajZJVVhDU0t3NjMzbjlRN2x1X3lBQlhidWVDbGhUMGgwbDhwQnhGdjByNkxLX1lJOWRNSUJSa25FOG9zQ0JQTjFvdmYxMGM2dElyUkVvUUdIQTVrdFpSd3ljUzQ5UTZjS2NaU0lROHhjRW5FRDlUczFtOVlpMXp2R1dRZkpUUFg0dFlQVlJGVWUwS1ZFWXp3bTRHSFk5V3lreWFPSzZlM3Y3a3hFVGphdmFTVFE5a3IzNHRSUm5xZXpMV1J2ZzZDeUh2Zk1IVjZNWjFId9IB9AFBVV95cUxOSTE2bWtNUjkzSWpSSHBsOWp2bXVqYnBVeGk3NEU3ZUZfQVdqbHo2SV85R3Z5UHFuYXNIc2xvTFBTWU0zR3M2a2otcWE2amFGLTdMNTd3LXFZTk1KbzFNUzRnOFNLU3VHWTBycUpSamxpUXN0NlNudnE5OWVoN0Nhek51dVRiaHhrTUM2azdmQktyTWpzcGZFUmQ1amk4UnRFTVk0cWRsU3FaWTZXbDFDcUVGSUhBMnMwazZQWFozV3NKTndFNDUyX0Qxek5Gamx2Yko4Zm8yWkhHZWtmRHNXbndRMmxVcWdkczZpeEc3N1RWaDVW?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMU1pRThUQmUxeVlWblp2VkFDajZJVVhDU0t3NjMzbjlRN2x1X3lBQlhidWVDbGhUMGgwbDhwQnhGdjByNkxLX1lJOWRNSUJSa25FOG9zQ0JQTjFvdmYxMGM2dElyUkVvUUdIQTVrdFpSd3ljUzQ5UTZjS2NaU0lROHhjRW5FRDlUczFtOVlpMXp2R1dRZkpUUFg0dFlQVlJGVWUwS1ZFWXp3bTRHSFk5V3lreWFPSzZlM3Y3a3hFVGphdmFTVFE5a3IzNHRSUm5xZXpMV1J2ZzZDeUh2Zk1IVjZNWjFId9IB9AFBVV95cUxOSTE2bWtNUjkzSWpSSHBsOWp2bXVqYnBVeGk3NEU3ZUZfQVdqbHo2SV85R3Z5UHFuYXNIc2xvTFBTWU0zR3M2a2otcWE2amFGLTdMNTd3LXFZTk1KbzFNUzRnOFNLU3VHWTBycUpSamxpUXN0NlNudnE5OWVoN0Nhek51dVRiaHhrTUM2azdmQktyTWpzcGZFUmQ1amk4UnRFTVk0cWRsU3FaWTZXbDFDcUVGSUhBMnMwazZQWFozV3NKTndFNDUyX0Qxek5Gamx2Yko4Zm8yWkhHZWtmRHNXbndRMmxVcWdkczZpeEc3N1RWaDVW?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "8555faa8c753b13ff9b49b518965ab47e2ede60c",
+      "titulo": "Justiça confirma que Casas Bahia deve readmitir 1.900 funcionários",
+      "resumo": "Justiça confirma que Casas Bahia deve readmitir 1.900 funcionários vermelho.org.br",
+      "fonte": "vermelho.org.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T15:33:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0lId3JKWktrempJN1RJV0lFUVBSV1QySVE1SHRIZUpjdWd1eWU3QndqSXJnUnhKcGZtb0I5QlB1YkZTRjMzc3hOOVdzdUt6NEtkTjBCOUJybzJSS1ZsbVpiWDdZZVFRUENiVFZoZjNkUWFBVFlpTVdGeXZydHVmTk5zdzhUMXBmVmR2QTBCeHVLbkpOVGI3elFrZVdKcUJ0d1NzSw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0lId3JKWktrempJN1RJV0lFUVBSV1QySVE1SHRIZUpjdWd1eWU3QndqSXJnUnhKcGZtb0I5QlB1YkZTRjMzc3hOOVdzdUt6NEtkTjBCOUJybzJSS1ZsbVpiWDdZZVFRUENiVFZoZjNkUWFBVFlpTVdGeXZydHVmTk5zdzhUMXBmVmR2QTBCeHVLbkpOVGI3elFrZVdKcUJ0d1NzSw?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "8cb234673f6e6e28ff87743f5e8a7572a1e9cfbb",
+      "titulo": "FGTS Digital amplia controle sobre recolhimentos e obrigações das empresas",
+      "resumo": "FGTS Digital amplia controle sobre recolhimentos e obrigações das empresas Seu Crédito Digital",
+      "fonte": "Seu Crédito Digital",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T15:20:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wYlVReUlXRXZfZ0dNTHVKaGdnVGdZM3lCTkxnRzN4ZXNtRkk0MkNtUWI3T0FDMTN4WjVFaWZzUUsyYnFadU42dFlQaEhYR21iejZHMk5PZl9ZVENkXzlEWFNIMF9fLVpiUlBKTlJRTmhIZFBBbkE?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wYlVReUlXRXZfZ0dNTHVKaGdnVGdZM3lCTkxnRzN4ZXNtRkk0MkNtUWI3T0FDMTN4WjVFaWZzUUsyYnFadU42dFlQaEhYR21iejZHMk5PZl9ZVENkXzlEWFNIMF9fLVpiUlBKTlJRTmhIZFBBbkE?oc=5",
+      "query": "eSocial trabalhista"
+    },
+    {
+      "id": "8ab0e3efeab2b07c729ff4c2e26319cb7956d3bc",
+      "titulo": "Qual o valor da Lei 14.133/2021 para o TCU?",
+      "resumo": "Corte de Contas resiste à ausência de limites percentuais para alterações consensuais dos contratos",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T15:15:46.000Z",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/controle-publico/qual-o-valor-da-lei-14-133-2021-para-o-tcu",
+      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/controle-publico/qual-o-valor-da-lei-14-133-2021-para-o-tcu",
+      "query": null
+    },
+    {
+      "id": "456fefb6fbdfb7444ed6fc6594bd17a99d0b69e4",
+      "titulo": "Contee debate direitos e desafios do movimento sindical brasileiro em diálogo com trabalhadores argentinos",
+      "resumo": "Contee debate direitos e desafios do movimento sindical brasileiro em diálogo com trabalhadores argentinos CONTEE",
+      "fonte": "CONTEE",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T15:02:49.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDhFOUpZaENVYkFmWFIyT1dieGRyMGNURE5faVVfVEo3d1E0aHVxTlNzZHI0dFN1RjNuOUZRYUM3clZ5UDIycUdod3hOMFRhM1Z1SjRPNmsxc2tDVktCQXBNVDZGeWl0N0tkTWZ1VmtqaVJxeXRPV0p4SUlDMU1LV1ZRVUFfTUFfSWRVTkUtOVdRTXFYQzIwMVV3UkpaQkc4VHVkMkFOdzdRNlp0NWFyamFwVldyYlYySmh3VC0wS0NSSXNCNW9aYg?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMDhFOUpZaENVYkFmWFIyT1dieGRyMGNURE5faVVfVEo3d1E0aHVxTlNzZHI0dFN1RjNuOUZRYUM3clZ5UDIycUdod3hOMFRhM1Z1SjRPNmsxc2tDVktCQXBNVDZGeWl0N0tkTWZ1VmtqaVJxeXRPV0p4SUlDMU1LV1ZRVUFfTUFfSWRVTkUtOVdRTXFYQzIwMVV3UkpaQkc4VHVkMkFOdzdRNlp0NWFyamFwVldyYlYySmh3VC0wS0NSSXNCNW9aYg?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "e93f48a1a3c6210dbc40df62f39f429020da31f4",
+      "titulo": "Governo Lula tem 43% de avaliação negativa, contra 35% positiva",
+      "resumo": "Rejeição é mais alta entre homens, eleitores de Bolsonaro e moradores do Sul; Nordeste é única região com saldo positivo",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T14:58:51.000Z",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/governo-lula-tem-43-de-avaliacao-negativa-contra-35-positiva",
+      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/governo-lula-tem-43-de-avaliacao-negativa-contra-35-positiva",
+      "query": null
+    },
+    {
+      "id": "a10e92f4242638de589b5f982614b5fc61cbef78",
+      "titulo": "Uberização: STF retoma nesta quinta (27) julgamento que vai afetar o futuro dos trabalhadores brasileiros",
+      "resumo": "Uberização: STF retoma nesta quinta (27) julgamento que vai afetar o futuro dos trabalhadores brasileiros CSP-Conlutas",
+      "fonte": "CSP-Conlutas",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T14:41:58.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzFhSUtWSVR4VkNRaHgteGJySGlUY1RVMmdSWTJhRHd6dDctVE1EUGdPeDEzZnpHc0FKY3NWdXNvSFNEY1BrbVl6dDJDb0pDM0xGdXBvM2t4anhMV1QzV0F1aUhqUFZQeXNCLVo2TEZWOHJvdGR4MHZaa09vbkFJU3pFclluV3hQMUFyNmlTZzRPa3V4N0FwZ0hPUTE4a0RuZUNxVmxmR3NTRkl5NXhwT3F4ZHFxRllzV3lLM19SMFYxNlZVcWtQbGZaMWV6LUMtV3dNeHNMV0tpVXdQM0tz?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZzFhSUtWSVR4VkNRaHgteGJySGlUY1RVMmdSWTJhRHd6dDctVE1EUGdPeDEzZnpHc0FKY3NWdXNvSFNEY1BrbVl6dDJDb0pDM0xGdXBvM2t4anhMV1QzV0F1aUhqUFZQeXNCLVo2TEZWOHJvdGR4MHZaa09vbkFJU3pFclluV3hQMUFyNmlTZzRPa3V4N0FwZ0hPUTE4a0RuZUNxVmxmR3NTRkl5NXhwT3F4ZHFxRllzV3lLM19SMFYxNlZVcWtQbGZaMWV6LUMtV3dNeHNMV0tpVXdQM0tz?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "c5e7b9312d11adcf6dce0c2e097c7c7eb7b29868",
+      "titulo": "Teletrabalho não afasta direito a intervalo para amamentação, decide Justiça",
+      "resumo": "Teletrabalho não afasta direito a intervalo para amamentação, decide Justiça CSB Central dos Sindicatos Brasileiros",
+      "fonte": "CSB Central dos Sindicatos Brasileiros",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T14:31:06.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHBTVTZxMVRIaXRvZlNFVmNXeWJJWWRQWXRDbVV6alcxSG11UzBhSVdBN0tYWUpvM3lLLTdabXVBc2pWYndkM0FmQV9Rbk5WQVV0dURJYndxLUw4RlU2SnZTSmJzOThab1BRVks5SzdaQ2pDNWpKRXNSQzNrSlY4TnVnQVhEZkIt?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHBTVTZxMVRIaXRvZlNFVmNXeWJJWWRQWXRDbVV6alcxSG11UzBhSVdBN0tYWUpvM3lLLTdabXVBc2pWYndkM0FmQV9Rbk5WQVV0dURJYndxLUw4RlU2SnZTSmJzOThab1BRVks5SzdaQ2pDNWpKRXNSQzNrSlY4TnVnQVhEZkIt?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "f064212ff81487f67b6bca073f30356268a5fc2d",
+      "titulo": "Durigan defende controle da \"pejotização\" e revisão de tributos de empresas em novo mandato de Lula",
+      "resumo": "Durigan defende controle da \"pejotização\" e revisão de tributos de empresas em novo mandato de Lula Fenafisco",
+      "fonte": "Fenafisco",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T14:14:22.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUlNYbmlha3FiTnVaeENHSWVTVV8tUUlxT2FEdmhoMUtRaFlUZ2w0M1NMM1NCVXdtWkZiMkh3TGlVNXA3R1gtbWZVUE5KdVJhUnFMQkRuaDF4TnZDYTB1NWNILXJ4blVUcnVYcHA0Y1RHVkt0cUM3UWpSY05RT3BKeFFnbEpQNHBtSXkycXBiM1lmSmtsamJEQmR1TzNPNVc4ejVpeVZ2T2owR2dNeFJvQl80TnphdHFvZ2drd2d4OXA5cUgxM0VJT0ZmdW1xU1HSAdQBQVVfeXFMUDNoU3NyN3FDalFlb3IydlpHUi1JUjNDb2tjbVdEbDZxcVhXanJmXzFWWTNBbk8wNl9kandaWm8tMGRRM2Qya3o0RnBVcUF2aENlb3kxbzlCcXcxa21qMkZvMGp1eWNOUDN4UHlLbEJyTVBUUDFhbWhOQjlQa0VvcTVGTzB6MGJEQ0JVS1ZiS1Q5Y1dlb1p4cDlBVVlDa2pkLVR5Y3NUaVZUWjYzSDRvYlpnZU02OW1iQi1rRjFFLVNEMmRSQzdqb21FanVOVTFEVFEybGk?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUlNYbmlha3FiTnVaeENHSWVTVV8tUUlxT2FEdmhoMUtRaFlUZ2w0M1NMM1NCVXdtWkZiMkh3TGlVNXA3R1gtbWZVUE5KdVJhUnFMQkRuaDF4TnZDYTB1NWNILXJ4blVUcnVYcHA0Y1RHVkt0cUM3UWpSY05RT3BKeFFnbEpQNHBtSXkycXBiM1lmSmtsamJEQmR1TzNPNVc4ejVpeVZ2T2owR2dNeFJvQl80TnphdHFvZ2drd2d4OXA5cUgxM0VJT0ZmdW1xU1HSAdQBQVVfeXFMUDNoU3NyN3FDalFlb3IydlpHUi1JUjNDb2tjbVdEbDZxcVhXanJmXzFWWTNBbk8wNl9kandaWm8tMGRRM2Qya3o0RnBVcUF2aENlb3kxbzlCcXcxa21qMkZvMGp1eWNOUDN4UHlLbEJyTVBUUDFhbWhOQjlQa0VvcTVGTzB6MGJEQ0JVS1ZiS1Q5Y1dlb1p4cDlBVVlDa2pkLVR5Y3NUaVZUWjYzSDRvYlpnZU02OW1iQi1rRjFFLVNEMmRSQzdqb21FanVOVTFEVFEybGk?oc=5",
+      "query": "pejotização"
+    },
+    {
+      "id": "8e71c78af48eb6261f9204a539fbc1f01025f712",
+      "titulo": "Governo prorroga subvenção para gasolina com base em MP",
+      "resumo": "Iniciativa foi publicada no DOU desta quarta, conforme antecipou o JOTA, até 9 de setembro",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T14:12:36.000Z",
+      "url": "https://www.jota.info/executivo/governo-prorroga-subvencao-para-gasolina-com-base-em-mp",
+      "url_canonica": "https://www.jota.info/executivo/governo-prorroga-subvencao-para-gasolina-com-base-em-mp",
+      "query": null
+    },
+    {
+      "id": "39915ac24e8c0bed291b94023bab1652c6b8eec1",
+      "titulo": "Quando a precarização é vendida como liberdade",
+      "resumo": "Quando a precarização é vendida como liberdade vermelho.org.br",
+      "fonte": "vermelho.org.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T14:05:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NuZnd6TXpFdmkyaHpndEk0SVgzMFVURTc5NXQwV2N5dzhFRkktNDRKWG1JdENOVC1hdU5OQlpna1NqdVhRTDNidWg5RjJxT3QtbUFKODJfanRhN1ZRc1k5dl90clZkWE9udmVhM3BOMXN6cm45WVYwc25KSHdUUlZvSlc?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1NuZnd6TXpFdmkyaHpndEk0SVgzMFVURTc5NXQwV2N5dzhFRkktNDRKWG1JdENOVC1hdU5OQlpna1NqdVhRTDNidWg5RjJxT3QtbUFKODJfanRhN1ZRc1k5dl90clZkWE9udmVhM3BOMXN6cm45WVYwc25KSHdUUlZvSlc?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "4f3668cc567723cba3105a85852bf8eba116e386",
+      "titulo": "Indexa/Broadcast: Lula marca 46% contra 41% de Flávio Bolsonaro no 2º turno",
+      "resumo": "No 1º turno, Lula registra 39% das intenções de voto, contra 34% de Flávio Bolsonaro",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T14:04:22.000Z",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/indexa-broadcast-lula-marca-46-contra-41-de-flavio-bolsonaro-no-2o-turno",
+      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/indexa-broadcast-lula-marca-46-contra-41-de-flavio-bolsonaro-no-2o-turno",
+      "query": null
+    },
+    {
+      "id": "a9fd6202007aaf84c8da239ddd1d22e7304338b5",
+      "titulo": "Justiça mantém suspensas 1,9 mil demissões da Casas Bahia",
+      "resumo": "Justiça mantém suspensas 1,9 mil demissões da Casas Bahia Folha de Alphaville",
+      "fonte": "Folha de Alphaville",
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
+      "data": "2026-08-26T14:04:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHJINWY3RWY5YWF3Qkd5YmwtaGZBWHBqbWN2SVIxd2NScVFnVDg0QmVsSG9RdS1wY094aG5nemNWTm04NFl0Xzg2SHlSUmwyV1NkZUctYWJUMGxhc1hXTXV0T2w2ckFsUGUyb2ZJbmRBUG10ZzVTcWlBVVd2eXo1T3VWS2tvNkpLSUxYT3M5SXU4MUJXd3lhcWR2Y1FzS3VKdktwQ1oxbDg3R3V0VXZmUHlsMTM?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHJINWY3RWY5YWF3Qkd5YmwtaGZBWHBqbWN2SVIxd2NScVFnVDg0QmVsSG9RdS1wY094aG5nemNWTm04NFl0Xzg2SHlSUmwyV1NkZUctYWJUMGxhc1hXTXV0T2w2ckFsUGUyb2ZJbmRBUG10ZzVTcWlBVVd2eXo1T3VWS2tvNkpLSUxYT3M5SXU4MUJXd3lhcWR2Y1FzS3VKdktwQ1oxbDg3R3V0VXZmUHlsMTM?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "e08f5380fab08f118e0754ccf34cac5b68a49d0e",
+      "titulo": "Sociedade em conta de participação e \"pejotização\": O Carf reafirma os limites societários e os riscos tributários",
+      "resumo": "Sociedade em conta de participação e \"pejotização\": O Carf reafirma os limites societários e os riscos tributários Olhar Direto",
+      "fonte": "Olhar Direto",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T13:51:44.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMmFSLU5iMTZUUklxWHd1S3RySXlOYXlXWHJNQmRFODBXeWVla3lob2F6U2NkQnRleU5PU3BlMUM1RGh5d1hkUU9Ic01tWUNhZkRfdS1KV0gwWXZia0dyQnFTN29yYVlIT19sR3pmOXFjd1NNeTJFcmxhQlJyTndrNkJOcmVYS09lMDlCcE1yNldTa29DN1g2T0I4RWJibUh4TVdiNG9zWm5HM0h5TnNubVJENnQxejVmWDdzQ3RBWWMyMTVUb3c1UmVZeGdVRldmM1B2aEJIR1IyNGpKTENtem00UE8?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMmFSLU5iMTZUUklxWHd1S3RySXlOYXlXWHJNQmRFODBXeWVla3lob2F6U2NkQnRleU5PU3BlMUM1RGh5d1hkUU9Ic01tWUNhZkRfdS1KV0gwWXZia0dyQnFTN29yYVlIT19sR3pmOXFjd1NNeTJFcmxhQlJyTndrNkJOcmVYS09lMDlCcE1yNldTa29DN1g2T0I4RWJibUh4TVdiNG9zWm5HM0h5TnNubVJENnQxejVmWDdzQ3RBWWMyMTVUb3c1UmVZeGdVRldmM1B2aEJIR1IyNGpKTENtem00UE8?oc=5",
+      "query": "pejotização"
+    },
+    {
+      "id": "c60d13fe888f7a01e07aeff76444338977cf6d06",
+      "titulo": "Flávio Bolsonaro recicla Temer e aprofunda precarização do trabalho",
+      "resumo": "Flávio Bolsonaro recicla Temer e aprofunda precarização do trabalho vermelho.org.br",
+      "fonte": "vermelho.org.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T13:49:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjZHeGt6VU5QU0RlaXJCbE9RZmdnb3dXOWotRjFDMEhfQ3Z6d1FneENwY1hYbFAtYWR6akN1d0NlQWhZMzdrT0x3a0FMbnRrY3dmcHZFMHlGdHlrUzFJQlptTjZ1NG80YkNFTzE3STJwOUdTazBXcnpBdmtReE1HeW56U1JMVFhvRVlhSGhQMGttNWVmaE9xeQ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjZHeGt6VU5QU0RlaXJCbE9RZmdnb3dXOWotRjFDMEhfQ3Z6d1FneENwY1hYbFAtYWR6akN1d0NlQWhZMzdrT0x3a0FMbnRrY3dmcHZFMHlGdHlrUzFJQlptTjZ1NG80YkNFTzE3STJwOUdTazBXcnpBdmtReE1HeW56U1JMVFhvRVlhSGhQMGttNWVmaE9xeQ?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "5e1368c6d5248fe02fe789402fefc55e27cd6c92",
+      "titulo": "Hytalo Santos é condenado por assédio contra ex-seguranças",
+      "resumo": "Hytalo Santos é condenado por assédio contra ex-seguranças Terra",
+      "fonte": "Terra",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T13:37:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMGY3WVhkaVl4ZE5lTW5Zb0JqTGp3RmJsNl9mcE43TXlZbkkwRDlVNEVmZnYwT0R4akxRTEllVUxfQmMtZlpZWDJ1TE1LeWpScmZERHQyTWYydDhvbnBEckhhTzdUMHUzR2lDcGdpOHJrSGVqZ2FhWkFwbG54UFFLQWtQaDFzQUtCbElhVV9nV055SERTSm50TUFXRFZ1NVJxY2xFTDRlSDZwR0hZak93RFVBbGdwclljbkxhc0x6YmZUZ01LNG5BblFTVTMzNHE2R0VMZjZ2WTAxeVNs?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMGY3WVhkaVl4ZE5lTW5Zb0JqTGp3RmJsNl9mcE43TXlZbkkwRDlVNEVmZnYwT0R4akxRTEllVUxfQmMtZlpZWDJ1TE1LeWpScmZERHQyTWYydDhvbnBEckhhTzdUMHUzR2lDcGdpOHJrSGVqZ2FhWkFwbG54UFFLQWtQaDFzQUtCbElhVV9nV055SERTSm50TUFXRFZ1NVJxY2xFTDRlSDZwR0hZak93RFVBbGdwclljbkxhc0x6YmZUZ01LNG5BblFTVTMzNHE2R0VMZjZ2WTAxeVNs?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "413dddf8f36dc90b5ca734cf698df9f4c7a4986a",
+      "titulo": "Quem são os candidatos a senador pelo Rio de Janeiro (RJ) nas eleições 2026",
+      "resumo": "Quinze políticos disputam as duas vagas no Senado pelo estado fluminense",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T13:36:28.000Z",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-senador-pelo-rio-de-janeiro-rj-nas-eleicoes-2026-26-agosto",
+      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-senador-pelo-rio-de-janeiro-rj-nas-eleicoes-2026-26-agosto",
+      "query": null
+    },
+    {
+      "id": "93c8e9b901502662cb26939f34db73e3c9cd226a",
+      "titulo": "IA nas eleições: Mendonça propõe tese que diferencia deepfake por grau de realismo",
+      "resumo": "Para o ministro, caricaturas, memes, sátiras visuais e animações irreais ficam no regime de rotulagem de IA, sem configurar deepfakes",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T13:36:18.000Z",
+      "url": "https://www.jota.info/eleicoes/eleicoes-2026/ia-nas-eleicoes-mendonca-propoe-tese-que-diferencia-deepfake-por-grau-de-realismo",
+      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/ia-nas-eleicoes-mendonca-propoe-tese-que-diferencia-deepfake-por-grau-de-realismo",
+      "query": null
+    },
+    {
+      "id": "91f9814686f17e23e8803d18ab7bb70394c5f77f",
+      "titulo": "Casas Bahia terá de continuar pagando salários a funcionários demitidos após decisão da Justiça em meio à crise",
+      "resumo": "Casas Bahia terá de continuar pagando salários a funcionários demitidos após decisão da Justiça em meio à crise Portal Tri Notícias",
+      "fonte": "Portal Tri Notícias",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T13:33:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWUM3aC1CTlpVaDZJUWhIQ2hwcjNHMDl0T2ZuR01zOGstTlBjeUhuX0pyZEljRkdTejZUS2VBcHFTY1pIVHBjLXRNNWh1cE9fb1pPSUY0YmtFR3JHSkZORmp4emQ2aUdDZDdGcGZZMXcwRlpsOTRmS3FNR3ZKZzVLMmxTQWtrTWJuWjdyek9HYTlkMGF5VmR1eEsxVlAtc1MxU3RIdUNoUGwwbkNoaE1hb0hlbXVRSndkUGdmX3dDQklFd0twd01haXcwYVpsRVBUcmExckpWd0daR1BIS2wyYVhMcWlDUHVqZmRr?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWUM3aC1CTlpVaDZJUWhIQ2hwcjNHMDl0T2ZuR01zOGstTlBjeUhuX0pyZEljRkdTejZUS2VBcHFTY1pIVHBjLXRNNWh1cE9fb1pPSUY0YmtFR3JHSkZORmp4emQ2aUdDZDdGcGZZMXcwRlpsOTRmS3FNR3ZKZzVLMmxTQWtrTWJuWjdyek9HYTlkMGF5VmR1eEsxVlAtc1MxU3RIdUNoUGwwbkNoaE1hb0hlbXVRSndkUGdmX3dDQklFd0twd01haXcwYVpsRVBUcmExckpWd0daR1BIS2wyYVhMcWlDUHVqZmRr?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "aa8f07b2002e153678fdabda4b7731735dc7b00c",
+      "titulo": "STF retoma julgamento sobre critérios de gratuidade para Justiça do Trabalho",
+      "resumo": "STF retoma julgamento sobre critérios de gratuidade para Justiça do Trabalho Consultor Jurídico",
+      "fonte": "Consultor Jurídico",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T13:12:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaS1iYjAxaXExYllVX1l4N0FEemNGUlIwVlhyazdDb3QzMGZNRkJQaU1EYmgxcTZoNUlvLWJYU3U1Q0Q3QThnZUE3LW5QQUllVWdWeHZHVlpiTXlTUlU1VWh4UXh4X0hUYkdsQzd0V0dweV84R0xncTREZUFiMFlodWlmS280bzJSRFQzOGZpM0lXQXhrZ3FGOFFOUXpuT2JWX2VlRExvckdtVFJSZkJUMnd6SjZxNDMxMjZNZHpFaWVtUQ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaS1iYjAxaXExYllVX1l4N0FEemNGUlIwVlhyazdDb3QzMGZNRkJQaU1EYmgxcTZoNUlvLWJYU3U1Q0Q3QThnZUE3LW5QQUllVWdWeHZHVlpiTXlTUlU1VWh4UXh4X0hUYkdsQzd0V0dweV84R0xncTREZUFiMFlodWlmS280bzJSRFQzOGZpM0lXQXhrZ3FGOFFOUXpuT2JWX2VlRExvckdtVFJSZkJUMnd6SjZxNDMxMjZNZHpFaWVtUQ?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "803fe36c9a1a9885a9e2a9a4933edd44c21f8548",
+      "titulo": "Receita e CGIBS regulamentam programa de conformidade para adaptação à reforma",
+      "resumo": "Contribuintes com inconsistências poderão permanecer no programa se corrigirem os erros até o fim de 2026 e atenderem às comunicações do fisco",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T13:02:09.000Z",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/receita-e-cgibs-regulamentam-programa-de-conformidade-para-adaptacao-a-reforma",
+      "url_canonica": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/receita-e-cgibs-regulamentam-programa-de-conformidade-para-adaptacao-a-reforma",
+      "query": null
+    },
+    {
+      "id": "b9139aba45520311a9e72d5ff5b8c5c80ac406a2",
+      "titulo": "Filtro de relevância do STJ entra em vigor em setembro; veja como será o fluxo",
+      "resumo": "Novo modelo distribui funções entre Presidência, Turmas, Seções e Corte Especial conforme o potencial de formar precedente",
+      "fonte": "jota.info",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-26T13:00:23.000Z",
+      "url": "https://www.jota.info/justica/filtro-de-relevancia-do-stj-entra-em-vigor-em-setembro-veja-como-sera-o-fluxo",
+      "url_canonica": "https://www.jota.info/justica/filtro-de-relevancia-do-stj-entra-em-vigor-em-setembro-veja-como-sera-o-fluxo",
+      "query": null
+    },
+    {
+      "id": "ed160d7951e51b4fdec7671428ca8c6a4692c3f4",
+      "titulo": "Novas diretrizes sobre pejotização: especialistas disponíveis para entrevistas",
+      "resumo": "Novas diretrizes sobre pejotização: especialistas disponíveis para entrevistas bra1.com.br",
+      "fonte": "bra1.com.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T12:53:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZThybDVrV2ljV2FRM0dWMUZuOEttSFJVQTQ5QndmeThqbWhGczlWTVdxaWZfanJfeWVEdGJQdUduS1B1Nk9reDFlMnBQazNCT1U4bkVHTVpfY1FWamRJU0NKSnQydDN0ZjY0YUxzOG5zXzE3OXBUTUZKSGJLVHFVRUkxMVY0RlBwaUVnTTlOOXVGQmJOT0hsSVNVcWtCcGNBZkRWekl6ZzNVS09DQms0anVfdnlGTGNmaGc?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZThybDVrV2ljV2FRM0dWMUZuOEttSFJVQTQ5QndmeThqbWhGczlWTVdxaWZfanJfeWVEdGJQdUduS1B1Nk9reDFlMnBQazNCT1U4bkVHTVpfY1FWamRJU0NKSnQydDN0ZjY0YUxzOG5zXzE3OXBUTUZKSGJLVHFVRUkxMVY0RlBwaUVnTTlOOXVGQmJOT0hsSVNVcWtCcGNBZkRWekl6ZzNVS09DQms0anVfdnlGTGNmaGc?oc=5",
+      "query": "pejotização"
+    },
+    {
+      "id": "57faed632915d470999338578d53081148cab7c8",
+      "titulo": "STF retoma julgamento sobre vínculo de motoristas e entregadores com aplicativos nesta quinta-feira",
+      "resumo": "STF retoma julgamento sobre vínculo de motoristas e entregadores com aplicativos nesta quinta-feira Jamildo",
+      "fonte": "Jamildo",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T12:47:32.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRllWbnd3cGVla2ZrN2xCeG1iSVJwUE9VbllERUd2YWtINTdEMGM5UUdDWElZVTRWWm1jQ0UxS2tRSjJUajJZMUlycG9TODVOSGlNbzBOWklEaEllaDBUMEZVZ3NJejNuTmRtajRlT2pzaE9xcVdPcE1BYkcwMUtJazhpSUk4NGo2VlQ3MDE1d0pSNjNIVzBaTHFrZUEyQmFCUVFrVk5UYXBUODRjZlQ1elhjUVgwT3l0OUdaSi1jOUc4d3FCMlZIaVZXLUwwU3RQSEs40gHTAUFVX3lxTE9GWVZud3dwZWVrZms3bEJ4bWJJUnBQT1VuWURFR3Zha0g1N0QwYzlRR0NYSVlVNFZabWNDRTFLa1FKMlRqMlkxSXJwb1M4NU5IaU1vME5aSURoSWVoMFQwRlVnc0l6M25OZG1qNGVPanNoT3FxV09wTUFiRzAxS0lrOGlJSTg0ajZWVDcwMTV3SlI2M0hXMFpMcWtlQTJCYUJRUWtWTlRhcFQ4NGNmVDV6WGNRWDBPeXQ5R1pKLWM5Rzh3cUIyVkhpVlctTDBTdFBISzg?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRllWbnd3cGVla2ZrN2xCeG1iSVJwUE9VbllERUd2YWtINTdEMGM5UUdDWElZVTRWWm1jQ0UxS2tRSjJUajJZMUlycG9TODVOSGlNbzBOWklEaEllaDBUMEZVZ3NJejNuTmRtajRlT2pzaE9xcVdPcE1BYkcwMUtJazhpSUk4NGo2VlQ3MDE1d0pSNjNIVzBaTHFrZUEyQmFCUVFrVk5UYXBUODRjZlQ1elhjUVgwT3l0OUdaSi1jOUc4d3FCMlZIaVZXLUwwU3RQSEs40gHTAUFVX3lxTE9GWVZud3dwZWVrZms3bEJ4bWJJUnBQT1VuWURFR3Zha0g1N0QwYzlRR0NYSVlVNFZabWNDRTFLa1FKMlRqMlkxSXJwb1M4NU5IaU1vME5aSURoSWVoMFQwRlVnc0l6M25OZG1qNGVPanNoT3FxV09wTUFiRzAxS0lrOGlJSTg0ajZWVDcwMTV3SlI2M0hXMFpMcWtlQTJCYUJRUWtWTlRhcFQ4NGNmVDV6WGNRWDBPeXQ5R1pKLWM5Rzh3cUIyVkhpVlctTDBTdFBISzg?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
     {
       "id": "c0cd48777234fcd30363a3befdb05e735df164e6",
       "titulo": "JOTA Principal &#124; Investigações e ações no Supremo ganham protagonismo nas campanhas e influenciam eleitores",
@@ -82,7 +538,7 @@
       "fonte": "Medicina S/A",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-26T12:31:41.000Z",
+      "data": "2026-08-26T12:31:31.000Z",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IbTFGSDVfMmxVaV9yMHprVFZNVjhMczFJcUE1WUEwMUV5TjlnZWppR2pwUjlEdEFvSWJfZEp0NXpDVzNIeHpsUzByUGdMMWdnLU9UWnBYQXN0blB3U1E?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IbTFGSDVfMmxVaV9yMHprVFZNVjhMczFJcUE1WUEwMUV5TjlnZWppR2pwUjlEdEFvSWJfZEp0NXpDVzNIeHpsUzByUGdMMWdnLU9UWnBYQXN0blB3U1E?oc=5",
       "query": "pejotização"
@@ -100,15 +556,27 @@
       "query": "justiça do trabalho decisão"
     },
     {
-      "id": "b15965565744e5f7305ec950ebf99c13b34aad66",
+      "id": "92092b055801d1e5fe11273234a703d67652932a",
       "titulo": "Restaurante mantém grávida de risco em trabalho pesado e Justiça reconhece rescisão indireta",
       "resumo": "Restaurante mantém grávida de risco em trabalho pesado e Justiça reconhece rescisão indireta JM Online",
       "fonte": "JM Online",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-26T12:08:49.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPekJFSjZzTHF3REdJNnBFUWEyQ0V2VE1zbVFQTWxYc0RRUGgtUk1DVmg2Z1Z3T24tTEJuaU5vdmJ0RXozUmlrdnNUT3JXRTZmQzRxYnNWQXh2S2ZISUhyNUE0TGN6NFVpTDhiZ0N5OUNBMkF1ay1rNXZ3Znl6Qm45QTNza1ZhZHBUZ1lMbU5mNmhFSWRFQm93RlZjU3FKSUY4MktjU2g0ZzRZcjhLT1hzN3V5VjlEMEE0a1pUaHQ3bWpRaUNha0ktWDNDd9IB0wFBVV95cUxQUmZlczlkRDFBU01ERWtUM2RfNnAzbGhyWVBQRDBoWDB3Vnkxdi1DdGdJRmE4Wi1VQXZENEdfdktObTd4MkQweHNoSmtDMW12ZC1mZWZhdHNFbXN6YWs2UXk3cFZlSzhZb19WREl2TTI3ckJMVHFvWU01Q1o4Ulg2QXRpWlNvalpGU2E1N2JLVTYxRTVYcVRxOGxqbzlFbDZQTGNtXzgyNWpBbTk2aEJiS25BLVBOb3FxMFI1RERFbTFtclNtWHZYNHlWZHR0XzB6dGtN?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPekJFSjZzTHF3REdJNnBFUWEyQ0V2VE1zbVFQTWxYc0RRUGgtUk1DVmg2Z1Z3T24tTEJuaU5vdmJ0RXozUmlrdnNUT3JXRTZmQzRxYnNWQXh2S2ZISUhyNUE0TGN6NFVpTDhiZ0N5OUNBMkF1ay1rNXZ3Znl6Qm45QTNza1ZhZHBUZ1lMbU5mNmhFSWRFQm93RlZjU3FKSUY4MktjU2g0ZzRZcjhLT1hzN3V5VjlEMEE0a1pUaHQ3bWpRaUNha0ktWDNDd9IB0wFBVV95cUxQUmZlczlkRDFBU01ERWtUM2RfNnAzbGhyWVBQRDBoWDB3Vnkxdi1DdGdJRmE4Wi1VQXZENEdfdktObTd4MkQweHNoSmtDMW12ZC1mZWZhdHNFbXN6YWs2UXk3cFZlSzhZb19WREl2TTI3ckJMVHFvWU01Q1o4Ulg2QXRpWlNvalpGU2E1N2JLVTYxRTVYcVRxOGxqbzlFbDZQTGNtXzgyNWpBbTk2aEJiS25BLVBOb3FxMFI1RERFbTFtclNtWHZYNHlWZHR0XzB6dGtN?oc=5",
+      "data": "2026-08-26T12:09:47.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZlczlkRDFBU01ERWtUM2RfNnAzbGhyWVBQRDBoWDB3Vnkxdi1DdGdJRmE4Wi1VQXZENEdfdktObTd4MkQweHNoSmtDMW12ZC1mZWZhdHNFbXN6YWs2UXk3cFZlSzhZb19WREl2TTI3ckJMVHFvWU01Q1o4Ulg2QXRpWlNvalpGU2E1N2JLVTYxRTVYcVRxOGxqbzlFbDZQTGNtXzgyNWpBbTk2aEJiS25BLVBOb3FxMFI1RERFbTFtclNtWHZYNHlWZHR0XzB6dGtN0gHTAUFVX3lxTFBSZmVzOWREMUFTTURFa1QzZF82cDNsaHJZUFBEMGhYMHdWeTF2LUN0Z0lGYThaLVVBdkQ0R192S05tN3gyRDB4c2hKa0MxbXZkLWZlZmF0c0Vtc3phazZReTdwVmVLOFlvX1ZESXZNMjdyQkxUcW9ZTTVDWjhSWDZBdGlaU29qWkZTYTU3YktVNjFFNVhxVHE4bGpvOUVsNlBMY21fODI1akFtOTZoQmJLbkEtUE5vcXEwUjVEREVtMW1yU21Ydlg0eVZkdHRfMHp0a00?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUmZlczlkRDFBU01ERWtUM2RfNnAzbGhyWVBQRDBoWDB3Vnkxdi1DdGdJRmE4Wi1VQXZENEdfdktObTd4MkQweHNoSmtDMW12ZC1mZWZhdHNFbXN6YWs2UXk3cFZlSzhZb19WREl2TTI3ckJMVHFvWU01Q1o4Ulg2QXRpWlNvalpGU2E1N2JLVTYxRTVYcVRxOGxqbzlFbDZQTGNtXzgyNWpBbTk2aEJiS25BLVBOb3FxMFI1RERFbTFtclNtWHZYNHlWZHR0XzB6dGtN0gHTAUFVX3lxTFBSZmVzOWREMUFTTURFa1QzZF82cDNsaHJZUFBEMGhYMHdWeTF2LUN0Z0lGYThaLVVBdkQ0R192S05tN3gyRDB4c2hKa0MxbXZkLWZlZmF0c0Vtc3phazZReTdwVmVLOFlvX1ZESXZNMjdyQkxUcW9ZTTVDWjhSWDZBdGlaU29qWkZTYTU3YktVNjFFNVhxVHE4bGpvOUVsNlBMY21fODI1akFtOTZoQmJLbkEtUE5vcXEwUjVEREVtMW1yU21Ydlg0eVZkdHRfMHp0a00?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "b01512a7e6bd7c5888bcfe71afd6d32337554bbb",
+      "titulo": "Justiça mantém suspensão de demissões coletivas das Casas Bahia",
+      "resumo": "Justiça mantém suspensão de demissões coletivas das Casas Bahia Diário de São Paulo",
+      "fonte": "Diário de São Paulo",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T12:06:09.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmxabjBteFhYRWtUZGR6ODZubGQ2dGFYTlFPRDR4ME1UTlAtOXNBdEs2SDJudFItanQtdlhYc25MekZWTWtWMFpndTNfUDNZX3hCZEl4bVA0cVNyYXRwRDZENGlwTDZDQTZ0X0Ytb0FuRkNQRnc3QWc5ZlUxU1JLeDdrMzZYX2VEcF9IY2IxTW9YZnRuaF8yWUNoSXFQVGRDX3NuUEhkRklJNkhXTnQ4a3ljRXnSAbQBQVVfeXFMTVZsWm4wbXhYWEVrVGRkejg2bmxkNnRhWE5RT0Q0eDBNVE5QLTlzQXRLNkgybnRSLWp0LXZYWHNuTHpGVk1rVjBaZ3UzX1AzWV94QmRJeG1QNHFTcmF0cEQ2RDRpcEw2Q0E2dF9GLW9BbkZDUEZ3N0FnOWZVMVNSS3g3azM2WF9lRHBfSGNiMU1vWGZ0bmhfMllDaElxUFRkQ19zblBIZEZJSTZIV050OGt5Y0V5?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmxabjBteFhYRWtUZGR6ODZubGQ2dGFYTlFPRDR4ME1UTlAtOXNBdEs2SDJudFItanQtdlhYc25MekZWTWtWMFpndTNfUDNZX3hCZEl4bVA0cVNyYXRwRDZENGlwTDZDQTZ0X0Ytb0FuRkNQRnc3QWc5ZlUxU1JLeDdrMzZYX2VEcF9IY2IxTW9YZnRuaF8yWUNoSXFQVGRDX3NuUEhkRklJNkhXTnQ4a3ljRXnSAbQBQVVfeXFMTVZsWm4wbXhYWEVrVGRkejg2bmxkNnRhWE5RT0Q0eDBNVE5QLTlzQXRLNkgybnRSLWp0LXZYWHNuTHpGVk1rVjBaZ3UzX1AzWV94QmRJeG1QNHFTcmF0cEQ2RDRpcEw2Q0E2dF9GLW9BbkZDUEZ3N0FnOWZVMVNSS3g3azM2WF9lRHBfSGNiMU1vWGZ0bmhfMllDaElxUFRkQ19zblBIZEZJSTZIV050OGt5Y0V5?oc=5",
       "query": "justiça do trabalho decisão"
     },
     {
@@ -121,18 +589,6 @@
       "data": "2026-08-26T12:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2tOaEpzZGl1Z1oxWHd0cHpmeVNzSTY1aWZlX3lJM2t6azdpQVRWTXh1clc5UGhYTURRV3d2QktSSkdtQmVYckxWbG42X0tVbHRzUjJ1VmlJemlxcDFRNlVBc19sY2VlWVNkQU9xRFo2Y2E0MndPSkVXQ3VzRUpSOVNaVk56XzZ5TWFPcXVyeU01UVU?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOR2tOaEpzZGl1Z1oxWHd0cHpmeVNzSTY1aWZlX3lJM2t6azdpQVRWTXh1clc5UGhYTURRV3d2QktSSkdtQmVYckxWbG42X0tVbHRzUjJ1VmlJemlxcDFRNlVBc19sY2VlWVNkQU9xRFo2Y2E0MndPSkVXQ3VzRUpSOVNaVk56XzZ5TWFPcXVyeU01UVU?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
-      "id": "6b5fe68fe75483ccfa5b4e6785a2f1c4e7ddd06e",
-      "titulo": "STF julga nesta quarta-feira regras para gratuidade de justiça em ações trabalhistas",
-      "resumo": "STF julga nesta quarta-feira regras para gratuidade de justiça em ações trabalhistas Rádio Guaíba",
-      "fonte": "Rádio Guaíba",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-26T11:23:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUNJZW9sRGVCM3JaVUwyYWdRZDBpTDZSdFhlcTZ6RWJTeE41VWlOeXVRQVlfeVBFakx2YTBWa1JvaGtDNGN3eW00MmJtUHlxS1dzQWVHWnJ2aldYNVJkcUdGWTFiSXJYalpuQnYtM1JNcWladmVJRldhX2NzSlJrclZDU0QybVVpU0hjdXhqZHgwRnBDZnVKNjhQcWVlSVhvNzZYQkY3U0Ewcnc?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUNJZW9sRGVCM3JaVUwyYWdRZDBpTDZSdFhlcTZ6RWJTeE41VWlOeXVRQVlfeVBFakx2YTBWa1JvaGtDNGN3eW00MmJtUHlxS1dzQWVHWnJ2aldYNVJkcUdGWTFiSXJYalpuQnYtM1JNcWladmVJRldhX2NzSlJrclZDU0QybVVpU0hjdXhqZHgwRnBDZnVKNjhQcWVlSVhvNzZYQkY3U0Ewcnc?oc=5",
       "query": "reforma trabalhista"
     },
     {
@@ -158,6 +614,18 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjBteHRTN01qY2g0cHUyalUtLVg1NzhVMDZkVXV3YzBvQ2t4VnBEM2MzSnZneEw1YU1TNG91TmwtOWt2OWdYSjF2SExvcnN3T2VsR21yMkxuOFpYN25Rb1FSOHJFZURBcWNtVmNuaTZBWXVKUG5PMWxmcnJFVzlpN2ZHNG5iZHpKUDlkY3d4MHhVV0YxM0QyMzV5TUhETTNXZUg1WTFYbU9QY2F3MWUwLXdfcDFhelJGanE1b19zUk1CSHhoQTdfSlVoazlHMVE?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUjBteHRTN01qY2g0cHUyalUtLVg1NzhVMDZkVXV3YzBvQ2t4VnBEM2MzSnZneEw1YU1TNG91TmwtOWt2OWdYSjF2SExvcnN3T2VsR21yMkxuOFpYN25Rb1FSOHJFZURBcWNtVmNuaTZBWXVKUG5PMWxmcnJFVzlpN2ZHNG5iZHpKUDlkY3d4MHhVV0YxM0QyMzV5TUhETTNXZUg1WTFYbU9QY2F3MWUwLXdfcDFhelJGanE1b19zUk1CSHhoQTdfSlVoazlHMVE?oc=5",
       "query": "reforma trabalhista"
+    },
+    {
+      "id": "8d4cbf41d25a9942af986bb85b9090e1ebdfdab8",
+      "titulo": "Pejotização no Brasil é tema de palestra on-line e e-book",
+      "resumo": "Pejotização no Brasil é tema de palestra on-line e e-book Revista Proteção",
+      "fonte": "Revista Proteção",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-26T10:38:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVNrd2RCSjdaOU1Da1MyZDZSLWVKU0t5RG1XSmdKX3dlMDE0dnBLdERwS1MxalpSc3U2VTl4d01DOGpXbjJibjUzT2Z1RVNjYmh5bGVZRFRQcHdNcEVlV280ZVNYZmRtTnEweXRwanF4MV9TLUNnTEJZdW5iVkRUR0xfZ3NZU0R5SW5lSUR2M2puOHh1WWRjd0Z2QVVxUQ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVNrd2RCSjdaOU1Da1MyZDZSLWVKU0t5RG1XSmdKX3dlMDE0dnBLdERwS1MxalpSc3U2VTl4d01DOGpXbjJibjUzT2Z1RVNjYmh5bGVZRFRQcHdNcEVlV280ZVNYZmRtTnEweXRwanF4MV9TLUNnTEJZdW5iVkRUR0xfZ3NZU0R5SW5lSUR2M2puOHh1WWRjd0Z2QVVxUQ?oc=5",
+      "query": "pejotização"
     },
     {
       "id": "147f66a2835f9f7e5f8455c42a6fc577a4838c6f",
@@ -280,16 +748,16 @@
       "query": "justiça do trabalho decisão"
     },
     {
-      "id": "a3444b281dd19af28e7ab12c895f12633d2cdb4c",
-      "titulo": "Lula 4 pretende diminuir privilégios na Previdência e atacar ‘pejotização abusiva’, diz Durigan. Porta-voz de economia da campanha petista cita como exemplo empresa que tem 80% da força de trabalho pejotizada e poderia ser obrigada a fazer contribuição",
-      "resumo": "Lula 4 pretende diminuir privilégios na Previdência e atacar ‘pejotização abusiva’, diz Durigan. Porta-voz de economia da campanha petista cita como exemplo empresa que tem 80% da força de trabalho pejotizada e poderia ser obrigada a fazer contribuição instagram.com",
-      "fonte": "instagram.com",
+      "id": "0d27331547fd9808287740bb18a1d79ba603a0b9",
+      "titulo": "Candidato do UP defende concursos públicos",
+      "resumo": "Candidato do UP defende concursos públicos Tribuna da Bahia",
+      "fonte": "Tribuna da Bahia",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-26T05:41:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjY0xQMXhNRERBYnZSWVIxYmQxQ19TOXUwLWxfUUVCNnpaSkZ3ZEZVSDdNaFIzZmRkaS0xZnBya0J5ZEZ6RGc0cVpKcXVISXdVMTEwZ1pB?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjY0xQMXhNRERBYnZSWVIxYmQxQ19TOXUwLWxfUUVCNnpaSkZ3ZEZVSDdNaFIzZmRkaS0xZnBya0J5ZEZ6RGc0cVpKcXVISXdVMTEwZ1pB?oc=5",
-      "query": "pejotização"
+      "data": "2026-08-26T05:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVJjSF9uY1E5UWxMQ2kwZy12VHVWSy1hVUNjRVRRWDRfMF93WldRSTZSeGl6VFMwbFMzUmI4SVNfSUlfRmp1NkwwbzYzcGExenVjVlloSk5XXzA3UXBITHB6cHVOWVBFVE4yWVlPaDc3TzRTenptTThCd1g2bFBtcFozRkl1TFowMlE?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVJjSF9uY1E5UWxMQ2kwZy12VHVWSy1hVUNjRVRRWDRfMF93WldRSTZSeGl6VFMwbFMzUmI4SVNfSUlfRmp1NkwwbzYzcGExenVjVlloSk5XXzA3UXBITHB6cHVOWVBFVE4yWVlPaDc3TzRTenptTThCd1g2bFBtcFozRkl1TFowMlE?oc=5",
+      "query": "terceirização julgamento"
     },
     {
       "id": "1d92d2e7fcf44833b5ce02ec8d5b6f60998d8740",
@@ -314,6 +782,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUjAyVjVfaGNpS2lUU2FVNjVjMl9NemFseXVaSlAtMno5elV1d0RnRXZOcG5QMmNUUVFjaUpyVFByOFlQWVVKeThtMkhyUnJydTVNaFRJMjgwRkVrczBSMGtuSFBnLXJmR0dBWVNacG9hWlF5TGpDdjBvMDE3NnNLLVNJU1Vka1VJZFU3N0NtSzR5T3FBX042VHpyY3dJaGtOMEFYZjIxcG4yTlBlckpybTRPRXlncGtYcFM1c3gza1dhRjJ6OG43bEp1UnZHRWFTMEEyMw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUjAyVjVfaGNpS2lUU2FVNjVjMl9NemFseXVaSlAtMno5elV1d0RnRXZOcG5QMmNUUVFjaUpyVFByOFlQWVVKeThtMkhyUnJydTVNaFRJMjgwRkVrczBSMGtuSFBnLXJmR0dBWVNacG9hWlF5TGpDdjBvMDE3NnNLLVNJU1Vka1VJZFU3N0NtSzR5T3FBX042VHpyY3dJaGtOMEFYZjIxcG4yTlBlckpybTRPRXlncGtYcFM1c3gza1dhRjJ6OG43bEp1UnZHRWFTMEEyMw?oc=5",
       "query": "terceirização julgamento"
+    },
+    {
+      "id": "8a4809bffab2ff271523950b4f42853505ebb472",
+      "titulo": "Justiça mantém reintegração de 1.900 demitidos da Casas Bahia; veja o que acontece agora",
+      "resumo": "Justiça mantém reintegração de 1.900 demitidos da Casas Bahia; veja o que acontece agora G1",
+      "fonte": "G1",
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
+      "data": "2026-08-26T03:00:55.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWwxaUhMQWwtMldhai1UTnMyTWxOdVM0VGJlOWVrNGxhYWpQM25rM0hlQmxBczY1QzcxZHpuLWdJbU1xajA3T0dsQV9mVjRHazRpX0pnanFsWHhiMzlDUFBFb3BlTWVfNHFPZ0xOSkxiVkk5WnVjWVpJdUZaT3hKQ1pkT1hqVlFSMGp4ejJuY3pyeUpJZHBpNWN5VlVVTy1zSlFQM0pMZDZxNTR1aXY4RjNLa1pySklNMGhXTV90czR3eDlIX2xVOWRSd2QzV1YwVDNhR09IZ1LSAecBQVVfeXFMT0FDSTQydDdydkJDTXVuWU01UXY5QW1kbHpMakhMdEY3NXc3VVFWcDBBZEl3aGhNSWo0eV9OSHJndHBtUUJrNnJEX2pXcFlqWXhFbTg0V0pfOXNuVm92NWhQeTZFbUpHajNudVZjbkt1b2I2bXg4eWJOTWpZeldOZkQ1MHA4UFo0TEJXaEp0NHlvUFJKNWh4dmRHY25TMnBMWFpSSVhTWG8wOVlrbUdFaGR6dFZOaFdnTGpfam1QVl9rcmJUUEY3bVhYdEd0VXpBZzRseTBWd1JzUDNOemRyTklqWk9ROWVB?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWwxaUhMQWwtMldhai1UTnMyTWxOdVM0VGJlOWVrNGxhYWpQM25rM0hlQmxBczY1QzcxZHpuLWdJbU1xajA3T0dsQV9mVjRHazRpX0pnanFsWHhiMzlDUFBFb3BlTWVfNHFPZ0xOSkxiVkk5WnVjWVpJdUZaT3hKQ1pkT1hqVlFSMGp4ejJuY3pyeUpJZHBpNWN5VlVVTy1zSlFQM0pMZDZxNTR1aXY4RjNLa1pySklNMGhXTV90czR3eDlIX2xVOWRSd2QzV1YwVDNhR09IZ1LSAecBQVVfeXFMT0FDSTQydDdydkJDTXVuWU01UXY5QW1kbHpMakhMdEY3NXc3VVFWcDBBZEl3aGhNSWo0eV9OSHJndHBtUUJrNnJEX2pXcFlqWXhFbTg0V0pfOXNuVm92NWhQeTZFbUpHajNudVZjbkt1b2I2bXg4eWJOTWpZeldOZkQ1MHA4UFo0TEJXaEp0NHlvUFJKNWh4dmRHY25TMnBMWFpSSVhTWG8wOVlrbUdFaGR6dFZOaFdnTGpfam1QVl9rcmJUUEY3bVhYdEd0VXpBZzRseTBWd1JzUDNOemRyTklqWk9ROWVB?oc=5",
+      "query": "justiça do trabalho decisão"
     },
     {
       "id": "397f24722eded7808e120d7de6044e3593b496f3",
@@ -364,16 +844,28 @@
       "query": "pejotização"
     },
     {
-      "id": "86314aea5e177e8b970e8eab469680e1af1bdceb",
-      "titulo": "Justiça do Trabalho mantém suspensão das demissões nas Casas Bahia",
-      "resumo": "Justiça do Trabalho mantém suspensão das demissões nas Casas Bahia soubrasilia.com",
-      "fonte": "soubrasilia.com",
+      "id": "24de891ca792fffbcd74748e3b217251e4ad49eb",
+      "titulo": "TJ-SP vota retorno de Guilherme Gonçalves à Prefeitura de Ourinhos a partir do dia 31",
+      "resumo": "TJ-SP vota retorno de Guilherme Gonçalves à Prefeitura de Ourinhos a partir do dia 31 Marília Notícia",
+      "fonte": "Marília Notícia",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-25T23:26:14.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWZFSGx5VzJOU1JkOThxeHFra0piLWpLdm1YRUVWNjc3S2w0bHNhaU90a3YtQUNMdUZyaG9sZ3Riei16WUFOdzNtazRjU0RjU2prNTVsR05SNzFScHFLM1JkNnlydjZFQWpJeVZEX3VDTkw5UnlkU1VMSGNuS0FKRzNCWUNQQmlWV1dFTHBqcjFOLXpfdTZsbkZSWnVybDg?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdWZFSGx5VzJOU1JkOThxeHFra0piLWpLdm1YRUVWNjc3S2w0bHNhaU90a3YtQUNMdUZyaG9sZ3Riei16WUFOdzNtazRjU0RjU2prNTVsR05SNzFScHFLM1JkNnlydjZFQWpJeVZEX3VDTkw5UnlkU1VMSGNuS0FKRzNCWUNQQmlWV1dFTHBqcjFOLXpfdTZsbkZSWnVybDg?oc=5",
-      "query": "justiça do trabalho decisão"
+      "data": "2026-08-25T23:27:34.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2VuVFYwSEFycWMxS2ZGUGtyRmM0N0xjZThIVXVyNFR0U3loT1M4Wm8zbVZPckNaYXNYdVVzZTR1Z0M3VElqZmtieUZ1b00wcEVTLXNIc2NLSUk1MHJUN2RrS3JEcTVpOENGa2F1VHdic0dweTFkdEhaQ3dhWW53RVk5U2ZteTdIWk1BUG50UGRtZTlmVGo1RzFTNHJJeGZObXkwc0o1bWhXQUI5MEdjTzkzam5DRVdpQm82UNIBwgFBVV95cUxNWG5RQ2E1aEllekQ3TWNPbGQ3ZXZsamlJOXZWUHBJWV9IWWR6azN0Qm1KcEVNNmZTZXFVaVNYX0NQTjA0NnlIenVSUlRRdFo3NEk0emozbDVDek9PWWpBRnBicl9MZWI0dDNjMHlJTVl2XzZMOXg1M2RhWWladkVOM1FDUUlKR0JoblNEZUF6M3FseWt4X0oxOFNFNTRvbHEtV005b2MxVEdJTGVoNjRvbUlIeGl0V2IwT1BEZzE3Sk83dw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2VuVFYwSEFycWMxS2ZGUGtyRmM0N0xjZThIVXVyNFR0U3loT1M4Wm8zbVZPckNaYXNYdVVzZTR1Z0M3VElqZmtieUZ1b00wcEVTLXNIc2NLSUk1MHJUN2RrS3JEcTVpOENGa2F1VHdic0dweTFkdEhaQ3dhWW53RVk5U2ZteTdIWk1BUG50UGRtZTlmVGo1RzFTNHJJeGZObXkwc0o1bWhXQUI5MEdjTzkzam5DRVdpQm82UNIBwgFBVV95cUxNWG5RQ2E1aEllekQ3TWNPbGQ3ZXZsamlJOXZWUHBJWV9IWWR6azN0Qm1KcEVNNmZTZXFVaVNYX0NQTjA0NnlIenVSUlRRdFo3NEk0emozbDVDek9PWWpBRnBicl9MZWI0dDNjMHlJTVl2XzZMOXg1M2RhWWladkVOM1FDUUlKR0JoblNEZUF6M3FseWt4X0oxOFNFNTRvbHEtV005b2MxVEdJTGVoNjRvbUlIeGl0V2IwT1BEZzE3Sk83dw?oc=5",
+      "query": "terceirização julgamento"
+    },
+    {
+      "id": "6636a4295ecf7c687a827777f46407a80c9dae14",
+      "titulo": "Ministro da Fazenda propõe correção de abusos na pejotização e sugere contribuição previdenciária extra para empresas que burlam a contratação formal.",
+      "resumo": "Ministro da Fazenda propõe correção de abusos na pejotização e sugere contribuição previdenciária extra para empresas que burlam a contratação formal. Repórter Maceió",
+      "fonte": "Repórter Maceió",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T23:27:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZWtBN3RvUjFPZXpVTzB4QU9BM3lQX1BYNEJaSEM1TU5hVEp4ZTBnUXYtZ2ozWjVUcGRYeTZoRjdCYUMwWnZNdEF0alF5ajAzSmJGOGRLZUdtanJKdHloMjNqTHZzdnctcEowX0RXUll0MnM0MEwtWEc5N0hJNEFaTW1wQ2NFSldGeWktMjc3Mm9jcGN0ZzhnS3NNSlk0Vk51ZnBxM0lNSnNMMktsalZiOHRZSzJBeEJjc3g4RTJfcF92RmhUQWNnY2g3ZGlsTUJNMEl1OXZiZ0ZHOTVuaWtnQVpfdDZvQjdBZE5iVVVpUUhkZVNjbVRWMFNjX0gtRjVNMDZWNzg5M0M0dmh1?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZWtBN3RvUjFPZXpVTzB4QU9BM3lQX1BYNEJaSEM1TU5hVEp4ZTBnUXYtZ2ozWjVUcGRYeTZoRjdCYUMwWnZNdEF0alF5ajAzSmJGOGRLZUdtanJKdHloMjNqTHZzdnctcEowX0RXUll0MnM0MEwtWEc5N0hJNEFaTW1wQ2NFSldGeWktMjc3Mm9jcGN0ZzhnS3NNSlk0Vk51ZnBxM0lNSnNMMktsalZiOHRZSzJBeEJjc3g4RTJfcF92RmhUQWNnY2g3ZGlsTUJNMEl1OXZiZ0ZHOTVuaWtnQVpfdDZvQjdBZE5iVVVpUUhkZVNjbVRWMFNjX0gtRjVNMDZWNzg5M0M0dmh1?oc=5",
+      "query": "pejotização"
     },
     {
       "id": "94667c323ffa24313fa062a5c24fcba9883ae20d",
@@ -424,76 +916,40 @@
       "query": null
     },
     {
-      "id": "fda09c5202ebdd5420a37db37c7ea9c0c040a8d8",
-      "titulo": "Lula mantém força nos grandes colégios eleitorais e empata com Flávio em SP, MG e RJ",
-      "resumo": "Mesmo com candidatos do PT a governador derrapando, presidente está empatado na liderança com o senador, indicam pesquisas Quaest",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T22:08:28.000Z",
-      "url": "https://www.jota.info/eleicoes/eleicoes-2026/lula-mantem-forca-nos-grandes-colegios-eleitorais-e-empata-com-flavio-em-sp-mg-e-rj",
-      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/lula-mantem-forca-nos-grandes-colegios-eleitorais-e-empata-com-flavio-em-sp-mg-e-rj",
-      "query": null
-    },
-    {
-      "id": "86b52403d81981e7717f45f752fc774609c30242",
-      "titulo": "Cármen Lúcia rejeita ação contra decisão que deu a servidores do RS auxílio-refeição nas férias",
-      "resumo": "Eduardo Leite alega “elevado impacto financeiro”, de R$ 266,5 milhões, de outubro de 2023 a junho de 2026",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T22:05:34.000Z",
-      "url": "https://www.jota.info/stf/do-supremo/carmen-lucia-rejeita-acao-contra-decisao-que-deu-a-servidores-do-rs-auxilio-refeicao-nas-ferias",
-      "url_canonica": "https://www.jota.info/stf/do-supremo/carmen-lucia-rejeita-acao-contra-decisao-que-deu-a-servidores-do-rs-auxilio-refeicao-nas-ferias",
-      "query": null
-    },
-    {
-      "id": "734f393eaa385a92eca84e953218174a3e3d85ab",
-      "titulo": "Economista da campanha de Flávio Bolsonaro propõe PEC fiscal e corte de 10 ministérios",
-      "resumo": "De acordo com Daniella Marques, plano prevê revisão do arcabouço fiscal e medidas para reduzir a dívida pública",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T21:33:19.000Z",
-      "url": "https://www.jota.info/eleicoes/eleicoes-2026/economista-da-campanha-de-flavio-bolsonaro-propoe-pec-fiscal-e-corte-de-10-ministerios",
-      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/economista-da-campanha-de-flavio-bolsonaro-propoe-pec-fiscal-e-corte-de-10-ministerios",
-      "query": null
-    },
-    {
-      "id": "e83b6f80320e1c12fd279a3a8475e8b733fc216a",
-      "titulo": "iFood espera que STF afaste vínculo com entregadores",
-      "resumo": "iFood espera que STF afaste vínculo com entregadores SBT News",
-      "fonte": "SBT News",
+      "id": "670d3b0afa88bb45fecc909f5acc4a14dbdf0eac",
+      "titulo": "Sem preocupação com “clima”, STF e demais tribunais e conselhos criam gratificação para CJs enquanto carreira para todos segue parada",
+      "resumo": "Sem preocupação com “clima”, STF e demais tribunais e conselhos criam gratificação para CJs enquanto carreira para todos segue parada Sintrajufe - RS",
+      "fonte": "Sintrajufe - RS",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-25T21:06:33.000Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFdRSDg2ampEUGlVY0NFR0g0ejBYeXZNS1dmamh3UE9KM0M3OGFuSC1fS1lpWVhabUVseUNhRjdDNG1vclNTWFF1SXJCQXFTOEtYT0R5N0xBWTVhaVVYclAzV3JhdUZWTWZLaWlIb28yTzcwQzBMUnFYMlN2bkFOWU5VRG1CazJSY0ZkNnNDWHp5bFlhMHNEMkxMWm4xQQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTFdRSDg2ampEUGlVY0NFR0g0ejBYeXZNS1dmamh3UE9KM0M3OGFuSC1fS1lpWVhabUVseUNhRjdDNG1vclNTWFF1SXJCQXFTOEtYT0R5N0xBWTVhaVVYclAzV3JhdUZWTWZLaWlIb28yTzcwQzBMUnFYMlN2bkFOWU5VRG1CazJSY0ZkNnNDWHp5bFlhMHNEMkxMWm4xQQ?oc=5",
+      "data": "2026-08-25T22:15:45.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRFJ6bzZsbzdSSkd1UGRUNU00b1U2cF9lbm1xX0ZOZTNUeUt0WlRlYjZsdkdjOFN0NThoRV9mWGhLYi1qcDhoaXBZZzB0ZXBib2FjTTZud240bThVOE5KenBUcFMwdjBTN2JxblZ1RlVBUVlrVXBGb2RKdWlSRWVOa0pHeV9VYXZFZUlodWZvSy04X1F1MkNFRTdyeWtJcjBwR25nT2Y1NzVQLTJSY3lLUFZSckhhS29fVTRoX1F1YTUzUWREMlltTG43eVpjQnR5b0U1N0pEeGlsaVNfTW1ocXF5UlREd24tOER3UmZn?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRFJ6bzZsbzdSSkd1UGRUNU00b1U2cF9lbm1xX0ZOZTNUeUt0WlRlYjZsdkdjOFN0NThoRV9mWGhLYi1qcDhoaXBZZzB0ZXBib2FjTTZud240bThVOE5KenBUcFMwdjBTN2JxblZ1RlVBUVlrVXBGb2RKdWlSRWVOa0pHeV9VYXZFZUlodWZvSy04X1F1MkNFRTdyeWtJcjBwR25nT2Y1NzVQLTJSY3lLUFZSckhhS29fVTRoX1F1YTUzUWREMlltTG43eVpjQnR5b0U1N0pEeGlsaVNfTW1ocXF5UlREd24tOER3UmZn?oc=5",
       "query": "justiça do trabalho decisão"
     },
     {
-      "id": "71db4d838f36b96ef7be26166d7fca27a3b7c11c",
-      "titulo": "Quem são os candidatos a governador do Ceará (CE) nas eleições 2026",
-      "resumo": "Elmano de Freitas tenta a reeleição contra Ciro Gomes e outros seis políticos",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T20:45:14.000Z",
-      "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-governador-do-ceara-ce-nas-eleicoes-2026-agosto",
-      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-governador-do-ceara-ce-nas-eleicoes-2026-agosto",
-      "query": null
+      "id": "28fafdd7bb8512bcbb12a517a9918e5908bf0354",
+      "titulo": "Disputa envolvendo uso de banheiros por maquinistas da Vale chega ao STF",
+      "resumo": "Disputa envolvendo uso de banheiros por maquinistas da Vale chega ao STF CartaCapital",
+      "fonte": "CartaCapital",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T21:01:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLV9IOTZEaVBaN2MtUzV0ZnJ2NmQ5ZHhTQ01ZN0JacWs5Q1JSNVFzbHllRm0yM1VNR3Z2NFdMQTJWQlp5dE5jVzdxUWpLRzk0bXdzRDYzeVkzcEJ3akhYVUxHdHpZMnFhMnNXVHZGc0ttcFNMaXR5SkVsWmJ6akRBQm9aQThydlppdG8yRWNTQk14SE84cEl6MTYwbWFTYjdhVjNscDNFai1JbmN4NmRCQW5NYw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLV9IOTZEaVBaN2MtUzV0ZnJ2NmQ5ZHhTQ01ZN0JacWs5Q1JSNVFzbHllRm0yM1VNR3Z2NFdMQTJWQlp5dE5jVzdxUWpLRzk0bXdzRDYzeVkzcEJ3akhYVUxHdHpZMnFhMnNXVHZGc0ttcFNMaXR5SkVsWmJ6akRBQm9aQThydlppdG8yRWNTQk14SE84cEl6MTYwbWFTYjdhVjNscDNFai1JbmN4NmRCQW5NYw?oc=5",
+      "query": "justiça do trabalho decisão"
     },
     {
-      "id": "2a2a4a67607b752acdb5f1c1a9a069da6832a5b6",
-      "titulo": "Quem são os candidatos a governador de Mato Grosso (MT) nas eleições 2026",
-      "resumo": "Seis políticos são candidatos ao Palácio dos Paiaguás. Saiba quem são",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T20:05:31.000Z",
-      "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-governador-de-mato-grosso-nas-eleicoes-2026-agosto",
-      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-governador-de-mato-grosso-nas-eleicoes-2026-agosto",
-      "query": null
+      "id": "f6c16f01363185049d8894b58825e12d4b61da01",
+      "titulo": "TJ nega pedido de urgência feito por Janaina para obrigar o Estado a pagar R$ 19 milhões em emendas",
+      "resumo": "TJ nega pedido de urgência feito por Janaina para obrigar o Estado a pagar R$ 19 milhões em emendas Olhar Direto",
+      "fonte": "Olhar Direto",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T20:43:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaG95XzZSRjBqZkFDekduNWREa3FpdTUxNjcwcVVFN3NGQ1cyR1VyQndGekF0YzFkRGQ4bl9GSDJmbjl3MmdqVlR2bS1kSmlSUFJTY21Kd3pySnVnSURBTmJoWFItNjhMSXA5VnhLTy02X1dXR1BZT3pFVFRlZ0ZQbG1EU3ppZExQRXJ0UElRYkFkckRzT1BXa05GOXBKeW1PLUtIdXUxam40ZkhmZFEtVFowVDBEZktaYjl6NjByTUJsem1uX1hBVWZfdXRuWkFQSWkybw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaG95XzZSRjBqZkFDekduNWREa3FpdTUxNjcwcVVFN3NGQ1cyR1VyQndGekF0YzFkRGQ4bl9GSDJmbjl3MmdqVlR2bS1kSmlSUFJTY21Kd3pySnVnSURBTmJoWFItNjhMSXA5VnhLTy02X1dXR1BZT3pFVFRlZ0ZQbG1EU3ppZExQRXJ0UElRYkFkckRzT1BXa05GOXBKeW1PLUtIdXUxam40ZkhmZFEtVFowVDBEZktaYjl6NjByTUJsem1uX1hBVWZfdXRuWkFQSWkybw?oc=5",
+      "query": "terceirização julgamento"
     },
     {
       "id": "308b0a60eaab3329ce739a0d9d76da93d351cc37",
@@ -532,40 +988,28 @@
       "query": "pejotização"
     },
     {
-      "id": "c4b3c941cbe3499b8f6a12b6fd63f9e681be89ec",
-      "titulo": "Senado avança em redução jornada de trabalho: o que muda?",
-      "resumo": "Senado avança em redução jornada de trabalho: o que muda? Portal Contabeis",
-      "fonte": "Portal Contabeis",
+      "id": "a3444b281dd19af28e7ab12c895f12633d2cdb4c",
+      "titulo": "Lula 4 pretende diminuir privilégios na Previdência e atacar ‘pejotização abusiva’, diz Durigan. Porta-voz de economia da campanha petista cita como exemplo empresa que tem 80% da força de trabalho pejotizada e poderia ser obrigada a fazer contribuição",
+      "resumo": "Lula 4 pretende diminuir privilégios na Previdência e atacar ‘pejotização abusiva’, diz Durigan. Porta-voz de economia da campanha petista cita como exemplo empresa que tem 80% da força de trabalho pejotizada e poderia ser obrigada a fazer contribuição instagram.com",
+      "fonte": "instagram.com",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-25T19:30:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ01pOEE5UDc4VlpnbmdVbGVId0o4SjB2bVc5QTJhSmJJM2ZURXZsdjQ5eTllSURhZ3l6d1hfdGJ3Q01Tdlh6eENkWFBubDRuTDdrS0oxRHVNbjkyaU5SQWRMaVBTNjNuRnVLaG5RYmF3Vm9ydllNa3BYR3E2TGlCS3duU25xVUt1SFNGRTdyaWlNWWdhZk5hdFp4QzZLeTBBMWc?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ01pOEE5UDc4VlpnbmdVbGVId0o4SjB2bVc5QTJhSmJJM2ZURXZsdjQ5eTllSURhZ3l6d1hfdGJ3Q01Tdlh6eENkWFBubDRuTDdrS0oxRHVNbjkyaU5SQWRMaVBTNjNuRnVLaG5RYmF3Vm9ydllNa3BYR3E2TGlCS3duU25xVUt1SFNGRTdyaWlNWWdhZk5hdFp4QzZLeTBBMWc?oc=5",
+      "data": "2026-08-25T19:31:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjY0xQMXhNRERBYnZSWVIxYmQxQ19TOXUwLWxfUUVCNnpaSkZ3ZEZVSDdNaFIzZmRkaS0xZnBya0J5ZEZ6RGc0cVpKcXVISXdVMTEwZ1pB?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBjY0xQMXhNRERBYnZSWVIxYmQxQ19TOXUwLWxfUUVCNnpaSkZ3ZEZVSDdNaFIzZmRkaS0xZnBya0J5ZEZ6RGc0cVpKcXVISXdVMTEwZ1pB?oc=5",
+      "query": "pejotização"
+    },
+    {
+      "id": "a859308d1f0698456d6afae89f30b4b837eebde5",
+      "titulo": "Flávio Bolsonaro articula senadores em defesa da 6x1: é preciso uma mobilização efetiva nas ruas!",
+      "resumo": "Flávio Bolsonaro articula senadores em defesa da 6x1: é preciso uma mobilização efetiva nas ruas! Esquerda Diário",
+      "fonte": "Esquerda Diário",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T18:51:31.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMENGMm1tR0lPWXFOZVA1Y3c4dE9JSnl2SDNjbzVtOWQ1NGJ2LWtnQTk0ellvbllOMG8yR1JyR1VYdVktdkl4LTVGWGFQQllDRG0zdllLalJJbnplZWRNclN5OTI1YXp6MEMwNDVETmJ5WmgxQ1VtQkgycWlTb2ZoVk96SWVabG1JYXhB?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMENGMm1tR0lPWXFOZVA1Y3c4dE9JSnl2SDNjbzVtOWQ1NGJ2LWtnQTk0ellvbllOMG8yR1JyR1VYdVktdkl4LTVGWGFQQllDRG0zdllLalJJbnplZWRNclN5OTI1YXp6MEMwNDVETmJ5WmgxQ1VtQkgycWlTb2ZoVk96SWVabG1JYXhB?oc=5",
       "query": "reforma trabalhista"
-    },
-    {
-      "id": "93a9640e62d12591096df3e86fdc90a5f9941025",
-      "titulo": "Quem são os candidatos a senador pela Bahia (BA) nas eleições 2026",
-      "resumo": "Dez nomes disputam as duas vagas no Senado Federal pelo estado nas eleições deste ano",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T19:11:10.000Z",
-      "url": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-senador-pela-bahia-ba-nas-eleicoes-2026-agosto",
-      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/quem-sao-os-candidatos-a-senador-pela-bahia-ba-nas-eleicoes-2026-agosto",
-      "query": null
-    },
-    {
-      "id": "6c534b0299c473311d760cf5c72db3bee08a28c3",
-      "titulo": "Durigan destaca contenção de gastos e superávit para orçamento de 2027",
-      "resumo": "Ministro falou sobre agenda econômica para o possível 4º mandato do presidente Lula e ponderou a necessidade de um orçamento ‘sem calote’",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T18:58:36.000Z",
-      "url": "https://www.jota.info/executivo/durigan-destaca-contencao-de-gastos-e-superavit-para-orcamento-de-2027",
-      "url_canonica": "https://www.jota.info/executivo/durigan-destaca-contencao-de-gastos-e-superavit-para-orcamento-de-2027",
-      "query": null
     },
     {
       "id": "a122a5ef81dd8eaf6491af8aa5eb50de37173982",
@@ -604,18 +1048,6 @@
       "query": "reforma trabalhista"
     },
     {
-      "id": "ce7da08ff06adecccbeaeba464e4836afbab03cc",
-      "titulo": "Devida diligência climática: a nova fronteira da responsabilidade empresarial",
-      "resumo": "Entre o legado da COP30 e a regulação em construção, empresas brasileiras precisam internalizar o clima em suas políticas de governança",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T18:00:41.000Z",
-      "url": "https://www.jota.info/opiniao-e-analise/artigos/devida-diligencia-climatica-a-nova-fronteira-da-responsabilidade-empresarial",
-      "url_canonica": "https://www.jota.info/opiniao-e-analise/artigos/devida-diligencia-climatica-a-nova-fronteira-da-responsabilidade-empresarial",
-      "query": null
-    },
-    {
       "id": "6926a38007ed575cba0c7290acb58eeb660e7dea",
       "titulo": "Ação sobre prejuízos em previdência complementar será julgada pela Justiça do Trabalho",
       "resumo": "Ação sobre prejuízos em previdência complementar será julgada pela Justiça do Trabalho Debate Jurídico",
@@ -638,18 +1070,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXJDcEFNcnlmMDVzSTNVLW9iaGZUR2NfSUdDYjBCc0dUVElJTlB5THBWN1lvQnZGS2ZNdFQxbnd4TGlSRF9WSFU1QjlCMVY0U2pKSHhZSVB5cnhzR2lLR2JPelZLRzVwZW1yZlZMLVN4LUczUHEtQzd0OUNrSEtBZXBpajBCV0t6M2xJYnFUUmd2VHp0RU9ZWFhRb0NETmY4aDlKaGhYYnNVZFBS?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLXJDcEFNcnlmMDVzSTNVLW9iaGZUR2NfSUdDYjBCc0dUVElJTlB5THBWN1lvQnZGS2ZNdFQxbnd4TGlSRF9WSFU1QjlCMVY0U2pKSHhZSVB5cnhzR2lLR2JPelZLRzVwZW1yZlZMLVN4LUczUHEtQzd0OUNrSEtBZXBpajBCV0t6M2xJYnFUUmd2VHp0RU9ZWFhRb0NETmY4aDlKaGhYYnNVZFBS?oc=5",
       "query": "eSocial trabalhista"
-    },
-    {
-      "id": "24de891ca792fffbcd74748e3b217251e4ad49eb",
-      "titulo": "TJ-SP autoriza retorno de Guilherme Gonçalves à Prefeitura de Ourinhos a partir do dia 31",
-      "resumo": "TJ-SP autoriza retorno de Guilherme Gonçalves à Prefeitura de Ourinhos a partir do dia 31 Marília Notícia",
-      "fonte": "Marília Notícia",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-25T17:24:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2VuVFYwSEFycWMxS2ZGUGtyRmM0N0xjZThIVXVyNFR0U3loT1M4Wm8zbVZPckNaYXNYdVVzZTR1Z0M3VElqZmtieUZ1b00wcEVTLXNIc2NLSUk1MHJUN2RrS3JEcTVpOENGa2F1VHdic0dweTFkdEhaQ3dhWW53RVk5U2ZteTdIWk1BUG50UGRtZTlmVGo1RzFTNHJJeGZObXkwc0o1bWhXQUI5MEdjTzkzam5DRVdpQm82UNIBwgFBVV95cUxNWG5RQ2E1aEllekQ3TWNPbGQ3ZXZsamlJOXZWUHBJWV9IWWR6azN0Qm1KcEVNNmZTZXFVaVNYX0NQTjA0NnlIenVSUlRRdFo3NEk0emozbDVDek9PWWpBRnBicl9MZWI0dDNjMHlJTVl2XzZMOXg1M2RhWWladkVOM1FDUUlKR0JoblNEZUF6M3FseWt4X0oxOFNFNTRvbHEtV005b2MxVEdJTGVoNjRvbUlIeGl0V2IwT1BEZzE3Sk83dw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2VuVFYwSEFycWMxS2ZGUGtyRmM0N0xjZThIVXVyNFR0U3loT1M4Wm8zbVZPckNaYXNYdVVzZTR1Z0M3VElqZmtieUZ1b00wcEVTLXNIc2NLSUk1MHJUN2RrS3JEcTVpOENGa2F1VHdic0dweTFkdEhaQ3dhWW53RVk5U2ZteTdIWk1BUG50UGRtZTlmVGo1RzFTNHJJeGZObXkwc0o1bWhXQUI5MEdjTzkzam5DRVdpQm82UNIBwgFBVV95cUxNWG5RQ2E1aEllekQ3TWNPbGQ3ZXZsamlJOXZWUHBJWV9IWWR6azN0Qm1KcEVNNmZTZXFVaVNYX0NQTjA0NnlIenVSUlRRdFo3NEk0emozbDVDek9PWWpBRnBicl9MZWI0dDNjMHlJTVl2XzZMOXg1M2RhWWladkVOM1FDUUlKR0JoblNEZUF6M3FseWt4X0oxOFNFNTRvbHEtV005b2MxVEdJTGVoNjRvbUlIeGl0V2IwT1BEZzE3Sk83dw?oc=5",
-      "query": "terceirização julgamento"
     },
     {
       "id": "47a30e5297c0e2439be841969ddd93956224d3f6",
@@ -688,9 +1108,21 @@
       "query": "pejotização"
     },
     {
+      "id": "37001b14c5ad154500b27c75e049185d776269e8",
+      "titulo": "TST condena Banco do Brasil a indenizar funcionário por agravamento de doença psiquiátrica",
+      "resumo": "TST condena Banco do Brasil a indenizar funcionário por agravamento de doença psiquiátrica Jurinews",
+      "fonte": "Jurinews",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T16:46:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG9GT3hPOXdYTDEtMmtuQ1FaZW0tc3JsclRsT1BoM0cyNllvSVVjTDBTZWlxR1gzWEg5RVpGNnA5TU5QdC1NQmdFOUkwaWVhOWVJWGt1NkdxLTkwMXNpdEdDbXdva0VCb0YyZVhOblh0Mk5VdE12NTZSZnQ1MVl4T2ZpbUpVYlNlX1hDQXVTZ05lYmRGSC03ZDR0cGpuTzlkWDRFajhXbWJ2d19GTTBrcDliY08zSDY4WW5lT2dxa2s3bDZLTURyZXRMSHVKOTQ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTG9GT3hPOXdYTDEtMmtuQ1FaZW0tc3JsclRsT1BoM0cyNllvSVVjTDBTZWlxR1gzWEg5RVpGNnA5TU5QdC1NQmdFOUkwaWVhOWVJWGt1NkdxLTkwMXNpdEdDbXdva0VCb0YyZVhOblh0Mk5VdE12NTZSZnQ1MVl4T2ZpbUpVYlNlX1hDQXVTZ05lYmRGSC03ZDR0cGpuTzlkWDRFajhXbWJ2d19GTTBrcDliY08zSDY4WW5lT2dxa2s3bDZLTURyZXRMSHVKOTQ?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
       "id": "2abe627a25cdee1dd1b9d635aa69de1aa94a6af2",
-      "titulo": "Durigan diz que pejotização precisa ser ser corrigida: 'Precisamos olhar isso de frente'",
-      "resumo": "Durigan diz que pejotização precisa ser ser corrigida: 'Precisamos olhar isso de frente' O GLOBO",
+      "titulo": "Durigan diz que 'abusos' da pejotização devem ser corrigidos: 'Precisamos olhar isso de frente'",
+      "resumo": "Durigan diz que 'abusos' da pejotização devem ser corrigidos: 'Precisamos olhar isso de frente' O GLOBO",
       "fonte": "O GLOBO",
       "tipo_fonte": "imprensa",
       "peso_fonte": 0.6,
@@ -724,52 +1156,16 @@
       "query": "reforma trabalhista"
     },
     {
-      "id": "dd052860256c2d06f41b88c5cfe31d08e99d9d1d",
+      "id": "25b7f4a156b92c11683acf78de2cec4a37ab8029",
       "titulo": "Governo Lula estuda cobrar contribuição de empresas para conter pejotização, diz Durigan",
-      "resumo": "Governo Lula estuda cobrar contribuição de empresas para conter pejotização, diz Durigan Grupo Portal de Notícias",
-      "fonte": "Grupo Portal de Notícias",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-25T15:14:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXVOVEE0Q0g2YmtaN1IzWUxKclFCR0pQaHhSM0FRUXBleEYwOEVfcjg1cGRkQlNQMUZvcXJZUFZXN2ZjOUZvMHRwQkdnX2dWV01IRVd4Uno0dmlmcnh2ODhPbVlPMVhfcHpoV0xDUVZUX3dpUEVBcVJ0WEVBeXVFbkc1djl5SmVPZ0FLY1d5ejNwRGJKQTFmMUxBa3pGVG1pYkR2VGtzdHJUR2VRcGpOREJ5Q2o5MW5BU240N2drT2k0OXc?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXVOVEE0Q0g2YmtaN1IzWUxKclFCR0pQaHhSM0FRUXBleEYwOEVfcjg1cGRkQlNQMUZvcXJZUFZXN2ZjOUZvMHRwQkdnX2dWV01IRVd4Uno0dmlmcnh2ODhPbVlPMVhfcHpoV0xDUVZUX3dpUEVBcVJ0WEVBeXVFbkc1djl5SmVPZ0FLY1d5ejNwRGJKQTFmMUxBa3pGVG1pYkR2VGtzdHJUR2VRcGpOREJ5Q2o5MW5BU240N2drT2k0OXc?oc=5",
+      "resumo": "Governo Lula estuda cobrar contribuição de empresas para conter pejotização, diz Durigan Folha de S.Paulo",
+      "fonte": "Folha de S.Paulo",
+      "tipo_fonte": "imprensa",
+      "peso_fonte": 0.6,
+      "data": "2026-08-25T12:27:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU2E4OHZEbndETHpZanJGQWVtQTFYUk16VUFwLTQzRWVGby1fUHdUZEdrei1hNURLeUZBS3hyWGNxeUJNSzdGSmZFWVo0WTFYQ3psR2UzQlhlc19wTmdhdVNtR1ZCLVM5VmlhdWNPVWROVk41X0pOWW5scjc1MzZ6aWVpM3ZkUWhDRnlRd1d3T2JNUWo2MWJBN3ZUQ1hMWXVLVUhSV1JMWDhMaVExdUZCWWJ5MlhzYlFfU1NwR1VfSnVHaHAxdzYxWVZ4VG1CNXYtbTQyMUt3?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU2E4OHZEbndETHpZanJGQWVtQTFYUk16VUFwLTQzRWVGby1fUHdUZEdrei1hNURLeUZBS3hyWGNxeUJNSzdGSmZFWVo0WTFYQ3psR2UzQlhlc19wTmdhdVNtR1ZCLVM5VmlhdWNPVWROVk41X0pOWW5scjc1MzZ6aWVpM3ZkUWhDRnlRd1d3T2JNUWo2MWJBN3ZUQ1hMWXVLVUhSV1JMWDhMaVExdUZCWWJ5MlhzYlFfU1NwR1VfSnVHaHAxdzYxWVZ4VG1CNXYtbTQyMUt3?oc=5",
       "query": "pejotização"
-    },
-    {
-      "id": "88eac920bcdc72a8a13f85b38bb453cdd995105a",
-      "titulo": "‘Efeito Michelle’ impulsiona a centro-direita na busca pelo voto feminino",
-      "resumo": "Partidos como PL e Republicanos encampam, com viés conservador, a agenda das mulheres na disputa por um eleitorado que pode decidir a eleição",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T14:52:14.000Z",
-      "url": "https://www.jota.info/eleicoes/eleicoes-2026/efeito-michelle-impulsiona-a-centro-direita-na-busca-pelo-voto-feminino",
-      "url_canonica": "https://www.jota.info/eleicoes/eleicoes-2026/efeito-michelle-impulsiona-a-centro-direita-na-busca-pelo-voto-feminino",
-      "query": null
-    },
-    {
-      "id": "5d65008afc98e91ab2542389b549c254616944e3",
-      "titulo": "Durigan defende controle da \"pejotização\" e revisão de tributos de empresas em novo mandato de Lula",
-      "resumo": "Durigan defende controle da \"pejotização\" e revisão de tributos de empresas em novo mandato de Lula Terra",
-      "fonte": "Terra",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-25T14:51:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQmdDZ1MwWlJZNzExZ2pkM2tZUkl5aFliWlNROFJMbkR2UFJOM01xSmZPYWR4S3ZzMnBVd0N0bWRwUVVodnlOYzd2bHVjem1BNHBlLTNBVGtjQndQVTFzc0VpQU5kVWZTV2RZQzgzWFRBakpmNmVqQnhPYW80Ml9wdGkxZXJTeWtnYmtIdXRMUktzcnNpQ3ZaX1llelp6YzZ4c0JFaTZRQ0dqSmpnbzFNSzRSWHYxY1hZbko1cUpxOWFWSzk5TFBKWS1OOEh0SkotNTFWYVFtR0tqZHNDRkJ2dG9OcG1vai1ESktDclpwbWlHWDMzZllNcFV1d0pCUlFNZ2tqNEVYOV8?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQmdDZ1MwWlJZNzExZ2pkM2tZUkl5aFliWlNROFJMbkR2UFJOM01xSmZPYWR4S3ZzMnBVd0N0bWRwUVVodnlOYzd2bHVjem1BNHBlLTNBVGtjQndQVTFzc0VpQU5kVWZTV2RZQzgzWFRBakpmNmVqQnhPYW80Ml9wdGkxZXJTeWtnYmtIdXRMUktzcnNpQ3ZaX1llelp6YzZ4c0JFaTZRQ0dqSmpnbzFNSzRSWHYxY1hZbko1cUpxOWFWSzk5TFBKWS1OOEh0SkotNTFWYVFtR0tqZHNDRkJ2dG9OcG1vai1ESktDclpwbWlHWDMzZllNcFV1d0pCUlFNZ2tqNEVYOV8?oc=5",
-      "query": "pejotização"
-    },
-    {
-      "id": "3da77ba9fc32c47c5f29b99645ba0ca8eb8bcce1",
-      "titulo": "Feed sem cadastro e falhas na verificação de idade levam ANPD a multar TikTok em R$ 153,7 mi",
-      "resumo": "Reguladora apontou que empresa não adotou medidas eficazes para impedir acesso de crianças e adolescentes a conteúdos inadequados",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T14:45:42.000Z",
-      "url": "https://www.jota.info/executivo/feed-sem-cadastro-e-falhas-na-verificacao-de-idade-levam-anpd-a-multar-tiktok-em-r-1537-mi",
-      "url_canonica": "https://www.jota.info/executivo/feed-sem-cadastro-e-falhas-na-verificacao-de-idade-levam-anpd-a-multar-tiktok-em-r-1537-mi",
-      "query": null
     },
     {
       "id": "338dc881005d5d0a91ca6ba070d5a2c1038d6dc7",
@@ -784,18 +1180,6 @@
       "query": "pejotização"
     },
     {
-      "id": "6d8abacaad4040a8fe750263aa4f6c45269b5c92",
-      "titulo": "A reforma tributária vai acabar com o contencioso?",
-      "resumo": "O erro de prever o fim dos processos tributários sem olhar para os incentivos de Fisco e contribuintes",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T14:30:30.000Z",
-      "url": "https://www.jota.info/opiniao-e-analise/colunas/direito-economia-mercado/a-reforma-tributaria-vai-acabar-com-o-contencioso",
-      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/direito-economia-mercado/a-reforma-tributaria-vai-acabar-com-o-contencioso",
-      "query": null
-    },
-    {
       "id": "cf662f5df0dcaeabde260c281da4bff934e52a43",
       "titulo": "‘Pejotização’ gera prejuízo para a Previdência, diz ministro da Fazenda",
       "resumo": "‘Pejotização’ gera prejuízo para a Previdência, diz ministro da Fazenda Fenati",
@@ -806,30 +1190,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hSVlBLWdiaENydFloWWkzRzlvenRCTk52aGoxVXdfLXlnenU1VEZuN1hCZVRJTC11T3FSbHJDcUpEZFpYNlZLTjB0cnkwQnVSMG1SZUF4bkhkQUk0ajZWbkNST3MtdzdDekxkaUV1cmZCOXRDVmc?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hSVlBLWdiaENydFloWWkzRzlvenRCTk52aGoxVXdfLXlnenU1VEZuN1hCZVRJTC11T3FSbHJDcUpEZFpYNlZLTjB0cnkwQnVSMG1SZUF4bkhkQUk0ajZWbkNST3MtdzdDekxkaUV1cmZCOXRDVmc?oc=5",
       "query": "pejotização"
-    },
-    {
-      "id": "c28704be84d6b42564a2c2349b27512a9672a9d4",
-      "titulo": "Stablecoins nas finanças globais: seu papel na liquidação de operações",
-      "resumo": "Como reguladores no Reino Unido, nos EUA e em organismos internacionais tratam os riscos sistêmicos da tokenização",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T14:00:51.000Z",
-      "url": "https://www.jota.info/opiniao-e-analise/colunas/mulheres-na-regulacao/stablecoins-nas-financas-globais-seu-papel-na-liquidacao-de-operacoes",
-      "url_canonica": "https://www.jota.info/opiniao-e-analise/colunas/mulheres-na-regulacao/stablecoins-nas-financas-globais-seu-papel-na-liquidacao-de-operacoes",
-      "query": null
-    },
-    {
-      "id": "e92031b2eeb1773ca1d40e58c9516e907007c170",
-      "titulo": "Governo estuda editar decreto para barrar patrocínio de bets via Lei Rouanet, diz secretário",
-      "resumo": "Discussão é conduzida pelas áreas jurídicas do Executivo e deve envolver diferentes ministérios",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T13:59:47.000Z",
-      "url": "https://www.jota.info/executivo/governo-estuda-editar-decreto-para-barrar-patrocinio-de-bets-via-lei-rouanet-diz-secretario",
-      "url_canonica": "https://www.jota.info/executivo/governo-estuda-editar-decreto-para-barrar-patrocinio-de-bets-via-lei-rouanet-diz-secretario",
-      "query": null
     },
     {
       "id": "980e093c61fa89157411d20785830eb104e08b88",
@@ -892,18 +1252,6 @@
       "query": "pejotização"
     },
     {
-      "id": "ef03541c2208575d7aa2352d7cefb21baf9caf05",
-      "titulo": "Senado pede para rejeitar súmula de pautas-bomba no STF e União sugere ampliação",
-      "resumo": "Começa o prazo para manifestação da PGR e ministros. Entidades municipais listam 186 PLs de pisos salariais",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T13:04:36.000Z",
-      "url": "https://www.jota.info/stf/do-supremo/senado-pede-para-rejeitar-sumula-de-pautas-bomba-no-stf-e-uniao-sugere-ampliacao",
-      "url_canonica": "https://www.jota.info/stf/do-supremo/senado-pede-para-rejeitar-sumula-de-pautas-bomba-no-stf-e-uniao-sugere-ampliacao",
-      "query": null
-    },
-    {
       "id": "4342d0f11988ff8acfb8828dc1100acb8a0c464c",
       "titulo": "Ministro da Fazenda defende combate à “pejotização” para reduzir déficit da Previdência",
       "resumo": "Ministro da Fazenda defende combate à “pejotização” para reduzir déficit da Previdência portalgiro.com",
@@ -914,18 +1262,6 @@
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYXZzbnNXTGJJbGpCUWZjWVVjUzJ3NE9xaWQ1bVJHR1NCai1hUlRZemc3V1VjdjVVNWZmOENPZUFUWU54bGlyVjBhQXhiaTZZdEJnUlhjRVptME5xbWNXWmdVZ1ZNel9LT0tUWE96d2ZzQTVaS0pYQWNlcV93dXpjdVJNSlpZVWpiano3TlNiMUl6LUt5VnpRUXlBLThUOFhMUlFmUFdrUWpSSUQ1Nm1MbjVQdGtibThLODE0V0JDd3BKN0VyeklGa1BBYXJLNHQ4WlhhTVMyenNjTlVkT0V5ZzFXaml6ZVA0RGtVTGhJRm91Z0w4emc?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYXZzbnNXTGJJbGpCUWZjWVVjUzJ3NE9xaWQ1bVJHR1NCai1hUlRZemc3V1VjdjVVNWZmOENPZUFUWU54bGlyVjBhQXhiaTZZdEJnUlhjRVptME5xbWNXWmdVZ1ZNel9LT0tUWE96d2ZzQTVaS0pYQWNlcV93dXpjdVJNSlpZVWpiano3TlNiMUl6LUt5VnpRUXlBLThUOFhMUlFmUFdrUWpSSUQ1Nm1MbjVQdGtibThLODE0V0JDd3BKN0VyeklGa1BBYXJLNHQ4WlhhTVMyenNjTlVkT0V5ZzFXaml6ZVA0RGtVTGhJRm91Z0w4emc?oc=5",
       "query": "pejotização"
-    },
-    {
-      "id": "cfacfdf6840c6a6dd54442684633564ab6cd298f",
-      "titulo": "JOTA Principal &#124; Lula busca manter contato com Trump para mitigar risco de interferência eleitoral",
-      "resumo": "Acesso direto no mais alto nível, em tom “cordial e amistoso”, cria custo adicional para interferência dos EUA",
-      "fonte": "jota.info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-25T13:01:10.000Z",
-      "url": "https://www.jota.info/newsletters/jota-principal/jota-principal-lula-busca-manter-contato-com-trump-para-mitigar-risco-de-interferencia-eleitoral",
-      "url_canonica": "https://www.jota.info/newsletters/jota-principal/jota-principal-lula-busca-manter-contato-com-trump-para-mitigar-risco-de-interferencia-eleitoral",
-      "query": null
     },
     {
       "id": "3e7aa60476b2dedf8d7f9772ae8b4c296a042c08",
@@ -940,6 +1276,30 @@
       "query": "pejotização"
     },
     {
+      "id": "b93135598e7621c714f10bcbc61a8a0e8c0c255d",
+      "titulo": "Governo prepara nova taxa sobre empresas que contratam PJ para tentar cobrir rombo da Previdência",
+      "resumo": "Governo prepara nova taxa sobre empresas que contratam PJ para tentar cobrir rombo da Previdência Goiás 246",
+      "fonte": "Goiás 246",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T12:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYk1Nd1h1U0dtaWJGYW5CTFo0MUlZUVRuWlJDX1MwbTRQeXF6MWUzSEE3WEVtRnEzLTVRaEpBTm5KMXE4Tmoxa25Bay1kUTFLVnRSTklKOWk0amZsS3BpRHFONzNfQ1plUXNuSjFWYVZ2T3lNcVNPVmI3dm1vbWJzNlVoRy1hVksyZ1ZSV2tjNXh3UGlPd2hLaGRqUnRZVEZhamtHYXdyTi1tM1pILWNpbkNYWWpzREdwNmZKZTNhRVJ4Vk9iSG1uRW1lVHp2Z0J0alFKV0hUTHBBUEQwbnp6amtmVWYwZGs?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYk1Nd1h1U0dtaWJGYW5CTFo0MUlZUVRuWlJDX1MwbTRQeXF6MWUzSEE3WEVtRnEzLTVRaEpBTm5KMXE4Tmoxa25Bay1kUTFLVnRSTklKOWk0amZsS3BpRHFONzNfQ1plUXNuSjFWYVZ2T3lNcVNPVmI3dm1vbWJzNlVoRy1hVksyZ1ZSV2tjNXh3UGlPd2hLaGRqUnRZVEZhamtHYXdyTi1tM1pILWNpbkNYWWpzREdwNmZKZTNhRVJ4Vk9iSG1uRW1lVHp2Z0J0alFKV0hUTHBBUEQwbnp6amtmVWYwZGs?oc=5",
+      "query": "pejotização"
+    },
+    {
+      "id": "d020504b8af5604b2fccd049b1ee47a746cc66b1",
+      "titulo": "Justiça condena empregador após resgate de trabalhadores em carvoaria de Serra do Salitre",
+      "resumo": "Justiça condena empregador após resgate de trabalhadores em carvoaria de Serra do Salitre patosja.com.br",
+      "fonte": "patosja.com.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T12:39:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU82QXNnWkJaeGdvY0V5ajY5SXJhMDVJZjVaMFhJVjYzZUdJak5hbVR3Z2hWZnRnVmlYTEJPTkQ4c05HdDdzVEZvdmc1S1hobG1HOVFqMHlSVFJ6MzgwZWNWSUpJbmNla2U5Z0JfanJUcHQzcld4THhQNFBkRHZEbWVKeEJSNk5KUndsSWstOXR2YnRaLU1qOTVOMnUzSFZGUElLMk0zN1J1a0dFcDBCWmh1Und3a3FRdXBBd3hMS1ZNVURtYmhYOQ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSU82QXNnWkJaeGdvY0V5ajY5SXJhMDVJZjVaMFhJVjYzZUdJak5hbVR3Z2hWZnRnVmlYTEJPTkQ4c05HdDdzVEZvdmc1S1hobG1HOVFqMHlSVFJ6MzgwZWNWSUpJbmNla2U5Z0JfanJUcHQzcld4THhQNFBkRHZEbWVKeEJSNk5KUndsSWstOXR2YnRaLU1qOTVOMnUzSFZGUElLMk0zN1J1a0dFcDBCWmh1Und3a3FRdXBBd3hMS1ZNVURtYmhYOQ?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
       "id": "133ac69e8e98d15eca14a1174a24977172c2ba59",
       "titulo": "JCNET: Ministro da Fazenda quer fim da 'pejotização' contra déficit",
       "resumo": "JCNET: Ministro da Fazenda quer fim da 'pejotização' contra déficit sampi.net.br",
@@ -952,16 +1312,16 @@
       "query": "pejotização"
     },
     {
-      "id": "f4777111ae14c1470193cb213ffd8a369b6effdf",
-      "titulo": "Trabalhadores resgatados de carvoaria em MG vão receber indenizações após decisão da Justiça",
-      "resumo": "Trabalhadores resgatados de carvoaria em MG vão receber indenizações após decisão da Justiça ncnews.com.br",
-      "fonte": "ncnews.com.br",
+      "id": "4aa4a67da8c26d8683d5668de3ad3407e3f9f018",
+      "titulo": "Araguaína testa terceirização da merenda em 20 unidades, e Conselho Estadual avalia modelo como positivo",
+      "resumo": "Araguaína testa terceirização da merenda em 20 unidades, e Conselho Estadual avalia modelo como positivo Araguaína Notícias",
+      "fonte": "Araguaína Notícias",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-25T11:27:47.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNam01TE8tdGtlbjJKOGNJaDJhZ0RSTHBKMk9nRXM2eFdmcUFWOFZnZ0tNdWppVzl6Y3NVMkN2TTBPTWpQYmctSUdnZmNIT1c2N3dlYzU0MC1Xd2dwdWdlWHRILXd0dVZiY2Y4YnQ1b2xOSU9FTkZjQXFkc0Z6TDJpWTMxdnI5c25NQmx6XzRKYS1QQ1ZENTR6cGRieFgzVGE0dUtHMXpqcnFnWlF1TGJOZjZKVGtsY3NJajN2UnhLQTFFV1Fq?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNam01TE8tdGtlbjJKOGNJaDJhZ0RSTHBKMk9nRXM2eFdmcUFWOFZnZ0tNdWppVzl6Y3NVMkN2TTBPTWpQYmctSUdnZmNIT1c2N3dlYzU0MC1Xd2dwdWdlWHRILXd0dVZiY2Y4YnQ1b2xOSU9FTkZjQXFkc0Z6TDJpWTMxdnI5c25NQmx6XzRKYS1QQ1ZENTR6cGRieFgzVGE0dUtHMXpqcnFnWlF1TGJOZjZKVGtsY3NJajN2UnhLQTFFV1Fq?oc=5",
-      "query": "justiça do trabalho decisão"
+      "data": "2026-08-25T11:56:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0VrVDRVVGlCdDJVd0daVFBORGdaVmFxQVhsanp0clRHcF93M25LX2xuanBybzc5OTB6U3UzTm1zbU1tekJXa2VQejZzLWVNXzd2ekhWWUVOZU40MzlsVVFDVlE2TlBlYy0yc0Q1MDNuc3BreW56Uy03Mk5fQ0lZN3QyUkgxMHp6MzZJc1MzTmNpRjZyY2FUN0E1Q1RvRlNzMVBfMjMwX2VDTkh2RUVsbWtyRzVDcklrYkdNRDhuX1BMbkJXY1lkLVZhVXQ5SVRwckdrMnhmcnVIaTdzLS1za1R3emU?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0VrVDRVVGlCdDJVd0daVFBORGdaVmFxQVhsanp0clRHcF93M25LX2xuanBybzc5OTB6U3UzTm1zbU1tekJXa2VQejZzLWVNXzd2ekhWWUVOZU40MzlsVVFDVlE2TlBlYy0yc0Q1MDNuc3BreW56Uy03Mk5fQ0lZN3QyUkgxMHp6MzZJc1MzTmNpRjZyY2FUN0E1Q1RvRlNzMVBfMjMwX2VDTkh2RUVsbWtyRzVDcklrYkdNRDhuX1BMbkJXY1lkLVZhVXQ5SVRwckdrMnhmcnVIaTdzLS1za1R3emU?oc=5",
+      "query": "terceirização julgamento"
     },
     {
       "id": "ac9b1b6d1a8d6845777d9210f6e26c960a31e4da",
@@ -1000,6 +1360,18 @@
       "query": "terceirização julgamento"
     },
     {
+      "id": "fb01970c5a269eded2a59728a4af2e89e55b8ee1",
+      "titulo": "OS DESAFIOS ATUAIS DA JUSTIÇA DO TRABALHO",
+      "resumo": "OS DESAFIOS ATUAIS DA JUSTIÇA DO TRABALHO Estado de Minas",
+      "fonte": "Estado de Minas",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-25T05:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1A1YWNualJJTUJYSkx0R3U0VWlJWDdiZ1htLXRXemdGNVhwLXQ2bTc1Y29QeEVyOXpxVTlsY05jekpxS1g4VkRQT0dydmU3ODluY2RIZXlCSVFDQnNjNEhvZ09wN0YwSm1PejdxUnNEcVB0N2poZ1c0Snd0SGN0dFd4cmJHNG9HZWRqWGd2NHVVYlRkRjJ1U3gxT3AyVkE4bVFyb1J2dVc2YXA20gGyAUFVX3lxTE5SV0Rhd0hpQVkySThQRVpDdTRpbEtQTlkteURNWmhab25nS2JmVlgtUF9qSFh5RGNnQ2hycElkZ3JYLUhvVnNFZ0RBTFJFNWd4RDNfSzVGd0VwTGpLa05sek1reFJsZnpQSFI5Z0s0cWJXSU8wTmw2cXdEMzhBa3FfbkVjYlNwTl8xcW04V0JmR1VmcE9MR1hOaTR4aGFTRWlocXVDTlRiWjlhcDU5RXR0M3c?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1A1YWNualJJTUJYSkx0R3U0VWlJWDdiZ1htLXRXemdGNVhwLXQ2bTc1Y29QeEVyOXpxVTlsY05jekpxS1g4VkRQT0dydmU3ODluY2RIZXlCSVFDQnNjNEhvZ09wN0YwSm1PejdxUnNEcVB0N2poZ1c0Snd0SGN0dFd4cmJHNG9HZWRqWGd2NHVVYlRkRjJ1U3gxT3AyVkE4bVFyb1J2dVc2YXA20gGyAUFVX3lxTE5SV0Rhd0hpQVkySThQRVpDdTRpbEtQTlkteURNWmhab25nS2JmVlgtUF9qSFh5RGNnQ2hycElkZ3JYLUhvVnNFZ0RBTFJFNWd4RDNfSzVGd0VwTGpLa05sek1reFJsZnpQSFI5Z0s0cWJXSU8wTmw2cXdEMzhBa3FfbkVjYlNwTl8xcW04V0JmR1VmcE9MR1hOaTR4aGFTRWlocXVDTlRiWjlhcDU5RXR0M3c?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
       "id": "d4a95df8f517b29e5c4dbc85ed1b8b961fa47bbb",
       "titulo": "EDITORIAL: Regras para as terceirizadas…",
       "resumo": "EDITORIAL: Regras para as terceirizadas… A Tribuna MT",
@@ -1010,18 +1382,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFl1RGxmZFF6WWdZYUVHNThIU0pNa3pZdjU1VVBGeTh4UktMR2h6VGNtZFhFbllmajdhMmUzVk1DcWZ0Vi1LcVc1ZUN1bXByaGZCd0pzbExHMjdBRENyU0F4WFMtMFh5SnNIOUZyN3hHM0RBaTZIMzA3eXA1VWtxTjhBeGluWEJ4dVlGT2tDSWVVV0NpYnRZVjFqaGVZT1hYV2c?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWFl1RGxmZFF6WWdZYUVHNThIU0pNa3pZdjU1VVBGeTh4UktMR2h6VGNtZFhFbllmajdhMmUzVk1DcWZ0Vi1LcVc1ZUN1bXByaGZCd0pzbExHMjdBRENyU0F4WFMtMFh5SnNIOUZyN3hHM0RBaTZIMzA3eXA1VWtxTjhBeGluWEJ4dVlGT2tDSWVVV0NpYnRZVjFqaGVZT1hYV2c?oc=5",
       "query": "terceirização julgamento"
-    },
-    {
-      "id": "9caf861c6e4e8cc1d217e57ed6501d49205b3377",
-      "titulo": "O fim do “chutômetro” no provisionamento trabalhista",
-      "resumo": "O fim do “chutômetro” no provisionamento trabalhista Jornal O Sul",
-      "fonte": "Jornal O Sul",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-25T03:11:06.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmJjcmdTZWhSZXY0cGZxc3k3cmRYcnFQbGJzSkZ5a0k3eEpaYmF2SFpDRGhRNV92N19FNmktSDFqU3JseFlpZmRPR20wMndtWUZzeWxUUC1hYlg0NXFzQWNHTHRGRkxXX3NMa0VqMThsY0lKQWNxUnV5blZ5T0RradIBhgFBVV95cUxOWXM2OTByUTVrUDlvbWREWTF3VV82cHRuYzFReTllVFZqMkFsUkphVXRvSU9DODNvZGVMLWRmMHBVblZWbUJBTkZWNWdFcEpGaVRKMHRxSXh0dllzd0xDbURKSG9TRGpLX2NXV1pKRXhGZG9uQlY3MG4xckN4a0RLWm5lczJYQQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmJjcmdTZWhSZXY0cGZxc3k3cmRYcnFQbGJzSkZ5a0k3eEpaYmF2SFpDRGhRNV92N19FNmktSDFqU3JseFlpZmRPR20wMndtWUZzeWxUUC1hYlg0NXFzQWNHTHRGRkxXX3NMa0VqMThsY0lKQWNxUnV5blZ5T0RradIBhgFBVV95cUxOWXM2OTByUTVrUDlvbWREWTF3VV82cHRuYzFReTllVFZqMkFsUkphVXRvSU9DODNvZGVMLWRmMHBVblZWbUJBTkZWNWdFcEpGaVRKMHRxSXh0dllzd0xDbURKSG9TRGpLX2NXV1pKRXhGZG9uQlY3MG4xckN4a0RLWm5lczJYQQ?oc=5",
-      "query": "reforma trabalhista"
     },
     {
       "id": "cd304ba97863f8ec0d15fa2b9fceafc4c07ef2cf",
@@ -1060,16 +1420,16 @@
       "query": "pejotização"
     },
     {
-      "id": "f3791d3f434b4a99bb027c754bf3a2d77a6951c2",
-      "titulo": "MPT defende análise caso a caso de vínculo no trabalho por aplicativos",
-      "resumo": "MPT defende análise caso a caso de vínculo no trabalho por aplicativos Migalhas",
-      "fonte": "Migalhas",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-24T21:30:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGVQdGk1YlYwSWhvdHFob2Fod1lzZkcyZWR5ekNqcVFZZmNMQlhtV08tc0ItejFWNDY1aG1JYXAzSnZhMTZKRVQ0ejltbTRPWHFaTmhua2FUV2x5SGkxUGV6MDREaDZMM0Q5TXBaLXM5OFRhU3ZQVVR5T01lQ3BSSjYxNkt5RUVrc0ZVcmtGYjd1OEYxZ0RERll4cHJuZ3hQZXFoTGNLU28tZVdxSTN2QU1UVQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGVQdGk1YlYwSWhvdHFob2Fod1lzZkcyZWR5ekNqcVFZZmNMQlhtV08tc0ItejFWNDY1aG1JYXAzSnZhMTZKRVQ0ejltbTRPWHFaTmhua2FUV2x5SGkxUGV6MDREaDZMM0Q5TXBaLXM5OFRhU3ZQVVR5T01lQ3BSSjYxNkt5RUVrc0ZVcmtGYjd1OEYxZ0RERll4cHJuZ3hQZXFoTGNLU28tZVdxSTN2QU1UVQ?oc=5",
-      "query": "reforma trabalhista"
+      "id": "b8d45d9ebe35d35bb3480182a2ea8efe3f495236",
+      "titulo": "Supremo retoma essa semana julgamento sobre uberização",
+      "resumo": "Supremo retoma essa semana julgamento sobre uberização midiajur.com.br",
+      "fonte": "midiajur.com.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-24T22:19:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUd4R2pZSTFiNDdjell1aHo5THIyM296aE5LZmUzOG5RWk8ydlFNUWtjZkNZMUNoYzYybURxenhmTmpiQ1pFWEdYbXg3TjdqcUdJNkROVlFkMVo1NWZBMWgxRWQzN2psWkNhb1BENXdRaW5XMHd3b3lGTm43OWVFOTVNN3Bma0VWNTJNMjgwQlB6bk0tZW8tVmYyTHY?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLUd4R2pZSTFiNDdjell1aHo5THIyM296aE5LZmUzOG5RWk8ydlFNUWtjZkNZMUNoYzYybURxenhmTmpiQ1pFWEdYbXg3TjdqcUdJNkROVlFkMVo1NWZBMWgxRWQzN2psWkNhb1BENXdRaW5XMHd3b3lGTm43OWVFOTVNN3Bma0VWNTJNMjgwQlB6bk0tZW8tVmYyTHY?oc=5",
+      "query": "justiça do trabalho decisão"
     },
     {
       "id": "c12d2c38b228f28d092652e42feb0929b3b6ac9f",
@@ -1082,18 +1442,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEV3TjU1RmJsRWxzcGtnaFZiTzB3eTNOYVV3amNCeUZlZEZiZzlydnNyVjl5R3pqRHpvLU4xWVNaa1dXRG5WWEd1ZnRQdjBUSnZlYXg5S0VoRXFRdlBQRjU0empwSFhLb2RjckYwdmlqVERXNlpnLTB3NDA1YjBOaW0xWlZBaWhRbzVER0p4RWh6SWxlT1o4V2hwX2N1RFdhLUFvZ2EyY0t4YWo3NU82YkoxbWhIYkZN?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWEV3TjU1RmJsRWxzcGtnaFZiTzB3eTNOYVV3amNCeUZlZEZiZzlydnNyVjl5R3pqRHpvLU4xWVNaa1dXRG5WWEd1ZnRQdjBUSnZlYXg5S0VoRXFRdlBQRjU0empwSFhLb2RjckYwdmlqVERXNlpnLTB3NDA1YjBOaW0xWlZBaWhRbzVER0p4RWh6SWxlT1o4V2hwX2N1RFdhLUFvZ2EyY0t4YWo3NU82YkoxbWhIYkZN?oc=5",
       "query": "pejotização"
-    },
-    {
-      "id": "cbe5b42feddefc0612860b2ad6779d85fab30cf4",
-      "titulo": "Candidatos travam embate sobre fim da escala 6x1 e futuro da CLT",
-      "resumo": "Candidatos travam embate sobre fim da escala 6x1 e futuro da CLT politiza brasil",
-      "fonte": "politiza brasil",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-24T21:16:24.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWUp3cDBiN0c2ZXBJU0FYTlhwM1IycjJsa2hRcFl2TTJ0N0NKTU01Q2tSQTlKcXJMS1FVX0pxVl81eTVOX29BQTctdjFSYnp1UVVlTGRnUl9zY2VXeTFGelVoQTdLcFBSVlNqVmNoN1NHWVpGNExtLXlyRTk2SlE?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWUp3cDBiN0c2ZXBJU0FYTlhwM1IycjJsa2hRcFl2TTJ0N0NKTU01Q2tSQTlKcXJMS1FVX0pxVl81eTVOX29BQTctdjFSYnp1UVVlTGRnUl9zY2VXeTFGelVoQTdLcFBSVlNqVmNoN1NHWVpGNExtLXlyRTk2SlE?oc=5",
-      "query": "reforma trabalhista"
     },
     {
       "id": "73b567ccfb002ca749d53c91e0b85f2210201c7e",
@@ -1252,15 +1600,15 @@
       "query": "pejotização"
     },
     {
-      "id": "4d21e434f0cc2dc862ef729037cbcc79da1796b5",
+      "id": "1eb2a174811e130722998d9346159cfb1f831b5a",
       "titulo": "Tribunal Superior do Trabalho recebe homenagem no Senado por seus 80 anos",
       "resumo": "Tribunal Superior do Trabalho recebe homenagem no Senado por seus 80 anos PT no Senado",
       "fonte": "PT no Senado",
       "tipo_fonte": "oficial",
       "peso_fonte": 1,
       "data": "2026-08-24T18:08:29.000Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMXR6LS1Za05oMi1OYU1uUWtGSEI0VWZrV2dCYmprY2hLMlFSbGVRYkFvdFJZY2FfYXJ6VXFuQ3ZXcnlKeDh1UzUtRzF1TlZmWXlsb25UNlRaYkFPVXg4YVRWdGtyZXhsdjJ4cHFMQXpJZ1Jib3ZfeUIyZEw2d1E?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KMXR6LS1Za05oMi1OYU1uUWtGSEI0VWZrV2dCYmprY2hLMlFSbGVRYkFvdFJZY2FfYXJ6VXFuQ3ZXcnlKeDh1UzUtRzF1TlZmWXlsb25UNlRaYkFPVXg4YVRWdGtyZXhsdjJ4cHFMQXpJZ1Jib3ZfeUIyZEw2d1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVhydldnTTRLdzlXd3JPZ09hY3N6UVFPVzJxcHJpNGFmMGl2VmJkV044U1RMb3FrbkljRW5fWERfbXk5eE5NYUFoazgwRmoxWXlIRHU0Smx2emlnVUdwcXJXRTJmQ09OQjIxaEJZSWtxZVE5WjRocXpyT2g5MzExSXd4TUIzMWdGZWdUWjVHSlhqSHBRMzc2eU4tZUR0V0JOQUE?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVhydldnTTRLdzlXd3JPZ09hY3N6UVFPVzJxcHJpNGFmMGl2VmJkV044U1RMb3FrbkljRW5fWERfbXk5eE5NYUFoazgwRmoxWXlIRHU0Smx2emlnVUdwcXJXRTJmQ09OQjIxaEJZSWtxZVE5WjRocXpyT2g5MzExSXd4TUIzMWdGZWdUWjVHSlhqSHBRMzc2eU4tZUR0V0JOQUE?oc=5",
       "query": "justiça do trabalho decisão"
     },
     {
@@ -1345,6 +1693,18 @@
       "data": "2026-08-24T16:48:01.000Z",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMHB3N3BGVEFBMWJvQlZLcVBBT1hDT05QYTlNQUlKc2V1ekZmVEl2WHFYQkNOMHlGOFZKTWFpRm5ZSm82YUtuaVBUZkxYdUIzZl91dEN1N1pncFBJMVBkV1V4dkdrZjk2UWctaUVBckl2djRZd2QxQm9NUEc3MzRpaEtIUVZCX1ZDV0hLVXZ0bEJnVm5ETjhfeThhWmpkaUFySlVFdkpUTjlDbTRROXY4TW4zOFhla3QycEQ0bmhqdmFPMjVwMkFhbkdscmw0dUFqMFdXVFdHM3pVRmhtVzZweC15STE4aVVyMGlFcFJtUW16dzF0dnV1NEtXTmY?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMHB3N3BGVEFBMWJvQlZLcVBBT1hDT05QYTlNQUlKc2V1ekZmVEl2WHFYQkNOMHlGOFZKTWFpRm5ZSm82YUtuaVBUZkxYdUIzZl91dEN1N1pncFBJMVBkV1V4dkdrZjk2UWctaUVBckl2djRZd2QxQm9NUEc3MzRpaEtIUVZCX1ZDV0hLVXZ0bEJnVm5ETjhfeThhWmpkaUFySlVFdkpUTjlDbTRROXY4TW4zOFhla3QycEQ0bmhqdmFPMjVwMkFhbkdscmw0dUFqMFdXVFdHM3pVRmhtVzZweC15STE4aVVyMGlFcFJtUW16dzF0dnV1NEtXTmY?oc=5",
+      "query": "TST tese"
+    },
+    {
+      "id": "94d4f5b5cde79017542b57b8fc31e35b581fb293",
+      "titulo": "TRT-15 afasta dano coletivo por falta de gravidade da falha constatada",
+      "resumo": "TRT-15 afasta dano coletivo por falta de gravidade da falha constatada Migalhas",
+      "fonte": "Migalhas",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T16:16:16.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2tCOV9fRmRMeHo0eEl3OU5Jc050WUdZTGJVUWdZY0dmY1o1UV9NZXhFTnQ2QWNWay1xajJ2Tm00cFZfaFUza0lGd1VTeXRNaDhLLVdDR3BHbXo2MTE2Y1NadzJlM0VERlJPLTFLdDF0UmRKTHJSTlQyeFNTcHZ1b1dNZk5iWndVXzBsaWQ0dzNSUTAyYVBuWVFPT3RUVkFTZ0dJb2pBbkY0Q1FYSUd2aHgybw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ2tCOV9fRmRMeHo0eEl3OU5Jc050WUdZTGJVUWdZY0dmY1o1UV9NZXhFTnQ2QWNWay1xajJ2Tm00cFZfaFUza0lGd1VTeXRNaDhLLVdDR3BHbXo2MTE2Y1NadzJlM0VERlJPLTFLdDF0UmRKTHJSTlQyeFNTcHZ1b1dNZk5iWndVXzBsaWQ0dzNSUTAyYVBuWVFPT3RUVkFTZ0dJb2pBbkY0Q1FYSUd2aHgybw?oc=5",
       "query": "TST tese"
     },
     {
@@ -1453,7 +1813,7 @@
       "data": "2026-08-23T11:54:16.000Z",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGtrVDlFZEMyT21fNEZoaHZMcHQ1UXBpVXdCOEpiZjQ1MjFMZjcteXJOUElsUXdrdWF6NjRSUVVtSWRYcDRzcmJhYU5LTGVMdjZtNVJuSGdVOWMxQURydlNtRDdpWnN5c09Fem9Ha2ZFbW5JMTBzN0xvMHdITXhBZVRBTm1NRmlJLUgxYmRieVJpNFZSU2pYdFFqcHdOOGZHdXlZdHVTdjhLV0lMZ0E?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGtrVDlFZEMyT21fNEZoaHZMcHQ1UXBpVXdCOEpiZjQ1MjFMZjcteXJOUElsUXdrdWF6NjRSUVVtSWRYcDRzcmJhYU5LTGVMdjZtNVJuSGdVOWMxQURydlNtRDdpWnN5c09Fem9Ha2ZFbW5JMTBzN0xvMHdITXhBZVRBTm1NRmlJLUgxYmRieVJpNFZSU2pYdFFqcHdOOGZHdXlZdHVTdjhLV0lMZ0E?oc=5",
-      "query": "TST tese"
+      "query": "terceirização julgamento"
     },
     {
       "id": "e7fcba24554ac663ecebc644de8ea5a0a101a309",
@@ -1466,18 +1826,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWZEZ09GMU9talBxWTV6cTNJbVNuU0tPZkRyX1A2MWRtd1dGUlgtdUsxTC1oc0I1SElTVE5ma3pWbnZBV0pUbXhLRXBfU3FoT1duSFFqRFRYNXhyMDhoeFJzTm0tTkpNSm90U2cyX2UzTUdQbVVCa3N2LWR2TklxS2lvOXRBNHBtRlR6WVBPaVJsbEt5TFlJYTk2RzJyNWlnR05HMF9JN0JaUW0zSV9DMmtOYU1Cd0o5YmRCMWpaNnpoQXE2aUJUOV9JU2xzamtqZENiUlhpTVNTZHcyUllqdVJR?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWWZEZ09GMU9talBxWTV6cTNJbVNuU0tPZkRyX1A2MWRtd1dGUlgtdUsxTC1oc0I1SElTVE5ma3pWbnZBV0pUbXhLRXBfU3FoT1duSFFqRFRYNXhyMDhoeFJzTm0tTkpNSm90U2cyX2UzTUdQbVVCa3N2LWR2TklxS2lvOXRBNHBtRlR6WVBPaVJsbEt5TFlJYTk2RzJyNWlnR05HMF9JN0JaUW0zSV9DMmtOYU1Cd0o5YmRCMWpaNnpoQXE2aUJUOV9JU2xzamtqZENiUlhpTVNTZHcyUllqdVJR?oc=5",
       "query": "terceirização julgamento"
-    },
-    {
-      "id": "2d51470a5c0f9d04a5b769945ff63681dcbab395",
-      "titulo": "Audiência pública nesta terça (25) discute controle do uso de banheiro no trabalho",
-      "resumo": "Audiência pública nesta terça (25) discute controle do uso de banheiro no trabalho TST",
-      "fonte": "TST",
-      "tipo_fonte": "tribunal",
-      "peso_fonte": 1,
-      "data": "2026-08-24T11:02:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWRBOEtzMTJ0VnV6TmtYeEEwTThoNnlVd09DZm9kb0d1b2ZBTy1yZ3lOS0lQcHdBSlBYVmRtdW0yYWlQYVA0b2I3Z0VWaEpseG9mLWxVTUNvcHI5eURJVjhRR1FoWGFMYWR2WTdRWTkzWFAzZWsydWdtcEFnUllJUmMxSWFDZkxfVld3U1FCU1d0VGh2cEVPMmp5WTFodTdFWllFZC1mTWs?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWRBOEtzMTJ0VnV6TmtYeEEwTThoNnlVd09DZm9kb0d1b2ZBTy1yZ3lOS0lQcHdBSlBYVmRtdW0yYWlQYVA0b2I3Z0VWaEpseG9mLWxVTUNvcHI5eURJVjhRR1FoWGFMYWR2WTdRWTkzWFAzZWsydWdtcEFnUllJUmMxSWFDZkxfVld3U1FCU1d0VGh2cEVPMmp5WTFodTdFWllFZC1mTWs?oc=5",
-      "query": "TST tese"
     },
     {
       "id": "8e0c98959b642cdb00c579dd8fbea57897e977b1",
@@ -1504,16 +1852,28 @@
       "query": "justiça do trabalho decisão"
     },
     {
-      "id": "01f39e2ccbd9430f729b82607b965ab67c27898d",
-      "titulo": "STF volta a discutir uberização do trabalho",
-      "resumo": "STF volta a discutir uberização do trabalho O Brasilianista",
-      "fonte": "O Brasilianista",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-24T09:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTRTQ2h4UGVGRWoweXE5OGxwdDNwZ2FaU1BCSU1zV3lCNVBKS21LMVQ4aG50RUVraGJpMFZ6WlJZMS01dGtIdzQwNDJGTTN2M1N2WjdOTXZneHNiYUZBR21lOXVIQzduS3dPRncyb1ZCWXFkc3JLX3c3eGoxd3VObXBHVm8zRzAxWC1MRThvYThPem9zRGpxVw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdTRTQ2h4UGVGRWoweXE5OGxwdDNwZ2FaU1BCSU1zV3lCNVBKS21LMVQ4aG50RUVraGJpMFZ6WlJZMS01dGtIdzQwNDJGTTN2M1N2WjdOTXZneHNiYUZBR21lOXVIQzduS3dPRncyb1ZCWXFkc3JLX3c3eGoxd3VObXBHVm8zRzAxWC1MRThvYThPem9zRGpxVw?oc=5",
-      "query": "justiça do trabalho decisão"
+      "id": "fe8f9d91af3a25e992764239255fa966b8090489",
+      "titulo": "Acordo feito por sindicato sem conhecimento dos trabalhadores é nulo",
+      "resumo": "Acordo feito por sindicato sem conhecimento dos trabalhadores é nulo Migalhas",
+      "fonte": "Migalhas",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2VTbG4zUlVNbEd3Q3JyTkRFeUo0WW9aWk9PN283YnJKNi1sRFdIc1VUa3BNUWdwZjlHVDk5bm15bFYwbTZ4SEpsRmZrNXZtdkg1aVRaeDFobVRtX2xEOENRWXdSRjgxWE5Ya1JRRXhmYkVGWlBFQl9HR3VycXJIOTB2ZmlFaUlnOHdJN1FqSVRPUWNMMDhTbWQ2NHVQTVZfbTJNRXYteDJ2a0c2RnNKcA?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2VTbG4zUlVNbEd3Q3JyTkRFeUo0WW9aWk9PN283YnJKNi1sRFdIc1VUa3BNUWdwZjlHVDk5bm15bFYwbTZ4SEpsRmZrNXZtdkg1aVRaeDFobVRtX2xEOENRWXdSRjgxWE5Ya1JRRXhmYkVGWlBFQl9HR3VycXJIOTB2ZmlFaUlnOHdJN1FqSVRPUWNMMDhTbWQ2NHVQTVZfbTJNRXYteDJ2a0c2RnNKcA?oc=5",
+      "query": "terceirização julgamento"
+    },
+    {
+      "id": "15791cf5755c4b1ceb6313faa30efe7d4f1f8652",
+      "titulo": "TST afasta competência trabalhista em ações sobre fundos de previdência",
+      "resumo": "TST afasta competência trabalhista em ações sobre fundos de previdência Migalhas",
+      "fonte": "Migalhas",
+      "tipo_fonte": "especializado",
+      "peso_fonte": 0.8,
+      "data": "2026-08-24T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaE9hTE9Ga01PUWtHX2hac1AwVDN4S0Z2eGxVaFhoREpLZ19YNDM3MHc5VkJObXF0S0JzRlJCUVMzYzNvREx1d19fd0tBSnZqanBfZ29XWGhXN09SNGhUekhHandHeEZfMHRJT3ZmSGtNS2VFNk82MDJCZk05aVlEWnFzR204QVlvbm5NS3lyM2FlM01rZkQ5LVJoNkp0bXFyQ1lBbEI1Umw2MjZGQXFDc0JXaw?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaE9hTE9Ga01PUWtHX2hac1AwVDN4S0Z2eGxVaFhoREpLZ19YNDM3MHc5VkJObXF0S0JzRlJCUVMzYzNvREx1d19fd0tBSnZqanBfZ29XWGhXN09SNGhUekhHandHeEZfMHRJT3ZmSGtNS2VFNk82MDJCZk05aVlEWnFzR204QVlvbm5NS3lyM2FlM01rZkQ5LVJoNkp0bXFyQ1lBbEI1Umw2MjZGQXFDc0JXaw?oc=5",
+      "query": "TST tese"
     },
     {
       "id": "2f83abec721c29e5173d66a8ccc25ce2154e9404",
@@ -1537,18 +1897,6 @@
       "data": "2026-08-24T07:00:00.000Z",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFc2LUI2YXZHRkFzRjk0cmpWOElOVnF1V05HYk4wRGxpSHVfcDRGaWxpUkxVaHJKemZjSFZ5T3BKNnZaY0VpTEY4LTBOX3VPTnc2UXVkQTdvSUJZTHBaRTdSbEx3b3hJVmQ5QUIwVTJkNlVnemxGMjZiaWFKNnk1OGhRX29sZXVteElGQ3FxZWhFUTk5QzdLN19yb9IBmwFBVV95cUxQRFc2LUI2YXZHRkFzRjk0cmpWOElOVnF1V05HYk4wRGxpSHVfcDRGaWxpUkxVaHJKemZjSFZ5T3BKNnZaY0VpTEY4LTBOX3VPTnc2UXVkQTdvSUJZTHBaRTdSbEx3b3hJVmQ5QUIwVTJkNlVnemxGMjZiaWFKNnk1OGhRX29sZXVteElGQ3FxZWhFUTk5QzdLN19ybw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFc2LUI2YXZHRkFzRjk0cmpWOElOVnF1V05HYk4wRGxpSHVfcDRGaWxpUkxVaHJKemZjSFZ5T3BKNnZaY0VpTEY4LTBOX3VPTnc2UXVkQTdvSUJZTHBaRTdSbEx3b3hJVmQ5QUIwVTJkNlVnemxGMjZiaWFKNnk1OGhRX29sZXVteElGQ3FxZWhFUTk5QzdLN19yb9IBmwFBVV95cUxQRFc2LUI2YXZHRkFzRjk0cmpWOElOVnF1V05HYk4wRGxpSHVfcDRGaWxpUkxVaHJKemZjSFZ5T3BKNnZaY0VpTEY4LTBOX3VPTnc2UXVkQTdvSUJZTHBaRTdSbEx3b3hJVmQ5QUIwVTJkNlVnemxGMjZiaWFKNnk1OGhRX29sZXVteElGQ3FxZWhFUTk5QzdLN19ybw?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
-      "id": "0fc08f12fa93d766c44065afa210e29cda4196c8",
-      "titulo": "Debate Presidencial é Marcado por Ausências de Lula e Flávio, Criando Clima de Conflito entre Candidatos Presentes na TV Band.",
-      "resumo": "Debate Presidencial é Marcado por Ausências de Lula e Flávio, Criando Clima de Conflito entre Candidatos Presentes na TV Band. Repórter Maceió",
-      "fonte": "Repórter Maceió",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-24T05:35:20.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMzFfT3FBOFczWmFzZjRQcDFWY204X0xWM1Mtejd6azlVSzE5WHpJR1l6elBkVER0MnptcG9RVGE2OWNnMnpBSHU5bGtFeC1acHNWZDdJNTBvSF9wRkZGSVRQZFZ3RDZiN20tZURTTFdEUl9jQzA0eV9VNWpTb1R0bFhqYnFQeVhyNWFxXzZGbWl6RGVJakNCZHRhX2JuMWI0Z1RoLW9TMW56anNOMjVtVGxKcHJyOFptSHJVRFJEOUZ3Q0laOGd0NnFrclA4OXlrNWd5TGdmR2h0a2c4VGNxVU9Qb0g3WjZhcUZmZmtOUVk?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMzFfT3FBOFczWmFzZjRQcDFWY204X0xWM1Mtejd6azlVSzE5WHpJR1l6elBkVER0MnptcG9RVGE2OWNnMnpBSHU5bGtFeC1acHNWZDdJNTBvSF9wRkZGSVRQZFZ3RDZiN20tZURTTFdEUl9jQzA0eV9VNWpTb1R0bFhqYnFQeVhyNWFxXzZGbWl6RGVJakNCZHRhX2JuMWI0Z1RoLW9TMW56anNOMjVtVGxKcHJyOFptSHJVRFJEOUZ3Q0laOGd0NnFrclA4OXlrNWd5TGdmR2h0a2c4VGNxVU9Qb0g3WjZhcUZmZmtOUVk?oc=5",
       "query": "reforma trabalhista"
     },
     {
@@ -1576,18 +1924,6 @@
       "query": "reforma trabalhista"
     },
     {
-      "id": "fa46b01032174672e938f6654162b6190779e805",
-      "titulo": "Caiado usa “Dark Horse” para ironizar Lula: “Dark Lobby”",
-      "resumo": "Caiado usa “Dark Horse” para ironizar Lula: “Dark Lobby” O Antagonista",
-      "fonte": "O Antagonista",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-24T00:36:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdndxSnVBRW5MbVRwcHVFa3A5WUJVQ1lpcXltWXJ3Z1VuZS1kVmxuY1NRSUw3TVhGM1pPZ0pqcTlVTTRDVXVTcm1vMHFUbmtJbnU0U2g3czd5UHJDYlk3Snp4VDU2ZzdKbFVWMDhRdVR1b0Zmd2JIZ1hpNWRTeUpqS1d4VGFOZGRVWFBjSjhzQTE?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdndxSnVBRW5MbVRwcHVFa3A5WUJVQ1lpcXltWXJ3Z1VuZS1kVmxuY1NRSUw3TVhGM1pPZ0pqcTlVTTRDVXVTcm1vMHFUbmtJbnU0U2g3czd5UHJDYlk3Snp4VDU2ZzdKbFVWMDhRdVR1b0Zmd2JIZ1hpNWRTeUpqS1d4VGFOZGRVWFBjSjhzQTE?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
       "id": "157dd63d3c0dbe8c5605f04c7f01b08ed0ab66e4",
       "titulo": "Renan Santos se diz contra o fim da escala 6x1 e propõe reforma trabalhista",
       "resumo": "Renan Santos se diz contra o fim da escala 6x1 e propõe reforma trabalhista band.com.br",
@@ -1612,18 +1948,6 @@
       "query": "reforma trabalhista"
     },
     {
-      "id": "975df6e1bd33ffadc2ee3d1bc82d320c8ed5d71e",
-      "titulo": "Renan Santos e Augusto Cury divergem sobre a escala 6×1",
-      "resumo": "Renan Santos e Augusto Cury divergem sobre a escala 6×1 O Antagonista",
-      "fonte": "O Antagonista",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-24T00:06:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjBaNUt1ZC01aFItdGZ6UDlGVklnazhsd0JvUjlVeklibXB2dk0tQmdIUzNram9Xdy0waTlTRElvQk45NWxtdTVYUXhOT1pBMDMwd1FsLXI1SnN5YkYtcTJSdDkzZ2hhN2t6RUMwV2ZTaXlZMkRETzhZT2lnMDhsNkhRYm5IOTROcE9ySXpRMXdzdUlQYkE?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZjBaNUt1ZC01aFItdGZ6UDlGVklnazhsd0JvUjlVeklibXB2dk0tQmdIUzNram9Xdy0waTlTRElvQk45NWxtdTVYUXhOT1pBMDMwd1FsLXI1SnN5YkYtcTJSdDkzZ2hhN2t6RUMwV2ZTaXlZMkRETzhZT2lnMDhsNkhRYm5IOTROcE9ySXpRMXdzdUlQYkE?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
       "id": "9a6f1281ea9a87e7262bcbd08710cda079f07c1b",
       "titulo": "Trabalhador pode processar empresa em seu domicílio se deslocamento for oneroso, decide TST",
       "resumo": "Trabalhador pode processar empresa em seu domicílio se deslocamento for oneroso, decide TST Jurinews",
@@ -1634,30 +1958,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOHYwWDNTNDRiYkotUHVsVk1tdWxuTlpYdUV2SHhkSm1aYlR4NFhNZi0yYWtKUzFuSzBZTUxVR3R3UjlQeGhzMS1scm1RaW1peGphM3l5Q3hqN3MtUEpwQ1hnUzAwUlhuZTNreEZSRXc1aU1rZWZsWXhlalFpVTJtSllQMjFUTGxVckl5WnlINHJiTlFaRjNRRHJSaGkydGhIMDd4SGplOUdMSGJVT1hBNW5RS2pkTVB2anVGR25wdkQ4dklQYW1qUnBfNEtNUzg?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOHYwWDNTNDRiYkotUHVsVk1tdWxuTlpYdUV2SHhkSm1aYlR4NFhNZi0yYWtKUzFuSzBZTUxVR3R3UjlQeGhzMS1scm1RaW1peGphM3l5Q3hqN3MtUEpwQ1hnUzAwUlhuZTNreEZSRXc1aU1rZWZsWXhlalFpVTJtSllQMjFUTGxVckl5WnlINHJiTlFaRjNRRHJSaGkydGhIMDd4SGplOUdMSGJVT1hBNW5RS2pkTVB2anVGR25wdkQ4dklQYW1qUnBfNEtNUzg?oc=5",
       "query": "TST tese"
-    },
-    {
-      "id": "cc693bacff8391bc3c55eb7d5adb693c6b9f7570",
-      "titulo": "Dino anula emendas indicadas por dirigentes partidários sem mandato",
-      "resumo": "Dino anula emendas indicadas por dirigentes partidários sem mandato Acessa.com",
-      "fonte": "Acessa.com",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-23T21:16:38.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3ZkU25DYm02NjhvSGo4VDhzamJxQThNcXZYeVpUM3dIdGR5TGlOLW5ZMGZKc3I1eVJhTkdjLU9fWUs0NVhPcWJtMml1YThCSHZYX3ZLRVcwUjdTUUFhaFltdkFBTGNGRHZvcmc0d0FQTTlwd29kSElnbG8wWnlJSVJFTnpBekJJb3VTcDB4d01xQndnMnNYdm5jMlQ0WmgzdlROV0pReUViYmx4VVhYSC1yazVvU2VaalNTUUpYQ1TSAcABQVVfeXFMT1d2ZFNuQ2JtNjY4b0hqOFQ4c2picUE4TXF2WHlaVDN3SHRkeUxpTi1uWTBmSnNyNXlSYU5HYy1PX1lLNDVYT3FibTJpdWE4Qkh2WF92S0VXMFI3U1FBYWhZbXZBQUxjRkR2b3JnNHdBUE05cHdvZEhJZ2xvMFp5SUlSRU56QXpCSW91U3AweHdNcUJ3ZzJzWHZuYzJUNFpoM3ZUTldKUXlFYmJseFVYWEgtcms1b1NlWmpTU1FKWENU?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3ZkU25DYm02NjhvSGo4VDhzamJxQThNcXZYeVpUM3dIdGR5TGlOLW5ZMGZKc3I1eVJhTkdjLU9fWUs0NVhPcWJtMml1YThCSHZYX3ZLRVcwUjdTUUFhaFltdkFBTGNGRHZvcmc0d0FQTTlwd29kSElnbG8wWnlJSVJFTnpBekJJb3VTcDB4d01xQndnMnNYdm5jMlQ0WmgzdlROV0pReUViYmx4VVhYSC1yazVvU2VaalNTUUpYQ1TSAcABQVVfeXFMT1d2ZFNuQ2JtNjY4b0hqOFQ4c2picUE4TXF2WHlaVDN3SHRkeUxpTi1uWTBmSnNyNXlSYU5HYy1PX1lLNDVYT3FibTJpdWE4Qkh2WF92S0VXMFI3U1FBYWhZbXZBQUxjRkR2b3JnNHdBUE05cHdvZEhJZ2xvMFp5SUlSRU56QXpCSW91U3AweHdNcUJ3ZzJzWHZuYzJUNFpoM3ZUTldKUXlFYmJseFVYWEgtcms1b1NlWmpTU1FKWENU?oc=5",
-      "query": "terceirização julgamento"
-    },
-    {
-      "id": "6e0ebc683bcb28181366bb2b0f393f6aac12de81",
-      "titulo": "Renan Santos chama fim da escala 6x1 de \"farsa\"",
-      "resumo": "Renan Santos chama fim da escala 6x1 de \"farsa\" SBT News",
-      "fonte": "SBT News",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-23T21:10:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU42VGJzTzNQRXQzTExyM1FfTmZ3Nk9vcjVXS2E1eGJwRVpRNTFNWUZsVXZiWDkwbmREZnVfYVpIM0hyWHZqZHUtNWRuNmFMWlpieklFLXVHTHNyZ1NhQnlPMDM4VWd6NF8zMVpzaHE5RldEbUlOMi1iSUJ6dzRBckRSVWpNZWdMQ2tnQm9fVWtTMHM?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOU42VGJzTzNQRXQzTExyM1FfTmZ3Nk9vcjVXS2E1eGJwRVpRNTFNWUZsVXZiWDkwbmREZnVfYVpIM0hyWHZqZHUtNWRuNmFMWlpieklFLXVHTHNyZ1NhQnlPMDM4VWd6NF8zMVpzaHE5RldEbUlOMi1iSUJ6dzRBckRSVWpNZWdMQ2tnQm9fVWtTMHM?oc=5",
-      "query": "reforma trabalhista"
     },
     {
       "id": "68e945831eba41e780c153b3aaef74cc45a98a26",
@@ -1672,6 +1972,18 @@
       "query": "pejotização"
     },
     {
+      "id": "1a3155e92bfc788a6fbe44f2f4afa3259d617ee3",
+      "titulo": "Flávio Dino anula emendas de dirigentes partidários sem mandato",
+      "resumo": "Flávio Dino anula emendas de dirigentes partidários sem mandato Portal Piauí Hoje",
+      "fonte": "Portal Piauí Hoje",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-23T18:32:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVJBSWc1a284cVVXMHQweGljSktLbG1STUdoTDNfcW5naE4teXc4ZFcxd2tkSXNZVWtnMHdnV1ktN194eG9vM3owVEp1WU5QaW11VXhLRzRnVmNiTFkwVFBjVHhaT2dnb0VvUU1WR1lnLTBwblN2YWtmeE1maHlHNG1fNXJfVVFiTk5vUG9rRDJhQml6XzBnN1hpY2tMWEhvbEtLRTByZ1NGN2hlTGtGRnEyS3p1Z9IBuwFBVV95cUxPWlFrRUF3aU4wYmVrSWdOUFBrOEVfakNkYWlJYWJLRTVtZUlRZXVLR0FJeDFHczkwYUliMmk2Y1Y0ZkxpQzRFX09Ub3pjdTFxM2tIQUVNWmk4bXdSakRfRHkzUF9McGNCVWYta1dHeWszMWN1YUZZdUhJcjRsaUVVOU1KMUZOUGpHd083NWpiMjl5STNOR2JKaTZidjY2X1hzWVlDeDJNa1dJRkJLMy1ma19lNjdBSzhfVTZZ?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeVJBSWc1a284cVVXMHQweGljSktLbG1STUdoTDNfcW5naE4teXc4ZFcxd2tkSXNZVWtnMHdnV1ktN194eG9vM3owVEp1WU5QaW11VXhLRzRnVmNiTFkwVFBjVHhaT2dnb0VvUU1WR1lnLTBwblN2YWtmeE1maHlHNG1fNXJfVVFiTk5vUG9rRDJhQml6XzBnN1hpY2tMWEhvbEtLRTByZ1NGN2hlTGtGRnEyS3p1Z9IBuwFBVV95cUxPWlFrRUF3aU4wYmVrSWdOUFBrOEVfakNkYWlJYWJLRTVtZUlRZXVLR0FJeDFHczkwYUliMmk2Y1Y0ZkxpQzRFX09Ub3pjdTFxM2tIQUVNWmk4bXdSakRfRHkzUF9McGNCVWYta1dHeWszMWN1YUZZdUhJcjRsaUVVOU1KMUZOUGpHd083NWpiMjl5STNOR2JKaTZidjY2X1hzWVlDeDJNa1dJRkJLMy1ma19lNjdBSzhfVTZZ?oc=5",
+      "query": "terceirização julgamento"
+    },
+    {
       "id": "72311f8eb1bca17c7c5d15357117682b2c17e864",
       "titulo": "Agenda do STF: Trabalho por aplicativo, Buser e fim do voto de desempate no Carf estão na pauta",
       "resumo": "Agenda do STF: Trabalho por aplicativo, Buser e fim do voto de desempate no Carf estão na pauta Valor Econômico",
@@ -1681,7 +1993,7 @@
       "data": "2026-08-23T15:30:17.000Z",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUG91TVVlRHVVcmwxY3AyTmpGNmQ2MXI4OFhvNkxJYzAySkR3YmY5MnEwVG1LaC1IRUZjRmRienQ1V2dNbWVyUUd0b0pYRVdEMlZHcVJMUHkyZ1o4X1d2RnFtREZ3c21qdWZfeXBVclFVbnpsSGVhU3FoMnFRdHRCY3F3ampTUUoxSXZ6a1VJTGZsQU9ROEx5OEJ4M3RHeHB2NXFsOXlBVC1nem9wYUhQQ2dPdUZDaGVuc1ZIbE5MZU9ocWxrNVFGSlFCVDkzTUJuZFlrQnhaM2ZiTG9pRV91VE9ZTXVHM09J0gH3AUFVX3lxTE1abkowSVlLOTBsUE5kTnFJdTlyWG1zZ2NRV3FaempSQjhXelpDVy1DekY0MVFBX0tqVV9yRkxpcGxMMUhyOV8zU1AxekRBaDJxLTVFcmJQUV9icGc1UHNYaWVlbUtrall0OVhIZGVUVDB3ZmJTa1N1RmFFMFNfMjRnaW5sMWFjSS12YUN6NzhKeFZLRmtDQThYSDd1V2tnRUVQMHVUT0tVd0FudFFSamQwem5hR3ZLbVZDSUVwdUxjbm1ISUFHQzVNQXlWcmxxQzQ2M2FHRGtmYUpuSjlEd2N2N2dIYVBRdDBGaFZqU00wSElLYW13Q2c?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUG91TVVlRHVVcmwxY3AyTmpGNmQ2MXI4OFhvNkxJYzAySkR3YmY5MnEwVG1LaC1IRUZjRmRienQ1V2dNbWVyUUd0b0pYRVdEMlZHcVJMUHkyZ1o4X1d2RnFtREZ3c21qdWZfeXBVclFVbnpsSGVhU3FoMnFRdHRCY3F3ampTUUoxSXZ6a1VJTGZsQU9ROEx5OEJ4M3RHeHB2NXFsOXlBVC1nem9wYUhQQ2dPdUZDaGVuc1ZIbE5MZU9ocWxrNVFGSlFCVDkzTUJuZFlrQnhaM2ZiTG9pRV91VE9ZTXVHM09J0gH3AUFVX3lxTE1abkowSVlLOTBsUE5kTnFJdTlyWG1zZ2NRV3FaempSQjhXelpDVy1DekY0MVFBX0tqVV9yRkxpcGxMMUhyOV8zU1AxekRBaDJxLTVFcmJQUV9icGc1UHNYaWVlbUtrall0OVhIZGVUVDB3ZmJTa1N1RmFFMFNfMjRnaW5sMWFjSS12YUN6NzhKeFZLRmtDQThYSDd1V2tnRUVQMHVUT0tVd0FudFFSamQwem5hR3ZLbVZDSUVwdUxjbm1ISUFHQzVNQXlWcmxxQzQ2M2FHRGtmYUpuSjlEd2N2N2dIYVBRdDBGaFZqU00wSElLYW13Q2c?oc=5",
-      "query": "reforma trabalhista"
+      "query": "justiça do trabalho decisão"
     },
     {
       "id": "9eb8eafdeefa5e06a9d3bc9549aba6021a754a42",
@@ -1720,16 +2032,16 @@
       "query": "terceirização julgamento"
     },
     {
-      "id": "2bd1f0de1f161feff167b76dfe54d7f4f84c6315",
-      "titulo": "iFood não é responsável por verbas trabalhistas de entregador de empresa parceira",
-      "resumo": "iFood não é responsável por verbas trabalhistas de entregador de empresa parceira Cassilândia Notícias",
-      "fonte": "Cassilândia Notícias",
+      "id": "602d5c6cadd3557b8fef403c3be573908d79bcb5",
+      "titulo": "TST mantém responsabilidade de município por dívida de FGTS de técnica terceirizada",
+      "resumo": "TST mantém responsabilidade de município por dívida de FGTS de técnica terceirizada Gazeta do Paraná",
+      "fonte": "Gazeta do Paraná",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-23T11:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLV9zdHB1a2tPM1cwMDFhR3ZKeU1ueTBYd21HUXA2ckJwT2V5bDN0SmNseVFBaF9MNHVJRFJ6eEFOOEUtS3VnNnoycjZreTg2NGRMUnA1RWt3RVYwN0tIanNISU80UFB5NFJNQU8yVUV2OUd2MXRXbjNMN2pic2wweVczUFRMdFM0MUNzNHlrMUVCVTNnSG5ZUXpCY3I5eGlveHZ0UW8ycEZadmtHQ3VMWmE0OHZnejVRdTlqWkdTcnlvYWFx0gHEAUFVX3lxTE8xRGl1T01fOEZkSVJqRDRSUE9GN0ZQNDRJMDFDRVFIY3RUN0cxanJEZ2tHVXd4dUN0Vk1Xb3lfRTNmTFV1aDRBZWVudnZabXhaVE11NlhidXMyb215VTZQX3hFM19xQUpqQV85QXA5VDhtRU1BcWFQbldTci1HZ0p5bTRmb005TE4xTzEtZi1sM2pxeXh2UG5IRWUzcURWUjFXVnRZdzZxM3NUMlFyTXNTY2xHa3RRTDJFUkRzNUlyV2VGSUU?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLV9zdHB1a2tPM1cwMDFhR3ZKeU1ueTBYd21HUXA2ckJwT2V5bDN0SmNseVFBaF9MNHVJRFJ6eEFOOEUtS3VnNnoycjZreTg2NGRMUnA1RWt3RVYwN0tIanNISU80UFB5NFJNQU8yVUV2OUd2MXRXbjNMN2pic2wweVczUFRMdFM0MUNzNHlrMUVCVTNnSG5ZUXpCY3I5eGlveHZ0UW8ycEZadmtHQ3VMWmE0OHZnejVRdTlqWkdTcnlvYWFx0gHEAUFVX3lxTE8xRGl1T01fOEZkSVJqRDRSUE9GN0ZQNDRJMDFDRVFIY3RUN0cxanJEZ2tHVXd4dUN0Vk1Xb3lfRTNmTFV1aDRBZWVudnZabXhaVE11NlhidXMyb215VTZQX3hFM19xQUpqQV85QXA5VDhtRU1BcWFQbldTci1HZ0p5bTRmb005TE4xTzEtZi1sM2pxeXh2UG5IRWUzcURWUjFXVnRZdzZxM3NUMlFyTXNTY2xHa3RRTDJFUkRzNUlyV2VGSUU?oc=5",
-      "query": "TST tese"
+      "data": "2026-08-23T12:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFZ4ZkM0THBWUDVqNWlhNzFONnlQSU4zM2FLU21sekhmcnRaTWk1c19WYy1QZ2h4Xzk1ems4aTNfVG1sTm5ZajMxZWFhR3llRFVqeS1OYk1PV3dOWGdvc2lsQkZSSFNwa19CWXY0QmplRUdIQkVGcE0tcXh2clIySmxyczQ2VlBuR1piRHQwWG1OcmpnS0NXRXZTUU5HWjBtZGcyQkRPWjdRNkFaSy16cjJoaXNkOWY2YVo0OA?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFZ4ZkM0THBWUDVqNWlhNzFONnlQSU4zM2FLU21sekhmcnRaTWk1c19WYy1QZ2h4Xzk1ems4aTNfVG1sTm5ZajMxZWFhR3llRFVqeS1OYk1PV3dOWGdvc2lsQkZSSFNwa19CWXY0QmplRUdIQkVGcE0tcXh2clIySmxyczQ2VlBuR1piRHQwWG1OcmpnS0NXRXZTUU5HWjBtZGcyQkRPWjdRNkFaSy16cjJoaXNkOWY2YVo0OA?oc=5",
+      "query": "terceirização julgamento"
     },
     {
       "id": "b8abc0a9843baad677963e093c00b24abb70b9b4",
@@ -1768,6 +2080,18 @@
       "query": "reforma trabalhista"
     },
     {
+      "id": "a77060e17853bf4d4b48e65780de97209d69849a",
+      "titulo": "BMW de luxo e contrato fantasma: os detalhes que levaram à prisão da secretária de Saúde de Palmas",
+      "resumo": "BMW de luxo e contrato fantasma: os detalhes que levaram à prisão da secretária de Saúde de Palmas Daqui",
+      "fonte": "Daqui",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-23T07:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSnhELUlxcEtLdE1XUUtseVE3eFRlZHU2OU13VGlNUjJZM0NYeUhGYVNSMHNvcmpCX2praE5fczZ4S3Y1SDdxSmJ1Zi1QSWNjT0c1V295M1VIUXp4SEFZRVNFenQ1TU00ZDNTY083djZ4cDN2cHZsTXFVQ3NoLVQxbE5yVllxcmJwd3N2MVJ5WHFvdUYtRkMyeC1NZ3VIT2hMUFhXRU9Gakt6MmRXandRU2RpMV81TWU5RE5XWTVKR2ZJcTBuUlRLdEtRZXdCNmpRaFptaGE3cUVnTk0?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSnhELUlxcEtLdE1XUUtseVE3eFRlZHU2OU13VGlNUjJZM0NYeUhGYVNSMHNvcmpCX2praE5fczZ4S3Y1SDdxSmJ1Zi1QSWNjT0c1V295M1VIUXp4SEFZRVNFenQ1TU00ZDNTY083djZ4cDN2cHZsTXFVQ3NoLVQxbE5yVllxcmJwd3N2MVJ5WHFvdUYtRkMyeC1NZ3VIT2hMUFhXRU9Gakt6MmRXandRU2RpMV81TWU5RE5XWTVKR2ZJcTBuUlRLdEtRZXdCNmpRaFptaGE3cUVnTk0?oc=5",
+      "query": "terceirização julgamento"
+    },
+    {
       "id": "995113eb7f5d87452d6684bd47dbe677510b1c9a",
       "titulo": "Entidades empresariais tentam derrubar no STF decisão que garante pausas a maquinistas da Vale",
       "resumo": "Entidades empresariais tentam derrubar no STF decisão que garante pausas a maquinistas da Vale Hora do Povo",
@@ -1804,28 +2128,28 @@
       "query": "TST tese"
     },
     {
-      "id": "32883ef769722581007d64faa606ae746e177731",
-      "titulo": "Para líderes empresariais, mercado de trabalho não se sustenta com o fim imediato da escala 6x1",
-      "resumo": "Para líderes empresariais, mercado de trabalho não se sustenta com o fim imediato da escala 6x1 Debate Jurídico",
-      "fonte": "Debate Jurídico",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-22T11:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1NhalFaMlZ4bTgwQmRGX2wyMG5uSVRGLVlhVlZLNGpzbTNTZlhYQm1BQ2VteHRkY0RaVVRqa21aY2xNWkhCa2d6UldjLWJWZHZoOENoWGd0MTd3bjc4OURlVlpFanc5YTVHX0lFU1Mtd1gyeDY0cktGV0ExRzVtcHJKTHJCZmt5NzkyQ09oSWhiUVliTTMyc1ZWNVhXNFA2Q1lFM3hneW5VOHNZREp5c3U5Tjh1MEdkbXRCTGNTWlU5a3Jxa1Uw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd1NhalFaMlZ4bTgwQmRGX2wyMG5uSVRGLVlhVlZLNGpzbTNTZlhYQm1BQ2VteHRkY0RaVVRqa21aY2xNWkhCa2d6UldjLWJWZHZoOENoWGd0MTd3bjc4OURlVlpFanc5YTVHX0lFU1Mtd1gyeDY0cktGV0ExRzVtcHJKTHJCZmt5NzkyQ09oSWhiUVliTTMyc1ZWNVhXNFA2Q1lFM3hneW5VOHNZREp5c3U5Tjh1MEdkbXRCTGNTWlU5a3Jxa1Uw?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
       "id": "5bf03fca7d9564a7d2282ed4e460ad9327cb8e2c",
       "titulo": "Terceirizada suspensa: Paço proíbe novos contratos com empresa por dívidas trabalhistas",
       "resumo": "Terceirizada suspensa: Paço proíbe novos contratos com empresa por dívidas trabalhistas A Tribuna MT",
       "fonte": "A Tribuna MT",
       "tipo_fonte": "agregador",
       "peso_fonte": 0.4,
-      "data": "2026-08-22T04:30:49.000Z",
+      "data": "2026-08-22T04:46:03.000Z",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPckFITEZYbW1oWVAzb1JXeDEzU0NWZ0tkR0JLNzdKSUhub3Z3WTlzY0s2Nkx1M2h1TXhIeUk4bDZjc3dnQjJ6Q3VmaXFfMFlMSWRTdzJaeTJlNm5odW9QTUVtOFpMVG9ZM0xxWlRFTjlFU0NZdzFZYjVSRTJNWDZYVm9RcTEwaFN0SG1jcGk4cXcwODNvbFduOU9jQ2hQbVJEUnAwMGZicGZoclZuNW94Z0lSV1gzZU55SS16OXRYeEhJSnVVMmZFWm50SE9BSktSclVVYQ?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPckFITEZYbW1oWVAzb1JXeDEzU0NWZ0tkR0JLNzdKSUhub3Z3WTlzY0s2Nkx1M2h1TXhIeUk4bDZjc3dnQjJ6Q3VmaXFfMFlMSWRTdzJaeTJlNm5odW9QTUVtOFpMVG9ZM0xxWlRFTjlFU0NZdzFZYjVSRTJNWDZYVm9RcTEwaFN0SG1jcGk4cXcwODNvbFduOU9jQ2hQbVJEUnAwMGZicGZoclZuNW94Z0lSV1gzZU55SS16OXRYeEhJSnVVMmZFWm50SE9BSktSclVVYQ?oc=5",
       "query": "terceirização julgamento"
+    },
+    {
+      "id": "cec4792cab2a6faeb6dd99c4c1f974cb3f3e966e",
+      "titulo": "Décimo terceiro salário 2026: como calcular e provisionar",
+      "resumo": "Décimo terceiro salário 2026: como calcular e provisionar OMIE",
+      "fonte": "OMIE",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-22T04:04:37.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1lHQVpKaDdPNXVBNVlEX3lLdExXQkpoaTFfV1huOXBqTzVRTFhGTVZlSkN4YVZndUtRMWtodEZwNG81bTU2NUFkZVFaTGRPN2JWZXRWVHdfRUdnSFJUTnYzcEJOZ2JKb21rQVFPai10VTE2cVNPYjZaMzNXaGNRVVY4QTdzbHFj?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON1lHQVpKaDdPNXVBNVlEX3lLdExXQkpoaTFfV1huOXBqTzVRTFhGTVZlSkN4YVZndUtRMWtodEZwNG81bTU2NUFkZVFaTGRPN2JWZXRWVHdfRUdnSFJUTnYzcEJOZ2JKb21rQVFPai10VTE2cVNPYjZaMzNXaGNRVVY4QTdzbHFj?oc=5",
+      "query": "eSocial trabalhista"
     },
     {
       "id": "7657655f3079ae89c0e196cfc98cd8320c48debd",
@@ -1862,18 +2186,6 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOSlBpbDY1Nlh0T0g0UFNyRUFzSE1XTV91Z3U2aG5vZzF5ZmlyU0ZZRHRlVUg4YmRQSzhXZEdOa05qME90ZE90dVdLVDFoOUI1QXY1RVZ0eW9aR1pKSnRncW9Kcm00Wlh5Y1NWUGlJQ1JQZFA1NzBnbw?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOSlBpbDY1Nlh0T0g0UFNyRUFzSE1XTV91Z3U2aG5vZzF5ZmlyU0ZZRHRlVUg4YmRQSzhXZEdOa05qME90ZE90dVdLVDFoOUI1QXY1RVZ0eW9aR1pKSnRncW9Kcm00Wlh5Y1NWUGlJQ1JQZFA1NzBnbw?oc=5",
       "query": "reforma trabalhista"
-    },
-    {
-      "id": "23f62768f5ef28b29fa58c0a44ee5a8a891142c3",
-      "titulo": "Por que a Justiça negou a soltura de investigados no caso das UPAs de Palmas? Entenda o placar acirrado",
-      "resumo": "Por que a Justiça negou a soltura de investigados no caso das UPAs de Palmas? Entenda o placar acirrado daqui.opopular.com.br",
-      "fonte": "daqui.opopular.com.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-21T21:06:22.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZnZYbU5uU2J3bHFqTFotQTR6WTRrMGxnbm45QU9vTTJ6VmEtc2RPV3Ria1hTazVwVHNpS29YMWVwdEZqcHZMSGtxZl8zRWc1WXdnT0pLYUR6RXg4enMtT3NxajBySXFkQWtVcFM0MVhrYlpYR3VybVBCTklDUE1TbWVqdHVKWWdESU1VbEZmVWZROUNIOEZUWkEzQjhZTzRpODF5XzZ6U1BUbUR0U0U2a1lyU0JZaXpudFNFRnRoVzIxZmI5SnJreER1SzN2Y3BhVmZabUdvb3lXcGFsMFR4M2tR?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZnZYbU5uU2J3bHFqTFotQTR6WTRrMGxnbm45QU9vTTJ6VmEtc2RPV3Ria1hTazVwVHNpS29YMWVwdEZqcHZMSGtxZl8zRWc1WXdnT0pLYUR6RXg4enMtT3NxajBySXFkQWtVcFM0MVhrYlpYR3VybVBCTklDUE1TbWVqdHVKWWdESU1VbEZmVWZROUNIOEZUWkEzQjhZTzRpODF5XzZ6U1BUbUR0U0U2a1lyU0JZaXpudFNFRnRoVzIxZmI5SnJreER1SzN2Y3BhVmZabUdvb3lXcGFsMFR4M2tR?oc=5",
-      "query": "terceirização julgamento"
     },
     {
       "id": "2132d4a73801e72b136ff1dbcafa25b860692897",
@@ -1960,6 +2272,18 @@
       "query": "reforma trabalhista"
     },
     {
+      "id": "e33419c9b15dd8d27e7ac7c627d6f31d27fb6f10",
+      "titulo": "Seminário debate o cenário atual e as perspectivas do mercado de trabalho brasileiro",
+      "resumo": "Seminário debate o cenário atual e as perspectivas do mercado de trabalho brasileiro Fundação Getulio Vargas",
+      "fonte": "Fundação Getulio Vargas",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-21T12:00:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnk2eUc1WlhXQUpBVzB5bUt5YmpoaTdGTEpfbjM1ZXVhMHQ2aXd5aWdRMWFEcy1KTDU1MGdUMmNYUWJIODNSNlMtc0dNVmxJVU8xOTZ6dlAwMjJTUVlEUlkySGc1UThEMmlVWDFzMkhpMFl2TDNtZE9zLUV6LWhmTWJYLUl0WXhKUmVFQjc1YVFkc1BmWDdtcjdFTWhNbmJJQkQya3BSa3k2dW5hZlh5cElB?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZnk2eUc1WlhXQUpBVzB5bUt5YmpoaTdGTEpfbjM1ZXVhMHQ2aXd5aWdRMWFEcy1KTDU1MGdUMmNYUWJIODNSNlMtc0dNVmxJVU8xOTZ6dlAwMjJTUVlEUlkySGc1UThEMmlVWDFzMkhpMFl2TDNtZE9zLUV6LWhmTWJYLUl0WXhKUmVFQjc1YVFkc1BmWDdtcjdFTWhNbmJJQkQya3BSa3k2dW5hZlh5cElB?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
       "id": "280dac6f9d6bb0c83c14c68461874e6af7c5dfce",
       "titulo": "Terceirização e pejotização desenfreadas",
       "resumo": "Terceirização e pejotização desenfreadas O TEMPO",
@@ -1982,6 +2306,18 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbkdaTWdDYkhsbXJtM3o2ekdVdy0xRTRMa1FGU0tla0hwWlBtZ1FuNmpNNW5vbkxYX25hZXM1MzdhWnB6d2pJX2EwWWtsQVR2UllpWXotaXVsSGp0WU1SRWlrdVA1dXAzX2NsNWt2TXhNVGxxMUwtbE1wQ3NiTmhxdnhhZFVkZ2Z2bklnQ0hiY09nT0lzc0ZHbXI5Q0MxT2VRWjcyNFRrM3V3VzUtczNXSWVkS2MzT0xDaFpIempfY3Nnby1u0gHKAUFVX3lxTE83WDBhS2E0bU1oZkE4bzRyNlhtZW4xa3FrUzBVVDVLbVE3NEtzbHpqRkQ5YW5SUkZ1c3VzMlAwUmw1MFdoYUtlT3R3UlRpZmQ1WW9XaEhlbmJHbWQwS2Y2b2tMT1gzY0VUbFpEd3ZqSExaU2g4SHZDT0IxOXR6V1hjeUhRaGpBTmV1T3VoYV9NbmJIRjh6TVNTTnpKVUlMVVg4ZDA0SEdxR19IRmNORWt3QWZsXzFldGdmRjVlWDJfa09NNU4xTEdhWUE?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbkdaTWdDYkhsbXJtM3o2ekdVdy0xRTRMa1FGU0tla0hwWlBtZ1FuNmpNNW5vbkxYX25hZXM1MzdhWnB6d2pJX2EwWWtsQVR2UllpWXotaXVsSGp0WU1SRWlrdVA1dXAzX2NsNWt2TXhNVGxxMUwtbE1wQ3NiTmhxdnhhZFVkZ2Z2bklnQ0hiY09nT0lzc0ZHbXI5Q0MxT2VRWjcyNFRrM3V3VzUtczNXSWVkS2MzT0xDaFpIempfY3Nnby1u0gHKAUFVX3lxTE83WDBhS2E0bU1oZkE4bzRyNlhtZW4xa3FrUzBVVDVLbVE3NEtzbHpqRkQ5YW5SUkZ1c3VzMlAwUmw1MFdoYUtlT3R3UlRpZmQ1WW9XaEhlbmJHbWQwS2Y2b2tMT1gzY0VUbFpEd3ZqSExaU2g4SHZDT0IxOXR6V1hjeUhRaGpBTmV1T3VoYV9NbmJIRjh6TVNTTnpKVUlMVVg4ZDA0SEdxR19IRmNORWt3QWZsXzFldGdmRjVlWDJfa09NNU4xTEdhWUE?oc=5",
       "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "e931108cfb0b8a6eccc150dc9aaf242a97185765",
+      "titulo": "Por que a Justiça negou a soltura de investigados no caso das UPAs de Palmas? Entenda o placar acirrado",
+      "resumo": "Por que a Justiça negou a soltura de investigados no caso das UPAs de Palmas? Entenda o placar acirrado Jornal do Tocantins",
+      "fonte": "Jornal do Tocantins",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-21T09:00:53.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbW9sMnV6Rl8zZm1JckhCRUZsRVl2d0gtc19rVm41M0JSSC1xSFE2bGR5V29YRmFhMTZQVF9OazdXZy11eWtTQ01NRmxaclJVT1Jmd29oTmlCZndDUTFtT2I5Vnd4VVdHbUU0c2tJTmN1bmF3OU5JMnJRUlZMMksyMTJ5dkltcEdUbmhYcERTcXUzWlhRQlJ1MHpyc2Zrd3REbFdhS0dRbUVydkZLQ21MMHMwTU4tTFdMdDZla0JLS1E1RWpJX0xTclk4NHo0bmdhN09rUHktSzUyQkR4Vm5GMFlEc05BT3M2eHV5bjR6OA?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbW9sMnV6Rl8zZm1JckhCRUZsRVl2d0gtc19rVm41M0JSSC1xSFE2bGR5V29YRmFhMTZQVF9OazdXZy11eWtTQ01NRmxaclJVT1Jmd29oTmlCZndDUTFtT2I5Vnd4VVdHbUU0c2tJTmN1bmF3OU5JMnJRUlZMMksyMTJ5dkltcEdUbmhYcERTcXUzWlhRQlJ1MHpyc2Zrd3REbFdhS0dRbUVydkZLQ21MMHMwTU4tTFdMdDZla0JLS1E1RWpJX0xTclk4NHo0bmdhN09rUHktSzUyQkR4Vm5GMFlEc05BT3M2eHV5bjR6OA?oc=5",
+      "query": "terceirização julgamento"
     },
     {
       "id": "0cbaa5637dac34a78c099a293d56956a34e276c9",
@@ -2044,6 +2380,18 @@
       "query": "reforma trabalhista"
     },
     {
+      "id": "69e4b8c17078f44051394797a11e6a31c4c2943d",
+      "titulo": "Plenário do STF confirma suspensão de sanções sobre riscos psicossociais no trabalho",
+      "resumo": "Plenário do STF confirma suspensão de sanções sobre riscos psicossociais no trabalho stf noticias",
+      "fonte": "stf noticias",
+      "tipo_fonte": "tribunal",
+      "peso_fonte": 1,
+      "data": "2026-08-20T21:10:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlhXS2U2OWFEdFR1emhXUl9TVC1CUUg5UExkVl9CMjAtc0FZNEk3VnNIbzNHSmh4emI1R2ZLdnRBSEdLQ1RCNFZPTFBxQXc2SjVfZllWYS1qZ0xUbElLRzlyUThSUHRCeUNnVTZDN0xOcmVTdXVMQnlJWldCR290Y3FjZlFuSXg1ZTZCOE9CVWd1elZ5MTNYaWJWX2h0a0dYcmU5bGRMbHlGSFNBS0hzRUhsdkhpdFFCZURmM0ZDdWFZVXU2Snc?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMlhXS2U2OWFEdFR1emhXUl9TVC1CUUg5UExkVl9CMjAtc0FZNEk3VnNIbzNHSmh4emI1R2ZLdnRBSEdLQ1RCNFZPTFBxQXc2SjVfZllWYS1qZ0xUbElLRzlyUThSUHRCeUNnVTZDN0xOcmVTdXVMQnlJWldCR290Y3FjZlFuSXg1ZTZCOE9CVWd1elZ5MTNYaWJWX2h0a0dYcmU5bGRMbHlGSFNBS0hzRUhsdkhpdFFCZURmM0ZDdWFZVXU2Snc?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
       "id": "8ec6e8f594c947497682d7b3ebe191afae15e927",
       "titulo": "Congresso de Juristas discutirá pejotização, direito previdenciário e criminal",
       "resumo": "Congresso de Juristas discutirá pejotização, direito previdenciário e criminal G1",
@@ -2068,6 +2416,18 @@
       "query": "terceirização julgamento"
     },
     {
+      "id": "42f419ea37531400abd1e0ea6928d9de70dbaacf",
+      "titulo": "Justiça suspende demissões nas Casas Bahia",
+      "resumo": "Justiça suspende demissões nas Casas Bahia sindmetalsjc.org.br",
+      "fonte": "sindmetalsjc.org.br",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-20T18:45:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhTNkZmRzY4cmNKOGhQMXhEU25ZZ0EzX2JGamNrLUIzbXpOZ3Z1anlBQVRaM05pSzBGdVB4REMzaTdzREpTdjliNUpzV0xrdnBnT2ZZT0w3ZmpuSGFuanFpbXRyQTM3U2RMV0hKcTdJcXdjVEVxa0Fwd0FPbXFRbk8yX1hSNTA1?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhTNkZmRzY4cmNKOGhQMXhEU25ZZ0EzX2JGamNrLUIzbXpOZ3Z1anlBQVRaM05pSzBGdVB4REMzaTdzREpTdjliNUpzV0xrdnBnT2ZZT0w3ZmpuSGFuanFpbXRyQTM3U2RMV0hKcTdJcXdjVEVxa0Fwd0FPbXFRbk8yX1hSNTA1?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
       "id": "399b84097c2adefc71ca64149282b7c6faa042d5",
       "titulo": "Justiça suspende demissões em massa das Casas Bahia e determina reintegração de trabalhadores",
       "resumo": "Justiça suspende demissões em massa das Casas Bahia e determina reintegração de trabalhadores Jornal Grande Bahia",
@@ -2089,18 +2449,6 @@
       "data": "2026-08-20T17:51:23.000Z",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3JpLU1mQk1uYzYwdG93UWxDSmV2b2ZkZkdZNU8zS191MnQ3dmlnS2tublNDWnE2ZFU0N3ZZekctMFJzb3BSbjF2NVBudXg2cjdLMktQV0dvVHZPdi1nakdoTGQ2dEhKaDZMZ0ZVZVlDeEJFNmJ6aXFfRnJ3cU96d1FEM1VNMURfd3BpTjRXdmhtdmFCNTV0Y2ZSdjlGRVNhSmtTNWwyVnM5OVdQek5hYUJpNGhiMjR2WURXZmN1QUtjRG9WajBJbUJGWm5fRFh5M0x2TmprOERyOWpDdUF3?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa3JpLU1mQk1uYzYwdG93UWxDSmV2b2ZkZkdZNU8zS191MnQ3dmlnS2tublNDWnE2ZFU0N3ZZekctMFJzb3BSbjF2NVBudXg2cjdLMktQV0dvVHZPdi1nakdoTGQ2dEhKaDZMZ0ZVZVlDeEJFNmJ6aXFfRnJ3cU96d1FEM1VNMURfd3BpTjRXdmhtdmFCNTV0Y2ZSdjlGRVNhSmtTNWwyVnM5OVdQek5hYUJpNGhiMjR2WURXZmN1QUtjRG9WajBJbUJGWm5fRFh5M0x2TmprOERyOWpDdUF3?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
-      "id": "942509f5dfc6f7f45b62352c259c03381e993cc0",
-      "titulo": "Opinião: Depois de mais de uma década de retração, sindicatos brasileiros respiram",
-      "resumo": "Opinião: Depois de mais de uma década de retração, sindicatos brasileiros respiram CSB Central dos Sindicatos Brasileiros",
-      "fonte": "CSB Central dos Sindicatos Brasileiros",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-20T16:40:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TVDZoQS1DOWczWkpxSy1TSTN5eUNVbXpxWmpDdldtZkhfT3h6d0JqbkI1SnBPMllqc2s1Y2kzUllMSk8tQVQyUC16VmhTeGdvUFVOaEw2aGhtOF9zY3hLdGpadUtMN3NPSXc?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TVDZoQS1DOWczWkpxSy1TSTN5eUNVbXpxWmpDdldtZkhfT3h6d0JqbkI1SnBPMllqc2s1Y2kzUllMSk8tQVQyUC16VmhTeGdvUFVOaEw2aGhtOF9zY3hLdGpadUtMN3NPSXc?oc=5",
       "query": "reforma trabalhista"
     },
     {
@@ -2140,15 +2488,27 @@
       "query": "justiça do trabalho decisão"
     },
     {
-      "id": "5e8182931f09112222d9a87982c3c1de12943c1a",
-      "titulo": "Justiça suspende demissões coletivas das Casas Bahia",
-      "resumo": "Justiça suspende demissões coletivas das Casas Bahia Migalhas",
-      "fonte": "Migalhas",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-19T18:33:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORjdXWUhKclpFRGZuTm5vSHNrZVd6M2p3ckIyMjdRNWxwRXBLekZya2xxdWgwT1RXY0dYQUt4alVqaDJ2eGExOElFTlQyNnNteGFMLW40NEdmR3hDYllvenBlRkk1Vlhwd0JWN1lmYzNyWFl6SjdKR0FkUVFkN1UtRThNSmtJMEFmOFpFdi1tbjBhM1U3S0g4ZC0xTQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORjdXWUhKclpFRGZuTm5vSHNrZVd6M2p3ckIyMjdRNWxwRXBLekZya2xxdWgwT1RXY0dYQUt4alVqaDJ2eGExOElFTlQyNnNteGFMLW40NEdmR3hDYllvenBlRkk1Vlhwd0JWN1lmYzNyWFl6SjdKR0FkUVFkN1UtRThNSmtJMEFmOFpFdi1tbjBhM1U3S0g4ZC0xTQ?oc=5",
+      "id": "04ed1b4c7f5967f2caaccf2af1e31d642b9a0fac",
+      "titulo": "CLT não obriga férias em um só bloco: até 3 períodos são permitidos, com 14 dias no maior e 5 dias nos demais, segundo a lei",
+      "resumo": "CLT não obriga férias em um só bloco: até 3 períodos são permitidos, com 14 dias no maior e 5 dias nos demais, segundo a lei O Antagonista",
+      "fonte": "O Antagonista",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-20T10:13:00.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWFlEV2lpRzFERFlES1RwRnh2clZ3VUZYekJjMl9tR05keU1MTWlSQ0FEVk1kcDUtMnN4YnloSlFtekdQQkliX0h6ZUdtUXd1YnVwSjhKTmxCZ0swM081SGxEejdENlVZeVZFYmpCMExFWW1NSEJJTXl5S1gtVW01cGdlRnEtcWk1cUhzdXY3ZHVsOU1EZE9vS3I0bXQ3d1psaVZmWjAzMlNndC1tZ0hfVkVTWjlXVm4wT2l1d3lwNlJiSXZpZkpjUm5taWNrQUIxcEJhMGNacy1sM3BOM3dacUpYeWstcWpfT1JsSENEWTFNQmdHcEN2SUY0a1Axbm1zM3c?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWFlEV2lpRzFERFlES1RwRnh2clZ3VUZYekJjMl9tR05keU1MTWlSQ0FEVk1kcDUtMnN4YnloSlFtekdQQkliX0h6ZUdtUXd1YnVwSjhKTmxCZ0swM081SGxEejdENlVZeVZFYmpCMExFWW1NSEJJTXl5S1gtVW01cGdlRnEtcWk1cUhzdXY3ZHVsOU1EZE9vS3I0bXQ3d1psaVZmWjAzMlNndC1tZ0hfVkVTWjlXVm4wT2l1d3lwNlJiSXZpZkpjUm5taWNrQUIxcEJhMGNacy1sM3BOM3dacUpYeWstcWpfT1JsSENEWTFNQmdHcEN2SUY0a1Axbm1zM3c?oc=5",
+      "query": "reforma trabalhista"
+    },
+    {
+      "id": "c79cb837423d228a4770fd8673af0dcbd10c0c41",
+      "titulo": "Justiça determina que Casas Bahia reverta demissões",
+      "resumo": "Justiça determina que Casas Bahia reverta demissões Associação Comercial e Industrial de Araçatuba",
+      "fonte": "Associação Comercial e Industrial de Araçatuba",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-20T06:22:52.000Z",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zeWVUZkI2Nm1TTEs3dUN3NGpoR3JwejZGQlVpeGI2ZkxLckVpNlJpRUt3ZlZ4T0VUTXF2dnBnbUREV3V6UVU0bFE4TmFEOXpzOUpPcjZhTkpTZ21zemREQmdabnc0cEdidTdFSTdYOA?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zeWVUZkI2Nm1TTEs3dUN3NGpoR3JwejZGQlVpeGI2ZkxLckVpNlJpRUt3ZlZ4T0VUTXF2dnBnbUREV3V6UVU0bFE4TmFEOXpzOUpPcjZhTkpTZ21zemREQmdabnc0cEdidTdFSTdYOA?oc=5",
       "query": "justiça do trabalho decisão"
     },
     {
@@ -2173,6 +2533,18 @@
       "data": "2026-08-20T02:50:15.000Z",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlRSTzl5T3dsSGZhd2VWUF9WX0Y1dTFIX0czREdHUWoySEVoZVpyLTJscV9IV3BGRWhOdnJxa1V6LVJFc1VoVGZDMGNhWFltYU83bDY3Z3R6UndyY0V6YnVCZXVsQXZQY2NRNkdQYmRSM1dfMjJPNHZhQk9uV1kxYURkMWhaZF9aSS01VlZIQU11YTQ1U1pHZTVvTlY0Vk3SAacBQVVfeXFMUC14cWlYaHUwbzFKUVE3di1aYXF0dGJLR2Y2SnJ6MC1GVFNVa2YteEhfYlRyS094TS1GNXN1dDhDNlBKMkpCODZuaW1nNjJkZ3dlaHpsSFZCSml6Qkk2V2hoajhhNUxKUGtiMzc1VDVXWE5KQjJMSFIzOGNuNHdzN2dHU0g2MTZyc053ajNhSlVyQS1wWHRkbVNyb1EwcjdZQVkzNXlKMzA?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSlRSTzl5T3dsSGZhd2VWUF9WX0Y1dTFIX0czREdHUWoySEVoZVpyLTJscV9IV3BGRWhOdnJxa1V6LVJFc1VoVGZDMGNhWFltYU83bDY3Z3R6UndyY0V6YnVCZXVsQXZQY2NRNkdQYmRSM1dfMjJPNHZhQk9uV1kxYURkMWhaZF9aSS01VlZIQU11YTQ1U1pHZTVvTlY0Vk3SAacBQVVfeXFMUC14cWlYaHUwbzFKUVE3di1aYXF0dGJLR2Y2SnJ6MC1GVFNVa2YteEhfYlRyS094TS1GNXN1dDhDNlBKMkpCODZuaW1nNjJkZ3dlaHpsSFZCSml6Qkk2V2hoajhhNUxKUGtiMzc1VDVXWE5KQjJMSFIzOGNuNHdzN2dHU0g2MTZyc053ajNhSlVyQS1wWHRkbVNyb1EwcjdZQVkzNXlKMzA?oc=5",
+      "query": "justiça do trabalho decisão"
+    },
+    {
+      "id": "944fe42e86d4f09fd4e0f8263dbbf8e565bb459d",
+      "titulo": "Escala 6x1 entra no radar da Justiça enquanto empresas se preparam para mudanças",
+      "resumo": "Escala 6x1 entra no radar da Justiça enquanto empresas se preparam para mudanças Consumidor Moderno",
+      "fonte": "Consumidor Moderno",
+      "tipo_fonte": "agregador",
+      "peso_fonte": 0.4,
+      "data": "2026-08-19T22:23:48.000Z",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00VzRFTnF5ejE0V1VEc3BjbUxzV3h3WHZfMWJEM21veDBmZm4tbDNOMHlwMEQ5T2JsUnpXODRZMGVZaGhXa05ENjlSUHBkQ2ktcjJLaHlneDJqZl83cnpxVDY4Wmo5a2N2NzZCMGZn?oc=5",
+      "url_canonica": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00VzRFTnF5ejE0V1VEc3BjbUxzV3h3WHZfMWJEM21veDBmZm4tbDNOMHlwMEQ5T2JsUnpXODRZMGVZaGhXa05ENjlSUHBkQ2ktcjJLaHlneDJqZl83cnpxVDY4Wmo5a2N2NzZCMGZn?oc=5",
       "query": "justiça do trabalho decisão"
     },
     {
@@ -2222,306 +2594,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFNYS0toRGFLUnBDakhvQVI4SVJHUl9ma2F3ekxZeHNMd051Y2pydURNOF8xbTdmUFJNUlIyeFhRSVRuN0hkVzFxN1pETnJJdWxFd1pYU3B0TWd6cEU1OUhvZV9mTGtfVVFrOWpfRGRqaUVHN2hoeTBJakFGZHEzSEE4R2JNcF9PT01BSWdaUDJ1UktxWXFoYjBUdEVsM2p4dHk0OTlnN21kYk1BSHc?oc=5",
       "url_canonica": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTFNYS0toRGFLUnBDakhvQVI4SVJHUl9ma2F3ekxZeHNMd051Y2pydURNOF8xbTdmUFJNUlIyeFhRSVRuN0hkVzFxN1pETnJJdWxFd1pYU3B0TWd6cEU1OUhvZV9mTGtfVVFrOWpfRGRqaUVHN2hoeTBJakFGZHEzSEE4R2JNcF9PT01BSWdaUDJ1UktxWXFoYjBUdEVsM2p4dHk0OTlnN21kYk1BSHc?oc=5",
       "query": "reforma trabalhista"
-    },
-    {
-      "id": "723e144ade66fbd24a00310218b8cd7f13a1f9e5",
-      "titulo": "Demissões Nas Casas Bahia São Suspensas Pela Justiça Do Trabalho",
-      "resumo": "Demissões Nas Casas Bahia São Suspensas Pela Justiça Do Trabalho ABC Agora",
-      "fonte": "ABC Agora",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T21:52:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWWmZnZnVnelprSVR6eEZBaGdVWkpRclBXbjlvWEFiYzk4UVhXa0IyaWRxUEl4Sk1neVBCRml5aUNuZUp5WFMyZk84Q0hoT0Z1WDExd0N3ZHlEdTUwQVFLOVhjcm1VcnoyejZEa0FoeGVaV1NLTFlsTA?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWWmZnZnVnelprSVR6eEZBaGdVWkpRclBXbjlvWEFiYzk4UVhXa0IyaWRxUEl4Sk1neVBCRml5aUNuZUp5WFMyZk84Q0hoT0Z1WDExd0N3ZHlEdTUwQVFLOVhjcm1VcnoyejZEa0FoeGVaV1NLTFlsTA?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "39c207779f40e4069b5ecc4eff11fc883853169f",
-      "titulo": "Prova trabalhista: como conversas no WhatsApp podem ser usadas na Justiça | SEGS Portal Nacional de...",
-      "resumo": "Prova trabalhista: como conversas no WhatsApp podem ser usadas na Justiça | SEGS Portal Nacional de... SEGS Portal Nacional",
-      "fonte": "SEGS Portal Nacional",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T21:13:45.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemRIYURUN2dFZVFUNVVDYmJQR1o4UXFoYkZqMzZtUGVNSWtaN2U2SXRxemJfQjVMc1RXeU1kNDEydmJ1TFhnUW9qWjQtZllHN20tUUxqTmFDT0VfUDd1UDBzN3FoYTdVUUNCU3FXTWdXWk5LX1V5dTBmQzhxNnRqWjg0UUtDWWx1NnpVTHJfaXc5d3NIR2NydGpsY1FjejdoZ2pOcWlvWFR4UFRQN2dMVNIBtgFBVV95cUxOTmpwTVQ3SS1FcGN1UzdDUXNPM1dDdmJhVjdQdTlwaFVuVGZyMHNoYm1xU004cUhyaXdUYk12SU5DMUMtQ1U4d0R2dU52VVdPY3VWRHFPZC1SdE1JZTdkRzVpemcxU3lWa0NVSkNoaWQzZnMtdzFaeXNON2gzTVBHdnRSR09DVHRTVkxTMGhVYll1YzZySWo4WEdVQTZPZHRxSXQ3RWxub1pnSVpuajRwS29pUEhiUQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPemRIYURUN2dFZVFUNVVDYmJQR1o4UXFoYkZqMzZtUGVNSWtaN2U2SXRxemJfQjVMc1RXeU1kNDEydmJ1TFhnUW9qWjQtZllHN20tUUxqTmFDT0VfUDd1UDBzN3FoYTdVUUNCU3FXTWdXWk5LX1V5dTBmQzhxNnRqWjg0UUtDWWx1NnpVTHJfaXc5d3NIR2NydGpsY1FjejdoZ2pOcWlvWFR4UFRQN2dMVNIBtgFBVV95cUxOTmpwTVQ3SS1FcGN1UzdDUXNPM1dDdmJhVjdQdTlwaFVuVGZyMHNoYm1xU004cUhyaXdUYk12SU5DMUMtQ1U4d0R2dU52VVdPY3VWRHFPZC1SdE1JZTdkRzVpemcxU3lWa0NVSkNoaWQzZnMtdzFaeXNON2gzTVBHdnRSR09DVHRTVkxTMGhVYll1YzZySWo4WEdVQTZPZHRxSXQ3RWxub1pnSVpuajRwS29pUEhiUQ?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "4530a52e3cf001714442c29a9595453b1c7b647d",
-      "titulo": "TCE manda grupo devolver R$ 7,4 milhões por suposto esquema na saúde de três cidades de PE",
-      "resumo": "TCE manda grupo devolver R$ 7,4 milhões por suposto esquema na saúde de três cidades de PE Diario de Pernambuco",
-      "fonte": "Diario de Pernambuco",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T21:05:42.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWmpDOVZ5OGpMMTduRUI5dFFNTnVfYklZUUJLNzgyb21yeURobmtsUzJGZXpVczc3czczeXlKOS1STjNsM2ZVdHJGWWlObFAzV2NILVU2dG1yanlKdE11ajR1NUNNQmEyb3Z6MTJkT0VRM2ZQNlRzVFpvZkl0cnkwUnpwX1VSbFBlb1Z4YzFaWHRuQkhYTVNHYktuNGFqOXphVFIybnhwQmpvOVVRQVlIMkIzRnlFZW5uZWpoZVJmWGtVVUw5amdrcXJHTDI0b1paY25HVXdzcmpvSTdOMlI3UkxETjhmaVhlaXRVTHpBYlgzLWMxQlFnNA?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWmpDOVZ5OGpMMTduRUI5dFFNTnVfYklZUUJLNzgyb21yeURobmtsUzJGZXpVczc3czczeXlKOS1STjNsM2ZVdHJGWWlObFAzV2NILVU2dG1yanlKdE11ajR1NUNNQmEyb3Z6MTJkT0VRM2ZQNlRzVFpvZkl0cnkwUnpwX1VSbFBlb1Z4YzFaWHRuQkhYTVNHYktuNGFqOXphVFIybnhwQmpvOVVRQVlIMkIzRnlFZW5uZWpoZVJmWGtVVUw5amdrcXJHTDI0b1paY25HVXdzcmpvSTdOMlI3UkxETjhmaVhlaXRVTHpBYlgzLWMxQlFnNA?oc=5",
-      "query": "terceirização julgamento"
-    },
-    {
-      "id": "7eaf99856301e45a072aae47fc87f6022dd04fd9",
-      "titulo": "Workshop aborda erros trabalhistas das empresas",
-      "resumo": "Workshop aborda erros trabalhistas das empresas Sinduscon-SP",
-      "fonte": "Sinduscon-SP",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T19:46:48.000Z",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDlLMW00LVJVWktELUdJUlNkSW9JYnVIS1otQUJTZkJMcF84R3lrTUNHU05SZHg0UXBWVEo4dExvc1pkaVBCNVM3TUFGUHN4VVY3cVdvOXVKejBfcGV0c1ZSX3kzSzJ3ZTdQZGt1M2dybjgtQnpTcE5OX1RybEFlRw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaDlLMW00LVJVWktELUdJUlNkSW9JYnVIS1otQUJTZkJMcF84R3lrTUNHU05SZHg0UXBWVEo4dExvc1pkaVBCNVM3TUFGUHN4VVY3cVdvOXVKejBfcGV0c1ZSX3kzSzJ3ZTdQZGt1M2dybjgtQnpTcE5OX1RybEFlRw?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
-      "id": "807a059a8bce92c542cf12fa6bb80c88b8d8e01a",
-      "titulo": "Bancários da Baixada Santista aderem a paralisação nesta quinta-feira (20) a favor de Campanha Salarial",
-      "resumo": "Bancários da Baixada Santista aderem a paralisação nesta quinta-feira (20) a favor de Campanha Salarial THMais",
-      "fonte": "THMais",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T19:43:17.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPM3kxTmI1NDZuWTlZV2xIZVJyYUhrZEZQOUo5TFlTclJXUjJJU0hQcVBDYTdkMVNvT2RjZG1mblM1N0F3SGpiblVoQmwwVlgwaTl1UGp5QjMzLWVKa0ozd296T0w3bURyVUZ3d1ZsdUo4Y043ZzN0VU5wOWdxOGl5aWg3WXQ0N1doY2NVSmx1UmZtMUpsQ09uUUpCOVlfSUU2NEpON0NJU1lDaHZvc0ptaEJtR0RBUWc2MVJUSXlzVDFXVGdTRFVLNzJ2bXJGdUVlMF81VFM5TTdxdlRrbGdFU0gxaDUzb2xmTWdtNThpdE9CZkZTdnFBY1NmYTBhWDdvRVo3NkxFNXh1S2RneDIxYWtGaGR3d1FWRjRqZXk1YUdyNGVTTlo4?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPM3kxTmI1NDZuWTlZV2xIZVJyYUhrZEZQOUo5TFlTclJXUjJJU0hQcVBDYTdkMVNvT2RjZG1mblM1N0F3SGpiblVoQmwwVlgwaTl1UGp5QjMzLWVKa0ozd296T0w3bURyVUZ3d1ZsdUo4Y043ZzN0VU5wOWdxOGl5aWg3WXQ0N1doY2NVSmx1UmZtMUpsQ09uUUpCOVlfSUU2NEpON0NJU1lDaHZvc0ptaEJtR0RBUWc2MVJUSXlzVDFXVGdTRFVLNzJ2bXJGdUVlMF81VFM5TTdxdlRrbGdFU0gxaDUzb2xmTWdtNThpdE9CZkZTdnFBY1NmYTBhWDdvRVo3NkxFNXh1S2RneDIxYWtGaGR3d1FWRjRqZXk1YUdyNGVTTlo4?oc=5",
-      "query": "reforma trabalhista"
-    },
-    {
-      "id": "7c06912ff7fcb94a36debf62a02da6cee7dcf624",
-      "titulo": "Justiça suspende demissão coletiva no Grupo Casas Bahia",
-      "resumo": "Justiça suspende demissão coletiva no Grupo Casas Bahia JOTA Info",
-      "fonte": "JOTA Info",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-19T19:20:55.000Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RvZERTakxiT3NJUi1xb0s1cHVLMWhpeWlsNzJDcFdCUzZZSE9HS0F6SjZHcWVaVnFWeGlGNlNDUlM1d2ZmcGVQdkE0ZllscXp2WEFLX1pCdEt5Nm5NTV85UjZuR0R1bHNlZk1KUHJaQWNmWHgtSjU5YUJPdlVtYlN6MURBV3hBTTlYeGVXVQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV1RvZERTakxiT3NJUi1xb0s1cHVLMWhpeWlsNzJDcFdCUzZZSE9HS0F6SjZHcWVaVnFWeGlGNlNDUlM1d2ZmcGVQdkE0ZllscXp2WEFLX1pCdEt5Nm5NTV85UjZuR0R1bHNlZk1KUHJaQWNmWHgtSjU5YUJPdlVtYlN6MURBV3hBTTlYeGVXVQ?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "1dad11b5fda891439d1cc2cfd968c23af08eb9a1",
-      "titulo": "Justiça determina que Casas Bahia reverta demissão de 1,9 mil trabalhadores",
-      "resumo": "Justiça determina que Casas Bahia reverta demissão de 1,9 mil trabalhadores Hora do Povo",
-      "fonte": "Hora do Povo",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T19:17:04.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQU5MUVhhcXlnSFBJN0I3cmdjMFM5bEl0OEtHWkQ1eWZVVjdJOHdYcWVWOUhVTHJySkRZSDdfd3JBMWh0Z01QS25PUnUtVEJtcl9ybkJEaURtX0lTdnpjNV9WaUVudHY0M282UUNlYjNYRFJPTnA4cTh2ZjZtNEZNNDNrYjh2dXdoUGcyV09rTlBCRS1MbkRZQU9NaDVVQXZjQlM4?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQU5MUVhhcXlnSFBJN0I3cmdjMFM5bEl0OEtHWkQ1eWZVVjdJOHdYcWVWOUhVTHJySkRZSDdfd3JBMWh0Z01QS25PUnUtVEJtcl9ybkJEaURtX0lTdnpjNV9WaUVudHY0M282UUNlYjNYRFJPTnA4cTh2ZjZtNEZNNDNrYjh2dXdoUGcyV09rTlBCRS1MbkRZQU9NaDVVQXZjQlM4?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "daf2f713e5f0a06b82b84dc0d0c74842c8aa103c",
-      "titulo": "Após 3 mil demissões, Casas Bahia (BHIA3) é obrigada a recontratar equipe e pode ser multada pela Justiça; quais são os direitos dos funcionários?",
-      "resumo": "Após 3 mil demissões, Casas Bahia (BHIA3) é obrigada a recontratar equipe e pode ser multada pela Justiça; quais são os direitos dos funcionários? Seu Dinheiro",
-      "fonte": "Seu Dinheiro",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T19:10:01.000Z",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNUVaVEVza1VrLXRya2J2V2FCdkZxNjQ1UmR2QXZBVUZMdng1RkJTVUhKM0FDT09FczdvNW51R2hTNjRUU1lsc1l1Z3JnMVpmSjkyMmt5Y0JpRGNkSl9VNmhLb25OaXV5Y2IteFBfZk5wTHJVSlo3R1UybWlONmo2bzVJazZ5S25tZmFwT3BTYmlZaFZ6Q1NXZ1diVThSYy02bVNROEFmOXMwSVFtNWhZbEpkd21rbG0zczREQ2dqQmsydGpQVG9pNFhsU3AzdnZqYzA1cnRTbzhoaWNXUUFiTlZBV0xPNXlsbUpuZHV5V2lqNzZBTENhZFhxcmpUYzVqdnBpaV9ETE0wMkFwVmlZeW5xdkxqOXlPbXc?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNUVaVEVza1VrLXRya2J2V2FCdkZxNjQ1UmR2QXZBVUZMdng1RkJTVUhKM0FDT09FczdvNW51R2hTNjRUU1lsc1l1Z3JnMVpmSjkyMmt5Y0JpRGNkSl9VNmhLb25OaXV5Y2IteFBfZk5wTHJVSlo3R1UybWlONmo2bzVJazZ5S25tZmFwT3BTYmlZaFZ6Q1NXZ1diVThSYy02bVNROEFmOXMwSVFtNWhZbEpkd21rbG0zczREQ2dqQmsydGpQVG9pNFhsU3AzdnZqYzA1cnRTbzhoaWNXUUFiTlZBV0xPNXlsbUpuZHV5V2lqNzZBTENhZFhxcmpUYzVqdnBpaV9ETE0wMkFwVmlZeW5xdkxqOXlPbXc?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "10a829c86cecd1ed5abe66a4ba04fc5ab3265b4d",
-      "titulo": "Documentário que resgata greve de cozinheiros estreia em Santos",
-      "resumo": "Documentário que resgata greve de cozinheiros estreia em Santos Santa Portal",
-      "fonte": "Santa Portal",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T19:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVC1rRWxtWXMxZndTbW9fQXZtUmtGT1QzdFpjYVo3cGIySlQ5LXJoRDFTVTMzQl9wRVpTV18xa0F0bUh4bWE1WFJyMDhnVTVyczZGVkdkVWExRVNaLUYzODdJT2Vabk1TekVuNXhSV0hoVUdXZUduR1A0RklmWmY2YVdSQzlIc3AwZ2swSjllaWFwTjhCU1VGR1h3YXVwY1pj?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVC1rRWxtWXMxZndTbW9fQXZtUmtGT1QzdFpjYVo3cGIySlQ5LXJoRDFTVTMzQl9wRVpTV18xa0F0bUh4bWE1WFJyMDhnVTVyczZGVkdkVWExRVNaLUYzODdJT2Vabk1TekVuNXhSV0hoVUdXZUduR1A0RklmWmY2YVdSQzlIc3AwZ2swSjllaWFwTjhCU1VGR1h3YXVwY1pj?oc=5",
-      "query": "terceirização julgamento"
-    },
-    {
-      "id": "c29b5d24e9e660fc37abc08e02fa82f39f3eeca3",
-      "titulo": "Casas Bahia: liminar suspende demissões e afeta MS",
-      "resumo": "Casas Bahia: liminar suspende demissões e afeta MS Campo Grande News",
-      "fonte": "Campo Grande News",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T18:57:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDdvV3FBUnBzQ2xGai1IQTRJSTlBcXFSVGRXVC00VlMyLUx0cTZxeGw4SFhFeFQ3NUVPWGJlc1BHR3RlWUtrWnY0eGRwNDhSRk1lUm5FQk5YaGZNWFN5V3NIdUZQQUN6Z1hWNTV5bXVLRnFyaVJaMjdESWo4SlpXLTBNSzZfNHhFbUFEZ1FqV3NSMzFsUlBac3N6WU1taC1obVNQcFltbWJPUEFtdTBvaERVVGRJU2Jz0gG4AUFVX3lxTE1VbWk5N09YNDFCRkZUQXJjdFF0b04xUmJZUEJHVTRDaEZLcjlSRURjTzRDUGlLdWMwMGlCR2hNWlVOanJha2xXOWtVLWxmaDlnNWFvOWpLVUhwVnRVYk1aUWFoV3JpdXlETDNYQlNtNG1Nd2lQdTk5OENlNlRLWmg2TjdnLWFzRlVYRTlSbzRJemJWRWtVUG5ZbENNMEtGTFYtSjVqbnZBc1RHb1dYME8tQUp1a1BKU2Y?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDdvV3FBUnBzQ2xGai1IQTRJSTlBcXFSVGRXVC00VlMyLUx0cTZxeGw4SFhFeFQ3NUVPWGJlc1BHR3RlWUtrWnY0eGRwNDhSRk1lUm5FQk5YaGZNWFN5V3NIdUZQQUN6Z1hWNTV5bXVLRnFyaVJaMjdESWo4SlpXLTBNSzZfNHhFbUFEZ1FqV3NSMzFsUlBac3N6WU1taC1obVNQcFltbWJPUEFtdTBvaERVVGRJU2Jz0gG4AUFVX3lxTE1VbWk5N09YNDFCRkZUQXJjdFF0b04xUmJZUEJHVTRDaEZLcjlSRURjTzRDUGlLdWMwMGlCR2hNWlVOanJha2xXOWtVLWxmaDlnNWFvOWpLVUhwVnRVYk1aUWFoV3JpdXlETDNYQlNtNG1Nd2lQdTk5OENlNlRLWmg2TjdnLWFzRlVYRTlSbzRJemJWRWtVUG5ZbENNMEtGTFYtSjVqbnZBc1RHb1dYME8tQUp1a1BKU2Y?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "cd17df3692fca6ed3be526255a7b7b748675b682",
-      "titulo": "Reviravolta na Casas Bahia: Justiça suspende demissões e manda restabelecer contratos de quase 2 mil funcionários",
-      "resumo": "Reviravolta na Casas Bahia: Justiça suspende demissões e manda restabelecer contratos de quase 2 mil funcionários Folha Vitória",
-      "fonte": "Folha Vitória",
-      "tipo_fonte": "imprensa",
-      "peso_fonte": 0.6,
-      "data": "2026-08-19T18:50:38.000Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeTdBaEJvTGV3OXhrSXJCMHowUmFvaFZ3ckFSR0xGVFNhX3ZSN1FPUU1ILWx6eTd1OXI2QXdNTXVoMWpxOWIxTWRzaHhoSTdPamx5NTZBRG9zdEd4R2JhWXY1SUtNYkxPSlYyNG43Nm5oeEpNSFRpckM2RXROQ0tCU2Jrc18xdVE?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeTdBaEJvTGV3OXhrSXJCMHowUmFvaFZ3ckFSR0xGVFNhX3ZSN1FPUU1ILWx6eTd1OXI2QXdNTXVoMWpxOWIxTWRzaHhoSTdPamx5NTZBRG9zdEd4R2JhWXY1SUtNYkxPSlYyNG43Nm5oeEpNSFRpckM2RXROQ0tCU2Jrc18xdVE?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "0bb2173ab20d026467abfd61bb917efe267bc178",
-      "titulo": "Casas Bahia vai reabrir? Justiça barra demissões e determina volta de funcionários",
-      "resumo": "Casas Bahia vai reabrir? Justiça barra demissões e determina volta de funcionários A TARDE",
-      "fonte": "A TARDE",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T18:45:48.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalJVb1J6YUt4a2JTeGZZdnJkS19iQm9HQ3p0dGVJMGJjeHlYNGpzZGFJV2d4WGVJeUxhbUJBcHROaEQyR18tbWRwTVpjMVg5QjV1YU82bXZpNjFlOU5oVFJxbnA5V3JNOEtNdmlPNUlmWlRHb0JrdFJOY2Z4REZNcTdiOVltM1JjQ2xCaHNKRXpVZHAyT3JUdS1LN1htLVpST3ozZ19ldVk4ZDc0S2ZISGQyMUdNSXJlR2phWNIBxAFBVV95cUxPUjZvWWVud2Vsd1JNSnVabzlSODlETUVKaXMtaDJnU0w0WldoMkRaeFNUTENMLXZ2dHRlY1Jxa1A5Mlg5dzJEVXF5aE1WUlpVanVjTlBnb2hlVFpySE1jNm5ycDdzSldCa2hpQm9lZlRSZDZGV0VvM2xBVng2NmlrVHBwLVFMcjdCeFJpSU5VRGdKcEtic0p4VHkteEhMR3UyRUg0R3FjX0VLMHhNbXRaZHh0Yk52UDR1VFBubjlZU1lTVFdh?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOalJVb1J6YUt4a2JTeGZZdnJkS19iQm9HQ3p0dGVJMGJjeHlYNGpzZGFJV2d4WGVJeUxhbUJBcHROaEQyR18tbWRwTVpjMVg5QjV1YU82bXZpNjFlOU5oVFJxbnA5V3JNOEtNdmlPNUlmWlRHb0JrdFJOY2Z4REZNcTdiOVltM1JjQ2xCaHNKRXpVZHAyT3JUdS1LN1htLVpST3ozZ19ldVk4ZDc0S2ZISGQyMUdNSXJlR2phWNIBxAFBVV95cUxPUjZvWWVud2Vsd1JNSnVabzlSODlETUVKaXMtaDJnU0w0WldoMkRaeFNUTENMLXZ2dHRlY1Jxa1A5Mlg5dzJEVXF5aE1WUlpVanVjTlBnb2hlVFpySE1jNm5ycDdzSldCa2hpQm9lZlRSZDZGV0VvM2xBVng2NmlrVHBwLVFMcjdCeFJpSU5VRGdKcEtic0p4VHkteEhMR3UyRUg0R3FjX0VLMHhNbXRaZHh0Yk52UDR1VFBubjlZU1lTVFdh?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "c3ab7d092676afcb730d6e863e9b6d5d55ec8ec5",
-      "titulo": "Casas Bahia terá de reverter demissões após decisão da Justiça do Trabalho",
-      "resumo": "Casas Bahia terá de reverter demissões após decisão da Justiça do Trabalho BPMoney",
-      "fonte": "BPMoney",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T18:18:58.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1V5c0ZsVS11cjBCUmhScmhrV2pIcm5wbFd1eWRfc2llSEc0OHpyVTZrWExWcUVaVmVXb01JTHNFc0o0UXdORnRDZkRKVlVJN1hTVHpLQ3Q1S3RLX3dmdjJhdzVjTUlCLXpXZU03MUQ3RHVRWklBT1E2dTNqODR6ZmREZzhHNkc4UDVTVF8yMmNCNG1SVWtRcGZjQkhZNC1kMWZGZF9rSUx1a28?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc1V5c0ZsVS11cjBCUmhScmhrV2pIcm5wbFd1eWRfc2llSEc0OHpyVTZrWExWcUVaVmVXb01JTHNFc0o0UXdORnRDZkRKVlVJN1hTVHpLQ3Q1S3RLX3dmdjJhdzVjTUlCLXpXZU03MUQ3RHVRWklBT1E2dTNqODR6ZmREZzhHNkc4UDVTVF8yMmNCNG1SVWtRcGZjQkhZNC1kMWZGZF9rSUx1a28?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "b8edc4e08ae1979fec8b4ec37db632b01cd1dd04",
-      "titulo": "TST diz que greve nos Correios não é abusiva e define reajuste",
-      "resumo": "TST diz que greve nos Correios não é abusiva e define reajuste Clube FM Brasil",
-      "fonte": "Clube FM Brasil",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T18:13:27.000Z",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONndjczh6eTNwcTI4U01zb3pONElIaGk0M3BEVGFiNFBHc1A1TlI5eHFTamRFTGhPZmlPb2xFSHJ2Z3FUZEVvYjBYR0tPMTlnSlgzSGF3QXpQRWVqWWdUbHp3LW5qNDdsa1hoOVBSYUZ3dHhGSlJHUnNfeXBaMmJHN1NjZngwcjZJb3NZcXJtaFBFZw?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONndjczh6eTNwcTI4U01zb3pONElIaGk0M3BEVGFiNFBHc1A1TlI5eHFTamRFTGhPZmlPb2xFSHJ2Z3FUZEVvYjBYR0tPMTlnSlgzSGF3QXpQRWVqWWdUbHp3LW5qNDdsa1hoOVBSYUZ3dHhGSlJHUnNfeXBaMmJHN1NjZngwcjZJb3NZcXJtaFBFZw?oc=5",
-      "query": "TST tese"
-    },
-    {
-      "id": "ca5499784e5c39c6b58354e940de19de28cca85d",
-      "titulo": "TST decide que trabalhador pode mover ação no lugar onde mora em situações excepcionais",
-      "resumo": "TST decide que trabalhador pode mover ação no lugar onde mora em situações excepcionais TST",
-      "fonte": "TST",
-      "tipo_fonte": "tribunal",
-      "peso_fonte": 1,
-      "data": "2026-08-19T17:24:18.000Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGd1TEwzM3BUU3J5aVpkR3gyTnZEQWYtLTRrLXVsd2xwaXpyVTJWSS01MEdLazJMY1JyRTBxcV94YmZpdEh3cjVESm1UT1VSdkxEWUZONVUybnFnQkF6eHd1TFUxSXpaLUJXdWowOXBZSDlMUkRpQVhjTnpGZ0dnZW9vNG5YZ0E4VXJHaW9OY1R2MW5FNkw3bjNXNDJmTzFVS0k2UHpsRlcxc01TeTZBX1pn?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGd1TEwzM3BUU3J5aVpkR3gyTnZEQWYtLTRrLXVsd2xwaXpyVTJWSS01MEdLazJMY1JyRTBxcV94YmZpdEh3cjVESm1UT1VSdkxEWUZONVUybnFnQkF6eHd1TFUxSXpaLUJXdWowOXBZSDlMUkRpQVhjTnpGZ0dnZW9vNG5YZ0E4VXJHaW9OY1R2MW5FNkw3bjNXNDJmTzFVS0k2UHpsRlcxc01TeTZBX1pn?oc=5",
-      "query": "TST tese"
-    },
-    {
-      "id": "6e5d0d68337b632dafa4b5ad1ec9b4bc9fc96989",
-      "titulo": "IDPJ trabalhista em recuperação judicial: O que dizem STF, STJ e TST",
-      "resumo": "IDPJ trabalhista em recuperação judicial: O que dizem STF, STJ e TST Migalhas",
-      "fonte": "Migalhas",
-      "tipo_fonte": "especializado",
-      "peso_fonte": 0.8,
-      "data": "2026-08-19T17:00:44.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHdJTkdudVRCampibXlUeERRMEg4bUN4TXlwZkttWHdUZDRnSUNqNXRpbWg5OFRJSzdLd2JmZ0xsd180emkxNERVQXR4UzY4RllETURuWnh6M1MzcnRxYlJLandlM0N0NjA1WnpXNUFyZ1FqLWwtS3BKQURNYXQteFNfbXpBTlQ1WXZaVEhOYmtYZ0RDZUxoZVhseHp2Rmd3YXh5MlQxUTFUSnZE?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZHdJTkdudVRCampibXlUeERRMEg4bUN4TXlwZkttWHdUZDRnSUNqNXRpbWg5OFRJSzdLd2JmZ0xsd180emkxNERVQXR4UzY4RllETURuWnh6M1MzcnRxYlJLandlM0N0NjA1WnpXNUFyZ1FqLWwtS3BKQURNYXQteFNfbXpBTlQ1WXZaVEhOYmtYZ0RDZUxoZVhseHp2Rmd3YXh5MlQxUTFUSnZE?oc=5",
-      "query": "TST tese"
-    },
-    {
-      "id": "af69d0dab92d675187b07209756519dd30c8e997",
-      "titulo": "Justiça manda Casas Bahia reverter demissões; veja como ficam os funcionários",
-      "resumo": "Justiça manda Casas Bahia reverter demissões; veja como ficam os funcionários G1",
-      "fonte": "G1",
-      "tipo_fonte": "imprensa",
-      "peso_fonte": 0.6,
-      "data": "2026-08-19T16:56:56.000Z",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjFlWmxBejJ6MmJKeEUxMS1aRV9wVXVqb2YxY3Z6UWQwRVlMMHJuX2NxeHVpSnFPdm9lazNCMHFsMEx1VUVJdFhDODNNdGlyZTNkQ1N3VVNmY2dmNU9QNzJvbEl4UlYtallIM2VTWFdQR29UT1BHQjRELTJicUNFbnJ6cFVvRDZQTXk1RUYxamkzTWJnZWpldlNKSjQ5U1I1VTFnaUYySdIBtgFBVV95cUxON2hXdFZkS0RwNVQxLUVBZXBkejd5Mm1ERC1NMUlBbVZoUTdtQ3hpRm90QnRpZTk4VFphSW1BNVlGbS1ZUlU1ZzlGaGhsU29TbGpQYTBVMlhoVzQxRTlyM3V2c0xVZDhfVTg0SlBPcTNhalIzc2NvdlVuTHhPd28tNjhuSnRZTkk1X3p5RU1IMm1OamZnSERya0d3N2V4c1RUWXhQZEZnMTRqSmhJRFVBdmp5cVNpQQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYjFlWmxBejJ6MmJKeEUxMS1aRV9wVXVqb2YxY3Z6UWQwRVlMMHJuX2NxeHVpSnFPdm9lazNCMHFsMEx1VUVJdFhDODNNdGlyZTNkQ1N3VVNmY2dmNU9QNzJvbEl4UlYtallIM2VTWFdQR29UT1BHQjRELTJicUNFbnJ6cFVvRDZQTXk1RUYxamkzTWJnZWpldlNKSjQ5U1I1VTFnaUYySdIBtgFBVV95cUxON2hXdFZkS0RwNVQxLUVBZXBkejd5Mm1ERC1NMUlBbVZoUTdtQ3hpRm90QnRpZTk4VFphSW1BNVlGbS1ZUlU1ZzlGaGhsU29TbGpQYTBVMlhoVzQxRTlyM3V2c0xVZDhfVTg0SlBPcTNhalIzc2NvdlVuTHhPd28tNjhuSnRZTkk1X3p5RU1IMm1OamZnSERya0d3N2V4c1RUWXhQZEZnMTRqSmhJRFVBdmp5cVNpQQ?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "ff0357159e6e2a6467f54cc8d3d254a7c078aa27",
-      "titulo": "Comerciários conseguem na Justiça a suspensão das 3 mil demissões das Casas Bahia",
-      "resumo": "Comerciários conseguem na Justiça a suspensão das 3 mil demissões das Casas Bahia vermelho.org.br",
-      "fonte": "vermelho.org.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T16:41:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDRBbTdEQjJvTWNEajhrRm1vRkR4YndMWlVfUldWMm9wX2RGWmFMM1R5cjFLSm44N2dLZkVKblBPd0Y3YjhZRmthRzdabTJOQUhQRC1vX1BHNkRyMVpiMG45WU9SS2RWOVo0eVJGanBuX2FSOHZsRDg4VFdRYjJiOWMxd1Q4em03Q2dDbHpsNEJ3LVJiUlV2UHdtZEJxeEpSUU9HMkpQQ1RXaUpWNkdPWG0wbk43ZVh5?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDRBbTdEQjJvTWNEajhrRm1vRkR4YndMWlVfUldWMm9wX2RGWmFMM1R5cjFLSm44N2dLZkVKblBPd0Y3YjhZRmthRzdabTJOQUhQRC1vX1BHNkRyMVpiMG45WU9SS2RWOVo0eVJGanBuX2FSOHZsRDg4VFdRYjJiOWMxd1Q4em03Q2dDbHpsNEJ3LVJiUlV2UHdtZEJxeEpSUU9HMkpQQ1RXaUpWNkdPWG0wbk43ZVh5?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "9e3609acf62b41cdaaf589a43c2145a29b7d554e",
-      "titulo": "Casas Bahia: Justiça suspende demissões de quase 2 mil funcionários, proíbe novos cortes e manda empresa retomar benefícios",
-      "resumo": "Casas Bahia: Justiça suspende demissões de quase 2 mil funcionários, proíbe novos cortes e manda empresa retomar benefícios Gazeta de São Paulo",
-      "fonte": "Gazeta de São Paulo",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T16:39:03.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTjJqUEFubGFEcVduZzFGVXZOZnNlZEF4SmF4aWRUYjFfQlN2aFByOXdaU0ozc2RqU3pXc0dXZzBlazhIS1BGVHZSTmxmNUk5SEVvdmFOV1I1Ri1BeGpjSmF3b1NLR2pNLVdta3VMZTg1V0kxWmNWZG5ZenpBLTcwRUZsTlktRFQ0M05pd2c0TS1sUHI4SHAxa2dodFF3R2Vfck0xc0lZT2Nac0ZXRGJNWGxBTGY4UnoxYjVndExPS1lWamM1ZjRCUGp3Q2c3LWJ4MXpOY1NBbTRNWDR3bTcxS1c4TG5zU0VZWDY4dzM0RXg?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTjJqUEFubGFEcVduZzFGVXZOZnNlZEF4SmF4aWRUYjFfQlN2aFByOXdaU0ozc2RqU3pXc0dXZzBlazhIS1BGVHZSTmxmNUk5SEVvdmFOV1I1Ri1BeGpjSmF3b1NLR2pNLVdta3VMZTg1V0kxWmNWZG5ZenpBLTcwRUZsTlktRFQ0M05pd2c0TS1sUHI4SHAxa2dodFF3R2Vfck0xc0lZT2Nac0ZXRGJNWGxBTGY4UnoxYjVndExPS1lWamM1ZjRCUGp3Q2c3LWJ4MXpOY1NBbTRNWDR3bTcxS1c4TG5zU0VZWDY4dzM0RXg?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "fc75c95305f0743c25e9e12eec7442d0e7083a77",
-      "titulo": "Casas Bahia: Justiça do Trabalho reverte três mil demissões",
-      "resumo": "Casas Bahia: Justiça do Trabalho reverte três mil demissões Revista Fórum",
-      "fonte": "Revista Fórum",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T16:01:50.000Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTQ0VkV5UXY3SExrU0kyVDROMjlwNnpMX0NiTWN5eEdWNnkzekdZQV9ENTJMMUxUY2xBNlhobHFNYnQ1Vl9IUHFnTlhNZkRDXzhaM2ZJR2x6UFYzZk54VzJENWpXczZkMGE1Nm9rT0dEM0ZudGo5NEFmZGhjcHNaeHJvN01rd29FVlI0Q01QTVJXakFQb1FNcUJ5Yk4?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdTQ0VkV5UXY3SExrU0kyVDROMjlwNnpMX0NiTWN5eEdWNnkzekdZQV9ENTJMMUxUY2xBNlhobHFNYnQ1Vl9IUHFnTlhNZkRDXzhaM2ZJR2x6UFYzZk54VzJENWpXczZkMGE1Nm9rT0dEM0ZudGo5NEFmZGhjcHNaeHJvN01rd29FVlI0Q01QTVJXakFQb1FNcUJ5Yk4?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "ecd7a60597f1a876fb7f72ce8c8d028519083075",
-      "titulo": "JUSTIÇA SUSPENDE DEMISSÕES NAS CASAS BAHIA E EXIGE NEGOCIAÇÃO COM SINDICATO ANTES DE NOVOS CORTES",
-      "resumo": "JUSTIÇA SUSPENDE DEMISSÕES NAS CASAS BAHIA E EXIGE NEGOCIAÇÃO COM SINDICATO ANTES DE NOVOS CORTES - Bahia Economica",
-      "fonte": "- Bahia Economica",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T16:00:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMUt3WUczTzN6YlF6bkcwa2ltNGdsRVFFRHZGYTROb1kyUEdKUVB2bnNVU0JxYk1uMEJxaXBaay1JVnhvV1NFR3RtM0IxczJXZkc1V24wV1hTaWNJSU9NQ1lSY1JJWlRIX2QyQjhMZEd5UEJkcnRnTXBnSUo1dDFmUlZaOW9DMXJwZ3E5MkhDV0tTWHBlWElVSVdlS1Rrc21uTDRpTG1zbkZ3S3BWMjNNa0R6M2VEZ3RvTjEyYkRzVnhDNXo2ZXVoeWRBN1dEbUZoNnI5MDAwTmg0UQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMUt3WUczTzN6YlF6bkcwa2ltNGdsRVFFRHZGYTROb1kyUEdKUVB2bnNVU0JxYk1uMEJxaXBaay1JVnhvV1NFR3RtM0IxczJXZkc1V24wV1hTaWNJSU9NQ1lSY1JJWlRIX2QyQjhMZEd5UEJkcnRnTXBnSUo1dDFmUlZaOW9DMXJwZ3E5MkhDV0tTWHBlWElVSVdlS1Rrc21uTDRpTG1zbkZ3S3BWMjNNa0R6M2VEZ3RvTjEyYkRzVnhDNXo2ZXVoeWRBN1dEbUZoNnI5MDAwTmg0UQ?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "1e34ae870f82271708c48df943dab525d99d57c6",
-      "titulo": "Justiça suspende demissão coletiva das Casas Bahia e proíbe novos cortes",
-      "resumo": "Justiça suspende demissão coletiva das Casas Bahia e proíbe novos cortes Gazeta do Povo",
-      "fonte": "Gazeta do Povo",
-      "tipo_fonte": "imprensa",
-      "peso_fonte": 0.6,
-      "data": "2026-08-19T15:58:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXdTdlo3ZFdKbGVLVEVGYTEtNl9Nb01GMk1JZERqNHZtNzF2MDRRODRWc2l2RnhQR0M4MHA5Ui1aMTJjSXh5YzBMN0JBSDVLOWJpT1d0dG5Sb3dBSjB4bWpoMjlFbWtsT3pZSTBMS3pyR2JtTDFJMndaZzJrLXdnY1VDOVB0T0dnTm5ETGNlc3V3bDc3dDhiN1NuZ2hCYVFJNnI4eDZqNlg2T1Fp?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXdTdlo3ZFdKbGVLVEVGYTEtNl9Nb01GMk1JZERqNHZtNzF2MDRRODRWc2l2RnhQR0M4MHA5Ui1aMTJjSXh5YzBMN0JBSDVLOWJpT1d0dG5Sb3dBSjB4bWpoMjlFbWtsT3pZSTBMS3pyR2JtTDFJMndaZzJrLXdnY1VDOVB0T0dnTm5ETGNlc3V3bDc3dDhiN1NuZ2hCYVFJNnI4eDZqNlg2T1Fp?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "094c14b4308c6850ce016ae06ef4e9ab46dc9992",
-      "titulo": "Justiça suspende demissões da Casas Bahia e veta cortes sem mediação de sindicato",
-      "resumo": "Justiça suspende demissões da Casas Bahia e veta cortes sem mediação de sindicato InfoMoney",
-      "fonte": "InfoMoney",
-      "tipo_fonte": "imprensa",
-      "peso_fonte": 0.6,
-      "data": "2026-08-19T15:37:16.000Z",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTVCb1JGSVczSThhU0RBT1hJT3RuVmJWXzJTZWk0LWRHQ3drdy0wazEzcFMwejVzU19Ea0ZnWFhQZFE2cmVIcnY1emNjemtPZUZXY01kdVRCWVN2ZlpjdEhqSzFnYnlGMUprNm0xVkVHc2V2VHltVGpZU084cHB5b3NnU3dKbVR5UzlSNVg5TkR3Xzg2REN4S1IxdjdWT3VreTVKRG5sblVfYmJnakMwcGNzNkxXT1FjRmhBM9IBwgFBVV95cUxPQ2pyeW1yTm9xRHYzVkNaYjRScEE1YkFFQzI3dW1ESkFjTzdORHdrMkdEWWg2YVNXTVEtckRMZWhVaTBaMldDQlYyejRmQ3YxZEtOdXBfRnNaR3pEazZTREMwVjZaVG1naGJPbUpGRmFrUTMzQkFWRkRWeWstTXJQQmdDb3czWkFoeHFzck5BT09qNkplelpsV3FCX1FPdnZIbEh0REpfSS1CLWUzWDdTXzNERTVCdVFBN3ZRQW9LdEVkUQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbTVCb1JGSVczSThhU0RBT1hJT3RuVmJWXzJTZWk0LWRHQ3drdy0wazEzcFMwejVzU19Ea0ZnWFhQZFE2cmVIcnY1emNjemtPZUZXY01kdVRCWVN2ZlpjdEhqSzFnYnlGMUprNm0xVkVHc2V2VHltVGpZU084cHB5b3NnU3dKbVR5UzlSNVg5TkR3Xzg2REN4S1IxdjdWT3VreTVKRG5sblVfYmJnakMwcGNzNkxXT1FjRmhBM9IBwgFBVV95cUxPQ2pyeW1yTm9xRHYzVkNaYjRScEE1YkFFQzI3dW1ESkFjTzdORHdrMkdEWWg2YVNXTVEtckRMZWhVaTBaMldDQlYyejRmQ3YxZEtOdXBfRnNaR3pEazZTREMwVjZaVG1naGJPbUpGRmFrUTMzQkFWRkRWeWstTXJQQmdDb3czWkFoeHFzck5BT09qNkplelpsV3FCX1FPdnZIbEh0REpfSS1CLWUzWDdTXzNERTVCdVFBN3ZRQW9LdEVkUQ?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "6326f42837c2b4c2aaea41a4853c51943a89ac42",
-      "titulo": "Justiça anula autuação e retira da “lista suja” esposa de desembargador de SC em caso de trabalho escravo doméstico",
-      "resumo": "Justiça anula autuação e retira da “lista suja” esposa de desembargador de SC em caso de trabalho escravo doméstico Revista Afirmativa",
-      "fonte": "Revista Afirmativa",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T14:03:40.000Z",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82VnNmSllPYVVJSTFVUHgxTXpib2ZraHF6cE1KdFpfV3RadjBhdHJNWF9xTVJsZHY3akcydjR2c0wyQ0piMG5GSm04MFZfcVRMdkprdm4yRW5IaHd2TDJMOVpsTjZ0SnkzakZfbFVJZ2hQdnZBNjE5TlNqcXdWUQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMifkFVX3lxTE82VnNmSllPYVVJSTFVUHgxTXpib2ZraHF6cE1KdFpfV3RadjBhdHJNWF9xTVJsZHY3akcydjR2c0wyQ0piMG5GSm04MFZfcVRMdkprdm4yRW5IaHd2TDJMOVpsTjZ0SnkzakZfbFVJZ2hQdnZBNjE5TlNqcXdWUQ?oc=5",
-      "query": "justiça do trabalho decisão"
-    },
-    {
-      "id": "9f3dd24444d0c930c992b29dd63d0d01bb994678",
-      "titulo": "FGTS: Entenda a nova regra que muda caminho para trabalhador CLT pedir o saque",
-      "resumo": "FGTS: Entenda a nova regra que muda caminho para trabalhador CLT pedir o saque gmconline.com.br",
-      "fonte": "gmconline.com.br",
-      "tipo_fonte": "agregador",
-      "peso_fonte": 0.4,
-      "data": "2026-08-19T13:49:00.000Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnQwdGhwUHQ3Si1fa3FhTlc5cV9RWVNVU29OM0tsS0x6R0hENGhJbmhTZE5UX3phNlE1LW8yYmQ4X0tzdVAwSGpoaEg3OWRmYTBJWGtDWlg1c0NGUGNSWlRUUnVOZ3RZZVhJeHBLNGY5U241R3d1Sm1yR1FrNmVUVkN1c2wxcklqN01iM29aSDRodFd1dGpWTjRLRmtZb0tFaTgwTTRLNURNeWVCdWFzYUhaNkR5OVZMOWfSAb8BQVVfeXFMTlVBUlVQVWNfSUpIdmpxakNDbjhBZGJGei1rcnNubldDZUN0S3BMb2VxWTBESzRLT00xMWpneTFQVlJ4YUpfaWNvTGx2UkJDRmFiQWhDVEdfTEhXVFdSTzZsbHRmVE82Q2QxRFVWQmliR1pvRVRCcndwWm1SWnFmWS1rNzN2R3Nadi1zTURUVXVsMldjTFVPclZ6cUYtZkwzcEVYNUh1Wlg0SUpYalEyTnJTaWtUd095cGtqdWZZYTQ?oc=5",
-      "url_canonica": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYnQwdGhwUHQ3Si1fa3FhTlc5cV9RWVNVU29OM0tsS0x6R0hENGhJbmhTZE5UX3phNlE1LW8yYmQ4X0tzdVAwSGpoaEg3OWRmYTBJWGtDWlg1c0NGUGNSWlRUUnVOZ3RZZVhJeHBLNGY5U241R3d1Sm1yR1FrNmVUVkN1c2wxcklqN01iM29aSDRodFd1dGpWTjRLRmtZb0tFaTgwTTRLNURNeWVCdWFzYUhaNkR5OVZMOWfSAb8BQVVfeXFMTlVBUlVQVWNfSUpIdmpxakNDbjhBZGJGei1rcnNubldDZUN0S3BMb2VxWTBESzRLT00xMWpneTFQVlJ4YUpfaWNvTGx2UkJDRmFiQWhDVEdfTEhXVFdSTzZsbHRmVE82Q2QxRFVWQmliR1pvRVRCcndwWm1SWnFmWS1rNzN2R3Nadi1zTURUVXVsMldjTFVPclZ6cUYtZkwzcEVYNUh1Wlg0SUpYalEyTnJTaWtUd095cGtqdWZZYTQ?oc=5",
-      "query": "justiça do trabalho decisão"
     }
   ]
 }

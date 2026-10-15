@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-08-26T05:12:23-03:00",
+  "gerado_em": "2026-10-15T05:03:18-03:00",
   "cidade": "São Paulo",
-  "data": "2026-08-26",
-  "data_extenso": "quarta, 26 de agosto de 2026",
-  "temp_atual": 15,
-  "min": 15,
-  "max": 24,
-  "condicao": "garoa fraca",
-  "prob_chuva": 33,
-  "texto": "São Paulo · quarta, 26 de agosto de 2026 · 15°C, garoa fraca · mín 15° / máx 24°"
+  "data": "2026-10-15",
+  "data_extenso": "quinta, 15 de outubro de 2026",
+  "temp_atual": 17,
+  "min": 18,
+  "max": 26,
+  "condicao": "pancadas de chuva moderadas",
+  "prob_chuva": 91,
+  "texto": "São Paulo · quinta, 15 de outubro de 2026 · 17°C, pancadas de chuva moderadas · mín 18° / máx 26°"
 }

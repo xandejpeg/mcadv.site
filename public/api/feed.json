@@ -1,7 +1,175 @@
 {
-  "gerado_em": "2026-08-26T09:39:50-03:00",
+  "gerado_em": "2026-10-14T20:11:59-03:00",
   "versao": 1,
   "relatorios": [
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 07 a 14/10/2026",
+      "data": "2026-10-14",
+      "edicao": 9,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-14.md",
+      "itens": 12
+    },
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 05 a 12/10/2026",
+      "data": "2026-10-12",
+      "edicao": 9,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-12.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 02 a 09/10/2026",
+      "data": "2026-10-09",
+      "edicao": 9,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-09.md",
+      "itens": 12
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 30/09/2026 a 07/10/2026",
+      "data": "2026-10-07",
+      "edicao": 8,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-07.md",
+      "itens": 12
+    },
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 28/09/2026 a 05/10/2026",
+      "data": "2026-10-05",
+      "edicao": 8,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-05.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 25/09/2026 a 02/10/2026",
+      "data": "2026-10-02",
+      "edicao": 8,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-02.md",
+      "itens": 12
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 23 a 30/09/2026",
+      "data": "2026-09-30",
+      "edicao": 7,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-30.md",
+      "itens": 12
+    },
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 21 a 28/09/2026",
+      "data": "2026-09-28",
+      "edicao": 7,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-28.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 18 a 25/09/2026",
+      "data": "2026-09-25",
+      "edicao": 7,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-25.md",
+      "itens": 12
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 16 a 23/09/2026",
+      "data": "2026-09-23",
+      "edicao": 6,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-23.md",
+      "itens": 12
+    },
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 14 a 21/09/2026",
+      "data": "2026-09-21",
+      "edicao": 6,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-21.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 11 a 18/09/2026",
+      "data": "2026-09-18",
+      "edicao": 6,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-18.md",
+      "itens": 12
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 09 a 16/09/2026",
+      "data": "2026-09-16",
+      "edicao": 5,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-16.md",
+      "itens": 12
+    },
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 07 a 14/09/2026",
+      "data": "2026-09-14",
+      "edicao": 5,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-14.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 04 a 11/09/2026",
+      "data": "2026-09-11",
+      "edicao": 5,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-11.md",
+      "itens": 12
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 02 a 09/09/2026",
+      "data": "2026-09-09",
+      "edicao": 4,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-09.md",
+      "itens": 12
+    },
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 31/08/2026 a 07/09/2026",
+      "data": "2026-09-07",
+      "edicao": 4,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-09-07.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 28/08/2026 a 04/09/2026",
+      "data": "2026-09-04",
+      "edicao": 4,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-09-04.md",
+      "itens": 12
+    },
+    {
+      "area": "trabalhista",
+      "titulo": "Radar Trabalhista — 26/08/2026 a 02/09/2026",
+      "data": "2026-09-02",
+      "edicao": 3,
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-09-02.md",
+      "itens": 12
+    },
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 24 a 31/08/2026",
+      "data": "2026-08-31",
+      "edicao": 3,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-08-31.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 21 a 28/08/2026",
+      "data": "2026-08-28",
+      "edicao": 3,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-08-28.md",
+      "itens": 12
+    },
     {
       "area": "tributario-fiscal",
       "titulo": "Radar Tributário & Fiscal — 19 a 26/08/2026",
@@ -16,6 +184,14 @@
       "data": "2026-08-26",
       "edicao": 2,
       "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-08-26.md",
+      "itens": 12
+    },
+    {
+      "area": "previdenciario",
+      "titulo": "Radar Previdenciário — 19 a 26/08/2026",
+      "data": "2026-08-26",
+      "edicao": 2,
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-08-26.md",
       "itens": 12
     },
     {

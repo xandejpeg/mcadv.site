@@ -4,15 +4,37 @@
 
 ## tributario-fiscal
 
+- **12/10/2026** — [Radar Tributário & Fiscal — 05 a 12/10/2026](tributario-fiscal/2026-10-12.md) · 12 itens
+- **05/10/2026** — [Radar Tributário & Fiscal — 28/09/2026 a 05/10/2026](tributario-fiscal/2026-10-05.md) · 12 itens
+- **28/09/2026** — [Radar Tributário & Fiscal — 21 a 28/09/2026](tributario-fiscal/2026-09-28.md) · 12 itens
+- **21/09/2026** — [Radar Tributário & Fiscal — 14 a 21/09/2026](tributario-fiscal/2026-09-21.md) · 12 itens
+- **14/09/2026** — [Radar Tributário & Fiscal — 07 a 14/09/2026](tributario-fiscal/2026-09-14.md) · 12 itens
+- **07/09/2026** — [Radar Tributário & Fiscal — 31/08/2026 a 07/09/2026](tributario-fiscal/2026-09-07.md) · 12 itens
+- **31/08/2026** — [Radar Tributário & Fiscal — 24 a 31/08/2026](tributario-fiscal/2026-08-31.md) · 12 itens
 - **26/08/2026** — [Radar Tributário & Fiscal — 19 a 26/08/2026](tributario-fiscal/2026-08-26.md) · 12 itens
 - **25/08/2026** — [Radar Tributário & Fiscal — 18 a 25/08/2026](tributario-fiscal/2026-08-25.md) · 12 itens
 
 ## trabalhista
 
+- **14/10/2026** — [Radar Trabalhista — 07 a 14/10/2026](trabalhista/2026-10-14.md) · 12 itens
+- **07/10/2026** — [Radar Trabalhista — 30/09/2026 a 07/10/2026](trabalhista/2026-10-07.md) · 12 itens
+- **30/09/2026** — [Radar Trabalhista — 23 a 30/09/2026](trabalhista/2026-09-30.md) · 12 itens
+- **23/09/2026** — [Radar Trabalhista — 16 a 23/09/2026](trabalhista/2026-09-23.md) · 12 itens
+- **16/09/2026** — [Radar Trabalhista — 09 a 16/09/2026](trabalhista/2026-09-16.md) · 12 itens
+- **09/09/2026** — [Radar Trabalhista — 02 a 09/09/2026](trabalhista/2026-09-09.md) · 12 itens
+- **02/09/2026** — [Radar Trabalhista — 26/08/2026 a 02/09/2026](trabalhista/2026-09-02.md) · 12 itens
 - **26/08/2026** — [Radar Trabalhista — 19 a 26/08/2026](trabalhista/2026-08-26.md) · 12 itens
 - **25/08/2026** — [Radar Trabalhista — 18 a 25/08/2026](trabalhista/2026-08-25.md) · 12 itens
 
 ## previdenciario
 
+- **09/10/2026** — [Radar Previdenciário — 02 a 09/10/2026](previdenciario/2026-10-09.md) · 12 itens
+- **02/10/2026** — [Radar Previdenciário — 25/09/2026 a 02/10/2026](previdenciario/2026-10-02.md) · 12 itens
+- **25/09/2026** — [Radar Previdenciário — 18 a 25/09/2026](previdenciario/2026-09-25.md) · 12 itens
+- **18/09/2026** — [Radar Previdenciário — 11 a 18/09/2026](previdenciario/2026-09-18.md) · 12 itens
+- **11/09/2026** — [Radar Previdenciário — 04 a 11/09/2026](previdenciario/2026-09-11.md) · 12 itens
+- **04/09/2026** — [Radar Previdenciário — 28/08/2026 a 04/09/2026](previdenciario/2026-09-04.md) · 12 itens
+- **28/08/2026** — [Radar Previdenciário — 21 a 28/08/2026](previdenciario/2026-08-28.md) · 12 itens
+- **26/08/2026** — [Radar Previdenciário — 19 a 26/08/2026](previdenciario/2026-08-26.md) · 12 itens
 - **25/08/2026** — [Radar Previdenciário — 18 a 25/08/2026](previdenciario/2026-08-25.md) · 12 itens
 
