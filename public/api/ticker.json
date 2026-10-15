@@ -58,16 +58,16 @@
       "data": "2026-10-06"
     }
   ],
-  "gerado_em": "2026-10-14T20:11:59-03:00",
+  "gerado_em": "2026-10-15T05:03:18-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-14",
-    "data_extenso": "quarta, 14 de outubro de 2026",
-    "temp_atual": 18,
+    "data": "2026-10-15",
+    "data_extenso": "quinta, 15 de outubro de 2026",
+    "temp_atual": 17,
     "min": 18,
-    "max": 29,
-    "condicao": "pancadas de chuva fracas",
-    "prob_chuva": 88,
-    "texto": "São Paulo · quarta, 14 de outubro de 2026 · 18°C, pancadas de chuva fracas · mín 18° / máx 29°"
+    "max": 26,
+    "condicao": "pancadas de chuva moderadas",
+    "prob_chuva": 91,
+    "texto": "São Paulo · quinta, 15 de outubro de 2026 · 17°C, pancadas de chuva moderadas · mín 18° / máx 26°"
   }
 }
