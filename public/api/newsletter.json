@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-14T20:11:59-03:00",
+  "gerado_em": "2026-10-16T08:05:38-03:00",
   "versao": 1,
-  "data": "2026-10-14",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-14.md",
+  "data": "2026-10-16",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-16.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 02 a 09/10/2026",
-      "data": "2026-10-09",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-09.md"
+      "titulo": "Radar Previdenciário — 09 a 16/10/2026",
+      "data": "2026-10-16",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-16.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-14",
-    "data_extenso": "quarta, 14 de outubro de 2026",
+    "data": "2026-10-16",
+    "data_extenso": "sexta, 16 de outubro de 2026",
     "temp_atual": 18,
-    "min": 18,
-    "max": 29,
-    "condicao": "pancadas de chuva fracas",
-    "prob_chuva": 88,
-    "texto": "São Paulo · quarta, 14 de outubro de 2026 · 18°C, pancadas de chuva fracas · mín 18° / máx 29°"
+    "min": 17,
+    "max": 24,
+    "condicao": "trovoada",
+    "prob_chuva": 100,
+    "texto": "São Paulo · sexta, 16 de outubro de 2026 · 18°C, trovoada · mín 17° / máx 24°"
   }
 }
