@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-17T05:02:28-03:00",
+  "gerado_em": "2026-10-18T05:02:33-03:00",
   "cidade": "São Paulo",
-  "data": "2026-10-17",
-  "data_extenso": "sábado, 17 de outubro de 2026",
-  "temp_atual": 17,
-  "min": 16,
-  "max": 22,
-  "condicao": "trovoada",
-  "prob_chuva": 100,
-  "texto": "São Paulo · sábado, 17 de outubro de 2026 · 17°C, trovoada · mín 16° / máx 22°"
+  "data": "2026-10-18",
+  "data_extenso": "domingo, 18 de outubro de 2026",
+  "temp_atual": 14,
+  "min": 14,
+  "max": 24,
+  "condicao": "garoa fraca",
+  "prob_chuva": 18,
+  "texto": "São Paulo · domingo, 18 de outubro de 2026 · 14°C, garoa fraca · mín 14° / máx 24°"
 }
