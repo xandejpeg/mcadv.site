@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-16T08:05:38-03:00",
+  "gerado_em": "2026-10-19T20:17:26-03:00",
   "versao": 1,
-  "data": "2026-10-16",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-16.md",
+  "data": "2026-10-19",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-19.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 05 a 12/10/2026",
-      "data": "2026-10-12",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-12.md"
+      "titulo": "Radar Tributário & Fiscal — 12 a 19/10/2026",
+      "data": "2026-10-19",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-19.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-16",
-    "data_extenso": "sexta, 16 de outubro de 2026",
-    "temp_atual": 18,
-    "min": 17,
-    "max": 24,
-    "condicao": "trovoada",
-    "prob_chuva": 100,
-    "texto": "São Paulo · sexta, 16 de outubro de 2026 · 18°C, trovoada · mín 17° / máx 24°"
+    "data": "2026-10-19",
+    "data_extenso": "segunda, 19 de outubro de 2026",
+    "temp_atual": 14,
+    "min": 14,
+    "max": 22,
+    "condicao": "nublado",
+    "prob_chuva": 18,
+    "texto": "São Paulo · segunda, 19 de outubro de 2026 · 14°C, nublado · mín 14° / máx 22°"
   }
 }
