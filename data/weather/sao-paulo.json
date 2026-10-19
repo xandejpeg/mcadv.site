@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-18T05:02:33-03:00",
+  "gerado_em": "2026-10-19T05:07:03-03:00",
   "cidade": "São Paulo",
-  "data": "2026-10-18",
-  "data_extenso": "domingo, 18 de outubro de 2026",
+  "data": "2026-10-19",
+  "data_extenso": "segunda, 19 de outubro de 2026",
   "temp_atual": 14,
   "min": 14,
-  "max": 24,
-  "condicao": "garoa fraca",
+  "max": 22,
+  "condicao": "nublado",
   "prob_chuva": 18,
-  "texto": "São Paulo · domingo, 18 de outubro de 2026 · 14°C, garoa fraca · mín 14° / máx 24°"
+  "texto": "São Paulo · segunda, 19 de outubro de 2026 · 14°C, nublado · mín 14° / máx 22°"
 }
