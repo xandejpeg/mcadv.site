@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-19T20:17:26-03:00",
+  "gerado_em": "2026-10-21T20:12:03-03:00",
   "versao": 1,
-  "data": "2026-10-19",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-19.md",
+  "data": "2026-10-21",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-21.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 07 a 14/10/2026",
-      "data": "2026-10-14",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-14.md"
+      "titulo": "Radar Trabalhista — 14 a 21/10/2026",
+      "data": "2026-10-21",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-21.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-19",
-    "data_extenso": "segunda, 19 de outubro de 2026",
+    "data": "2026-10-21",
+    "data_extenso": "quarta, 21 de outubro de 2026",
     "temp_atual": 14,
     "min": 14,
-    "max": 22,
+    "max": 25,
     "condicao": "nublado",
-    "prob_chuva": 18,
-    "texto": "São Paulo · segunda, 19 de outubro de 2026 · 14°C, nublado · mín 14° / máx 22°"
+    "prob_chuva": 15,
+    "texto": "São Paulo · quarta, 21 de outubro de 2026 · 14°C, nublado · mín 14° / máx 25°"
   }
 }
