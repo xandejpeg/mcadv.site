@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-21T20:12:03-03:00",
+  "gerado_em": "2026-10-23T08:05:28-03:00",
   "versao": 1,
-  "data": "2026-10-21",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-21.md",
+  "data": "2026-10-23",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-23.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 09 a 16/10/2026",
-      "data": "2026-10-16",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-16.md"
+      "titulo": "Radar Previdenciário — 16 a 23/10/2026",
+      "data": "2026-10-23",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-23.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-21",
-    "data_extenso": "quarta, 21 de outubro de 2026",
-    "temp_atual": 14,
-    "min": 14,
-    "max": 25,
-    "condicao": "nublado",
-    "prob_chuva": 15,
-    "texto": "São Paulo · quarta, 21 de outubro de 2026 · 14°C, nublado · mín 14° / máx 25°"
+    "data": "2026-10-23",
+    "data_extenso": "sexta, 23 de outubro de 2026",
+    "temp_atual": 17,
+    "min": 17,
+    "max": 24,
+    "condicao": "trovoada",
+    "prob_chuva": 95,
+    "texto": "São Paulo · sexta, 23 de outubro de 2026 · 17°C, trovoada · mín 17° / máx 24°"
   }
 }
