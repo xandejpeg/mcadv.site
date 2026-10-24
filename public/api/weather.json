@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-10-23T05:02:56-03:00",
+  "gerado_em": "2026-10-24T05:02:40-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-10-23",
-  "data_extenso": "sexta, 23 de outubro de 2026",
-  "temp_atual": 17,
+  "data": "2026-10-24",
+  "data_extenso": "sábado, 24 de outubro de 2026",
+  "temp_atual": 18,
   "min": 17,
-  "max": 24,
-  "condicao": "trovoada",
-  "prob_chuva": 95,
-  "texto": "São Paulo · sexta, 23 de outubro de 2026 · 17°C, trovoada · mín 17° / máx 24°"
+  "max": 27,
+  "condicao": "garoa moderada",
+  "prob_chuva": 67,
+  "texto": "São Paulo · sábado, 24 de outubro de 2026 · 18°C, garoa moderada · mín 17° / máx 27°"
 }
