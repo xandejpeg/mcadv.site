@@ -58,16 +58,16 @@
       "data": "2026-10-20"
     }
   ],
-  "gerado_em": "2026-10-24T05:02:40-03:00",
+  "gerado_em": "2026-10-25T05:02:38-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-24",
-    "data_extenso": "sábado, 24 de outubro de 2026",
-    "temp_atual": 18,
-    "min": 17,
-    "max": 27,
-    "condicao": "garoa moderada",
-    "prob_chuva": 67,
-    "texto": "São Paulo · sábado, 24 de outubro de 2026 · 18°C, garoa moderada · mín 17° / máx 27°"
+    "data": "2026-10-25",
+    "data_extenso": "domingo, 25 de outubro de 2026",
+    "temp_atual": 20,
+    "min": 16,
+    "max": 21,
+    "condicao": "trovoada",
+    "prob_chuva": 100,
+    "texto": "São Paulo · domingo, 25 de outubro de 2026 · 20°C, trovoada · mín 16° / máx 21°"
   }
 }
