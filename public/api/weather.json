@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-10-26T05:08:40-03:00",
+  "gerado_em": "2026-10-27T05:03:16-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-10-26",
-  "data_extenso": "segunda, 26 de outubro de 2026",
-  "temp_atual": 15,
-  "min": 13,
-  "max": 18,
-  "condicao": "garoa moderada",
-  "prob_chuva": 59,
-  "texto": "São Paulo · segunda, 26 de outubro de 2026 · 15°C, garoa moderada · mín 13° / máx 18°"
+  "data": "2026-10-27",
+  "data_extenso": "terça, 27 de outubro de 2026",
+  "temp_atual": 13,
+  "min": 12,
+  "max": 22,
+  "condicao": "garoa fraca",
+  "prob_chuva": 0,
+  "texto": "São Paulo · terça, 27 de outubro de 2026 · 13°C, garoa fraca · mín 12° / máx 22°"
 }
