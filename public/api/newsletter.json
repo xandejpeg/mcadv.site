@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-26T20:15:50-03:00",
+  "gerado_em": "2026-10-28T20:09:37-03:00",
   "versao": 1,
-  "data": "2026-10-26",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-26.md",
+  "data": "2026-10-28",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-28.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 14 a 21/10/2026",
-      "data": "2026-10-21",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-21.md"
+      "titulo": "Radar Trabalhista — 21 a 28/10/2026",
+      "data": "2026-10-28",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-10-28.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-26",
-    "data_extenso": "segunda, 26 de outubro de 2026",
-    "temp_atual": 15,
-    "min": 13,
-    "max": 18,
+    "data": "2026-10-28",
+    "data_extenso": "quarta, 28 de outubro de 2026",
+    "temp_atual": 14,
+    "min": 14,
+    "max": 22,
     "condicao": "garoa moderada",
-    "prob_chuva": 59,
-    "texto": "São Paulo · segunda, 26 de outubro de 2026 · 15°C, garoa moderada · mín 13° / máx 18°"
+    "prob_chuva": 48,
+    "texto": "São Paulo · quarta, 28 de outubro de 2026 · 14°C, garoa moderada · mín 14° / máx 22°"
   }
 }

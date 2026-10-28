@@ -2,6 +2,34 @@
   "versao": 1,
   "manchetes": [
     {
+      "titulo": "TST mantém indenização a irmã de trabalhador eletrocutado em acidente",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWl0RWJFcUFlODA0VllUSmxnTlZlUERORnluaDc4WnRXX3VwdFFyWjFScEpVel90ZDdWZGF0UmN6bVczb2dYWnlCVGVTZ0l3dmNXUHNzQXZOUVItOTFuSDhtUFZPUFdDd1o3LUhDVmNLNm1XZVcyNU9xUUdOVTFNcjF1aUVjcVhfNXNMS0N3MlhObGFUX3NaOHhn?oc=5",
+      "fonte": "TST",
+      "area": "trabalhista",
+      "data": "2026-10-28"
+    },
+    {
+      "titulo": "TST fixa teses sobre divisor de jornada e cerceamento de defesa",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYldKOUhrX1NsajVRUnlidTFxTDZNMEYyM3dQenBjYUFQR05DQmh4ZnZhNVk3UVowekRKekgydktZeDV4eGk2eDZveGFtVUNHMi1ZSWZCNjVfc2xvOENTdUNIU3BScEsyM3ZuaHBsSWxQVUFhZ3RVQXdCZFJJZ0VESTIwVjFEMkZhakx2VXlUbnFESU40eF9MNlNwTmVhb2tDYXNNd0Z1SWV6dw?oc=5",
+      "fonte": "Migalhas",
+      "area": "trabalhista",
+      "data": "2026-10-28"
+    },
+    {
+      "titulo": "Justiça do Trabalho proíbe deputada Índia Armelau de incentivar demissões por escolhas…",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV01pVlUwMllKWHMzVmZ6VVZWMGxNcGd3VzdxcTNleVBYVnhtWlUwSHprd3NacVFtWFl1UXJMTjNSMDJJQlBNNlQ4Zm9Bb05vQVFuaTNRbWg3cjNfX2pJc2dVcHRZUVNtVGJ4Q01EaDloOHRkQzFkMXFqY0QtaGZGOXFOLXA0QkE3?oc=5",
+      "fonte": "Correio da Lavoura",
+      "area": "trabalhista",
+      "data": "2026-10-28"
+    },
+    {
+      "titulo": "TST valida teses sobre divisor de jornada e cerceamento de defesa",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSmhXa0ZRdW8ydThOZXpad2xEckN0YlZnLWpuTV9fVVV6S09WVnl6VVVBaDgxc0I2cUwtd08tem9CcWpXdFRZeUpWMmdQTTRMZlQxNGZSZTZqUlYtQVBZb0ZiNWVBMk1QNmlwYWVMTHdQZ3dSTUoybU1PYmU0blpjZjJTakFpRkZYemdpSXlCcFV6SU9vV1pCZzNfVkdUT0lnU2lITzBVd3JGY3M?oc=5",
+      "fonte": "Jurinews",
+      "area": "trabalhista",
+      "data": "2026-10-28"
+    },
+    {
       "titulo": "Reforma tributária: alíquota da CBS avança nesta semana",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbjhVVW5Qd2Z1elg0cFVKcFZta2luSE56ckZKYm1hV3NWYkJJVm5SUHc4QUlqNVA1SHVIVmhIRXFOeTdWRXNQdEdOUG9CZEFHVVB0Z3Z1RzV0M05veTZQbU5NSG5aMElfTnN3alFYR2Uzb21ueFpSVjBUd0tXWURGNjQ3cWVYN0NoZzNuUV9iQklxZi1zV29sSnRJX1c2eTdIRVNQNkRGZlFLS2pxOUFLQQ?oc=5",
       "fonte": "Senado",
@@ -16,27 +44,6 @@
       "data": "2026-10-26"
     },
     {
-      "titulo": "Empresas têm até sexta para optar pelo regime regular de IBS e CBS",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmNSVlNqRHhkNTN1WnROa3RGLXE0LXAwazZnVGwxLUkxX1JGUE5WeDdnTFBPb2oxMGlxd2h3UW5TM011LU94MFl5dW1HS2ttcFc4ZVRCdmVCUW1NdUxFZGhLV0FLNVZTbFNQNXFPcTA4SFJHTGlKWG9OT2hlcEpkdklfZy1kU2Jkbzk4TGI4aDBEZjhEaEE?oc=5",
-      "fonte": "Real News",
-      "area": "tributario-fiscal",
-      "data": "2026-10-26"
-    },
-    {
-      "titulo": "MS: prazo para escolher IBS e CBS no Simples termina sexta (30)",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlZNeVZIUHZoZ3hDbjhBS1pSVHMxeFliTFUta19pQi1kUW93R05FVWNCTFBwdmtUU2loVXVzXzBZNE1SREEydnNLOWxRbUY4a1ozaFZpWVEwWmxOUTlENC1sZmJydGdJTkxKTkFiSFNuTUN4Z1ZRcEVqa1A5U28yUnUwNFIwZno1MHpFMlBUTXNaQnZwbGZvdHFwRGJTYnlhejRvSmNZanc4d9IBqgFBVV95cUxOSWxBNDJTRHZUbnB5dnFmMWpXWE9EQnRUeTh0SWFZdVJ5Z1JoOEE2bzRCOGxrOHhlVzZDanUzSjYyWmp5SjBrVlJKRDZJYkNxS3BkbGNZS0l4QU04RHNibVlaUmc4eGFMMFBGMEtlYTE1MDlxeVROYk5xVWVDUGpmZy1vMTBxLXRQOW5vcHNuOUhVaWlNd0Q5aHR0aUdCaWw4cnlFUlhSTTBadw?oc=5",
-      "fonte": "Campo Grande News",
-      "area": "tributario-fiscal",
-      "data": "2026-10-26"
-    },
-    {
-      "titulo": "Nova reforma da Previdência? Presidente eleito terá desafio de reequilibrar o INSS",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmRyeU9LY0RrTHFmNGVOT21sdU5rY29HS01rNnNEVVFnQXppRUtISDhxczhUVERZMXIxWXhfMkE0WC1oZmdmOU1YYnpoN3NwWGhlMzlGSDZrZmFGWU1yNmpxcVVvWTlCaTBYTGtBemNxMGpsbmtubTJVaHkxRlRZV003VE9kSlJYWVJBWkNOb9IBlAFBVV95cUxOdGVZemlpWm1kYW9kOHJLbklhX3lPdWZhbmVXNlpqbkFiLV9VbUFtNXlUODJ1RmIwYlkzZHBCU1piSkF2ZV9CRmV2WjdvTUo0Zy1wT3FEWF9Va1p6UUhubUNSejFnNHpnLUxiRk16bVRCYXVzS2VnVWdMNW82bnhvekZjVTNGcTNJR3pJd2tEQTFIOGZY?oc=5",
-      "fonte": "InfoMoney",
-      "area": "previdenciario",
-      "data": "2026-10-23"
-    },
-    {
       "titulo": "INSS deve permitir complementação de prova antes de negar benefício, decide STJ",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcndQY1h3U3RnN2g3YUJybEtVUG9qVUtJLWdna3N5ZXZqbFBkLUtrUFpNUG8xa29ZTVZKUmRZZkd4dDJHR3NLR1R5MFM1VkhNYjJpekllc1hLdkV1NzMwMGtWZ2x2MS1UUWVjbl9YYnkzaGRwQUkwUjF6TUN1SUl4SXF6WW1wWGloZkZTR19jaGF6cXRRSS03TG1QRld6SElDRno2V05VczNKUDhIQjFv?oc=5",
       "fonte": "Migalhas",
@@ -44,21 +51,14 @@
       "data": "2026-10-22"
     },
     {
-      "titulo": "TST reconhece representação de sindicato para terceirizados de empresa de cosméticos",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZkxlVVNYZHh1Y0NTSU9JV3FUSEsyU3Npa2gtbW5zd0R3OENsTmQzbDZpRGowTGRNY2p0STBjTTdmVUtXUmRYdVhTY2tTN3BlY250SDlaYW9qTnFlSGN6OVBNOWhZSDN1d2lyYlBKbjdVdGhNdDh6Wng2RDhMSGQycWt0eXh1QQ?oc=5",
-      "fonte": "CSB Central dos Sindicatos Brasileiros",
-      "area": "trabalhista",
+      "titulo": "Costureira espera há 10 anos por benefício do INSS após problemas de saúde em Sumaré",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ1dMMTh5aDNnZF8tUllFNFZzRmZrMk8wZlFURFJwOTVUWElCSzFXRUZkTFM4aFFCZzBXeW1yOGZEYUF0ZTdYWE5SMkkzNTA0Q2V3RVhpV2NBbkhEY0VrRm9BM2FnTnFyeXQ0QmJkMXVOWWZhRUJ6Y3N4RlptejQ1MzZPT2VRLUgtUlRvZkl6bFQxblRLOFBkMjlVTEk2a0RuR1I2SkJPcVlMZGk5Y2Nab29Rb1VDTWV4X0NwVExGVU5fX0R1OHFKRWdMQWcyVzllSld6RFVPMm56YjkxVkZ2Z19CNXQ0UE5CU3JnSWRYQmREUnRxLVpHS2thVdIBgAJBVV95cUxON09HTThncE8xM0dIM3B3VlZTX0NiZ1h5elotbFBBZmttMnc0Z1F1emhLbXZGbXg4bFVmWklkMnhqZml3TzN5ajBLb0duWmNHZjlpa3hGemMxdkhTdjJSUmN0a1dJNndfNWlCNjlNdk5QQ0tXdTFERUVQN1dzNVljRkxUbjZEanp0N2NFTENtNkhtRHRhdVdTMno2YkhfTzJBeFhteDZaTDBKXzhBYkRwYnpuMlFJSnhjbHdiRHNSNHBWUFhERVpXZjdMYXBZX0ZXdGpTQmV4Y3dhcjltVHRERThuOGF0ckJNTjFHaTJ1LUtSSG5UdWRWR2hfNTM5X0Vz?oc=5",
+      "fonte": "Grupo Jota Sidney",
+      "area": "previdenciario",
       "data": "2026-10-20"
-    },
-    {
-      "titulo": "Recreadora acusada de maus-tratos a crianças não reverte justa causa no TST",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVRGdlVCeEVIN3JnWUpGVkdwR2dydGRVVnBqa3cxRFFlbzd6VXVWeGlSMGFPWjMxMFhUdkZUcWZtZjhOVmpDdVk4alpjY0UwWUs1TjhuYkhxOVNPSGs4bFFTQk04cHZTdEhaZ2ZPZmI0TS1kbnhILU83dl9RWUNVODhmaVBLREhCTHpxRXJGRDM1T1pYTm9ENU1UVFRoMGJTTDVxcXM0Sndmc0VjRVUw?oc=5",
-      "fonte": "Tribunal Regional do Trabalho da 12ª Região",
-      "area": "trabalhista",
-      "data": "2026-10-16"
     }
   ],
-  "gerado_em": "2026-10-28T05:02:13-03:00",
+  "gerado_em": "2026-10-28T20:09:37-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-10-28",
