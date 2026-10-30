@@ -58,16 +58,16 @@
       "data": "2026-10-20"
     }
   ],
-  "gerado_em": "2026-10-29T05:02:22-03:00",
+  "gerado_em": "2026-10-30T05:02:10-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-29",
-    "data_extenso": "quinta, 29 de outubro de 2026",
+    "data": "2026-10-30",
+    "data_extenso": "sexta, 30 de outubro de 2026",
     "temp_atual": 16,
     "min": 16,
-    "max": 20,
-    "condicao": "pancadas de chuva fracas",
-    "prob_chuva": 100,
-    "texto": "São Paulo · quinta, 29 de outubro de 2026 · 16°C, pancadas de chuva fracas · mín 16° / máx 20°"
+    "max": 26,
+    "condicao": "garoa moderada",
+    "prob_chuva": 97,
+    "texto": "São Paulo · sexta, 30 de outubro de 2026 · 16°C, garoa moderada · mín 16° / máx 26°"
   }
 }
