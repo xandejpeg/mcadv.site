@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-10-31T05:02:02-03:00",
+  "gerado_em": "2026-11-01T05:01:38-03:00",
   "cidade": "São Paulo",
-  "data": "2026-10-31",
-  "data_extenso": "sábado, 31 de outubro de 2026",
-  "temp_atual": 15,
-  "min": 15,
-  "max": 25,
-  "condicao": "garoa moderada",
+  "data": "2026-11-01",
+  "data_extenso": "domingo, 1 de novembro de 2026",
+  "temp_atual": 16,
+  "min": 16,
+  "max": 27,
+  "condicao": "trovoada",
   "prob_chuva": 100,
-  "texto": "São Paulo · sábado, 31 de outubro de 2026 · 15°C, garoa moderada · mín 15° / máx 25°"
+  "texto": "São Paulo · domingo, 1 de novembro de 2026 · 16°C, trovoada · mín 16° / máx 27°"
 }
