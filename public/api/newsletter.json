@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-10-30T08:03:38-03:00",
+  "gerado_em": "2026-11-02T20:10:50-03:00",
   "versao": 1,
-  "data": "2026-10-30",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-10-30.md",
+  "data": "2026-11-02",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-02.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 19 a 26/10/2026",
-      "data": "2026-10-26",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-10-26.md"
+      "titulo": "Radar Tributário & Fiscal — 26/10/2026 a 02/11/2026",
+      "data": "2026-11-02",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-02.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-10-30",
-    "data_extenso": "sexta, 30 de outubro de 2026",
-    "temp_atual": 16,
-    "min": 16,
-    "max": 26,
-    "condicao": "garoa moderada",
-    "prob_chuva": 97,
-    "texto": "São Paulo · sexta, 30 de outubro de 2026 · 16°C, garoa moderada · mín 16° / máx 26°"
+    "data": "2026-11-02",
+    "data_extenso": "segunda, 2 de novembro de 2026",
+    "temp_atual": 18,
+    "min": 18,
+    "max": 27,
+    "condicao": "trovoada",
+    "prob_chuva": 86,
+    "texto": "São Paulo · segunda, 2 de novembro de 2026 · 18°C, trovoada · mín 18° / máx 27°"
   }
 }
