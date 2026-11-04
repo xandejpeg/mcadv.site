@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-11-03T05:02:12-03:00",
+  "gerado_em": "2026-11-04T05:02:04-03:00",
   "cidade": "São Paulo",
-  "data": "2026-11-03",
-  "data_extenso": "terça, 3 de novembro de 2026",
-  "temp_atual": 17,
-  "min": 17,
-  "max": 28,
-  "condicao": "nublado",
-  "prob_chuva": 43,
-  "texto": "São Paulo · terça, 3 de novembro de 2026 · 17°C, nublado · mín 17° / máx 28°"
+  "data": "2026-11-04",
+  "data_extenso": "quarta, 4 de novembro de 2026",
+  "temp_atual": 19,
+  "min": 19,
+  "max": 31,
+  "condicao": "garoa fraca",
+  "prob_chuva": 10,
+  "texto": "São Paulo · quarta, 4 de novembro de 2026 · 19°C, garoa fraca · mín 19° / máx 31°"
 }
