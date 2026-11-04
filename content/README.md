@@ -19,6 +19,7 @@
 
 ## trabalhista
 
+- **04/11/2026** — [Radar Trabalhista — 28/10/2026 a 04/11/2026](trabalhista/2026-11-04.md) · 12 itens
 - **28/10/2026** — [Radar Trabalhista — 21 a 28/10/2026](trabalhista/2026-10-28.md) · 12 itens
 - **21/10/2026** — [Radar Trabalhista — 14 a 21/10/2026](trabalhista/2026-10-21.md) · 12 itens
 - **14/10/2026** — [Radar Trabalhista — 07 a 14/10/2026](trabalhista/2026-10-14.md) · 12 itens
