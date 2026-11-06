@@ -2,23 +2,44 @@
   "versao": 1,
   "manchetes": [
     {
+      "titulo": "Aposentadoria parada no INSS: veja em 4 passos como destravar o pedido após o prazo de 90…",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM2cxcXRfMThScTB3UW5LMlY3UHNodnNaM3NtcF9oaFNvQkt6M1FCRXR5VVZlenVnRmZTelVRQ2NXQ1VwMC0zVWNOZEU5R1VDcC1GazEwWlJkUDYxV1VwNDZ5bmkwNnl1RlRFUzJ3cUJYU291ckhiMEo5b1k4QmxxSnIzMjhXQjlpOVVUM3VVX05vWEZ2T3ZBckNLcHdGVm4zMkl4Z0pLTmk2WGZHU2xCVG1VVnB5SWJlM0hWVWl1eWdaT1hmOEsweDYtWQ?oc=5",
+      "fonte": "Gazeta de São Paulo",
+      "area": "previdenciario",
+      "data": "2026-11-06"
+    },
+    {
+      "titulo": "Pedido de aposentadoria negado pelo INSS pode ter o resultado revertido com um documento",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWHNqcmFHQlZwMUNyV2xRVGxjSXpWNk1kamw3RlRvRnJHM2Nvd2ZDYTJmM3VIZFdkSVlabWxXS0E0eGwydTJWQzhIVHJDZ0oyQWFFdFlIYTRKN3M3UU8ycFphOWFqNExlcndhczlROTZvMUdCc0p1cy1NYnRjcTdfT041T3Z4dTBmR0lqMGJoZWxoN2RhU3gzVlJLUTc4MHBETm5FdDZNeTRjMWtVZUF1dFFCTlJOX0JGcHJFSUgwLU1adHVvd2pjMGtVcHVJVXAtM3ZfbWdpRkNKbG5LNjlDaHFhVnBjaHM1RjNTTDdR?oc=5",
+      "fonte": "www.jornalcruzeiro.com.br",
+      "area": "previdenciario",
+      "data": "2026-11-06"
+    },
+    {
+      "titulo": "STF mantém extinção do 'ICMS Verde' em Alagoas",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTzBMTmNLV0w1bkZPQ0RGVDh5UUVQaUtEMXNBTHRsVENZemNEamVKNmZrc181WGl4YWVzTmg3VXV6Q1E1NW16U3lSQnR0QjNfREkzb3UtcEdaWXliQmwzWDgwbF80eHR2NHRhNFlpcmFucjMxbUxULXVnRUhTV2g3RUNjNHQxVS02cUt3alMya0E?oc=5",
+      "fonte": "stf noticias",
+      "area": "tributario-fiscal",
+      "data": "2026-11-05"
+    },
+    {
+      "titulo": "Receita recebe lista de medicamentos com alíquota zero de CBS e IBS nesta semana",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWxoRzJDc0lscXJyZ0h0YnEwZlJLQkFacF94T1lyTzlERFlXa1R5cHQ2M3lsVU5sTjhseFdEMjdVTF9KbF9WZ090bGZtS29PbGxobTV0TWhobmdlTFJOdE1IUVlSYnBIN003SzVoX2puNXpXUS1qWWx4RTNwa0dnMUtObFpTcHpKNHJDWm9wSHdHZ29mXzVBVUxHVnZmU2lDeXlPQW8xel9hSEJH?oc=5",
+      "fonte": "JOTA Info",
+      "area": "tributario-fiscal",
+      "data": "2026-11-05"
+    },
+    {
+      "titulo": "INSS orienta profissionais da assistência social do Rio Grande do Sul sobre acesso ao…",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSGtoVXpKczZOdHI0aGhnbjJ3RmlmRHk5UWhPWmludk5JWHlRTVBZWm10aFc4WTZCUVREUkEzUHdFT1pzZGtYQjdKNkMwdE9ZMkMyWHphYVFsWmpXVkdCNHR6VWJBWWEyZE40WmtBYWZWQ1ZaakRSbS1iMGoyZDVEOUVKNUlpSUdOSEd0cUJYM0dPdnQ0S3l5dGhxSWNySFVWX3RXRkVKYlhUVjJicXZTX003dVhMcERVMVIyRUpwWFhPRF9kMFZUc09BT0NVbXBBWFhvUzUyZV9YMmQ3LURzbEZqSm83dDNtMzFuRFJoeTZDZkVwX0FMUDBhNA?oc=5",
+      "fonte": "GOV.BR",
+      "area": "previdenciario",
+      "data": "2026-11-05"
+    },
+    {
       "titulo": "TST: Correios respondem por condições de trabalho precárias de vigilante terceirizado",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVd6RkVVcGJfZTRKNWMwOVRsOW1BS1I3RFdDMEhjampaZDdTZGRRR2ExOGhuRm5CRE9XMmhVTFYzWlR1VnZhUnlnZzhWekdyaTBNOURYZ25abE81N2cyOWREMXZNVHlxbEJ2Tmg3eGl0WVJxaktGVElMVFUzNlRxdGhuN1d2UWE0YzRzaE9wbV92Umc2OFpsY2tvX2RUajZJaGU5Nk1TUlhzenlxZGFLbU90Yw?oc=5",
       "fonte": "Migalhas",
-      "area": "trabalhista",
-      "data": "2026-11-04"
-    },
-    {
-      "titulo": "Justiça do Trabalho mantém justa causa de topógrafo após exame toxicológico",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTcxRlFYSDY0SkFIQU9IaHlRRzE1VFdETW45a21KeXNXNlliaW93MlNCY1Z4YWF5T00xckRKVmRBek9NTlQwRU9Wb2Rvck1hSzgyakx4Y2hCcWYzSUNNV2IwUnI0ak5SZUIyQ1k1cHo0QlViRkVQcHRfUS1IazY1c3ZHYnAxeWdXSHFxTHNCV0J1cTJvR1ZRb0FLbnNIWDdycnItdXBWMGY1ODZi?oc=5",
-      "fonte": "RCWTV",
-      "area": "trabalhista",
-      "data": "2026-11-04"
-    },
-    {
-      "titulo": "Juiz dos EUA utiliza decisão da Justiça do Trabalho do Pará como referência em caso de…",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVDNoRVZGY2RUTXA1c2R5YmJzd1ZEel9yUTJNRHJVdUZaeG5hWUtHTlA4ZVR5Qlk2TmtXZThhTVAxd1JSWUhyRC1YN2ZRNVNOaGw3NXoxRVN5MTh6T0tBOWkwZ25DTDdaWXhzUDlYeklTOGp4SXFrdE1OZ213WHdaZjYtVUtXeV94MkdvUmlaT2g1ellTOFRORjRFTkRkZEEzakxFX2dOTy1JbU1GV25VYnBZNDBKbXdVY0JtbnBqRVN1LTZBdTltUFBDNjJ3XzkxZXdDaktXNGY?oc=5",
-      "fonte": "Jurinews",
       "area": "trabalhista",
       "data": "2026-11-04"
     },
@@ -30,35 +51,14 @@
       "data": "2026-11-03"
     },
     {
-      "titulo": "CESTF reabre consulta sobre contencioso da reforma tributária",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0RNbTExRmVFUzF5Y1lPdkhFbURZWGdDTnFXNFVBUWVTRDladlVwcjMwLU50Q2FmUlJaT0ZQaE5aQnFqRkFuMzBsNmI0U3o1YS1FN3kxRTRzOVBHZ3VEX3M1M2JKSjVCN0dObDdtUms2ajB1bzBWeEQzbTh5eXZ6NTdoUjA5d0tzSklxRVRlYktMMmxzZjdKVHpSZm5pRHVScVdrN0FOVQ?oc=5",
-      "fonte": "Consultor Jurídico",
-      "area": "tributario-fiscal",
-      "data": "2026-11-02"
-    },
-    {
-      "titulo": "Carf nega tese do STF à multa regulamentar do IPI por notas fiscais irregulares",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX2p3aTVCS3dSWE8yNk9acGdOYjA3bk81N3M5V2xtSFJ3eG9BTlRsd3BiZ2xqeGstN2ZtMklvUjdUVnZGZ0lNZmlVS0MtdEIwNUlJUkIxV0plV25sZ2RsdGYxVFFfeG5DT0FCRkNPNVZZZVZUc1J5M0ZrdUdiSkRURjgxUFNGZl85OVcwa0ZQM05PNDFoLVpmX0xNcUstSDNDclJ1cERLdjl0dG5FdUNn?oc=5",
-      "fonte": "JOTA Info",
-      "area": "tributario-fiscal",
-      "data": "2026-11-02"
-    },
-    {
-      "titulo": "STF valida regra que altera isenção de contribuição previdenciária sobre aposentadoria de…",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPODIwRmU5azE5WHFJOTBMY2ZWNUt0dVRLR1VobGFmbkJIZ2V3YWlDSWIxLTRuWWlwcklvMGpiZFJQWGs5TEFNTUUxd08wQ21UdnRDV3hITXh6NEZKTF9qY3hxZGdkVnlYTmt1RjdSdWhZQVlHM290d1lFUXhMLUxKTTVfN2puekt6dVFUMEhVYUpyNExJZDdkS21JYm5LRnFxTGtzSkRGU1NRS1l1cDhCT0ZVX1pYelNaSGh4LVQ5ck1MbmQxVFVLaXF1S245SS16Tlh6YlhzQzhUWTdwVWtWUHp1RTlkemNWRWx1SlpR?oc=5",
-      "fonte": "STF",
+      "titulo": "Ilustração Benefício por Incapacidade.png — Instituto Nacional do Seguro Social - INSS",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORl9IMHlOYndHVXhUT0VRZlRZTDVDUlFDZHRQNkRfWVl5ZDdVT3hhMEVsc3dqSktBTHRCLTV0akdIZkRjb2thVFQ5OFZPMGFqNkozX2dSa2tQTlB6T3lnbWkwdF9vd01LY0hzdmhsRTdYUzg5NGlpdmNlaUhVdEhGNXpMOTRxeG5PWmdhVkZPTHY0akJhYzhROUZhTG5mNEFqd0hITmVKM20xbEtlNXdmS3h3UlQ1M1JpU3kwMXphaS10MVVOU3gzd1h1V3BhWV9raDcwWERYM0dUS0JwOXU2aW41UlZqYjRXUWFELURpSlRlY1k2am5lb1BydTJYeG9iYm1GcGRfTEtST2hlLVZLXy1IZnBPYXJRMVZza28yYjQ?oc=5",
+      "fonte": "www.gov.br",
       "area": "previdenciario",
-      "data": "2026-10-29"
-    },
-    {
-      "titulo": "É mentira: INSS nega bloqueio de benefícios por falta de biometria",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcHlka3A5OWg0WW9sYkxyMEpkX3NBRm1xZlBZemZwSnZlRkpENk5PYTlLUVNoaWhqd2hwb1g3TTh5TWdQTVJmT1RTQXRHRnVVOVpfaWNnN2t5X1psY3hsRGxQNG5BRWp0dmxxT1RFaVQ5c3lMcktiM0JKNDZRcDVBa3NXQVM5ZGdrWDF5Z1d1Z3YxSzVObXk4SDR3ZWc4MXBk?oc=5",
-      "fonte": "Tribuna do Planalto",
-      "area": "previdenciario",
-      "data": "2026-10-28"
+      "data": "2026-11-03"
     }
   ],
-  "gerado_em": "2026-11-06T05:02:08-03:00",
+  "gerado_em": "2026-11-06T08:03:33-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-11-06",

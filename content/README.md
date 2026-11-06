@@ -34,6 +34,7 @@
 
 ## previdenciario
 
+- **06/11/2026** — [Radar Previdenciário — 30/10/2026 a 06/11/2026](previdenciario/2026-11-06.md) · 12 itens
 - **30/10/2026** — [Radar Previdenciário — 23 a 30/10/2026](previdenciario/2026-10-30.md) · 12 itens
 - **23/10/2026** — [Radar Previdenciário — 16 a 23/10/2026](previdenciario/2026-10-23.md) · 12 itens
 - **16/10/2026** — [Radar Previdenciário — 09 a 16/10/2026](previdenciario/2026-10-16.md) · 12 itens

@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-11-04T20:08:23-03:00",
+  "gerado_em": "2026-11-06T08:03:33-03:00",
   "versao": 1,
-  "data": "2026-11-04",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-04.md",
+  "data": "2026-11-06",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-06.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 23 a 30/10/2026",
-      "data": "2026-10-30",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-10-30.md"
+      "titulo": "Radar Previdenciário — 30/10/2026 a 06/11/2026",
+      "data": "2026-11-06",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-11-06.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-04",
-    "data_extenso": "quarta, 4 de novembro de 2026",
-    "temp_atual": 19,
-    "min": 19,
-    "max": 31,
-    "condicao": "garoa fraca",
-    "prob_chuva": 10,
-    "texto": "São Paulo · quarta, 4 de novembro de 2026 · 19°C, garoa fraca · mín 19° / máx 31°"
+    "data": "2026-11-06",
+    "data_extenso": "sexta, 6 de novembro de 2026",
+    "temp_atual": 20,
+    "min": 20,
+    "max": 28,
+    "condicao": "garoa densa",
+    "prob_chuva": 79,
+    "texto": "São Paulo · sexta, 6 de novembro de 2026 · 20°C, garoa densa · mín 20° / máx 28°"
   }
 }
