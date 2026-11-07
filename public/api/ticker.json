@@ -58,16 +58,16 @@
       "data": "2026-11-03"
     }
   ],
-  "gerado_em": "2026-11-06T08:03:33-03:00",
+  "gerado_em": "2026-11-07T05:02:02-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-06",
-    "data_extenso": "sexta, 6 de novembro de 2026",
-    "temp_atual": 20,
-    "min": 20,
-    "max": 28,
-    "condicao": "garoa densa",
-    "prob_chuva": 79,
-    "texto": "São Paulo · sexta, 6 de novembro de 2026 · 20°C, garoa densa · mín 20° / máx 28°"
+    "data": "2026-11-07",
+    "data_extenso": "sábado, 7 de novembro de 2026",
+    "temp_atual": 19,
+    "min": 19,
+    "max": 30,
+    "condicao": "trovoada",
+    "prob_chuva": 92,
+    "texto": "São Paulo · sábado, 7 de novembro de 2026 · 19°C, trovoada · mín 19° / máx 30°"
   }
 }
