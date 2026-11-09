@@ -1,7 +1,15 @@
 {
-  "gerado_em": "2026-11-06T08:03:33-03:00",
+  "gerado_em": "2026-11-09T20:10:12-03:00",
   "versao": 1,
   "relatorios": [
+    {
+      "area": "tributario-fiscal",
+      "titulo": "Radar Tributário & Fiscal — 02 a 09/11/2026",
+      "data": "2026-11-09",
+      "edicao": 13,
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-09.md",
+      "itens": 12
+    },
     {
       "area": "previdenciario",
       "titulo": "Radar Previdenciário — 30/10/2026 a 06/11/2026",

@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-06T08:03:33-03:00",
+  "gerado_em": "2026-11-09T20:10:12-03:00",
   "versao": 1,
-  "data": "2026-11-06",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-06.md",
+  "data": "2026-11-09",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-09.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 26/10/2026 a 02/11/2026",
-      "data": "2026-11-02",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-02.md"
+      "titulo": "Radar Tributário & Fiscal — 02 a 09/11/2026",
+      "data": "2026-11-09",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-09.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-06",
-    "data_extenso": "sexta, 6 de novembro de 2026",
-    "temp_atual": 20,
-    "min": 20,
-    "max": 28,
-    "condicao": "garoa densa",
-    "prob_chuva": 79,
-    "texto": "São Paulo · sexta, 6 de novembro de 2026 · 20°C, garoa densa · mín 20° / máx 28°"
+    "data": "2026-11-09",
+    "data_extenso": "segunda, 9 de novembro de 2026",
+    "temp_atual": 13,
+    "min": 13,
+    "max": 18,
+    "condicao": "garoa fraca",
+    "prob_chuva": 22,
+    "texto": "São Paulo · segunda, 9 de novembro de 2026 · 13°C, garoa fraca · mín 13° / máx 18°"
   }
 }
