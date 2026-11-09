@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-11-08T05:01:55-03:00",
+  "gerado_em": "2026-11-09T05:02:31-03:00",
   "cidade": "São Paulo",
-  "data": "2026-11-08",
-  "data_extenso": "domingo, 8 de novembro de 2026",
-  "temp_atual": 16,
-  "min": 14,
-  "max": 19,
-  "condicao": "pancadas de chuva fracas",
-  "prob_chuva": 90,
-  "texto": "São Paulo · domingo, 8 de novembro de 2026 · 16°C, pancadas de chuva fracas · mín 14° / máx 19°"
+  "data": "2026-11-09",
+  "data_extenso": "segunda, 9 de novembro de 2026",
+  "temp_atual": 13,
+  "min": 13,
+  "max": 18,
+  "condicao": "garoa fraca",
+  "prob_chuva": 22,
+  "texto": "São Paulo · segunda, 9 de novembro de 2026 · 13°C, garoa fraca · mín 13° / máx 18°"
 }
