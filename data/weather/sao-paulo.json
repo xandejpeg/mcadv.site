@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-11-09T05:02:31-03:00",
+  "gerado_em": "2026-11-10T05:01:53-03:00",
   "cidade": "São Paulo",
-  "data": "2026-11-09",
-  "data_extenso": "segunda, 9 de novembro de 2026",
-  "temp_atual": 13,
-  "min": 13,
-  "max": 18,
+  "data": "2026-11-10",
+  "data_extenso": "terça, 10 de novembro de 2026",
+  "temp_atual": 12,
+  "min": 12,
+  "max": 23,
   "condicao": "garoa fraca",
-  "prob_chuva": 22,
-  "texto": "São Paulo · segunda, 9 de novembro de 2026 · 13°C, garoa fraca · mín 13° / máx 18°"
+  "prob_chuva": 6,
+  "texto": "São Paulo · terça, 10 de novembro de 2026 · 12°C, garoa fraca · mín 12° / máx 23°"
 }
