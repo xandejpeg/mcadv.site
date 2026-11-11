@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-11-09T20:10:12-03:00",
+  "gerado_em": "2026-11-11T20:08:01-03:00",
   "versao": 1,
-  "data": "2026-11-09",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-09.md",
+  "data": "2026-11-11",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-11.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 28/10/2026 a 04/11/2026",
-      "data": "2026-11-04",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-11-04.md"
+      "titulo": "Radar Trabalhista — 04 a 11/11/2026",
+      "data": "2026-11-11",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-11-11.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-09",
-    "data_extenso": "segunda, 9 de novembro de 2026",
-    "temp_atual": 13,
-    "min": 13,
-    "max": 18,
+    "data": "2026-11-11",
+    "data_extenso": "quarta, 11 de novembro de 2026",
+    "temp_atual": 14,
+    "min": 14,
+    "max": 26,
     "condicao": "garoa fraca",
-    "prob_chuva": 22,
-    "texto": "São Paulo · segunda, 9 de novembro de 2026 · 13°C, garoa fraca · mín 13° / máx 18°"
+    "prob_chuva": 78,
+    "texto": "São Paulo · quarta, 11 de novembro de 2026 · 14°C, garoa fraca · mín 14° / máx 26°"
   }
 }
