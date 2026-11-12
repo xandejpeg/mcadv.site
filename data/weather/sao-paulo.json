@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-11-11T05:01:52-03:00",
+  "gerado_em": "2026-11-12T05:02:11-03:00",
   "cidade": "São Paulo",
-  "data": "2026-11-11",
-  "data_extenso": "quarta, 11 de novembro de 2026",
-  "temp_atual": 14,
-  "min": 14,
+  "data": "2026-11-12",
+  "data_extenso": "quinta, 12 de novembro de 2026",
+  "temp_atual": 17,
+  "min": 17,
   "max": 26,
-  "condicao": "garoa fraca",
-  "prob_chuva": 78,
-  "texto": "São Paulo · quarta, 11 de novembro de 2026 · 14°C, garoa fraca · mín 14° / máx 26°"
+  "condicao": "trovoada",
+  "prob_chuva": 100,
+  "texto": "São Paulo · quinta, 12 de novembro de 2026 · 17°C, trovoada · mín 17° / máx 26°"
 }
