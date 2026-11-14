@@ -58,16 +58,16 @@
       "data": "2026-11-10"
     }
   ],
-  "gerado_em": "2026-11-13T08:03:28-03:00",
+  "gerado_em": "2026-11-14T05:01:39-03:00",
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-13",
-    "data_extenso": "sexta, 13 de novembro de 2026",
-    "temp_atual": 18,
-    "min": 18,
-    "max": 26,
-    "condicao": "trovoada",
-    "prob_chuva": 100,
-    "texto": "São Paulo · sexta, 13 de novembro de 2026 · 18°C, trovoada · mín 18° / máx 26°"
+    "data": "2026-11-14",
+    "data_extenso": "sábado, 14 de novembro de 2026",
+    "temp_atual": 16,
+    "min": 16,
+    "max": 27,
+    "condicao": "nevoeiro",
+    "prob_chuva": 18,
+    "texto": "São Paulo · sábado, 14 de novembro de 2026 · 16°C, nevoeiro · mín 16° / máx 27°"
   }
 }
