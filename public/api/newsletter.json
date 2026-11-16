@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-13T08:03:28-03:00",
+  "gerado_em": "2026-11-16T20:10:10-03:00",
   "versao": 1,
-  "data": "2026-11-13",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-13.md",
+  "data": "2026-11-16",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-16.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 02 a 09/11/2026",
-      "data": "2026-11-09",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-09.md"
+      "titulo": "Radar Tributário & Fiscal — 09 a 16/11/2026",
+      "data": "2026-11-16",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-16.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-13",
-    "data_extenso": "sexta, 13 de novembro de 2026",
-    "temp_atual": 18,
+    "data": "2026-11-16",
+    "data_extenso": "segunda, 16 de novembro de 2026",
+    "temp_atual": 19,
     "min": 18,
-    "max": 26,
+    "max": 25,
     "condicao": "trovoada",
     "prob_chuva": 100,
-    "texto": "São Paulo · sexta, 13 de novembro de 2026 · 18°C, trovoada · mín 18° / máx 26°"
+    "texto": "São Paulo · segunda, 16 de novembro de 2026 · 19°C, trovoada · mín 18° / máx 25°"
   }
 }
