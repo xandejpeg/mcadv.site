@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-11-16T20:10:10-03:00",
+  "gerado_em": "2026-11-18T20:07:58-03:00",
   "versao": 1,
-  "data": "2026-11-16",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-16.md",
+  "data": "2026-11-18",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-18.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 04 a 11/11/2026",
-      "data": "2026-11-11",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-11-11.md"
+      "titulo": "Radar Trabalhista — 11 a 18/11/2026",
+      "data": "2026-11-18",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-11-18.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-16",
-    "data_extenso": "segunda, 16 de novembro de 2026",
-    "temp_atual": 19,
+    "data": "2026-11-17",
+    "data_extenso": "terça, 17 de novembro de 2026",
+    "temp_atual": 18,
     "min": 18,
-    "max": 25,
-    "condicao": "trovoada",
-    "prob_chuva": 100,
-    "texto": "São Paulo · segunda, 16 de novembro de 2026 · 19°C, trovoada · mín 18° / máx 25°"
+    "max": 28,
+    "condicao": "nublado",
+    "prob_chuva": 9,
+    "texto": "São Paulo · terça, 17 de novembro de 2026 · 18°C, nublado · mín 18° / máx 28°"
   }
 }
