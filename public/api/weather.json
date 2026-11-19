@@ -1,13 +1,13 @@
 {
-  "gerado_em": "2026-11-17T05:01:43-03:00",
+  "gerado_em": "2026-11-19T05:02:09-03:00",
   "versao": 1,
   "cidade": "São Paulo",
-  "data": "2026-11-17",
-  "data_extenso": "terça, 17 de novembro de 2026",
-  "temp_atual": 18,
-  "min": 18,
-  "max": 28,
-  "condicao": "nublado",
-  "prob_chuva": 9,
-  "texto": "São Paulo · terça, 17 de novembro de 2026 · 18°C, nublado · mín 18° / máx 28°"
+  "data": "2026-11-19",
+  "data_extenso": "quinta, 19 de novembro de 2026",
+  "temp_atual": 20,
+  "min": 20,
+  "max": 30,
+  "condicao": "garoa fraca",
+  "prob_chuva": 63,
+  "texto": "São Paulo · quinta, 19 de novembro de 2026 · 20°C, garoa fraca · mín 20° / máx 30°"
 }
