@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-11-18T20:07:58-03:00",
+  "gerado_em": "2026-11-20T08:03:36-03:00",
   "versao": 1,
-  "data": "2026-11-18",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-18.md",
+  "data": "2026-11-20",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-20.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -18,20 +18,20 @@
     },
     {
       "area": "previdenciario",
-      "titulo": "Radar Previdenciário — 06 a 13/11/2026",
-      "data": "2026-11-13",
-      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-11-13.md"
+      "titulo": "Radar Previdenciário — 13 a 20/11/2026",
+      "data": "2026-11-20",
+      "url_md": "https://mdcadvocacia.com/content/previdenciario/2026-11-20.md"
     }
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-17",
-    "data_extenso": "terça, 17 de novembro de 2026",
-    "temp_atual": 18,
-    "min": 18,
-    "max": 28,
-    "condicao": "nublado",
-    "prob_chuva": 9,
-    "texto": "São Paulo · terça, 17 de novembro de 2026 · 18°C, nublado · mín 18° / máx 28°"
+    "data": "2026-11-20",
+    "data_extenso": "sexta, 20 de novembro de 2026",
+    "temp_atual": 22,
+    "min": 22,
+    "max": 33,
+    "condicao": "trovoada",
+    "prob_chuva": 71,
+    "texto": "São Paulo · sexta, 20 de novembro de 2026 · 22°C, trovoada · mín 22° / máx 33°"
   }
 }
