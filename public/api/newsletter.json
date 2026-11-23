@@ -1,14 +1,14 @@
 {
-  "gerado_em": "2026-11-20T08:03:36-03:00",
+  "gerado_em": "2026-11-23T20:12:12-03:00",
   "versao": 1,
-  "data": "2026-11-20",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-20.md",
+  "data": "2026-11-23",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-23.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
-      "titulo": "Radar Tributário & Fiscal — 09 a 16/11/2026",
-      "data": "2026-11-16",
-      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-16.md"
+      "titulo": "Radar Tributário & Fiscal — 16 a 23/11/2026",
+      "data": "2026-11-23",
+      "url_md": "https://mdcadvocacia.com/content/tributario-fiscal/2026-11-23.md"
     },
     {
       "area": "trabalhista",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-20",
-    "data_extenso": "sexta, 20 de novembro de 2026",
-    "temp_atual": 22,
-    "min": 22,
-    "max": 33,
+    "data": "2026-11-22",
+    "data_extenso": "domingo, 22 de novembro de 2026",
+    "temp_atual": 21,
+    "min": 21,
+    "max": 30,
     "condicao": "trovoada",
-    "prob_chuva": 71,
-    "texto": "São Paulo · sexta, 20 de novembro de 2026 · 22°C, trovoada · mín 22° / máx 33°"
+    "prob_chuva": 97,
+    "texto": "São Paulo · domingo, 22 de novembro de 2026 · 21°C, trovoada · mín 21° / máx 30°"
   }
 }
