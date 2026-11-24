@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-11-22T05:01:47-03:00",
+  "gerado_em": "2026-11-24T05:02:08-03:00",
   "cidade": "São Paulo",
-  "data": "2026-11-22",
-  "data_extenso": "domingo, 22 de novembro de 2026",
-  "temp_atual": 21,
-  "min": 21,
-  "max": 30,
+  "data": "2026-11-24",
+  "data_extenso": "terça, 24 de novembro de 2026",
+  "temp_atual": 20,
+  "min": 20,
+  "max": 31,
   "condicao": "trovoada",
-  "prob_chuva": 97,
-  "texto": "São Paulo · domingo, 22 de novembro de 2026 · 21°C, trovoada · mín 21° / máx 30°"
+  "prob_chuva": 100,
+  "texto": "São Paulo · terça, 24 de novembro de 2026 · 20°C, trovoada · mín 20° / máx 31°"
 }
