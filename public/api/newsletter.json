@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-11-23T20:12:12-03:00",
+  "gerado_em": "2026-11-25T20:08:10-03:00",
   "versao": 1,
-  "data": "2026-11-23",
-  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-23.md",
+  "data": "2026-11-25",
+  "url_md": "https://mdcadvocacia.com/content/newsletter/2026-11-25.md",
   "relatorios": [
     {
       "area": "tributario-fiscal",
@@ -12,9 +12,9 @@
     },
     {
       "area": "trabalhista",
-      "titulo": "Radar Trabalhista — 11 a 18/11/2026",
-      "data": "2026-11-18",
-      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-11-18.md"
+      "titulo": "Radar Trabalhista — 18 a 25/11/2026",
+      "data": "2026-11-25",
+      "url_md": "https://mdcadvocacia.com/content/trabalhista/2026-11-25.md"
     },
     {
       "area": "previdenciario",
@@ -25,13 +25,13 @@
   ],
   "clima": {
     "cidade": "São Paulo",
-    "data": "2026-11-22",
-    "data_extenso": "domingo, 22 de novembro de 2026",
-    "temp_atual": 21,
-    "min": 21,
-    "max": 30,
+    "data": "2026-11-24",
+    "data_extenso": "terça, 24 de novembro de 2026",
+    "temp_atual": 20,
+    "min": 20,
+    "max": 31,
     "condicao": "trovoada",
-    "prob_chuva": 97,
-    "texto": "São Paulo · domingo, 22 de novembro de 2026 · 21°C, trovoada · mín 21° / máx 30°"
+    "prob_chuva": 100,
+    "texto": "São Paulo · terça, 24 de novembro de 2026 · 20°C, trovoada · mín 20° / máx 31°"
   }
 }
