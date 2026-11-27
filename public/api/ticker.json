@@ -2,32 +2,46 @@
   "versao": 1,
   "manchetes": [
     {
-      "titulo": "STF AO VIVO - Reforma Trabalhista e piso nacional para professores estaduais - 25/11/2026",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0d3QXUzSG95YWlpN3M4UXpJZ242WVpwejRHUDRaYnc2a0MyRFQtX1pURjBJRGR6czJPTHRXQ1FWTmYzRnVNbEQ1MmlrUUozZDNtcTJidDFCcW01UTFEX3JSOHhHTmpma0FtSnFNdnh4SFZWbkNWMnA0Q24zTncxMk5QdzhCQjhiYmktbXlDZGVmZzZLUXhlT09Ed2hsdlVHV3kxMUd1RkFKY0phT2dCUFJsQTU?oc=5",
-      "fonte": "JOTA Info",
-      "area": "trabalhista",
+      "titulo": "Câmara de Campinas vota reforma da Previdência com possíveis mudanças no projeto original",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTll4Qm9aLTNIMHhObG45WFhHVUtvVXBvd2VHTUhqRmVIMHlHTzdpOThrc1hjaWNhUkQ2UWRReTdIODlPemhiSFg5dXBGOVFHRUUybF9IWnpyWTUwSEc0T0J4RnNuNlpBSVh5SDRJU3doc2ZHWGxtTFBjR3FROTBSWHQyR041RlU4WTN0bmFweGp6c3hTUzJPb3RLYWFKYk5qM3hBS2Vyd3hKVnFYcmIyaEt1WVBPc3NYeWJDMXpWMzVMaERkbTNoTlVYRWJQdFM2MGpxLXBLQ0jSAecBQVVfeXFMTVhXRzFackl5T3VfTVBaVTRtTGRXSllkdE1ONEtiTExuSUVzMFlxOTlLSGRSM013aC1zWmNpVXBZc0xJZFk5SzlaakU0bGxXMGdyTmhodHBpM05Tcmw4YkdEUnBEdjBGZXpHWmFGR3NVWjRNUlU0SU15dmtjMFh2VzduOTFPRzlEMmR4RENkVkplanFabzUxLUNPdmU2ODlVeDhEQjNPS1NJWW54Z0g2cjdCRVlmb05nQnNXX3hVUjRsRTJvVjZKeDBiN2hwbF96VGFJNEtVNjBiTmw1bFlrM3RYZ29HUVBV?oc=5",
+      "fonte": "G1",
+      "area": "previdenciario",
+      "data": "2026-11-27"
+    },
+    {
+      "titulo": "OPINIÃO MARIANA SANTOS: A pressa pela Reforma da Previdência esbarrou na resistência dos…",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV0ZnbWN3RWNpYTlFTHhiSWFGWmFEMTBvYUpFXzdDbzNiVnFXTkFRYWliLTh0T1JDY21OQUdtaFZxU0RTb1JBel9vbDZJYVQ4eDdDTVZlRTVjVURjNkwzX1lvVWkyVVFmeloyUEZJZ0dFaUtLNU44NlEzak82cVRocERQZy02MXRVMElkcmNTRzh1cTFad2wwejNMUDhuRDdjV1RVNXd6d2VnbGFaOUdMNzNuOUY2a0hFZDk4ZHNyZWUxVHNQRGM0YVRuNDA?oc=5",
+      "fonte": "Berlinda News",
+      "area": "previdenciario",
+      "data": "2026-11-27"
+    },
+    {
+      "titulo": "Tumulto encerra sessão sobre reforma da Previdência em São Leopoldo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORS0xbFBGOHBnQXZYQkJEVjViSTJJWjFBR3RIVlAwNjVibndfYkxFZExrNGZxZGxWakczYjhLenFhLUR4aWc5cjh5bzVlRzFRYjdvX25RYmF1UE5BSWs2MWNvcF9hcmVsWjRheFpGMzNTMXlmb1N4RnZFTjFqVVJSYjhnSkkwVkRLODBDdFlLOTNfLXJNNVpDNks0RUl4VllkWlFr?oc=5",
+      "fonte": "Studio Notícias",
+      "area": "previdenciario",
+      "data": "2026-11-27"
+    },
+    {
+      "titulo": "Entidades recorrem ao STF para adiar cobrança de tributos da reforma tributária",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMC1lamFrYzNVcVJJNW1ZbV9IOTRXQnNKZndlTl91b2tBV2FKT202UFZYb2dTY3U2NlM5aGRyNzVIMUVoaUFXZHpjdU5hUmVOUGlJZ19pdHcxd3V3bEZIY0FqZENQRGwwZGhDUGNjczlNaDhOODNTUGVpS0daVXk0Wk9DQktwR2VsMjFBN04xRFlibUlLdzRZeHlxZkswMUI1T0tMR1cwYkdETG5aVEswMWltWHZ6cEZBVlQ0Rw?oc=5",
+      "fonte": "Consultor Jurídico",
+      "area": "tributario-fiscal",
+      "data": "2026-11-26"
+    },
+    {
+      "titulo": "Áudio: Sefaz-Ba promove debate on-line sobre o cadastro do IBSe da CBS no âmbito da…",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHZLRXBPVFdYbGVSdThNY0dNLUdCdGxJOW44QjRFbFlHSExkYXZnR0tmYUVDc2hkUXpTdW1kbm5WWG9wYkMyempFbFB1ZlFFMzlTR3BidktKeFVUWldiV2plejNheU5KajhCNTA5azl0VnR3T1pubVlObGFHVzhuQll1a2gyMHZrcFBscnl0RDEzcWJjd1kzQm1qSjV0Q1lnQ2J3RlNKOUoxM3J5TTFWT2ZyVUhORzhJd3FSSm1NaFJoYWJQOXc?oc=5",
+      "fonte": "ba.gov.br",
+      "area": "tributario-fiscal",
       "data": "2026-11-25"
     },
     {
-      "titulo": "STF julga se trabalhador deve informar valores ao abrir ação na Justiça do Trabalho",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbFV1QVdmVXdGTEtCaDJtWEFpVHoxWnlXNXp6YnctWU0zRk5xS2ZKV1c1UkY2eGFaYnpvWnNoQnlNSHNvV0VSXzd1VVRHenRwZWlMaTMzRlF3S2dDQW9KdjV1NTdCR1B4Wi1zUm1rcDBIcjJmV1VlS2VlU2hBOE9LV2NYOFlsVDQ3WHhmanJFZVgzbE9STHpjcDNnYjhycXB4QlRMLW5oMU1kckJ4ZnhXQXk0a2U0NEFSNUJQbGEwWUViTTQ0djZiUjE5VzZwQnZwYlJGMA?oc=5",
-      "fonte": "Goiás 246",
-      "area": "trabalhista",
+      "titulo": "Auxílio-acidente após a alta do auxílio-doença: O direito que o INSS não concede de ofício",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdEJMUVFzNVBrOG1iYnRhcVRaM0tQNUlYTVhkb2tPbkZoNXZVNmluWHIwQVcwNlhUUTlaNmZSa2tvWG5SV1hrd0wtcnV6V05LWmJENjNaaXRXdkdDY0lzRk9nVHZzTk1wSjBjakVTZWN2WU5maHdHT0N2XzBjNFphZzJ2MldCdnVJQ3RadzJMUXpwdGpkdWVzdWdBRzNZSUI3eU9yMTlR?oc=5",
+      "fonte": "Migalhas",
+      "area": "previdenciario",
       "data": "2026-11-25"
-    },
-    {
-      "titulo": "Depois do PIS/Cofins: o futuro do contencioso da CBS no Carf e na Justiça",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQY195akpLYTJvUUNnTFdiTUxaeXl0ZlROQXEwbHlNMGVNS2pVZDFnNVZkWExqN1lHY3BhaTduZmZ6alRtem9IMG9CZXN6QlR0VE4wZV9Ma2djWjBsUnp0M0RMblp0RkRfeXRHY1hKWkpadnBKUkZDak1kbTFOR19xdHJHZ3NFNzllNHo1bzJvNVdVN0ZYZ0V5YTlVRnh6RTRLOUZFand1Sjl2NElpRVVJeVFvMXJyQzQwdU5xa3MyQWJHNXI0ckJGeTA0T0w?oc=5",
-      "fonte": "JOTA Info",
-      "area": "tributario-fiscal",
-      "data": "2026-11-23"
-    },
-    {
-      "titulo": "MG pede modulação de tese que manteve créditos de ICMS sobre combustíveis no STF",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUFWS2dtUHVpTTkyeWRkaHJacTFUY1YxamExR3F2ZjNxSUJwNTZGbnRENE51SWxiWDJGY3hnb3BYLTZtYVdfSHBFM3NoODZFY1FySTRJZUdDUmx1ZTdzU0FJTU95MVZPRmk3WjU5WlNrYXl5MmE1SzZyME9fajhwd3QtLXVYSjhIZ3hTOUJONlppZXEyVi1vTHFJT25PYVdmM21CT2E5bnpMZTJoQkM2Tg?oc=5",
-      "fonte": "JOTA Info",
-      "area": "tributario-fiscal",
-      "data": "2026-11-23"
     },
     {
       "titulo": "TST limita cálculo de gratificação a valores pagos antes da reforma trabalhista",
@@ -42,23 +56,9 @@
       "fonte": "TST",
       "area": "trabalhista",
       "data": "2026-11-23"
-    },
-    {
-      "titulo": "Duas pessoas são presas tentando sacar benefício fraudulento no Rio de Janeiro —…",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS0NObGpvd09DSjVpQXdZVlpmVEFNQUZBcUFYVzI4SzI1YzllcWFnOHdjb19HWEc0LTdIUWxFdElLa3lDVEJ0LXFhdXRMakxQOTRxQzNPNkpFUFRwX2x5dDEwaF9pZVpfS3k1MWhqR2hia08xNWhlZGVqNVh0aFk5cnFrUnFDSEZ4emFZYVZMZ1Ryd0Y1dzlCMjZPMDF6dnJZNHRYSTJ1QWxBeEg2S3pKM21CMUFqV0Nxd1hqVTRxVi1ldWZKSzg2TEM5LTRMb3ZlOHBFMg?oc=5",
-      "fonte": "GOV.BR",
-      "area": "previdenciario",
-      "data": "2026-11-19"
-    },
-    {
-      "titulo": "INSS oferece serviços previdenciários e assistenciais a moradores de Pacaraima e…",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQeHlqM1V1SEpRTVVkbWZtQm9sNGxYN3lxMWR6V0E5ZFdDSVNfSGxnTlNtYUlZUWxvRGJEc1JPeDVBLVRaZkFCbEhUSldqVEh5RThQTnJPTmlpdzJSWTRrMWYwWVhidlhZOFNNOHd4eVJ3bUEwYmx6aW9KdG5VcS1DekdRZ2tYZDZBQWVSRXVLUXlyaVljQ1RqSHpqZmpQbHBUVHFBVXlnX3UwcGt4TVc0cDZpc3FQTHVJSTc4RUdOczVza2kzNlZSRWRQa0dGY0VvcEpTYXYyTXhsalZ5US1UMkNLdnJ5NVE?oc=5",
-      "fonte": "GOV.BR",
-      "area": "previdenciario",
-      "data": "2026-11-17"
     }
   ],
-  "gerado_em": "2026-11-27T05:02:09-03:00",
+  "gerado_em": "2026-11-27T08:03:26-03:00",
   "clima": {
     "cidade": "São Paulo",
     "data": "2026-11-27",
