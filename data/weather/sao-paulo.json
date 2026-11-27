@@ -1,12 +1,12 @@
 {
-  "gerado_em": "2026-11-26T05:01:48-03:00",
+  "gerado_em": "2026-11-27T05:02:09-03:00",
   "cidade": "São Paulo",
-  "data": "2026-11-26",
-  "data_extenso": "quinta, 26 de novembro de 2026",
-  "temp_atual": 20,
-  "min": 17,
-  "max": 21,
-  "condicao": "pancadas de chuva moderadas",
-  "prob_chuva": 96,
-  "texto": "São Paulo · quinta, 26 de novembro de 2026 · 20°C, pancadas de chuva moderadas · mín 17° / máx 21°"
+  "data": "2026-11-27",
+  "data_extenso": "sexta, 27 de novembro de 2026",
+  "temp_atual": 17,
+  "min": 16,
+  "max": 22,
+  "condicao": "garoa moderada",
+  "prob_chuva": 61,
+  "texto": "São Paulo · sexta, 27 de novembro de 2026 · 17°C, garoa moderada · mín 16° / máx 22°"
 }
